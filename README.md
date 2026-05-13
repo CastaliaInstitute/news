@@ -68,6 +68,9 @@ This will:
 5. Save top 50 items to `news_data.json`
 6. Post top 5 articles to social.inquiry.institute
 
+> The frontend now uses live pipeline output only. If `news_data.json` has no items yet,
+> the site shows an empty-state message instead of synthetic placeholder articles.
+
 ## 📊 Customization
 
 ### Faculty Interests (Dynamic via Supabase)

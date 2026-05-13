@@ -36,6 +36,7 @@ python aggregate.py
 ```
 
 This will generate `news_data.json` with the latest curated content.
+Until this first run completes, the frontend will show an empty state (no synthetic fallback data).
 
 ## 🔧 GitHub Actions Setup
 
