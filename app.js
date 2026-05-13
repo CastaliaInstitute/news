@@ -1,44 +1,25 @@
 let newsData = [];
+let generatedAt = null;
 
 async function loadNewsData() {
-    try {
-        const response = await fetch('news_data.json');
-        const data = await response.json();
-        newsData = data.items || [];
-        return newsData;
-    } catch (error) {
-        console.error('Error loading news data:', error);
-        // Fallback data
-        newsData = [
-            {
-                title: "AI and Critical Thinking: New Perspectives",
-                source: "Tech Review",
-                date: "2026-03-04",
-                description: "Exploring how artificial intelligence is reshaping our approach to inquiry-based learning and critical analysis.",
-                url: "#"
-            },
-            {
-                title: "Education Reform: The Inquiry Method",
-                source: "Education Weekly",
-                date: "2026-03-03",
-                description: "Schools worldwide are adopting inquiry-based learning methods to foster deeper student engagement.",
-                url: "#"
-            },
-            {
-                title: "Science Communication in the Digital Age",
-                source: "Science Today",
-                date: "2026-03-02",
-                description: "How researchers are using new platforms to share findings and engage with the public.",
-                url: "#"
-            }
-        ];
-        return newsData;
+    const response = await fetch('news_data.json', { cache: 'no-store' });
+    if (!response.ok) {
+        throw new Error(`Failed to load live feed: HTTP ${response.status}`);
     }
+
+    const data = await response.json();
+    newsData = Array.isArray(data.items) ? data.items : [];
+    generatedAt = data.generated_at || null;
+    return newsData;
 }
 
 function formatDate(dateString) {
     const options = { year: 'numeric', month: 'short', day: 'numeric' };
     return new Date(dateString).toLocaleDateString('en-US', options);
+}
+
+function formatTimestamp(dateString) {
+    return new Date(dateString).toLocaleString();
 }
 
 function getTypeIcon(type) {
@@ -95,12 +76,16 @@ async function renderNews() {
         // Update last updated time
         const lastUpdated = document.getElementById('last-updated');
         if (lastUpdated) {
-            lastUpdated.textContent = `Last updated: ${new Date().toLocaleString()}`;
+            if (generatedAt) {
+                lastUpdated.textContent = `Last updated: ${formatTimestamp(generatedAt)}`;
+            } else {
+                lastUpdated.textContent = 'Last updated: waiting for first live aggregation run';
+            }
         }
         
     } catch (error) {
         console.error('Error rendering news:', error);
-        newsFeed.innerHTML = '<div class="error">Error loading news. Please try again later.</div>';
+        newsFeed.innerHTML = '<div class="error">Unable to load live news feed. Run the aggregation pipeline to generate news_data.json.</div>';
     }
 }
 
