@@ -33,7 +33,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
           GOTOSOCIAL_API_TOKEN: ${{ secrets.GOTOSOCIAL_API_TOKEN }}
-          GOTOSOCIAL_URL: https://social.inquiry.institute
+          GOTOSOCIAL_URL: https://social.castalia.institute
         run: |
           python aggregate.py
       

@@ -13,7 +13,7 @@ WHERE fediverse_enabled = true;
 
 -- Add comments
 COMMENT ON COLUMN public.faculty.gotosocial_handle IS 
-'Faculty GoToSocial/Mastodon handle (e.g., a.Tesla for https://social.inquiry.institute/@a.Tesla)';
+'Faculty GoToSocial/Mastodon handle (e.g., a.Tesla for https://social.castalia.institute/@a.Tesla)';
 
 COMMENT ON COLUMN public.faculty.gotosocial_api_token IS 
 'API token for posting to GoToSocial as this faculty member (encrypted at rest)';

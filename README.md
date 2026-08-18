@@ -15,7 +15,7 @@ A modern, AI-powered news aggregator for the Inquiry Institute, designed to cura
 - **RAG-based Filtering**: Scores articles for faculty relevance using Supabase faculty interests
 - **Faculty Tracking**: Identifies which faculty members might be interested in each article
 - **Automated Updates**: GitHub Actions runs every 6 hours
-- **Social Media Posting**: Automatically posts top 5 articles to social.inquiry.institute (GoToSocial)
+- **Social Media Posting**: Automatically posts top 5 articles to social.castalia.institute (GoToSocial)
 
 ## 📋 Architecture
 
@@ -46,7 +46,7 @@ cp .env.example .env
 **Required**:
 - `SUPABASE_URL`: Supabase project URL (for faculty interests)
 - `SUPABASE_KEY`: Supabase anon key (for faculty interests)
-- `GOTOSOCIAL_API_TOKEN`: GoToSocial API token (for posting to social.inquiry.institute)
+- `GOTOSOCIAL_API_TOKEN`: GoToSocial API token (for posting to social.castalia.institute)
 
 **Optional** API keys (system works without them but with limited features):
 - `GITHUB_TOKEN`: Increases API rate limits
@@ -66,7 +66,7 @@ This will:
 3. Deduplicate similar articles
 4. Score by faculty relevance
 5. Save top 50 items to `news_data.json`
-6. Post top 5 articles to social.inquiry.institute
+6. Post top 5 articles to social.castalia.institute
 
 > The frontend now uses live pipeline output only. If `news_data.json` has no items yet,
 > the site shows an empty-state message instead of synthetic placeholder articles.
@@ -142,7 +142,7 @@ Add these in your repository settings:
 
 #### Getting GoToSocial API Token
 
-1. Go to https://social.inquiry.institute/settings/applications
+1. Go to https://social.castalia.institute/settings/applications
 2. Click "New Application"
 3. Name: "Inquiry Institute News Aggregator"
 4. Scopes: `write:statuses`

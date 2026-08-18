@@ -9,7 +9,7 @@ class GoToSocialPoster:
     """Post news articles to GoToSocial under faculty member accounts."""
     
     def __init__(self):
-        self.instance_url = os.getenv('GOTOSOCIAL_URL', 'https://social.inquiry.institute')
+        self.instance_url = os.getenv('GOTOSOCIAL_URL', 'https://social.castalia.institute')
         self.db = FacultyDatabase()
         self.faculty_accounts = self._load_faculty_accounts()
         

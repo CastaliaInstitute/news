@@ -2,13 +2,13 @@
 
 ## ✅ Setup Complete
 
-The news aggregator now automatically posts top articles to **social.inquiry.institute** (GoToSocial/Mastodon instance)!
+The news aggregator now automatically posts top articles to **social.castalia.institute** (GoToSocial/Mastodon instance)!
 
 ## 🔑 Required: Get GoToSocial API Token
 
 ### Step 1: Create Application Token
 
-1. Go to: https://social.inquiry.institute/settings/applications
+1. Go to: https://social.castalia.institute/settings/applications
 2. Log in with your Inquiry Institute credentials
 3. Click **"New Application"**
 4. Fill in details:
@@ -33,7 +33,7 @@ Or manually:
 
 ## 📱 What Gets Posted
 
-Every 6 hours, the aggregator automatically posts the **top 5 articles** to social.inquiry.institute:
+Every 6 hours, the aggregator automatically posts the **top 5 articles** to social.castalia.institute:
 
 ### Post Format
 
@@ -65,7 +65,7 @@ automated testing and evaluation...
 ```bash
 # Required
 GOTOSOCIAL_API_TOKEN=your_token_here
-GOTOSOCIAL_URL=https://social.inquiry.institute  # default
+GOTOSOCIAL_URL=https://social.castalia.institute  # default
 
 # Optional (for local testing)
 # Set in .env file
@@ -95,7 +95,7 @@ export GOTOSOCIAL_API_TOKEN="your_token_here"
 # Test the poster
 python gotosocial_poster.py
 
-# Run full aggregation (will post to social.inquiry.institute!)
+# Run full aggregation (will post to social.castalia.institute!)
 python aggregate.py
 ```
 
@@ -142,7 +142,7 @@ Select top 5 by relevance score
          ↓
 Format each as GoToSocial post
          ↓
-Post to social.inquiry.institute
+Post to social.castalia.institute
          ↓
 2-second delay between posts
          ↓
@@ -179,7 +179,7 @@ AND array_length(news_topics, 1) > 0;
 
 ### Check Posted Articles
 
-Visit: https://social.inquiry.institute/@inquiryinstitute
+Visit: https://social.castalia.institute/@inquiryinstitute
 
 ### GitHub Actions Logs
 
@@ -215,7 +215,7 @@ Look for:
 - API token stored securely in GitHub Secrets
 - Token has limited scope (`write:statuses` only)
 - Can't delete posts or modify account settings
-- Revoke token anytime at: https://social.inquiry.institute/settings/applications
+- Revoke token anytime at: https://social.castalia.institute/settings/applications
 
 ## 🎨 Customization Ideas
 
@@ -256,6 +256,6 @@ post += "\n\n#CriticalThinking #HigherEd #AcademicTwitter"
 
 ---
 
-**Live Feed**: https://social.inquiry.institute/@inquiryinstitute
+**Live Feed**: https://social.castalia.institute/@inquiryinstitute
 **Repository**: https://github.com/InquiryInstitute/news
 **Site**: https://inquiryinstitute.github.io/news/

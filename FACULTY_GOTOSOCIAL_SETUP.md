@@ -29,12 +29,12 @@ This adds:
 
 For each faculty member who should post:
 
-1. **Log in as faculty** at: https://social.inquiry.institute
+1. **Log in as faculty** at: https://social.castalia.institute
    - Username: `a.Tesla` (or their handle)
    - Password: (their password)
 
 2. **Create Application Token**:
-   - Go to: https://social.inquiry.institute/settings/applications
+   - Go to: https://social.castalia.institute/settings/applications
    - Click "New Application"
    - Name: "Inquiry Institute News Aggregator"
    - Scopes: `write:statuses`
@@ -79,7 +79,7 @@ Interested Faculty: [Tesla, Edison, Faraday]
            ↓
 Post as: @a.Tesla (first match with GoToSocial account)
            ↓
-Appears on: social.inquiry.institute/@a.Tesla
+Appears on: social.castalia.institute/@a.Tesla
 ```
 
 ### Post Format
@@ -145,7 +145,7 @@ WHERE slug = 'nikola-tesla';
 # Set up environment (tokens from Supabase)
 python gotosocial_poster.py
 
-# Run full aggregation (will post to social.inquiry.institute!)
+# Run full aggregation (will post to social.castalia.institute!)
 python aggregate.py
 ```
 
@@ -241,9 +241,9 @@ The workflow now:
 ### Check Posts
 
 Visit faculty profiles:
-- https://social.inquiry.institute/@a.Tesla
-- https://social.inquiry.institute/@a.Curie
-- https://social.inquiry.institute/@a.Turing
+- https://social.castalia.institute/@a.Tesla
+- https://social.castalia.institute/@a.Curie
+- https://social.castalia.institute/@a.Turing
 
 ### Database Query
 
@@ -279,5 +279,5 @@ ORDER BY posts_today DESC;
 ---
 
 **Example Faculty**: Tesla, Curie, Turing, Dewey, Russell, Chomsky, hooks, Nussbaum, Sen, Freire
-**Platform**: https://social.inquiry.institute
+**Platform**: https://social.castalia.institute
 **Repository**: https://github.com/InquiryInstitute/news
