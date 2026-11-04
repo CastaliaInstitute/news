@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:05:49.048330",
+  "generated_at": "2026-11-04T08:06:08.103931",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job. But realistically, we all need to make a living, and after 4\u20136 years, you\u2019d hope to have some opportunities beyond roles where a master\u2019s would have been enough. So how you guys feel about it, especially those who recently graduated.    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.059881429430713576,
+      "relevance_score": 0.05797622825361654,
       "sources": [
         {
           "title": "To all ML PhDs, how are you guys doing these days? [D]",
@@ -80,7 +80,7 @@
         "author": "/u/latenticlabs",
         "source_excerpt": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows the grouping, but each topic page shows what the papers actually report. Here's the one for compact/efficient Gaussian splatting: https://atlas.scime.ai/research/3d-vision/gaussian-splatting/compact-and-efficient-gaussian-splatting A few things it shows: - the topic went from 29 papers in 2023-24 to 240 in 2025-26 - best reported numbers per benchmark over time, with the paper that set each one. Deep Blending PSNR, for example, has barely moved (30.42 \u2192 30.45) - ablations from recent papers, including the ones that hurt - what recent papers compare against: 38 of 113 use 3DGS as a baseline, then 2DGS, Scaffold-GS, Mip-Splatting - recent arXiv preprints on the topic and a BibTeX file of the key papers The pages are computed from the extracted numbers, and every number links to its paper. Extraction isn't perfect and numbers from different papers aren't always comparable, so treat it as a starting point, not a leaderboard. Free, no signup. All topics: https://atlas.scime.ai/research If you know a topic well and something's off, please tell us. That's the most useful feedback right now. Note: Benchmark numbers and ablations from 2026 papers aren't in yet. We're working on them now, so for now the records on topic pages mostly reflect papers up to 2025. We'll update here when they're ready.    submitted by    /u/latenticlabs   [link] [comments]"
       },
-      "relevance_score": 0.019811303537706732,
+      "relevance_score": 0.018970762363016553,
       "sources": [
         {
           "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
       "description": "Comments",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "source": "Hacker News",
-      "date": "2026-11-04T03:20:13",
+      "date": "2026-11-02T16:29:19",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
           "publisher": "Hacker News",
-          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"
+          "url": "https://blog.nns.ee/2026/11/02/renault-hack/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "The Internals of PostgreSQL",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
       "description": "Comments",
-      "url": "https://www.interdb.jp/pg/index.html",
+      "url": "https://neufangled.com/",
       "source": "Hacker News",
-      "date": "2026-11-03T21:51:06",
+      "date": "2026-11-03T16:47:29",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Internals of PostgreSQL",
+          "title": "Stringman, an $800 open-source room scale gripper robot",
           "publisher": "Hacker News",
-          "url": "https://www.interdb.jp/pg/index.html"
+          "url": "https://neufangled.com/"
         }
       ],
       "faculty_summary": "Comments"
