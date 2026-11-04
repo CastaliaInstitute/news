@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:05:36.222998",
+  "generated_at": "2026-11-04T12:06:27.542178",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "/u/AKAMA199",
         "source_excerpt": "Hey everyone\u2014 we\u2019re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0, an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences. Here\u2019s how it performed in our evaluations:  FrontierScience Research: 38.3% pass rate vs. 33.3% for GPT-6 Astra at max thinking\u2014a 5 percentage point lead. Estimated output-side cost on FSR: $0.25 per problem vs. $0.88 for Astra at max thinking\u2014about 72% lowerunder our evaluation setup. GPQA Diamond: 92.9% accuracy, compared with Kimi K3\u2019s 93.5%.  On separate internal task sets, Hydrogen also scored higher than GPT-6 Astra at max thinking on scientific computing (+5.13 percentage points) and single-step forward reaction prediction (+4.76 points). It trailed Astra on NMR structure elucidation (\u22123.33 points). The write-up covers the evaluations and five workflow examples. Why we built it If you\u2019ve used LLMs for research, you\u2019ve probably spent a fair amount of time connecting the steps yourself: turning a question into a plan, preparing inputs, running tools, checking the output, and figuring out what to try when something breaks. We wanted to see whether training on scientific workflows could make the model better at handling those connected decisions. How we trained it We used supervised fine-tuning and reinforcement learning with domain data, scientist feedback, records from our own labs, and discovery trajectories. The lab records keep the research goal, procedure, observations, and outcome together. The discovery trajectories include how the next step changes after feedback, failed attempts, or unexpected results. SFT gives the model worked examples of scientific reasoning, experiment planning, protocol design, and analysis. RL uses feedback on research outcomes to improve its decisions. What the workflows look like The article walks through five cases:  Polymer molecular dynamics: Builds a polyethylene melt with Python, runs GROMACS, checks and repairs the topology, and restarts the simulation. Outputs include a corrected 40 ns trajectory and analyses of density, molecular packing, diffusion, and chain dimensions. Reaction networks: Explores connected molecular structures, competing pathways, and recorded energy barriers. NMR interpretation: Compares seven candidate structures against a supplied proton NMR spectrum. Experiment planning: Generates a machine-readable protocol for a 12-vial Suzuki coupling study, with virtual checks of equipment capabilities and action prerequisites. Materials search: Uses feedback over five rounds to guide a search for transition-metal complexes with larger HOMO\u2013LUMO gaps.  A bit of context: these are selected model-plus-tool walkthroughs, not an overall autonomous-research success rate. GROMACS does the MD calculations, and the protocol validation is virtual\u2014it doesn\u2019t mean the physical experiment was carried out. The attached video gives a quick look at the research interactions. The article has the detailed walkthroughs, evaluations, and training approach. Links  Weights and model card: Hydrogen-1.0 on Hugging Face Technical write-up, evaluations, and cases: Introducing Hydrogen-1.0 Try it: Mira AI Scientist  We\u2019d especially like to hear from people working in computational chemistry and materials science. What would you try it on first, and what would you check before trusting the result?    submitted by    /u/AKAMA199   [link] [comments]"
       },
-      "relevance_score": 0.09093486206321189,
+      "relevance_score": 0.09178025580406038,
       "sources": [
         {
           "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
@@ -58,7 +58,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job. But realistically, we all need to make a living, and after 4\u20136 years, you\u2019d hope to have some opportunities beyond roles where a master\u2019s would have been enough. So how you guys feel about it, especially those who recently graduated.    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.05272864459328294,
+      "relevance_score": 0.05523251310484764,
       "sources": [
         {
           "title": "To all ML PhDs, how are you guys doing these days? [D]",
@@ -102,7 +102,7 @@
         "author": "/u/latenticlabs",
         "source_excerpt": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows the grouping, but each topic page shows what the papers actually report. Here's the one for compact/efficient Gaussian splatting: https://atlas.scime.ai/research/3d-vision/gaussian-splatting/compact-and-efficient-gaussian-splatting A few things it shows: - the topic went from 29 papers in 2023-24 to 240 in 2025-26 - best reported numbers per benchmark over time, with the paper that set each one. Deep Blending PSNR, for example, has barely moved (30.42 \u2192 30.45) - ablations from recent papers, including the ones that hurt - what recent papers compare against: 38 of 113 use 3DGS as a baseline, then 2DGS, Scaffold-GS, Mip-Splatting - recent arXiv preprints on the topic and a BibTeX file of the key papers The pages are computed from the extracted numbers, and every number links to its paper. Extraction isn't perfect and numbers from different papers aren't always comparable, so treat it as a starting point, not a leaderboard. Free, no signup. All topics: https://atlas.scime.ai/research If you know a topic well and something's off, please tell us. That's the most useful feedback right now. Note: Benchmark numbers and ablations from 2026 papers aren't in yet. We're working on them now, so for now the records on topic pages mostly reflect papers up to 2025. We'll update here when they're ready.    submitted by    /u/latenticlabs   [link] [comments]"
       },
-      "relevance_score": 0.017756864706589003,
+      "relevance_score": 0.018935226310659723,
       "sources": [
         {
           "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
@@ -124,7 +124,7 @@
         "author": "/u/turing-math-labs",
         "source_excerpt": "Question to all the PhDs & research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat). Thanks!  Here's the official Chinchilla paper, from the DeepMind website (\"Training Compute-Optimal Large Language Models\"). https://deepmind.google/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/ https://proceedings.neurips.cc/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf    submitted by    /u/turing-math-labs   [link] [comments]"
       },
-      "relevance_score": 0.01595876467333117,
+      "relevance_score": 0.01599655772133781,
       "sources": [
         {
           "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
@@ -158,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "description": "Comments",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "source": "Hacker News",
+      "date": "2026-11-04T08:46:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "publisher": "Hacker News",
+          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Kitty 0.50",
       "description": "Comments",
       "url": "https://sw.kovidgoyal.net/kitty/changelog/",
@@ -180,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
       "description": "Comments",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
       "source": "Hacker News",
-      "date": "2026-11-04T08:46:29",
+      "date": "2026-11-04T10:00:06",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "title": "Incident with Pull Requests, Git Operations and Issues",
           "publisher": "Hacker News",
-          "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Jelly Sheet",
-      "description": "Comments",
-      "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "source": "Hacker News",
-      "date": "2026-11-04T03:40:50",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Jelly Sheet",
-          "publisher": "Hacker News",
-          "url": "https://mrdoob.github.io/codevember-2026/01/"
+          "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4"
         }
       ],
       "faculty_summary": "Comments"
