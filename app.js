@@ -32,6 +32,12 @@ function getTypeIcon(type) {
     return icons[type] || '📄';
 }
 
+function escapeHtml(value) {
+    return String(value ?? '').replace(/[&<>'"]/g, character => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+    }[character]));
+}
+
 function createNewsCard(article) {
     const icon = getTypeIcon(article.type);
     const score = article.relevance_score;
@@ -40,6 +46,13 @@ function createNewsCard(article) {
     const keywordsDisplay = keywords && keywords.length > 0 
         ? `<div class="keywords">${keywords.map(k => `<span class="keyword">${k}</span>`).join('')}</div>`
         : '';
+    const author = article.faculty_author?.name;
+    const authorDisplay = author ? `<p class="faculty-author">Faculty analysis: ${escapeHtml(author)}</p>` : '';
+    const summary = article.faculty_summary || article.description;
+    const sources = Array.isArray(article.sources) ? article.sources : [];
+    const sourceLinks = sources.length
+        ? `<div class="source-links"><span>Sources:</span> ${sources.map(source => `<a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.publisher || source.title)}</a>`).join(', ')}</div>`
+        : '';
     
     return `
         <article class="news-card" data-type="${article.type}">
@@ -47,14 +60,16 @@ function createNewsCard(article) {
                 <span class="type-icon">${icon}</span>
                 ${scoreDisplay}
             </div>
-            <h2>${article.title}</h2>
+            <h2>${escapeHtml(article.title)}</h2>
             <div class="meta">
-                <span class="source">${article.source}</span>
+                <span class="source">${escapeHtml(article.source)}</span>
                 <span class="date">${formatDate(article.date)}</span>
             </div>
-            <p class="description">${article.description}</p>
+            ${authorDisplay}
+            <p class="description">${escapeHtml(summary)}</p>
             ${keywordsDisplay}
-            <a href="${article.url}" target="_blank" rel="noopener noreferrer">Read More</a>
+            ${sourceLinks}
+            <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">Read original source</a>
         </article>
     `;
 }

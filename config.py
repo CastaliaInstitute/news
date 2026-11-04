@@ -6,7 +6,6 @@ load_dotenv()
 
 # API Keys
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN', '')
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', '')
 NEWS_API_KEY = os.getenv('NEWS_API_KEY', '')
 HF_TOKEN = os.getenv('HF_TOKEN', '')
 
@@ -56,7 +55,9 @@ SIMILARITY_THRESHOLD = 0.85  # Cosine similarity threshold for duplicates
 
 # Output
 OUTPUT_FILE = 'news_data.json'
-MAX_ARTICLES = 50
+# Hourly publication favors a smaller, editorially reviewed-feeling feed.
+MAX_ARTICLES = int(os.getenv('MAX_ARTICLES', '10'))
+MAX_FACULTY_SUMMARIES = int(os.getenv('MAX_FACULTY_SUMMARIES', '10'))
 
 # Faculty Posting
 INTEREST_THRESHOLD = 0.3  # Minimum interest score for faculty to post (0.0-1.0)

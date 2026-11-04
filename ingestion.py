@@ -31,16 +31,20 @@ class NewsIngestion:
                     if datetime.now() - pub_date > timedelta(days=7):
                         continue
                     
+                    raw_summary = entry.get('summary', '')
                     articles.append({
                         'type': 'article',
                         'title': entry.get('title', 'No title'),
-                        'description': self._clean_description(entry.get('summary', '')),
+                        # Keep cards concise while retaining enough source text for
+                        # the faculty analysis to be genuinely substantive.
+                        'description': self._clean_description(raw_summary),
                         'url': entry.get('link', ''),
                         'source': self._extract_source(feed_url),
                         'date': pub_date.isoformat(),
                         'metadata': {
                             'feed_url': feed_url,
-                            'author': entry.get('author', '')
+                            'author': entry.get('author', ''),
+                            'source_excerpt': self._clean_description(raw_summary, limit=6000),
                         }
                     })
                     
@@ -49,8 +53,8 @@ class NewsIngestion:
         
         return articles
     
-    def _clean_description(self, text: str) -> str:
-        """Clean HTML and limit description length."""
+    def _clean_description(self, text: str, limit: int = 300) -> str:
+        """Clean HTML and limit text to the requested publication length."""
         from bs4 import BeautifulSoup
         
         # Remove HTML tags
@@ -58,8 +62,8 @@ class NewsIngestion:
         clean_text = soup.get_text()
         
         # Limit length
-        if len(clean_text) > 300:
-            clean_text = clean_text[:297] + '...'
+        if len(clean_text) > limit:
+            clean_text = clean_text[:limit - 3] + '...'
         
         return clean_text.strip()
     
@@ -109,7 +113,8 @@ class NewsIngestion:
                         'date': article.get('publishedAt', datetime.now().isoformat()),
                         'metadata': {
                             'author': article.get('author', ''),
-                            'image': article.get('urlToImage', '')
+                            'image': article.get('urlToImage', ''),
+                            'source_excerpt': article.get('content') or article.get('description', ''),
                         }
                     })
         except Exception as e:

@@ -122,7 +122,34 @@ main {
 
 .news-card .description {
     color: #666;
+    line-height: 1.55;
     margin-bottom: 1rem;
+}
+
+.faculty-author {
+    color: #4e3c78;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin: 0 0 0.65rem;
+}
+
+.source-links {
+    color: #666;
+    font-size: 0.82rem;
+    margin: 0 0 1rem;
+}
+
+.news-card .source-links a {
+    background: none;
+    color: #4f46b5;
+    display: inline;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.news-card .source-links a:hover {
+    background: none;
+    color: #342e7a;
 }
 
 .news-card a {

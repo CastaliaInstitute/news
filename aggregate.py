@@ -8,6 +8,7 @@ from clustering import ArticleClusterer
 from rag import ContentSelector
 from gotosocial_poster import GoToSocialPoster
 from dry_run import FacultyArticleMatcher
+from faculty_summaries import FacultySummaryWriter
 import config
 
 def run_aggregation(dry_run: bool = False):
@@ -39,9 +40,16 @@ def run_aggregation(dry_run: bool = False):
     selector = ContentSelector()
     final_content = selector.select_content(unique_articles, signals)
     print(f"   Selected {len(final_content)} items")
+
+    # Step 5: Add named faculty analysis and explicit links to original sources.
+    print("\n✍️  STEP 5: Writing faculty summaries...")
+    summary_writer = FacultySummaryWriter()
+    final_content = summary_writer.enrich(
+        final_content, limit=min(config.MAX_FACULTY_SUMMARIES, len(final_content))
+    )
     
-    # Step 5: Save results
-    print("\n💾 STEP 5: Saving results...")
+    # Step 6: Save results
+    print("\n💾 STEP 6: Saving results...")
     output_data = {
         'generated_at': datetime.now().isoformat(),
         'total_items': len(final_content),
@@ -53,21 +61,21 @@ def run_aggregation(dry_run: bool = False):
     
     print(f"   Saved to {config.OUTPUT_FILE}")
     
-    # Step 6: Faculty matching and posting
+    # Step 7: Faculty matching and posting
     if dry_run:
-        print("\n🧪 STEP 6: DRY RUN - Matching articles to faculty...")
+        print("\n🧪 STEP 7: DRY RUN - Matching articles to faculty...")
         matcher = FacultyArticleMatcher(interest_threshold=0.3)
         matches = matcher.match_articles_to_faculty(final_content)
         report = matcher.create_dry_run_report(matches, output_file='dry_run_report.json')
         print(f"\n   ✅ Dry run complete - check dry_run_report.json")
     else:
-        print("\n📱 STEP 6: Posting to GoToSocial...")
+        print("\n📱 STEP 7: Posting to GoToSocial...")
         poster = GoToSocialPoster()
         faculty_posts = poster.post_articles(final_content, max_posts_per_faculty=3)
         total_posts = sum(faculty_posts.values())
         print(f"   Posted {total_posts} articles across {len([c for c in faculty_posts.values() if c > 0])} faculty accounts")
     
-    # Step 7: Display top items
+    # Step 8: Display top items
     print("\n✨ TOP 5 ITEMS:")
     print("-" * 60)
     for i, item in enumerate(final_content[:5], 1):

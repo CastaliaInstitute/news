@@ -14,7 +14,7 @@ A modern, AI-powered news aggregator for the Inquiry Institute, designed to cura
 - **Duplicate Detection**: Clusters similar stories using TF-IDF and cosine similarity
 - **RAG-based Filtering**: Scores articles for faculty relevance using Supabase faculty interests
 - **Faculty Tracking**: Identifies which faculty members might be interested in each article
-- **Automated Updates**: GitHub Actions runs every 6 hours
+- **Hourly Faculty Briefings**: GitHub Actions runs at the start of every hour (UTC), assigns each selected item to the best-matched faculty profile, and publishes a detailed source-linked analysis.
 - **Social Media Posting**: Automatically posts top 5 articles to social.castalia.institute (GoToSocial)
 
 ## 📋 Architecture
@@ -50,7 +50,6 @@ cp .env.example .env
 
 **Optional** API keys (system works without them but with limited features):
 - `GITHUB_TOKEN`: Increases API rate limits
-- `OPENAI_API_KEY`: For enhanced embeddings (uses local otherwise)
 - `NEWS_API_KEY`: For NewsAPI.org integration
 - `HF_TOKEN`: For Hugging Face API access
 
@@ -65,8 +64,10 @@ This will:
 2. Ingest news from RSS feeds
 3. Deduplicate similar articles
 4. Score by faculty relevance
-5. Save top 50 items to `news_data.json`
+5. Save the top 10 items to `news_data.json`
 6. Post top 5 articles to social.castalia.institute
+
+The selected items receive a 180–250 word faculty analysis through Castalia's Supabase `ask-faculty-voice` Edge Function. The Gemini credential remains in Supabase's protected function environment and is never copied to this repository or GitHub Actions. Each analysis is tied to the faculty member whose declared topics best match the item and is constrained to the feed's source material. The original source is published as a clickable link. If the function is unavailable, the feed remains publishable with the source excerpt and link.
 
 > The frontend now uses live pipeline output only. If `news_data.json` has no items yet,
 > the site shows an empty-state message instead of synthetic placeholder articles.
@@ -115,18 +116,20 @@ Adjust detection thresholds:
 ```python
 GITHUB_STAR_THRESHOLD = 1000      # Stars in 24h
 SIMILARITY_THRESHOLD = 0.85       # Duplicate detection
-MAX_ARTICLES = 50                 # Max articles to display
+MAX_ARTICLES = 10                 # Max articles to display
 ```
 
 ## 🤖 Automated Updates
 
-The system uses GitHub Actions to run every 6 hours:
+The system uses GitHub Actions to run hourly, at minute 0 (UTC):
 
 1. Fetches latest news and signals
 2. Processes and scores content
 3. Updates `news_data.json`
 4. Commits and pushes changes
 5. GitHub Pages automatically deploys
+
+The workflow invokes Castalia's Supabase `ask-faculty-voice` Edge Function for faculty analyses. Configure Gemini only as a Supabase Edge Function secret; the GitHub workflow needs no Gemini or OpenAI key and falls back safely to the source excerpt if the function is unavailable.
 
 ### Required GitHub Secrets
 
@@ -136,7 +139,6 @@ Add these in your repository settings:
 - `SUPABASE_KEY`: Supabase anon key (required)
 - `GOTOSOCIAL_API_TOKEN`: GoToSocial API token (required - for social posting)
 - `GH_TOKEN`: GitHub Personal Access Token (optional)
-- `OPENAI_API_KEY`: (optional)
 - `NEWS_API_KEY`: (optional)
 - `HF_TOKEN`: (optional)
 
@@ -171,7 +173,7 @@ The frontend automatically loads from `news_data.json` and displays:
 ## 📈 System Flow
 
 ```
-Every 6 hours:
+Every hour (UTC):
   ↓
 GitHub Actions triggers
   ↓
@@ -181,6 +183,10 @@ Run aggregate.py
 ├─ Ingest news (RSS, APIs)
 ├─ Deduplicate (clustering)
 └─ Score relevance (RAG)
+  ↓
+Assign best-matched faculty member
+  ↓
+Write source-grounded faculty analysis + retain source link
   ↓
 Save news_data.json
   ↓

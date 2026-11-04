@@ -56,7 +56,8 @@ class GoToSocialPoster:
         """Format article as a social media post from faculty perspective."""
         title = article.get('title', 'Untitled')
         url = article.get('url', '')
-        description = article.get('description', '')
+        # Prefer the source-grounded faculty analysis generated for the news site.
+        description = article.get('faculty_summary') or article.get('description', '')
         source = article.get('source', 'Unknown')
         
         # Get article type icon
