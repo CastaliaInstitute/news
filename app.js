@@ -69,9 +69,40 @@ function createNewsCard(article) {
             <p class="description">${escapeHtml(summary)}</p>
             ${keywordsDisplay}
             ${sourceLinks}
-            <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">Read original source</a>
+            <div class="article-actions">
+                <a href="${escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">Read original source</a>
+                <button type="button" class="share-article" data-share-index="${newsData.indexOf(article)}" aria-label="Share ${escapeHtml(article.title)}">Share</button>
+            </div>
         </article>
     `;
+}
+
+async function shareArticle(index, button) {
+    const article = newsData[index];
+    if (!article) return;
+
+    const text = [
+        article.title,
+        article.faculty_author?.name ? `Faculty analysis by ${article.faculty_author.name}` : '',
+        article.faculty_summary || article.description || '',
+        `Source: ${article.url}`
+    ].filter(Boolean).join('\n\n');
+    const shareData = { title: article.title, text, url: article.url };
+
+    try {
+        if (navigator.share) {
+            await navigator.share(shareData);
+        } else if (navigator.clipboard?.writeText) {
+            await navigator.clipboard.writeText(text);
+            const oldLabel = button.textContent;
+            button.textContent = 'Copied';
+            window.setTimeout(() => { button.textContent = oldLabel; }, 1800);
+        } else {
+            window.prompt('Copy article share text:', text);
+        }
+    } catch (error) {
+        if (error.name !== 'AbortError') console.error('Unable to share article:', error);
+    }
 }
 
 async function renderNews() {
@@ -87,6 +118,10 @@ async function renderNews() {
         
         const newsHTML = newsData.map(article => createNewsCard(article)).join('');
         newsFeed.innerHTML = newsHTML;
+        newsFeed.addEventListener('click', event => {
+            const button = event.target.closest('.share-article');
+            if (button) shareArticle(Number(button.dataset.shareIndex), button);
+        });
         
         // Update last updated time
         const lastUpdated = document.getElementById('last-updated');

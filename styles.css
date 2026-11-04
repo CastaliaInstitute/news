@@ -162,6 +162,29 @@ main {
     transition: background 0.3s ease;
 }
 
+.article-actions {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+}
+
+.share-article {
+    display: inline-block;
+    border: 1px solid #667eea;
+    background: white;
+    color: #5144ae;
+    padding: 0.45rem 1.1rem;
+    border-radius: 6px;
+    font: inherit;
+    cursor: pointer;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.share-article:hover {
+    background: #f1efff;
+}
+
 .news-card a:hover {
     background: #764ba2;
 }
