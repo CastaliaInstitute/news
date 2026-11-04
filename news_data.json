@@ -1,659 +1,229 @@
 {
-  "generated_at": "2026-05-13T11:19:45.910741",
-  "total_items": 50,
+  "generated_at": "2026-11-04T04:25:33.564882",
+  "total_items": 10,
   "items": [
     {
       "type": "article",
-      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-      "description": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a...",
-      "url": "https://arxiv.org/abs/2605.08220",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Andrei Lazarev, Dmitrii Sedov, Alexander Galkin"
-      },
-      "relevance_score": 0.1483441609640695
-    },
-    {
-      "type": "article",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "description": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI",
-      "date": "2026-05-12T00:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.13818750056467932
-    },
-    {
-      "type": "article",
-      "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually [R]",
-      "description": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can result in catastrophic forgetting and loss of plasticity. In contrast, in-context learning with fixed ...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tbvsxo/learning_fast_and_slow_towards_llms_that_adapt/",
+      "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
+      "description": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by seve...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
       "source": "Reddit ML",
-      "date": "2026-05-13T10:38:40",
+      "date": "2026-11-02T19:00:24",
       "metadata": {
         "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/LakshyAAAgrawal"
+        "author": "/u/InsectActive95",
+        "source_excerpt": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by several points, over three seeds. I've repeated the reproduction four different times, months apart, with the same result. I plan to report both: their published numbers and my reproduction with the exact configuration, clearly labeled. My worry is that reviewers tend to trust the published number more than a submission's reproduction, and may assume I ran the baseline incorrectly. Questions:  What makes a reproduction convincing to reviewers? So far I have: the authors' code unchanged, their hyperparameters, matching results on the other benchmarks as a sanity check, and multiple seeds. Should I contact the authors or open a GitHub issue first, and should I mention that in the paper? How do I word it so it doesn't read as an attack on the other paper, but my results also don't look weak next to the published numbers? Have reviewers accepted \"published vs. reproduced\" rows in a main table for you, or did they end up in the appendix?     submitted by    /u/InsectActive95   [link] [comments]"
       },
-      "relevance_score": 0.11071403312515125
+      "relevance_score": 0.09483841266729193,
+      "sources": [
+        {
+          "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/"
+        }
+      ],
+      "faculty_summary": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by seve..."
     },
     {
       "type": "article",
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "source": "OpenAI",
-      "date": "2026-05-07T13:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.06773043917660122
-    },
-    {
-      "type": "article",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "url": "https://openai.com/index/nvidia",
-      "source": "OpenAI",
-      "date": "2026-05-12T00:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0643548728358099
-    },
-    {
-      "type": "article",
-      "title": "TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment",
-      "description": "arXiv:2605.10983v1 Announce Type: new \nAbstract: Reinforcement learning (RL) has shown extraordinary potential in aligning diffusion models to downstream tasks, yet most of them still suffer from significant reward hacking, which degrades generative diversity and quality by inducing visual mode c...",
-      "url": "https://arxiv.org/abs/2605.10983",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Jiaming Li, Chenyu Zhu, Zhiyuan Ma, Nanxi Yi, Youjun Bao, Li Sun, Quanying Lv, Xiang Fang, Daizong Liu, Jianjun Li, Kun He, Bowen Zhou"
-      },
-      "relevance_score": 0.056716345529694935
-    },
-    {
-      "type": "article",
-      "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
-      "description": "arXiv:2605.08405v1 Announce Type: new \nAbstract: How do LLMs learn in-context? Is it by pattern-matching recent tokens, or by inferring latent structure? We probe this question using a toy graph random-walk across two competing graph structures. This task's answer is, in principle, decidable: eit...",
-      "url": "https://arxiv.org/abs/2605.08405",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Katharine Kowalyshyn, Timothy Duggan, Daniel Little, Michael C Hughes"
-      },
-      "relevance_score": 0.05585984987437102
-    },
-    {
-      "type": "article",
-      "title": "Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation",
-      "description": "arXiv:2605.10975v1 Announce Type: new \nAbstract: Graphs with heterophily, where adjacent nodes carry different labels, are prevalent in real-world applications, from social networks to molecular interactions. However, existing spectral Graph Neural Network (GNN) approaches tailored for heterophil...",
-      "url": "https://arxiv.org/abs/2605.10975",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Md Sazzad Hossen, Avimanyu Sahoo"
-      },
-      "relevance_score": 0.05381510332889573
-    },
-    {
-      "type": "article",
-      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-      "description": "arXiv:2605.08374v2 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable...",
-      "url": "https://arxiv.org/abs/2605.08374",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Junwei Liao, Haoting Shi, Ruiwen Zhou, Jiaqian Wang, Shengtao Zhang, Wei Zhang, Weinan Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Bo Tang, Muning Wen"
-      },
-      "relevance_score": 0.05143458393977521
-    },
-    {
-      "type": "article",
-      "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-      "description": "arXiv:2605.08368v1 Announce Type: new \nAbstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the prob...",
-      "url": "https://arxiv.org/abs/2605.08368",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Yuhao Li, Shengchao Liu"
-      },
-      "relevance_score": 0.04711793586659025
-    },
-    {
-      "type": "article",
-      "title": "$\\xi$-DPO: Direct Preference Optimization via Ratio Reward Margin",
-      "description": "arXiv:2605.10981v1 Announce Type: new \nAbstract: Reference-free preference optimization has emerged as an efficient alternative to reinforcement learning from human feedback, with Simple Preference Optimization(SimPO) demonstrating strong performance by eliminating the explicit reference model th...",
-      "url": "https://arxiv.org/abs/2605.10981",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Zhengyuan Fan, Zhonghua Wu, Yuxuan Du, Qun Chen"
-      },
-      "relevance_score": 0.045911752779398275
-    },
-    {
-      "type": "article",
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "description": "Comments",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "source": "Hacker News",
-      "date": "2026-05-13T04:25:03",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "description": "Comments",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "source": "Hacker News",
-      "date": "2026-05-12T21:55:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "description": "Comments",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "source": "Hacker News",
-      "date": "2026-05-11T01:05:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Googlebook",
-      "description": "Comments",
-      "url": "https://googlebook.google/",
-      "source": "Hacker News",
-      "date": "2026-05-12T17:37:36",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "description": "Comments",
-      "url": "https://github.com/cactus-compute/needle",
-      "source": "Hacker News",
-      "date": "2026-05-12T18:03:11",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "The Boring Part of Bell Labs (2025)",
-      "description": "Comments",
-      "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "source": "Hacker News",
-      "date": "2026-05-08T13:00:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "How to make your text look futuristic (2016)",
-      "description": "Comments",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "source": "Hacker News",
-      "date": "2026-05-12T20:16:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "SecurityBaseline.eu",
-      "description": "Comments",
-      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "source": "Hacker News",
-      "date": "2026-05-13T07:11:17",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Why senior developers fail to communicate their expertise",
-      "description": "Comments",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "source": "Hacker News",
-      "date": "2026-05-12T15:08:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-      "description": "arXiv:2605.08200v1 Announce Type: new \nAbstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence As...",
-      "url": "https://arxiv.org/abs/2605.08200",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Logan Mann, Ajit Saravanan, Ishan Dave, Shikhar Shiromani, Saadullah Ismail, Yi Xia, Emily Huang"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-      "description": "arXiv:2605.08354v1 Announce Type: new \nAbstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collap...",
-      "url": "https://arxiv.org/abs/2605.08354",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Juanxi Tian, Fengyuan Liu, Jiaming Han, Yilei Jiang, Yongliang Wu, Yesheng Liu, Haodong Li, Furong Xu, Wanhua Li"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Embeddings for Preferences, Not Semantics",
-      "description": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substan...",
-      "url": "https://arxiv.org/abs/2605.08360",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Carter Blair, Ariel D. Procaccia, Milind Tambe"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-      "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: in...",
-      "url": "https://arxiv.org/abs/2605.08386",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Yongliang Miao, Ziyang Yu, Liang Zhao, Bowen Zhu, Hasibul Haque"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-      "description": "arXiv:2605.08388v1 Announce Type: new \nAbstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have m...",
-      "url": "https://arxiv.org/abs/2605.08388",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Pranavkumar Mallela, Vinay Kumar, Shashi Shekhar Jha, Shweta Jain"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
-      "description": "arXiv:2605.08399v1 Announce Type: new \nAbstract: Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library creates a coupled challenge: the library must evolve with the planner as new reusable subroutines emerge, while retrieval ...",
-      "url": "https://arxiv.org/abs/2605.08399",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Ziyang Yu, Qiyue Li, Liang Zhao"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
-      "description": "arXiv:2605.10947v1 Announce Type: new \nAbstract: EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in electrode ...",
-      "url": "https://arxiv.org/abs/2605.10947",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Saheed Faremi, Andrea Visentin, Luca Longo"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization",
-      "description": "arXiv:2605.10959v1 Announce Type: new \nAbstract: There is currently no unified metric for evaluating the efficiency of quantized neural networks. We propose QuIDE, built around the Intelligence Index I = (C x P)/log_2(T+1), which collapses the compression-accuracy-latency trade-off into a single ...",
-      "url": "https://arxiv.org/abs/2605.10959",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Xiantao Jiang"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models",
-      "description": "arXiv:2605.10971v1 Announce Type: new \nAbstract: Discrete diffusion language models (DLMs) generate text by iteratively denoising all positions in parallel, offering an alternative to autoregressive models. Controlled generation methods for DLMs, imported from autoregressive models, apply uniform...",
-      "url": "https://arxiv.org/abs/2605.10971",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Hanhan Zhou, Shamik Roy, Rashmi Gangadharaiah"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Rotation-Preserving Supervised Fine-Tuning",
-      "description": "arXiv:2605.10973v1 Announce Type: new \nAbstract: Supervised fine-tuning (SFT) improves in-domain performance but can degrade out-of-domain (OOD) generalization. Prior work suggests that this degradation is related to changes in dominant singular subspaces of pretrained weight matrices. However, d...",
-      "url": "https://arxiv.org/abs/2605.10973",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Hangzhan Jin, Tianwei Ni, Lu Li, Pierre-Luc Bacon, Mohammad Hamdaqa, Doina Precup"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Vertex-Softmax: Tight Transformer Verification via Exact Softmax Optimization",
-      "description": "arXiv:2605.10974v1 Announce Type: new \nAbstract: Certified verification of transformer attention requires bounding the softmax function over interval constraints on the pre-softmax scores. Existing verifiers relax softmax ndependently of the downstream objective, leaving avoidable slack. We prove...",
-      "url": "https://arxiv.org/abs/2605.10974",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Navid Rezazadeh, Arash Gholami Davoodi"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "LEAP: Unlocking dLLM Parallelism via Lookahead Early-Convergence Token Detection",
-      "description": "arXiv:2605.10980v1 Announce Type: new \nAbstract: Diffusion Language Models (dLLMs) have garnered significant attention for their potential in highly parallel processing. The parallel capabilities of existing dLLMs stem from the assumption of conditional independence at high confidence levels, whi...",
-      "url": "https://arxiv.org/abs/2605.10980",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Haohui Zhang, Zhiye Wang, Xiaoying Gan, Xinbing Wang, Bo Jiang"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Structural Interpretations of Protein Language Model Representations via Differentiable Graph Partitioning",
-      "description": "arXiv:2605.10985v1 Announce Type: new \nAbstract: Protein language models such as ESM-2 learn rich residue representations that achieve strong performance on protein function prediction, but their features remain difficult to interpret as structural $\\&$ evolutionary signals are encoded in dense l...",
-      "url": "https://arxiv.org/abs/2605.10985",
-      "source": "arXiv",
-      "date": "2026-05-13T04:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Siddhant Dutta, Edward Tan Beng Wai, Soumick Sarker, Pasan Gunawardane, Jagath C. Rajapakse"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "How do you create memorable poster for top tier conferences ( ICML/ICLR/NEURips ect\u2026) [D]",
-      "description": "Hello everyone, Presenting at a top-tier conference for the first time and having a very hard time coming up with an appropriate design for my poster. Everything I do seems basic and banal. My paper is more theory-oriented, and apart from putting math formulas in bold in the middle, I am not sure...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tbj96y/how_do_you_create_memorable_poster_for_top_tier/",
+      "title": "To all ML PhDs, how are you guys doing these days? [D]",
+      "description": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job. But realistically, we ...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
       "source": "Reddit ML",
-      "date": "2026-05-13T00:05:13",
+      "date": "2026-11-02T18:52:17",
       "metadata": {
         "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/DazzlingPin3965"
+        "author": "/u/Hope999991",
+        "source_excerpt": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job. But realistically, we all need to make a living, and after 4\u20136 years, you\u2019d hope to have some opportunities beyond roles where a master\u2019s would have been enough. So how you guys feel about it, especially those who recently graduated.    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.07127851402102083,
+      "sources": [
+        {
+          "title": "To all ML PhDs, how are you guys doing these days? [D]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/"
+        }
+      ],
+      "faculty_summary": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job. But realistically, we ..."
     },
     {
       "type": "article",
-      "title": "Steam Recommender using similarity! (Undergraduate Student Project) [P]",
-      "description": "(DISCLAIMER: I accidentally deleted the last post on this subreddit my apologies if this is your second time seeing it) Last year I made a post about my steam recommender The last one was great and served its purpose of showing many people new games, But this new version is much more functi...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb8k3n/steam_recommender_using_similarity_undergraduate/",
-      "source": "Reddit ML",
-      "date": "2026-05-12T17:30:32",
+      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+      "description": "arXiv:2610.40906v1 Announce Type: new \nAbstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so...",
+      "url": "https://arxiv.org/abs/2610.40906",
+      "source": "arXiv",
+      "date": "2026-11-02T05:00:00",
       "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/Expensive-Ad8916"
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Lun Ai, Yu-Heng Wu, Jonathan Schaul, Leonie K\\\"uchenhoff, Denes Turei, Francesco Carli, Fabio Petroni, Aurelien Dugourd, Julio Saez-Rodriguez",
+        "source_excerpt": "arXiv:2610.40906v1 Announce Type: new \nAbstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so the effect of each design choice is unknown. Here, we examined two design axes: (1) what the recursion builds (the state of evidence) and (2) what controls it (the judge that decides when to stop). To measure them, we defined consensus scientific claim verification and measured these effects on this task, where a system must establish a claim's consensus stance from the open literature. We built a new consensus claim dataset, ProClaim-eval, including 718 claims with SUPPORT and REFUTE gold labels from five expert-curated databases spanning molecular biology, nuclear physics, and astronomy. Our instrument, ProClaim, persists an evidence state outside the model's context, so each axis can be studied with the other held fixed. Against verification systems and general-purpose agent harnesses, ProClaim ranks among the top three, with a significant advantage over the harnesses. We found that the evidence state improves performance over in-context accumulation, and it also matters what is stored in it. In addition, a trained judge that reads the evidence state performs better than fixed-round stopping. A judge trained separately and never exposed to ProClaim-eval achieves the highest agreement with the gold labels on three of five subsets, where it matches the off-the-shelf Claude Sonnet~4.6 judge and outperforms Claude Haiku~4.5. Our results support recursively maintaining a structured evidence state outside the model's context as an effective design for verifying claims in scientific agents."
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.06462978063603454,
+      "sources": [
+        {
+          "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2610.40906"
+        }
+      ],
+      "faculty_summary": "arXiv:2610.40906v1 Announce Type: new \nAbstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient information. These agents are evaluated end-to-end, usually without ground truth, so..."
     },
     {
       "type": "article",
-      "title": "Sharing all KGC 2026 decks. More production-grade KG systems than I've seen at any conference. [D]",
-      "description": "Didn't make it to New York for the Knowledge Graph Conference this year, but caught some talks virtually and managed to download all the decks. Sharing them below because some of what was shown is worth knowing about. Majority of the presentations described live production systems. Enterprises sh...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tbt6wl/sharing_all_kgc_2026_decks_more_productiongrade/",
-      "source": "Reddit ML",
-      "date": "2026-05-13T08:12:32",
+      "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+      "description": "arXiv:2610.40939v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising way to oversee increasingly capable agents. It succeeds in part because current models appear limited in their ability to control what they verbalize in their reasoning traces. We investigate the sou...",
+      "url": "https://arxiv.org/abs/2610.40939",
+      "source": "arXiv",
+      "date": "2026-11-02T05:00:00",
       "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/Ok_Gas7672"
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "I created a minimal one-file implementations (160loc) of JEPA family (ijepa, vjepa, vjepa2, cjepa) for educational purposes [P]",
-      "description": "Hi all, I made my own minimal implementation of JEPA algorithms. Making things minimal and removing all the things needed for scaling the algorithm always helped me understand the essence. So I stripped everything but the algorithm parts. What's left is 160-200 lines of code that distills the ess...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tbhwbn/i_created_a_minimal_onefile_implementations/",
-      "source": "Reddit ML",
-      "date": "2026-05-12T23:08:34",
-      "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/kwk236",
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Hugh Van Deventer, Dmitrii Troitskii, Laura Ruis",
+        "source_excerpt": "arXiv:2610.40939v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising way to oversee increasingly capable agents. It succeeds in part because current models appear limited in their ability to control what they verbalize in their reasoning traces. We investigate the source of this limitation and link it to an entropy collapse in the first few tokens following the opening thinking tag. We exploit this mechanism to recover CoT controllability through two inference-time interventions on initial tokens: prefilling, where even a single token can substantially increase controllability, and banning frequent opening tokens combined with in-context examples, which improves average compliance by 34-41 percentage points across models. These interventions recover mainly addition and style controllability (adding or transforming information), while suppression controllability (avoiding or removing information) exhibits more varied responses, suggesting distinct underlying mechanisms. Consistent with this, the two groups behave as separate capabilities: across models, performance correlates positively within these groups, while cross-group correlations are mostly negative. Importantly, we find that the relationship with monitorability depends on the evaluation: addition and style controllability more consistently positively correlate with monitorability, while suppression often shows negative associations. Our findings motivate the development of controllability evaluations that distinguish difficulty initiating a specific opening from general limitations of the ability to alter reasoning content, alongside separate reporting of control tasks and categories.",
         "matched_keywords": [
-          "education"
+          "reasoning"
         ]
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.0384948688561718,
+      "sources": [
+        {
+          "title": "The First Few Tokens Matter: Understanding Chain-of-Thought Controllability",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2610.40939"
+        }
+      ],
+      "faculty_summary": "arXiv:2610.40939v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising way to oversee increasingly capable agents. It succeeds in part because current models appear limited in their ability to control what they verbalize in their reasoning traces. We investigate the sou..."
     },
     {
       "type": "article",
-      "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
-      "description": "TabPFN-3 was released today, the next iteration of the tabular foundation model, originally published in Nature. Quick recap for anyone new to TabPFN: TabPFN predicts on tabular data in a single forward pass - no training, no hyperparameter search, no tuning. Built on TabPFN-2.5 (Nov 2025) and Ta...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
+      "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+      "description": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows ...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
       "source": "Reddit ML",
-      "date": "2026-05-12T14:33:12",
+      "date": "2026-11-03T05:09:18",
       "metadata": {
         "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/rsesrsfh"
+        "author": "/u/latenticlabs",
+        "source_excerpt": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows the grouping, but each topic page shows what the papers actually report. Here's the one for compact/efficient Gaussian splatting: https://atlas.scime.ai/research/3d-vision/gaussian-splatting/compact-and-efficient-gaussian-splatting A few things it shows: - the topic went from 29 papers in 2023-24 to 240 in 2025-26 - best reported numbers per benchmark over time, with the paper that set each one. Deep Blending PSNR, for example, has barely moved (30.42 \u2192 30.45) - ablations from recent papers, including the ones that hurt - what recent papers compare against: 38 of 113 use 3DGS as a baseline, then 2DGS, Scaffold-GS, Mip-Splatting - recent arXiv preprints on the topic and a BibTeX file of the key papers The pages are computed from the extracted numbers, and every number links to its paper. Extraction isn't perfect and numbers from different papers aren't always comparable, so treat it as a starting point, not a leaderboard. Free, no signup. All topics: https://atlas.scime.ai/research If you know a topic well and something's off, please tell us. That's the most useful feedback right now. Note: Benchmark numbers and ablations from 2026 papers aren't in yet. We're working on them now, so for now the records on topic pages mostly reflect papers up to 2025. We'll update here when they're ready.    submitted by    /u/latenticlabs   [link] [comments]"
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.02757953981521777,
+      "sources": [
+        {
+          "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/"
+        }
+      ],
+      "faculty_summary": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows ..."
     },
     {
       "type": "article",
-      "title": "I Found a Hidden Ratio in Transformers That Predicts Geometric Stability [R]",
-      "description": "I have analyzed some decoder transformer models using Lyapunov spectral analysis and found that the ratio of the MLP and attention spectral norms strongly indicates whether a model will eventually collapse to rank-1 or not by the final layers. I found that the spectral ratio is best kept around 0...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tb2na1/i_found_a_hidden_ratio_in_transformers_that/",
+      "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+      "description": "Question to all the PhDs & research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat). Thanks!  Here's the official Chinchilla paper, from the DeepMind website (\"Training...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
       "source": "Reddit ML",
-      "date": "2026-05-12T14:04:43",
+      "date": "2026-11-04T01:31:50",
       "metadata": {
         "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/Otaku_7nfy"
+        "author": "/u/turing-math-labs",
+        "source_excerpt": "Question to all the PhDs & research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat). Thanks!  Here's the official Chinchilla paper, from the DeepMind website (\"Training Compute-Optimal Large Language Models\"). https://deepmind.google/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/ https://proceedings.neurips.cc/paper/2022/file/c1e2faff6f588870935f114ebe04a3e5-Paper-Conference.pdf    submitted by    /u/turing-math-labs   [link] [comments]"
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.020583415534627014,
+      "sources": [
+        {
+          "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/"
+        }
+      ],
+      "faculty_summary": "Question to all the PhDs & research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat). Thanks!  Here's the official Chinchilla paper, from the DeepMind website (\"Training..."
     },
     {
       "type": "article",
-      "title": "ICML Visa issues [D]",
-      "description": "Has anyone applying for a Korean visa for ICML been asked for the conference\u2019s Business Registration Number? The ICML website explicitly states that it cannot provide the BRC so I wanted to ask how others handled this    submitted by    /u/No_Cardiologist7609   [link] [comments]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1taz8mt/icml_visa_issues_d/",
+      "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+      "description": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was buil...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
       "source": "Reddit ML",
-      "date": "2026-05-12T11:50:25",
+      "date": "2026-11-03T19:29:54",
       "metadata": {
         "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/No_Cardiologist7609"
+        "author": "/u/shanekj",
+        "source_excerpt": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was built to address common issues in public LLM-generated datasets and is on Hugging Face too. The model and script identify instances of PII based on surrounding context, and then return the index and type of each instance. Alternatively, it can return the input with all PII redacted. Technical report (research paper) https://arxiv.org/html/2610.30518v2 Hugging Face model card https://huggingface.co/Protegrity/protegrity-pii    submitted by    /u/shanekj   [link] [comments]"
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.01673460898508111,
+      "sources": [
+        {
+          "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/"
+        }
+      ],
+      "faculty_summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was buil..."
     },
     {
       "type": "article",
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "description": "A screenshot of the AI-powered experience on Google Finance.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "source": "Google AI Blog",
-      "date": "2026-05-11T06:00:00",
+      "title": "C++26 Disapproved",
+      "description": "Comments",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "source": "Hacker News",
+      "date": "2026-11-04T00:33:22",
       "metadata": {
-        "feed_url": "https://blog.google/technology/ai/rss/",
-        "author": ""
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "C++26 Disapproved",
+          "publisher": "Hacker News",
+          "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "description": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "source": "Google AI Blog",
-      "date": "2026-05-08T15:00:00",
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "description": "Comments",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "source": "Hacker News",
+      "date": "2026-11-04T03:20:13",
       "metadata": {
-        "feed_url": "https://blog.google/technology/ai/rss/",
-        "author": ""
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
       },
-      "relevance_score": 0.0
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+          "publisher": "Hacker News",
+          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "5 gardening tips you can try right in Search",
-      "description": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "date": "2026-05-06T16:00:00",
+      "title": "The Internals of PostgreSQL",
+      "description": "Comments",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "source": "Hacker News",
+      "date": "2026-11-03T21:51:06",
       "metadata": {
-        "feed_url": "https://blog.google/technology/ai/rss/",
-        "author": "Megan Stoner"
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
       },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "How finance teams use Codex",
-      "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "source": "OpenAI",
-      "date": "2026-05-12T15:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "url": "https://openai.com/index/autoscout24",
-      "source": "OpenAI",
-      "date": "2026-05-12T00:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "source": "OpenAI",
-      "date": "2026-05-11T15:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "How enterprises are scaling AI",
-      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI",
-      "date": "2026-05-11T10:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "description": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI",
-      "date": "2026-05-11T10:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "source": "OpenAI",
-      "date": "2026-05-11T06:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
-    },
-    {
-      "type": "article",
-      "title": "Running Codex safely at OpenAI",
-      "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI",
-      "date": "2026-05-08T12:30:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": ""
-      },
-      "relevance_score": 0.0
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Internals of PostgreSQL",
+          "publisher": "Hacker News",
+          "url": "https://www.interdb.jp/pg/index.html"
+        }
+      ],
+      "faculty_summary": "Comments"
     }
   ]
 }
