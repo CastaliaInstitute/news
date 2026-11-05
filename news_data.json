@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:04:24.255435",
+  "generated_at": "2026-11-05T23:04:36.116112",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "Chawit Kaewnuratchadasorn, Jiaji Wang, Xin Nie",
         "source_excerpt": "arXiv:2611.05439v1 Announce Type: new \nAbstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encodes a time integrator. INOS pretrains a neural operator from static equilibrium solutions and reuses it within Newmark-$\\beta$ integration. At each time increment, the integrator forms an effective equilibrium problem, the pretrained neural operator infers the next-step solution field, and the Newmark relations advance the dynamic state. Numerical examples in linear and nonlinear elastodynamics demonstrate accurate full-field predictions without dynamic trajectory supervision. Comparative results show that INOS, evaluated zero-shot, achieves higher predictive accuracy than neural solver baselines trained on dynamic simulations. In addition, INOS delivers over 4,600$\\times$ speedup in nonlinear simulations over sequential classical finite-element solvers. INOS natively accommodates changes in dynamic conditions and enables reuse of the pretrained operator across spatial and temporal discretizations. Further evaluation demonstrates a stable million-step rollout. These findings establish INOS as a reusable neural implicit solver for accurate, efficient, and robust dynamic modeling."
       },
-      "relevance_score": 0.07953610450227366,
+      "relevance_score": 0.0949566325247809,
       "sources": [
         {
           "title": "Learning Implicit Solves for Dynamic Simulations",
@@ -36,7 +36,7 @@
         "author": "Ojaswi Sinha, Amin Farajzadeh, Animesh Yadav, Melike Erol-Kantarci",
         "source_excerpt": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasingly significant as the learning rate decays. Moreover, accumulated noise enables Byzantine attackers to exploit loss-based model selection by mimicking honest model averages. To address these challenges, we propose screened, hop-aware, ranked, proximal averaging, a robust DFL framework (FedSharp). In this approach, each node maintains models from its 2b predecessors, ensuring at least b honest candidates when at most b nodes are Byzantine. FedSharp screens suspicious models using coordinate-wise median deviations, averages the b lowest-loss candidates to reduce fresh channel-noise variance by a factor of b, and applies noise-adaptive gradient-norm regularization and proximal training to mitigate accumulated noise and non-IID drift. Experiments on a 100-node ring with 33 Byzantine nodes show that FedSharp achieves 93.5-94.9% accuracy on MNIST, compared with 29.4-38.1% for a state-of-the-art single-model-selection benchmark, and 32.8-48.8% on CIFAR-10, compared with 10.0-30.5%, across Gaussian and hidden attacks under IID and non-IID data. On MNIST, FedSharp also achieves accuracy within approximately one percentage point of the benchmark operating without channel noise."
       },
-      "relevance_score": 0.07878900405167644,
+      "relevance_score": 0.09409788483942744,
       "sources": [
         {
           "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
@@ -58,7 +58,7 @@
         "author": "Mohammed Siraj B, Gousia Habib, Ruban S",
         "source_excerpt": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned bandwidth) and a variational quantum classifier (VQC) with five tuned classical models across six public clinical datasets. All models used identical four-component inputs and 25 cross-validation splits. Paired AUROC differences were assessed using a corrected resampled t-test, Holm-adjusted equivalence tests (margins: +/-0.02 and +/-0.05), and random-effects pooling. Ablation, noise, finite-shot, and implementation-fault analyses were conducted. We propose QML-Health-READY, an eight-domain reporting framework. Results: Neither quantum model significantly outperformed any classical comparator. Pooled across datasets, QSVM differed from the kernel-matched radial basis function (RBF) SVM by -0.006 AUROC (95% CI: -0.017 to +0.004), equivalent to +/-0.02. VQC differed from the best classical model by -0.007 (95% CI: -0.019 to +0.004). QSVM was equivalent to RBF SVM within +/-0.05 in four of six datasets but was significantly worse than the best classical model on NHANES 2017-18 (-0.076). A classically trivial product-state kernel performed as well as the entangling kernel. With depolarizing noise (p = 0.01) and 1,024 shots per kernel entry, QSVM AUROC decreased by 0.054 (95% CI: 0.036 to 0.071). Untuned bandwidth produced near-chance AUROC (0.48-0.59). Conclusions: Correctly configured quantum classifiers approached but did not exceed tuned classical models. Finite-shot estimation, rather than gate noise, was their main practical cost, while configuration errors could reverse conclusions. QML-Health-READY defines reporting requirements for credible claims."
       },
-      "relevance_score": 0.0686971868817893,
+      "relevance_score": 0.08592018079179699,
       "sources": [
         {
           "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
@@ -67,28 +67,6 @@
         }
       ],
       "faculty_summary": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned b..."
-    },
-    {
-      "type": "article",
-      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-      "description": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant artic...",
-      "url": "https://arxiv.org/abs/2611.05459",
-      "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Abdullah Al Kalbani, David M. Schultz, Alexandra K. Anderson-Frey, Zhonghua Zheng, Catherine McGuire",
-        "source_excerpt": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus.\n  In the initial searches, five tools collectively identified 57 articles, with the best individual tool finding 42. Institutional library access increased discovery from 42 to 82 articles for Codex and from 15 to 79 for Claude Code. Given the complete corpus of 102 PDFs, three tools correctly identified all 18 articles discussing the Spanish plume substantially, but incorrectly classified 40% to 79% of the 84 passing mentions as substantial. The same three tools produced syntheses evaluated blindly by two domain experts. Although largely accurate, the syntheses provided limited insight and sometimes contained unsupported claims, quotation errors, and exaggerated statements of consensus. Finally, all three tools proposed research directions broader than the Spanish plume literature, although two approached questions identified in the benchmark review.\n  No single tool performed best across all tasks. We provide eight recommendations for researchers using AI tools in literature reviews. Our findings suggest that LLMs can assist with discovering and interpreting scientific literature, particularly when institutional access is available, but cannot replace expert judgment in evaluating evidence or synthesizing research."
-      },
-      "relevance_score": 0.06839540515928115,
-      "sources": [
-        {
-          "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05459"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant artic..."
     },
     {
       "type": "article",
@@ -105,7 +83,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.06506066125993037,
+      "relevance_score": 0.08368356359566528,
       "sources": [
         {
           "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
@@ -117,25 +95,47 @@
     },
     {
       "type": "article",
-      "title": "The Confidence Score: a New Measure on Kernels",
-      "description": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which ...",
-      "url": "https://arxiv.org/abs/2611.05528",
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "description": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant artic...",
+      "url": "https://arxiv.org/abs/2611.05459",
       "source": "arXiv",
       "date": "2026-11-05T05:00:00",
       "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Elizabeth Hofer, Martin v. Mohrenschildt",
-        "source_excerpt": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which kernels may produce accurate kernel classifiers. Many existing kernel measures, such as alignment to the ideal kernel, are designed to reward kernels which captures all samples from the same class as similar. While effective in many settings, this requirement is unnecessarily restrictive for classification, where classes may exhibit substantial internal structure. In this work, the \"Confidence Score\", a new kernel measure, is proposed. Unlike alignment-to-the-ideal kernel measures, the Confidence Score measures the alignment between an encoding of the ground truth and that ground truth projected by the kernel, allowing kernels that preserve intra-class structure to achieve high scores. Through experiments, it is demonstrated that the Confidence Score exhibits a higher correlation with classification accuracy across a variety of kernels on both real-world and synthetic datasets, compared to select other kernel measures."
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Abdullah Al Kalbani, David M. Schultz, Alexandra K. Anderson-Frey, Zhonghua Zheng, Catherine McGuire",
+        "source_excerpt": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus.\n  In the initial searches, five tools collectively identified 57 articles, with the best individual tool finding 42. Institutional library access increased discovery from 42 to 82 articles for Codex and from 15 to 79 for Claude Code. Given the complete corpus of 102 PDFs, three tools correctly identified all 18 articles discussing the Spanish plume substantially, but incorrectly classified 40% to 79% of the 84 passing mentions as substantial. The same three tools produced syntheses evaluated blindly by two domain experts. Although largely accurate, the syntheses provided limited insight and sometimes contained unsupported claims, quotation errors, and exaggerated statements of consensus. Finally, all three tools proposed research directions broader than the Spanish plume literature, although two approached questions identified in the benchmark review.\n  No single tool performed best across all tasks. We provide eight recommendations for researchers using AI tools in literature reviews. Our findings suggest that LLMs can assist with discovering and interpreting scientific literature, particularly when institutional access is available, but cannot replace expert judgment in evaluating evidence or synthesizing research."
       },
-      "relevance_score": 0.04249949926870776,
+      "relevance_score": 0.08359611318800303,
       "sources": [
         {
-          "title": "The Confidence Score: a New Measure on Kernels",
+          "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05528"
+          "url": "https://arxiv.org/abs/2611.05459"
         }
       ],
-      "faculty_summary": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which ..."
+      "faculty_summary": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant artic..."
+    },
+    {
+      "type": "article",
+      "title": "Looking for Emergency Reviewers [R]",
+      "description": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 ...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
+      "source": "Reddit ML",
+      "date": "2026-11-05T18:31:03",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/aicommander",
+        "source_excerpt": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 noon (U.S. time), please DM me or comment below.    submitted by    /u/aicommander   [link] [comments]"
+      },
+      "relevance_score": 0.05930498536981934,
+      "sources": [
+        {
+          "title": "Looking for Emergency Reviewers [R]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/"
+        }
+      ],
+      "faculty_summary": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 ..."
     },
     {
       "type": "article",
@@ -149,7 +149,7 @@
         "author": "Ivan Silajev",
         "source_excerpt": "arXiv:2611.05557v1 Announce Type: new \nAbstract: Support vector machines (SVMs) are fundamentally grounded in geometric margin maximisation and currently lack a mainstream probabilistic interpretation. This keeps them theoretically isolated from probabilistic machine learning models that are naturally comparable and combinable. In this paper, we bridge this gap by proving that the dual objectives of both support vector classification and support vector regression are exact, constrained Kullback-Leibler (KL) divergence minimisation tasks between two Gaussian measures. We further show that this same divergence formulation recovers the exact objective function for kernel ridge regression when domain constraints are removed and $L^2$ regularisation is applied. By demonstrating that SVM duals directly minimise relative entropy, our results provide a unified information-theoretic model for standard kernel machines and lay the foundation for unifying broader kernel-based algorithms under probability theory."
       },
-      "relevance_score": 0.041775181968127476,
+      "relevance_score": 0.052399409139868354,
       "sources": [
         {
           "title": "Support Vector Machines Directly Minimise KL Divergence",
@@ -161,25 +161,47 @@
     },
     {
       "type": "article",
-      "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
-      "description": "arXiv:2611.05506v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with several objectives, such as helpfulness, harmlessness, and honesty, typically relies on preference judgment for each objective, growing the annotation cost linearly with the number of objectives. Active pr...",
-      "url": "https://arxiv.org/abs/2611.05506",
+      "title": "The Confidence Score: a New Measure on Kernels",
+      "description": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which ...",
+      "url": "https://arxiv.org/abs/2611.05528",
       "source": "arXiv",
       "date": "2026-11-05T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Duc Anh Vu, Thong Nguyen, Hoang Pham, Ponhvoan Srey, Luu Anh Tuan",
-        "source_excerpt": "arXiv:2611.05506v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with several objectives, such as helpfulness, harmlessness, and honesty, typically relies on preference judgment for each objective, growing the annotation cost linearly with the number of objectives. Active preference learning can reduce this cost by selecting the comparisons whose labels are expected to change the policy most. Existing remedies either lack an objective-aware query selection mechanism for the multi-objective setting or regard conflicting preferences as harmful, therefore excluding them from the training data. We introduce OGC-DPO (Objective-conditioned Gradient Coverage DPO), an active learning framework that treats each (response pair, objective) combination as a separate query and measures its informativeness through the policy's own implicit gradient, without relying on an external reward model. OGC-DPO then selects the queries that most expand each objective's gradient coverage. Empirical experiments across varying numbers of objectives demonstrate the effectiveness of OGC-DPO over existing active preference learning methods under the same annotation cost. Further analysis demonstrates that informative conflicts, rather than being uniformly harmful, provide a useful policy training signal."
+        "author": "Elizabeth Hofer, Martin v. Mohrenschildt",
+        "source_excerpt": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which kernels may produce accurate kernel classifiers. Many existing kernel measures, such as alignment to the ideal kernel, are designed to reward kernels which captures all samples from the same class as similar. While effective in many settings, this requirement is unnecessarily restrictive for classification, where classes may exhibit substantial internal structure. In this work, the \"Confidence Score\", a new kernel measure, is proposed. Unlike alignment-to-the-ideal kernel measures, the Confidence Score measures the alignment between an encoding of the ground truth and that ground truth projected by the kernel, allowing kernels that preserve intra-class structure to achieve high scores. Through experiments, it is demonstrated that the Confidence Score exhibits a higher correlation with classification accuracy across a variety of kernels on both real-world and synthetic datasets, compared to select other kernel measures."
       },
-      "relevance_score": 0.039790704743109605,
+      "relevance_score": 0.051856724081441825,
       "sources": [
         {
-          "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
+          "title": "The Confidence Score: a New Measure on Kernels",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05506"
+          "url": "https://arxiv.org/abs/2611.05528"
         }
       ],
-      "faculty_summary": "arXiv:2611.05506v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with several objectives, such as helpfulness, harmlessness, and honesty, typically relies on preference judgment for each objective, growing the annotation cost linearly with the number of objectives. Active pr..."
+      "faculty_summary": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which ..."
+    },
+    {
+      "type": "article",
+      "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+      "description": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent st...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
+      "source": "Reddit ML",
+      "date": "2026-11-05T10:44:15",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/sergbur",
+        "source_excerpt": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops following the procedure it was given. For example, asked for the weather, it fetches the forecast (correct tool call) but never tells you, and starts asking you to rate its service instead. Most steps of a conversational procedure aren't tool calls but things the agent has to say: asking, confirming, telling the result. When an agent drifts from these steps, we call it procedural hallucination: a third axis, alongside factual accuracy and correct tool use, and one that has been largely overlooked. To our knowledge, DialFork is the first benchmark aimed at measuring this axis: what the agent has to say, and in what order. How it's built: we simulate dialogues where an agent follows its workflow (24 tasks, 12 domains), then fork them: we replay each one and, at a chosen turn, give the agent an instruction that makes it drift, in different, complementary ways. That gives over 36k dialogues where we know where each drift starts and how far it goes, checked with 30 human annotators and an LLM judge calibrated on them. Three tasks, from the turn to the whole set. Because we know where each drift starts, and that an earlier drift goes further, we define three tasks that measure procedural hallucination at different levels:  The turn (Task 3). Given a dialogue, either whole or turn by turn as it unfolds (streaming), find the turn where the drift starts, or say there is none. Useful as a live guardrail. The dialogue (Task 2). Given a correct dialogue and its hallucinated versions, measure how far each one drifts from it; the earlier a version drifts, the larger its distance should be. A dialogue and its own hallucinated versions talk about the same thing; what sets them apart is how they unfold. Today, comparing dialogues means comparing their content, with embeddings and semantic similarity. This task opens a new dimension, procedural distance. Useful for retrieving or clustering conversations by how they went, not just by what they're about. The set (Task 1). Given a set of correct dialogues and a set of hallucinated ones, output a single procedural distance between the two sets as a whole, comparing them as distributions rather than matching dialogues one to one. Useful for monitoring agents, e.g. whether they drift after a model upgrade, or whether a user simulator's dialogues unfold like real ones.  Open problems, and a leaderboard to track them. In the paper, we report first results on all three tasks, from embedding-based distances to streaming detectors and zero-shot LLMs. They leave plenty of room. To track progress, each task has its own track on a public leaderboard on Hugging Face; adding your method takes a single CSV file of predictions. Everything is open (data, code, every prediction from the paper, and the human judgments), and we hope it's a useful starting point for the community:  Leaderboard: https://huggingface.co/spaces/DialFork/leaderboard Code: https://github.com/idiap/dialfork Paper: https://arxiv.org/abs/2610.21561 Dataset: https://huggingface.co/datasets/DialFork/dialfork  Happy to answer questions, and feedback (including critical) is very welcome.    submitted by    /u/sergbur   [link] [comments]"
+      },
+      "relevance_score": 0.04871911300723576,
+      "sources": [
+        {
+          "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/"
+        }
+      ],
+      "faculty_summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent st..."
     },
     {
       "type": "article",
@@ -196,7 +218,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.039206576201068176,
+      "relevance_score": 0.04774954031673831,
       "sources": [
         {
           "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
@@ -205,28 +227,6 @@
         }
       ],
       "faculty_summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
-    },
-    {
-      "type": "article",
-      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-      "description": "arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-agent construction th...",
-      "url": "https://arxiv.org/abs/2611.05524",
-      "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Kiran Ravish, Ankita Kushwaha,  Preeti, Pawan Kumar",
-        "source_excerpt": "arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-agent construction that embeds control barrier function (CBF) constraints into reverse-diffusion updates, we: (i) formalize joint safe sets as intersections of per-agent and pairwise barrier sets; (ii) derive centralized and decentralized (communication-aware) constrained denoising procedures with provable invariance under mild assumptions; (iii) address local-trap and deadlock phenomena via time-varying specifications and liveness CBFs; and (iv) develop a lightweight benchmarking suite including a multi-agent Maze2D domain. Empirically, MA-SafeDiffuser reduces violation counts relative to unconstrained diffusion baselines, while retaining planning quality. We provide algorithms, proofs, and reference implementations."
-      },
-      "relevance_score": 0.031178926149888937,
-      "sources": [
-        {
-          "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05524"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-time diffusion invariance guarantees for joint-agent safety specifications. Building on the single-agent construction th..."
     }
   ]
 }
