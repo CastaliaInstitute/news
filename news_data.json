@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:06:33.474985",
+  "generated_at": "2026-11-05T09:06:15.568367",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "/u/AKAMA199",
         "source_excerpt": "Hey everyone\u2014 we\u2019re the Deep Principle team behind Mira AI Scientist. We just released Hydrogen-1.0, an open-weight model post-trained from GLM-5.3 for chemistry, materials science, and life sciences. Here\u2019s how it performed in our evaluations:  FrontierScience Research: 38.3% pass rate vs. 33.3% for GPT-6 Astra at max thinking\u2014a 5 percentage point lead. Estimated output-side cost on FSR: $0.25 per problem vs. $0.88 for Astra at max thinking\u2014about 72% lowerunder our evaluation setup. GPQA Diamond: 92.9% accuracy, compared with Kimi K3\u2019s 93.5%.  On separate internal task sets, Hydrogen also scored higher than GPT-6 Astra at max thinking on scientific computing (+5.13 percentage points) and single-step forward reaction prediction (+4.76 points). It trailed Astra on NMR structure elucidation (\u22123.33 points). The write-up covers the evaluations and five workflow examples. Why we built it If you\u2019ve used LLMs for research, you\u2019ve probably spent a fair amount of time connecting the steps yourself: turning a question into a plan, preparing inputs, running tools, checking the output, and figuring out what to try when something breaks. We wanted to see whether training on scientific workflows could make the model better at handling those connected decisions. How we trained it We used supervised fine-tuning and reinforcement learning with domain data, scientist feedback, records from our own labs, and discovery trajectories. The lab records keep the research goal, procedure, observations, and outcome together. The discovery trajectories include how the next step changes after feedback, failed attempts, or unexpected results. SFT gives the model worked examples of scientific reasoning, experiment planning, protocol design, and analysis. RL uses feedback on research outcomes to improve its decisions. What the workflows look like The article walks through five cases:  Polymer molecular dynamics: Builds a polyethylene melt with Python, runs GROMACS, checks and repairs the topology, and restarts the simulation. Outputs include a corrected 40 ns trajectory and analyses of density, molecular packing, diffusion, and chain dimensions. Reaction networks: Explores connected molecular structures, competing pathways, and recorded energy barriers. NMR interpretation: Compares seven candidate structures against a supplied proton NMR spectrum. Experiment planning: Generates a machine-readable protocol for a 12-vial Suzuki coupling study, with virtual checks of equipment capabilities and action prerequisites. Materials search: Uses feedback over five rounds to guide a search for transition-metal complexes with larger HOMO\u2013LUMO gaps.  A bit of context: these are selected model-plus-tool walkthroughs, not an overall autonomous-research success rate. GROMACS does the MD calculations, and the protocol validation is virtual\u2014it doesn\u2019t mean the physical experiment was carried out. The attached video gives a quick look at the research interactions. The article has the detailed walkthroughs, evaluations, and training approach. Links  Weights and model card: Hydrogen-1.0 on Hugging Face Technical write-up, evaluations, and cases: Introducing Hydrogen-1.0 Try it: Mira AI Scientist  We\u2019d especially like to hear from people working in computational chemistry and materials science. What would you try it on first, and what would you check before trusting the result?    submitted by    /u/AKAMA199   [link] [comments]"
       },
-      "relevance_score": 0.15749223364539394,
+      "relevance_score": 0.16482984061821554,
       "sources": [
         {
           "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
@@ -36,7 +36,7 @@
         "author": "Ojaswi Sinha, Amin Farajzadeh, Animesh Yadav, Melike Erol-Kantarci",
         "source_excerpt": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasingly significant as the learning rate decays. Moreover, accumulated noise enables Byzantine attackers to exploit loss-based model selection by mimicking honest model averages. To address these challenges, we propose screened, hop-aware, ranked, proximal averaging, a robust DFL framework (FedSharp). In this approach, each node maintains models from its 2b predecessors, ensuring at least b honest candidates when at most b nodes are Byzantine. FedSharp screens suspicious models using coordinate-wise median deviations, averages the b lowest-loss candidates to reduce fresh channel-noise variance by a factor of b, and applies noise-adaptive gradient-norm regularization and proximal training to mitigate accumulated noise and non-IID drift. Experiments on a 100-node ring with 33 Byzantine nodes show that FedSharp achieves 93.5-94.9% accuracy on MNIST, compared with 29.4-38.1% for a state-of-the-art single-model-selection benchmark, and 32.8-48.8% on CIFAR-10, compared with 10.0-30.5%, across Gaussian and hidden attacks under IID and non-IID data. On MNIST, FedSharp also achieves accuracy within approximately one percentage point of the benchmark operating without channel noise."
       },
-      "relevance_score": 0.09511075776164414,
+      "relevance_score": 0.09954199442131033,
       "sources": [
         {
           "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
@@ -58,7 +58,7 @@
         "author": "Chawit Kaewnuratchadasorn, Jiaji Wang, Xin Nie",
         "source_excerpt": "arXiv:2611.05439v1 Announce Type: new \nAbstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encodes a time integrator. INOS pretrains a neural operator from static equilibrium solutions and reuses it within Newmark-$\\beta$ integration. At each time increment, the integrator forms an effective equilibrium problem, the pretrained neural operator infers the next-step solution field, and the Newmark relations advance the dynamic state. Numerical examples in linear and nonlinear elastodynamics demonstrate accurate full-field predictions without dynamic trajectory supervision. Comparative results show that INOS, evaluated zero-shot, achieves higher predictive accuracy than neural solver baselines trained on dynamic simulations. In addition, INOS delivers over 4,600$\\times$ speedup in nonlinear simulations over sequential classical finite-element solvers. INOS natively accommodates changes in dynamic conditions and enables reuse of the pretrained operator across spatial and temporal discretizations. Further evaluation demonstrates a stable million-step rollout. These findings establish INOS as a reusable neural implicit solver for accurate, efficient, and robust dynamic modeling."
       },
-      "relevance_score": 0.08724834689565172,
+      "relevance_score": 0.09131327164610092,
       "sources": [
         {
           "title": "Learning Implicit Solves for Dynamic Simulations",
@@ -80,7 +80,7 @@
         "author": "Mohammed Siraj B, Gousia Habib, Ruban S",
         "source_excerpt": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned bandwidth) and a variational quantum classifier (VQC) with five tuned classical models across six public clinical datasets. All models used identical four-component inputs and 25 cross-validation splits. Paired AUROC differences were assessed using a corrected resampled t-test, Holm-adjusted equivalence tests (margins: +/-0.02 and +/-0.05), and random-effects pooling. Ablation, noise, finite-shot, and implementation-fault analyses were conducted. We propose QML-Health-READY, an eight-domain reporting framework. Results: Neither quantum model significantly outperformed any classical comparator. Pooled across datasets, QSVM differed from the kernel-matched radial basis function (RBF) SVM by -0.006 AUROC (95% CI: -0.017 to +0.004), equivalent to +/-0.02. VQC differed from the best classical model by -0.007 (95% CI: -0.019 to +0.004). QSVM was equivalent to RBF SVM within +/-0.05 in four of six datasets but was significantly worse than the best classical model on NHANES 2017-18 (-0.076). A classically trivial product-state kernel performed as well as the entangling kernel. With depolarizing noise (p = 0.01) and 1,024 shots per kernel entry, QSVM AUROC decreased by 0.054 (95% CI: 0.036 to 0.071). Untuned bandwidth produced near-chance AUROC (0.48-0.59). Conclusions: Correctly configured quantum classifiers approached but did not exceed tuned classical models. Finite-shot estimation, rather than gate noise, was their main practical cost, while configuration errors could reverse conclusions. QML-Health-READY defines reporting requirements for credible claims."
       },
-      "relevance_score": 0.08461191561933012,
+      "relevance_score": 0.08855400830327845,
       "sources": [
         {
           "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
@@ -105,7 +105,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.07607825478435297,
+      "relevance_score": 0.07962276183631763,
       "sources": [
         {
           "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
@@ -127,7 +127,7 @@
         "author": "Abdullah Al Kalbani, David M. Schultz, Alexandra K. Anderson-Frey, Zhonghua Zheng, Catherine McGuire",
         "source_excerpt": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus.\n  In the initial searches, five tools collectively identified 57 articles, with the best individual tool finding 42. Institutional library access increased discovery from 42 to 82 articles for Codex and from 15 to 79 for Claude Code. Given the complete corpus of 102 PDFs, three tools correctly identified all 18 articles discussing the Spanish plume substantially, but incorrectly classified 40% to 79% of the 84 passing mentions as substantial. The same three tools produced syntheses evaluated blindly by two domain experts. Although largely accurate, the syntheses provided limited insight and sometimes contained unsupported claims, quotation errors, and exaggerated statements of consensus. Finally, all three tools proposed research directions broader than the Spanish plume literature, although two approached questions identified in the benchmark review.\n  No single tool performed best across all tasks. We provide eight recommendations for researchers using AI tools in literature reviews. Our findings suggest that LLMs can assist with discovering and interpreting scientific literature, particularly when institutional access is available, but cannot replace expert judgment in evaluating evidence or synthesizing research."
       },
-      "relevance_score": 0.06807335500069846,
+      "relevance_score": 0.07124491154513819,
       "sources": [
         {
           "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
@@ -149,7 +149,7 @@
         "author": "Elizabeth Hofer, Martin v. Mohrenschildt",
         "source_excerpt": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which kernels may produce accurate kernel classifiers. Many existing kernel measures, such as alignment to the ideal kernel, are designed to reward kernels which captures all samples from the same class as similar. While effective in many settings, this requirement is unnecessarily restrictive for classification, where classes may exhibit substantial internal structure. In this work, the \"Confidence Score\", a new kernel measure, is proposed. Unlike alignment-to-the-ideal kernel measures, the Confidence Score measures the alignment between an encoding of the ground truth and that ground truth projected by the kernel, allowing kernels that preserve intra-class structure to achieve high scores. Through experiments, it is demonstrated that the Confidence Score exhibits a higher correlation with classification accuracy across a variety of kernels on both real-world and synthetic datasets, compared to select other kernel measures."
       },
-      "relevance_score": 0.05199762221283201,
+      "relevance_score": 0.0544202058951365,
       "sources": [
         {
           "title": "The Confidence Score: a New Measure on Kernels",
@@ -171,7 +171,7 @@
         "author": "Ivan Silajev",
         "source_excerpt": "arXiv:2611.05557v1 Announce Type: new \nAbstract: Support vector machines (SVMs) are fundamentally grounded in geometric margin maximisation and currently lack a mainstream probabilistic interpretation. This keeps them theoretically isolated from probabilistic machine learning models that are naturally comparable and combinable. In this paper, we bridge this gap by proving that the dual objectives of both support vector classification and support vector regression are exact, constrained Kullback-Leibler (KL) divergence minimisation tasks between two Gaussian measures. We further show that this same divergence formulation recovers the exact objective function for kernel ridge regression when domain constraints are removed and $L^2$ regularisation is applied. By demonstrating that SVM duals directly minimise relative entropy, our results provide a unified information-theoretic model for standard kernel machines and lay the foundation for unifying broader kernel-based algorithms under probability theory."
       },
-      "relevance_score": 0.04971089114009289,
+      "relevance_score": 0.05202693538565234,
       "sources": [
         {
           "title": "Support Vector Machines Directly Minimise KL Divergence",
@@ -193,7 +193,7 @@
         "author": "Duc Anh Vu, Thong Nguyen, Hoang Pham, Ponhvoan Srey, Luu Anh Tuan",
         "source_excerpt": "arXiv:2611.05506v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with several objectives, such as helpfulness, harmlessness, and honesty, typically relies on preference judgment for each objective, growing the annotation cost linearly with the number of objectives. Active preference learning can reduce this cost by selecting the comparisons whose labels are expected to change the policy most. Existing remedies either lack an objective-aware query selection mechanism for the multi-objective setting or regard conflicting preferences as harmful, therefore excluding them from the training data. We introduce OGC-DPO (Objective-conditioned Gradient Coverage DPO), an active learning framework that treats each (response pair, objective) combination as a separate query and measures its informativeness through the policy's own implicit gradient, without relying on an external reward model. OGC-DPO then selects the queries that most expand each objective's gradient coverage. Empirical experiments across varying numbers of objectives demonstrate the effectiveness of OGC-DPO over existing active preference learning methods under the same annotation cost. Further analysis demonstrates that informative conflicts, rather than being uniformly harmful, provide a useful policy training signal."
       },
-      "relevance_score": 0.04627800447687522,
+      "relevance_score": 0.048434109577920104,
       "sources": [
         {
           "title": "Objective-Conditioned Active Preference Learning for Multi-Objective Alignment",
@@ -218,7 +218,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.043978010167446256,
+      "relevance_score": 0.046026957893859494,
       "sources": [
         {
           "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
