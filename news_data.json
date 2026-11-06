@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:05:52.169491",
+  "generated_at": "2026-11-06T05:05:29.407356",
   "total_items": 10,
   "items": [
     {
@@ -8,7 +8,7 @@
       "description": "Downloads: 0 | Likes: 4",
       "url": "https://huggingface.co/Blackfrost-Research/Kimi-K3.1-Pro-DERISKED",
       "source": "Hugging Face",
-      "date": "2026-11-06T04:04:31.000Z",
+      "date": "2026-11-06T05:05:19.000Z",
       "metadata": {
         "downloads": 0,
         "likes": 4,
@@ -39,7 +39,7 @@
           "region:us"
         ]
       },
-      "relevance_score": 0.12969008308145838,
+      "relevance_score": 0.1555081357150902,
       "sources": [
         {
           "title": "\ud83e\udd16 New Model: Blackfrost-Research/Kimi-K3.1-Pro-DERISKED",
@@ -61,7 +61,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.12888028596836684,
+      "relevance_score": 0.14418790426643208,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -83,7 +83,7 @@
         "author": "/u/Severe-Heat-518",
         "source_excerpt": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end backpropagation. Chess was chosen as the testbed because it requires both local pattern recognition and long-range spatial dependencies.  GitHub Repo: https://github.com/P1X3R/sparse-chess Control Group Repo: https://github.com/P1X3R/sparse-chess-control-group  1. Motivation & Core Hypothesis Standard deep learning models (ResNets, Transformers) rely on global backpropagation. I wanted to test if extreme weight/activation sparsity (~99%) combined with local prediction updates could enable scalable, compute-efficient policy/value prediction on modest hardware. 2. Architecture & Optimizations  Model Size: ~44.9M parameters. Encoders: Fuzzy ART-based encoders mapping local receptive fields to columns. Body: Dendritic Neural Layers (DNNs) with Leaky ReLU activations acting as non-backprop feature extractors. Heads: Specialized policy and value heads matching Lc0 formats (WDL output + Lc0 move probability distributions). Quantization: Byte weights with stochastic rounding for optimized SIMD throughput.  3. Methodology & Baseline Control  Dataset: Chunks of the Lc0 test80 dataset (10k training games, 2k validation games). Control Baseline: A tiny, standard CNN (32 channels, ~3.8M parameters\u2014less than 1/10th the parameter size of the SPH model) trained via standard backpropagation on the exact same dataset splits.  4. Results & Key Findings (Negative Result) The SPH architecture failed catastrophically when compared against standard end-to-end backpropagation.  Failure to Converge on Policy: While the standard 3.8M CNN quickly learned board geometry, tactical threats, and basic move distributions, the 44.9M SPH model severely underperformed on policy accuracy and value loss. Extreme Sparsity Penalty: Enforcing ~99% sparsity choked the flow of tactical information. In chess, \"empty\" squares and long-range piece interactions carry high dense information content that local sparse representations struggle to propagate without global credit assignment. Local Learning vs. Global Dependencies: Local learning rules excel at unsupervised visual feature extraction, but they fail to pass gradient signals back from a global board outcome (Win/Draw/Loss) to early receptive fields.  5. Discussion & Questions for the Community  Global Credit Assignment: Has anyone successfully adapted local/biological learning rules (e.g., Target Propagation, Predictive Coding, HTM/SPH) to tasks with strict, long-range global credit assignment like games or logic reasoning? Dense Domains & Sparsity: Is ~99% sparsity fundamentally incompatible with dense symbolic/grid representations like chess, or is the limitation purely in my architecture (or maybe a nasty bug I couldn't catch)?  Would love to hear thoughts from anyone working on non-backprop architectures, neuromorphic computing, or biological AI abstractions!    submitted by    /u/Severe-Heat-518   [link] [comments]"
       },
-      "relevance_score": 0.11870756749618691,
+      "relevance_score": 0.14101141764306355,
       "sources": [
         {
           "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
@@ -95,116 +95,69 @@
     },
     {
       "type": "article",
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "description": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts ...",
-      "url": "https://arxiv.org/abs/2611.05393",
+      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+      "description": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsi...",
+      "url": "https://arxiv.org/abs/2611.07066",
       "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
+      "date": "2026-11-06T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Riccardo Riccio, Haitz S\\'aez de Oc\\'ariz Borde, Pietro Li\\`o",
-        "source_excerpt": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning trace and identifies specific factual or expertise gaps. These signals trigger targeted knowledge retrieval or mid-discussion specialist recruitment. On the MEDAGENTSBENCH hard subset (862 questions across nine biomedical datasets), upfront retrieval provides little benefit, while challenge-aware in-between retrieval performs better; on a multi-specialist backbone it improves accuracy on 8 of 9 datasets and adds 6 percentage points over Challenger Only. Ablations indicate benefits from both retrieval timing and gap-specific query signals, and a live web-search experiment shows that the timing advantage persists across retrieval backends. For specialist recruitment, self-triggered adaptation is unreliable, whereas Challenger-triggered recruitment raises GPT-4.1-mini MedQA accuracy from 46% to 54%, with positive direction on all tested generalization datasets. Naively combining retrieval and specialist recruitment degrades performance, highlighting the need to coordinate adaptive intervention channels. These results show that when and why external resources are recruited is a key design choice in multi-agent medical reasoning.",
-        "matched_keywords": [
-          "reasoning"
-        ]
+        "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
+        "source_excerpt": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsic rewards are often used to aid discovery, but naively combining them with team objectives can distort the learning signal, compromising task performance. In this paper, we propose EFXPLORER, a constrained exploration framework that maximizes exploration objectives subject to a constraint that preserves established task performance. We solve the resulting problem using an epigraph reformulation that introduces adaptive exploration budgets. This approach separates intrinsic rewards from task objectives and regulates exploration through task feasibility. To further encourage diverse and temporally extended exploration, we incorporate a successor distance-based intrinsic reward that captures long-horizon dependencies. Empirically, our method outperforms strong baselines and induces novel cooperative strategies across SMAX, VMAS, and MPE benchmark suites."
       },
-      "relevance_score": 0.10794360695448767,
+      "relevance_score": 0.11519396728310384,
       "sources": [
         {
-          "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+          "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05393"
+          "url": "https://arxiv.org/abs/2611.07066"
         }
       ],
-      "faculty_summary": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts ..."
+      "faculty_summary": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsi..."
     },
     {
       "type": "article",
-      "title": "Learning Implicit Solves for Dynamic Simulations",
-      "description": "arXiv:2611.05439v1 Announce Type: new \nAbstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encode...",
-      "url": "https://arxiv.org/abs/2611.05439",
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "description": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain oc...",
+      "url": "https://arxiv.org/abs/2611.06984",
       "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Chawit Kaewnuratchadasorn, Jiaji Wang, Xin Nie",
-        "source_excerpt": "arXiv:2611.05439v1 Announce Type: new \nAbstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encodes a time integrator. INOS pretrains a neural operator from static equilibrium solutions and reuses it within Newmark-$\\beta$ integration. At each time increment, the integrator forms an effective equilibrium problem, the pretrained neural operator infers the next-step solution field, and the Newmark relations advance the dynamic state. Numerical examples in linear and nonlinear elastodynamics demonstrate accurate full-field predictions without dynamic trajectory supervision. Comparative results show that INOS, evaluated zero-shot, achieves higher predictive accuracy than neural solver baselines trained on dynamic simulations. In addition, INOS delivers over 4,600$\\times$ speedup in nonlinear simulations over sequential classical finite-element solvers. INOS natively accommodates changes in dynamic conditions and enables reuse of the pretrained operator across spatial and temporal discretizations. Further evaluation demonstrates a stable million-step rollout. These findings establish INOS as a reusable neural implicit solver for accurate, efficient, and robust dynamic modeling."
-      },
-      "relevance_score": 0.10165638842441849,
-      "sources": [
-        {
-          "title": "Learning Implicit Solves for Dynamic Simulations",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05439"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.05439v1 Announce Type: new \nAbstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encode..."
-    },
-    {
-      "type": "article",
-      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-      "description": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant artic...",
-      "url": "https://arxiv.org/abs/2611.05459",
-      "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
+      "date": "2026-11-06T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Abdullah Al Kalbani, David M. Schultz, Alexandra K. Anderson-Frey, Zhonghua Zheng, Catherine McGuire",
-        "source_excerpt": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus.\n  In the initial searches, five tools collectively identified 57 articles, with the best individual tool finding 42. Institutional library access increased discovery from 42 to 82 articles for Codex and from 15 to 79 for Claude Code. Given the complete corpus of 102 PDFs, three tools correctly identified all 18 articles discussing the Spanish plume substantially, but incorrectly classified 40% to 79% of the 84 passing mentions as substantial. The same three tools produced syntheses evaluated blindly by two domain experts. Although largely accurate, the syntheses provided limited insight and sometimes contained unsupported claims, quotation errors, and exaggerated statements of consensus. Finally, all three tools proposed research directions broader than the Spanish plume literature, although two approached questions identified in the benchmark review.\n  No single tool performed best across all tasks. We provide eight recommendations for researchers using AI tools in literature reviews. Our findings suggest that LLMs can assist with discovering and interpreting scientific literature, particularly when institutional access is available, but cannot replace expert judgment in evaluating evidence or synthesizing research."
+        "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
+        "source_excerpt": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation finishes. Here we present FlexFloor, a system that enables earlier resource release during synchronous response generation while preserving the expert computation required by ongoing responses. FlexFloor jointly adapts response scheduling and the active group of workers. It uses historical response lengths and memory constraints to guide batching and prompt placement, then progressively releases workers while maintaining expert availability and correct communication. Compared with the verl baseline, FlexFloor generates approximately 65.40% more response tokens per unit of occupied computing time and increases response generation throughput by 52.74%, with little observed variation in rollout reward. By making reinforcement learning post-training more efficient, FlexFloor supports faster development and iterative improvement of large language models and AI agents."
       },
-      "relevance_score": 0.09513578944447783,
+      "relevance_score": 0.11451959774034662,
       "sources": [
         {
-          "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+          "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05459"
+          "url": "https://arxiv.org/abs/2611.06984"
         }
       ],
-      "faculty_summary": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant artic..."
+      "faculty_summary": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain oc..."
     },
     {
       "type": "article",
-      "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
-      "description": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasin...",
-      "url": "https://arxiv.org/abs/2611.05546",
+      "title": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
+      "description": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy t...",
+      "url": "https://arxiv.org/abs/2611.07069",
       "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
+      "date": "2026-11-06T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Ojaswi Sinha, Amin Farajzadeh, Animesh Yadav, Melike Erol-Kantarci",
-        "source_excerpt": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasingly significant as the learning rate decays. Moreover, accumulated noise enables Byzantine attackers to exploit loss-based model selection by mimicking honest model averages. To address these challenges, we propose screened, hop-aware, ranked, proximal averaging, a robust DFL framework (FedSharp). In this approach, each node maintains models from its 2b predecessors, ensuring at least b honest candidates when at most b nodes are Byzantine. FedSharp screens suspicious models using coordinate-wise median deviations, averages the b lowest-loss candidates to reduce fresh channel-noise variance by a factor of b, and applies noise-adaptive gradient-norm regularization and proximal training to mitigate accumulated noise and non-IID drift. Experiments on a 100-node ring with 33 Byzantine nodes show that FedSharp achieves 93.5-94.9% accuracy on MNIST, compared with 29.4-38.1% for a state-of-the-art single-model-selection benchmark, and 32.8-48.8% on CIFAR-10, compared with 10.0-30.5%, across Gaussian and hidden attacks under IID and non-IID data. On MNIST, FedSharp also achieves accuracy within approximately one percentage point of the benchmark operating without channel noise."
+        "author": "Jingjuan Huang, Zhiyao Zhang, Alvaro Velasquez, Nathaniel D. Bastian, Jia Liu",
+        "source_excerpt": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy the filter stability assumption can be well approximated by a superstate Markov Decision Process (MDP) based on a truncated history in a finite-memory window, with a value gap that decays with the window length. However, existing finite-time convergence analyses on such superstate MDP surrogates are either limited to over-simplified linear function approximation or rely on an i.i.d. sampling oracle that is violated by POMDP trajectories, both of which severely limit the applicability of these theoretical results in practice. This motivates us to bridge the gap by investigating RL in POMDPs with nonlinear neural value function approximation. Our main contributions are threefold: i) We first establish a new finite-state MDP point-wise approximation error bound, which lays the foundation for our RL algorithm design and analysis in POMDPs; ii) By applying Temporal-Difference (TD) learning to POMDP-generated superstate transitions and targeting the Bellman fixed point of the superstate MDP, we prove a finite-time critic error bound with nonlinear neural value function approximation; and iii) By combining the neural critic function approximation error bound with the policy mirror descent framework, we obtain a finite-time sublinear regret against the optimal POMDP value. To the best of our knowledge, such a finite-time sublinear regret based on neural function approximation is the first in the literature for finite-memory POMDPs. Our numerical experiments also verify our theoretical results."
       },
-      "relevance_score": 0.08845892065222984,
+      "relevance_score": 0.10988382585120982,
       "sources": [
         {
-          "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
+          "title": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05546"
+          "url": "https://arxiv.org/abs/2611.07069"
         }
       ],
-      "faculty_summary": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasin..."
-    },
-    {
-      "type": "article",
-      "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
-      "description": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned b...",
-      "url": "https://arxiv.org/abs/2611.05442",
-      "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Mohammed Siraj B, Gousia Habib, Ruban S",
-        "source_excerpt": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned bandwidth) and a variational quantum classifier (VQC) with five tuned classical models across six public clinical datasets. All models used identical four-component inputs and 25 cross-validation splits. Paired AUROC differences were assessed using a corrected resampled t-test, Holm-adjusted equivalence tests (margins: +/-0.02 and +/-0.05), and random-effects pooling. Ablation, noise, finite-shot, and implementation-fault analyses were conducted. We propose QML-Health-READY, an eight-domain reporting framework. Results: Neither quantum model significantly outperformed any classical comparator. Pooled across datasets, QSVM differed from the kernel-matched radial basis function (RBF) SVM by -0.006 AUROC (95% CI: -0.017 to +0.004), equivalent to +/-0.02. VQC differed from the best classical model by -0.007 (95% CI: -0.019 to +0.004). QSVM was equivalent to RBF SVM within +/-0.05 in four of six datasets but was significantly worse than the best classical model on NHANES 2017-18 (-0.076). A classically trivial product-state kernel performed as well as the entangling kernel. With depolarizing noise (p = 0.01) and 1,024 shots per kernel entry, QSVM AUROC decreased by 0.054 (95% CI: 0.036 to 0.071). Untuned bandwidth produced near-chance AUROC (0.48-0.59). Conclusions: Correctly configured quantum classifiers approached but did not exceed tuned classical models. Finite-shot estimation, rather than gate noise, was their main practical cost, while configuration errors could reverse conclusions. QML-Health-READY defines reporting requirements for credible claims."
-      },
-      "relevance_score": 0.07928387787470514,
-      "sources": [
-        {
-          "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05442"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned b..."
+      "faculty_summary": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy t..."
     },
     {
       "type": "article",
@@ -218,7 +171,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.058153633853189,
+      "relevance_score": 0.07377065704871219,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -240,7 +193,7 @@
         "author": "/u/aicommander",
         "source_excerpt": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 noon (U.S. time), please DM me or comment below.    submitted by    /u/aicommander   [link] [comments]"
       },
-      "relevance_score": 0.052529570775274405,
+      "relevance_score": 0.06535123596543313,
       "sources": [
         {
           "title": "Looking for Emergency Reviewers [R]",
@@ -249,6 +202,50 @@
         }
       ],
       "faculty_summary": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 ..."
+    },
+    {
+      "type": "article",
+      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+      "description": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate...",
+      "url": "https://arxiv.org/abs/2611.06956",
+      "source": "arXiv",
+      "date": "2026-11-06T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Tianming Sha",
+        "source_excerpt": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL).\n  We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident directed acyclic graph (DAG) of KV states through five primitives (fork, read_thread, wait_threads, rewind, commit). Octopus combines three co-designed mechanisms: (1) Zero-Copy Radix Forking, which spawns branches as $\\mathcal{O}(1)$ cursor views over shared physical KV pages; (2) Attention-Only KV Mounting, which mounts a sibling thread's terminal KV blocks directly into full-attention layers while bypassing linear-recurrent states (Gated DeltaNet / Mamba-2), cutting off-task hijacking by $21\\times$ ($57.9\\% \\to 2.7\\%$) while retaining $92.2\\%$ of full-text mutual information at zero extra KV allocation; and (3) a Packed DAG-GRPO Trainer, which packs all episode branches into one block-sparse attention pass and assigns counterfactual branch credit via leave-one-branch-out marginal rewards.\n  Trained end-to-end with GRPO on Qwen3.5-4B over a sparse BM25 corpus, Octopus reaches $49.6\\%$ accuracy on BrowseComp-Plus ($+17.5$ points over single-agent GRPO at 143K context and $+12.5$ points over text-summary multi-agent RL) and $51.2\\%$ on OpenResearcher, outperforming dense-retrieval agents up to $250\\times$ larger while increasing training throughput $3.3\\times$ and cutting peak KV memory $2.8\\times$."
+      },
+      "relevance_score": 0.055386662401040655,
+      "sources": [
+        {
+          "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06956"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate..."
+    },
+    {
+      "type": "article",
+      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+      "description": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u...",
+      "url": "https://arxiv.org/abs/2611.06953",
+      "source": "arXiv",
+      "date": "2026-11-06T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Aleksandr Volkov, Roman Sultimov, Mikhail Kuzin, Yury Maximov",
+        "source_excerpt": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage of nominal 90% prediction intervals ranged from 91.0% under random splitting to 37.6% on held-out sources. The effect of physics-derived features depended on the evaluation. They increased gradient-boosting $R^2$ by 0.2534 in a 17-family holdout analysis and decreased it by 0.358 in a separate four-grade laboratory analysis. We report group-level errors and a synthetic regression experiment illustrating how calibration can deteriorate on held-out groups. These results motivate reporting the evaluation population alongside a property estimate or compliance score."
+      },
+      "relevance_score": 0.05215894653382913,
+      "sources": [
+        {
+          "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06953"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u..."
     }
   ]
 }
