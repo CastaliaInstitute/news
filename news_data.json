@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:06:21.352655",
+  "generated_at": "2026-11-06T19:04:14.448825",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.13515230158316074,
+      "relevance_score": 0.14019795826398035,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
         "source_excerpt": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsic rewards are often used to aid discovery, but naively combining them with team objectives can distort the learning signal, compromising task performance. In this paper, we propose EFXPLORER, a constrained exploration framework that maximizes exploration objectives subject to a constraint that preserves established task performance. We solve the resulting problem using an epigraph reformulation that introduces adaptive exploration budgets. This approach separates intrinsic rewards from task objectives and regulates exploration through task feasibility. To further encourage diverse and temporally extended exploration, we incorporate a successor distance-based intrinsic reward that captures long-horizon dependencies. Empirically, our method outperforms strong baselines and induces novel cooperative strategies across SMAX, VMAS, and MPE benchmark suites."
       },
-      "relevance_score": 0.0925191203194558,
+      "relevance_score": 0.09435847941423813,
       "sources": [
         {
           "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
@@ -58,7 +58,7 @@
         "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
         "source_excerpt": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation finishes. Here we present FlexFloor, a system that enables earlier resource release during synchronous response generation while preserving the expert computation required by ongoing responses. FlexFloor jointly adapts response scheduling and the active group of workers. It uses historical response lengths and memory constraints to guide batching and prompt placement, then progressively releases workers while maintaining expert availability and correct communication. Compared with the verl baseline, FlexFloor generates approximately 65.40% more response tokens per unit of occupied computing time and increases response generation throughput by 52.74%, with little observed variation in rollout reward. By making reinforcement learning post-training more efficient, FlexFloor supports faster development and iterative improvement of large language models and AI agents."
       },
-      "relevance_score": 0.08894838579429917,
+      "relevance_score": 0.09214100109999031,
       "sources": [
         {
           "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
@@ -80,7 +80,7 @@
         "author": "Jingjuan Huang, Zhiyao Zhang, Alvaro Velasquez, Nathaniel D. Bastian, Jia Liu",
         "source_excerpt": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy the filter stability assumption can be well approximated by a superstate Markov Decision Process (MDP) based on a truncated history in a finite-memory window, with a value gap that decays with the window length. However, existing finite-time convergence analyses on such superstate MDP surrogates are either limited to over-simplified linear function approximation or rely on an i.i.d. sampling oracle that is violated by POMDP trajectories, both of which severely limit the applicability of these theoretical results in practice. This motivates us to bridge the gap by investigating RL in POMDPs with nonlinear neural value function approximation. Our main contributions are threefold: i) We first establish a new finite-state MDP point-wise approximation error bound, which lays the foundation for our RL algorithm design and analysis in POMDPs; ii) By applying Temporal-Difference (TD) learning to POMDP-generated superstate transitions and targeting the Bellman fixed point of the superstate MDP, we prove a finite-time critic error bound with nonlinear neural value function approximation; and iii) By combining the neural critic function approximation error bound with the policy mirror descent framework, we obtain a finite-time sublinear regret against the optimal POMDP value. To the best of our knowledge, such a finite-time sublinear regret based on neural function approximation is the first in the literature for finite-memory POMDPs. Our numerical experiments also verify our theoretical results."
       },
-      "relevance_score": 0.0889252480635424,
+      "relevance_score": 0.09080695043732664,
       "sources": [
         {
           "title": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
@@ -102,7 +102,7 @@
         "author": "/u/fanconic",
         "source_excerpt": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv. In this process, I changed the name of the method and title. Now a reviewer, pointed out that my method is very closely related to basically an old version of my paper, and wants me to compare against it. Understandably, if looking at the title and method name, one could think these are two different ones. However, if looking more closely, they are clearly the same... How do I argue for this to my friend, that they are exactly the same paper, but now corrected and improved, without breaking anonymity?  Admittedly, the scores are anyway bad, so I have not much hope, but this is a first for me...    submitted by    /u/fanconic   [link] [comments]"
       },
-      "relevance_score": 0.0784134716033307,
+      "relevance_score": 0.0821551398132023,
       "sources": [
         {
           "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
@@ -124,7 +124,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.05924190561460935,
+      "relevance_score": 0.06165846518958081,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -146,7 +146,7 @@
         "author": "/u/aicommander",
         "source_excerpt": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 noon (U.S. time), please DM me or comment below.    submitted by    /u/aicommander   [link] [comments]"
       },
-      "relevance_score": 0.05128466319687132,
+      "relevance_score": 0.05377024943099693,
       "sources": [
         {
           "title": "Looking for Emergency Reviewers [R]",
@@ -155,28 +155,6 @@
         }
       ],
       "faculty_summary": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 ..."
-    },
-    {
-      "type": "article",
-      "title": "arXiv Endorsement [D]",
-      "description": "Hi everyone, Submitting to arXiv's Computer Science category requires an endorsement. According to arXiv's guidelines: \"To endorse another user to submit to the cs.CV (Computer Vision and Pattern Recognition) subject class, an arXiv submitter must have submitted 3 papers to any of cs.AI, cs.AR, c...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpjdk9/arxiv_endorsement_d/",
-      "source": "Reddit ML",
-      "date": "2026-11-06T17:54:45",
-      "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/Terrible-Chicken-426",
-        "source_excerpt": "Hi everyone, Submitting to arXiv's Computer Science category requires an endorsement. According to arXiv's guidelines: \"To endorse another user to submit to the cs.CV (Computer Vision and Pattern Recognition) subject class, an arXiv submitter must have submitted 3 papers to any of cs.AI, cs.AR, cs.CC, cs.CE, cs.CG, cs.CL, cs.CR, cs.CV, cs.CY, cs.DB, cs.DC, cs.DL, cs.DM, cs.DS, cs.ET, cs.FL, cs.GL, cs.GR, cs.GT, cs.HC, cs.IR, cs.IT, cs.LG, cs.LO, cs.MA, cs.MM, cs.MS, cs.NA, cs.NE, cs.NI, cs.OH, cs.OS, cs.PF, cs.PL, cs.RO, cs.SC, cs.SD, cs.SE, cs.SI, or cs.SY earlier than three months ago and less than five years ago.\" Could anyone help endorse our submission? Please send me a message if you can. Your help would be greatly appreciated!    submitted by    /u/Terrible-Chicken-426   [link] [comments]"
-      },
-      "relevance_score": 0.047438041429928836,
-      "sources": [
-        {
-          "title": "arXiv Endorsement [D]",
-          "publisher": "Reddit ML",
-          "url": "https://www.reddit.com/r/MachineLearning/comments/1xpjdk9/arxiv_endorsement_d/"
-        }
-      ],
-      "faculty_summary": "Hi everyone, Submitting to arXiv's Computer Science category requires an endorsement. According to arXiv's guidelines: \"To endorse another user to submit to the cs.CV (Computer Vision and Pattern Recognition) subject class, an arXiv submitter must have submitted 3 papers to any of cs.AI, cs.AR, c..."
     },
     {
       "type": "article",
@@ -190,7 +168,7 @@
         "author": "Tianming Sha",
         "source_excerpt": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL).\n  We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident directed acyclic graph (DAG) of KV states through five primitives (fork, read_thread, wait_threads, rewind, commit). Octopus combines three co-designed mechanisms: (1) Zero-Copy Radix Forking, which spawns branches as $\\mathcal{O}(1)$ cursor views over shared physical KV pages; (2) Attention-Only KV Mounting, which mounts a sibling thread's terminal KV blocks directly into full-attention layers while bypassing linear-recurrent states (Gated DeltaNet / Mamba-2), cutting off-task hijacking by $21\\times$ ($57.9\\% \\to 2.7\\%$) while retaining $92.2\\%$ of full-text mutual information at zero extra KV allocation; and (3) a Packed DAG-GRPO Trainer, which packs all episode branches into one block-sparse attention pass and assigns counterfactual branch credit via leave-one-branch-out marginal rewards.\n  Trained end-to-end with GRPO on Qwen3.5-4B over a sparse BM25 corpus, Octopus reaches $49.6\\%$ accuracy on BrowseComp-Plus ($+17.5$ points over single-agent GRPO at 143K context and $+12.5$ points over text-summary multi-agent RL) and $51.2\\%$ on OpenResearcher, outperforming dense-retrieval agents up to $250\\times$ larger while increasing training throughput $3.3\\times$ and cutting peak KV memory $2.8\\times$."
       },
-      "relevance_score": 0.044441086015595065,
+      "relevance_score": 0.046304064307019034,
       "sources": [
         {
           "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
@@ -199,6 +177,28 @@
         }
       ],
       "faculty_summary": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate..."
+    },
+    {
+      "type": "article",
+      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+      "description": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u...",
+      "url": "https://arxiv.org/abs/2611.06953",
+      "source": "arXiv",
+      "date": "2026-11-06T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Aleksandr Volkov, Roman Sultimov, Mikhail Kuzin, Yury Maximov",
+        "source_excerpt": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage of nominal 90% prediction intervals ranged from 91.0% under random splitting to 37.6% on held-out sources. The effect of physics-derived features depended on the evaluation. They increased gradient-boosting $R^2$ by 0.2534 in a 17-family holdout analysis and decreased it by 0.358 in a separate four-grade laboratory analysis. We report group-level errors and a synthetic regression experiment illustrating how calibration can deteriorate on held-out groups. These results motivate reporting the evaluation population alongside a property estimate or compliance score."
+      },
+      "relevance_score": 0.04457356845883926,
+      "sources": [
+        {
+          "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06953"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u..."
     },
     {
       "type": "article",
@@ -212,7 +212,7 @@
         "author": "/u/Few-Cheetah3336",
         "source_excerpt": "I\u2019m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community. I\u2019ve been thinking about contributing to established open source projects rather than building standalone GitHub projects. Honestly, the latter feels like a weaker signal nowadays, especially with AI tools making it easier than ever to build things. For those working in 3D CV, ML or applied AI, how would you approach this? What are the current challenges for new contributors, and how do you find projects where meaningful contributions can actually get noticed? Would be interested to hear about your experiences.    submitted by    /u/Few-Cheetah3336   [link] [comments]"
       },
-      "relevance_score": 0.04340367417811086,
+      "relevance_score": 0.04434325209150255,
       "sources": [
         {
           "title": "How do you build visibility through open source contributions?[D]",
