@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:05:25.367102",
+  "generated_at": "2026-11-06T08:06:03.408669",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.15984289765546097,
+      "relevance_score": 0.1437762532695067,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "/u/Severe-Heat-518",
         "source_excerpt": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end backpropagation. Chess was chosen as the testbed because it requires both local pattern recognition and long-range spatial dependencies.  GitHub Repo: https://github.com/P1X3R/sparse-chess Control Group Repo: https://github.com/P1X3R/sparse-chess-control-group  1. Motivation & Core Hypothesis Standard deep learning models (ResNets, Transformers) rely on global backpropagation. I wanted to test if extreme weight/activation sparsity (~99%) combined with local prediction updates could enable scalable, compute-efficient policy/value prediction on modest hardware. 2. Architecture & Optimizations  Model Size: ~44.9M parameters. Encoders: Fuzzy ART-based encoders mapping local receptive fields to columns. Body: Dendritic Neural Layers (DNNs) with Leaky ReLU activations acting as non-backprop feature extractors. Heads: Specialized policy and value heads matching Lc0 formats (WDL output + Lc0 move probability distributions). Quantization: Byte weights with stochastic rounding for optimized SIMD throughput.  3. Methodology & Baseline Control  Dataset: Chunks of the Lc0 test80 dataset (10k training games, 2k validation games). Control Baseline: A tiny, standard CNN (32 channels, ~3.8M parameters\u2014less than 1/10th the parameter size of the SPH model) trained via standard backpropagation on the exact same dataset splits.  4. Results & Key Findings (Negative Result) The SPH architecture failed catastrophically when compared against standard end-to-end backpropagation.  Failure to Converge on Policy: While the standard 3.8M CNN quickly learned board geometry, tactical threats, and basic move distributions, the 44.9M SPH model severely underperformed on policy accuracy and value loss. Extreme Sparsity Penalty: Enforcing ~99% sparsity choked the flow of tactical information. In chess, \"empty\" squares and long-range piece interactions carry high dense information content that local sparse representations struggle to propagate without global credit assignment. Local Learning vs. Global Dependencies: Local learning rules excel at unsupervised visual feature extraction, but they fail to pass gradient signals back from a global board outcome (Win/Draw/Loss) to early receptive fields.  5. Discussion & Questions for the Community  Global Credit Assignment: Has anyone successfully adapted local/biological learning rules (e.g., Target Propagation, Predictive Coding, HTM/SPH) to tasks with strict, long-range global credit assignment like games or logic reasoning? Dense Domains & Sparsity: Is ~99% sparsity fundamentally incompatible with dense symbolic/grid representations like chess, or is the limitation purely in my architecture (or maybe a nasty bug I couldn't catch)?  Would love to hear thoughts from anyone working on non-backprop architectures, neuromorphic computing, or biological AI abstractions!    submitted by    /u/Severe-Heat-518   [link] [comments]"
       },
-      "relevance_score": 0.1382789243082446,
+      "relevance_score": 0.11869708150366465,
       "sources": [
         {
           "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
@@ -58,7 +58,7 @@
         "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
         "source_excerpt": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsic rewards are often used to aid discovery, but naively combining them with team objectives can distort the learning signal, compromising task performance. In this paper, we propose EFXPLORER, a constrained exploration framework that maximizes exploration objectives subject to a constraint that preserves established task performance. We solve the resulting problem using an epigraph reformulation that introduces adaptive exploration budgets. This approach separates intrinsic rewards from task objectives and regulates exploration through task feasibility. To further encourage diverse and temporally extended exploration, we incorporate a successor distance-based intrinsic reward that captures long-horizon dependencies. Empirically, our method outperforms strong baselines and induces novel cooperative strategies across SMAX, VMAS, and MPE benchmark suites."
       },
-      "relevance_score": 0.11450184301965538,
+      "relevance_score": 0.10087912197758593,
       "sources": [
         {
           "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
@@ -80,7 +80,7 @@
         "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
         "source_excerpt": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation finishes. Here we present FlexFloor, a system that enables earlier resource release during synchronous response generation while preserving the expert computation required by ongoing responses. FlexFloor jointly adapts response scheduling and the active group of workers. It uses historical response lengths and memory constraints to guide batching and prompt placement, then progressively releases workers while maintaining expert availability and correct communication. Compared with the verl baseline, FlexFloor generates approximately 65.40% more response tokens per unit of occupied computing time and increases response generation throughput by 52.74%, with little observed variation in rollout reward. By making reinforcement learning post-training more efficient, FlexFloor supports faster development and iterative improvement of large language models and AI agents."
       },
-      "relevance_score": 0.11361658114327801,
+      "relevance_score": 0.10009918308355566,
       "sources": [
         {
           "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
@@ -102,7 +102,7 @@
         "author": "Jingjuan Huang, Zhiyao Zhang, Alvaro Velasquez, Nathaniel D. Bastian, Jia Liu",
         "source_excerpt": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy the filter stability assumption can be well approximated by a superstate Markov Decision Process (MDP) based on a truncated history in a finite-memory window, with a value gap that decays with the window length. However, existing finite-time convergence analyses on such superstate MDP surrogates are either limited to over-simplified linear function approximation or rely on an i.i.d. sampling oracle that is violated by POMDP trajectories, both of which severely limit the applicability of these theoretical results in practice. This motivates us to bridge the gap by investigating RL in POMDPs with nonlinear neural value function approximation. Our main contributions are threefold: i) We first establish a new finite-state MDP point-wise approximation error bound, which lays the foundation for our RL algorithm design and analysis in POMDPs; ii) By applying Temporal-Difference (TD) learning to POMDP-generated superstate transitions and targeting the Bellman fixed point of the superstate MDP, we prove a finite-time critic error bound with nonlinear neural value function approximation; and iii) By combining the neural critic function approximation error bound with the policy mirror descent framework, we obtain a finite-time sublinear regret against the optimal POMDP value. To the best of our knowledge, such a finite-time sublinear regret based on neural function approximation is the first in the literature for finite-memory POMDPs. Our numerical experiments also verify our theoretical results."
       },
-      "relevance_score": 0.10922360671104202,
+      "relevance_score": 0.0932695289924467,
       "sources": [
         {
           "title": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
@@ -124,7 +124,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07264032064970212,
+      "relevance_score": 0.06460337538765579,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -146,7 +146,7 @@
         "author": "/u/aicommander",
         "source_excerpt": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 noon (U.S. time), please DM me or comment below.    submitted by    /u/aicommander   [link] [comments]"
       },
-      "relevance_score": 0.06347596408047856,
+      "relevance_score": 0.055968290908732406,
       "sources": [
         {
           "title": "Looking for Emergency Reviewers [R]",
@@ -168,7 +168,7 @@
         "author": "Tianming Sha",
         "source_excerpt": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate prefix KV caches across branches, exchange findings by re-prefilling text summaries, and flatten or drop cross-branch dependencies during reinforcement learning (RL).\n  We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident directed acyclic graph (DAG) of KV states through five primitives (fork, read_thread, wait_threads, rewind, commit). Octopus combines three co-designed mechanisms: (1) Zero-Copy Radix Forking, which spawns branches as $\\mathcal{O}(1)$ cursor views over shared physical KV pages; (2) Attention-Only KV Mounting, which mounts a sibling thread's terminal KV blocks directly into full-attention layers while bypassing linear-recurrent states (Gated DeltaNet / Mamba-2), cutting off-task hijacking by $21\\times$ ($57.9\\% \\to 2.7\\%$) while retaining $92.2\\%$ of full-text mutual information at zero extra KV allocation; and (3) a Packed DAG-GRPO Trainer, which packs all episode branches into one block-sparse attention pass and assigns counterfactual branch credit via leave-one-branch-out marginal rewards.\n  Trained end-to-end with GRPO on Qwen3.5-4B over a sparse BM25 corpus, Octopus reaches $49.6\\%$ accuracy on BrowseComp-Plus ($+17.5$ points over single-agent GRPO at 143K context and $+12.5$ points over text-summary multi-agent RL) and $51.2\\%$ on OpenResearcher, outperforming dense-retrieval agents up to $250\\times$ larger while increasing training throughput $3.3\\times$ and cutting peak KV memory $2.8\\times$."
       },
-      "relevance_score": 0.05417376951891387,
+      "relevance_score": 0.04931837404092976,
       "sources": [
         {
           "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
@@ -177,28 +177,6 @@
         }
       ],
       "faculty_summary": "arXiv:2611.06956v1 Announce Type: new \nAbstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems append every search and verification step into one growing trajectory. However, existing multi-agent frameworks duplicate..."
-    },
-    {
-      "type": "article",
-      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
-      "description": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u...",
-      "url": "https://arxiv.org/abs/2611.06953",
-      "source": "arXiv",
-      "date": "2026-11-06T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Aleksandr Volkov, Roman Sultimov, Mikhail Kuzin, Yury Maximov",
-        "source_excerpt": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage of nominal 90% prediction intervals ranged from 91.0% under random splitting to 37.6% on held-out sources. The effect of physics-derived features depended on the evaluation. They increased gradient-boosting $R^2$ by 0.2534 in a 17-family holdout analysis and decreased it by 0.358 in a separate four-grade laboratory analysis. We report group-level errors and a synthetic regression experiment illustrating how calibration can deteriorate on held-out groups. These results motivate reporting the evaluation population alongside a property estimate or compliance score."
-      },
-      "relevance_score": 0.05253047622731412,
-      "sources": [
-        {
-          "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.06953"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u..."
     },
     {
       "type": "article",
@@ -212,7 +190,7 @@
         "author": "/u/sergbur",
         "source_excerpt": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops following the procedure it was given. For example, asked for the weather, it fetches the forecast (correct tool call) but never tells you, and starts asking you to rate its service instead. Most steps of a conversational procedure aren't tool calls but things the agent has to say: asking, confirming, telling the result. When an agent drifts from these steps, we call it procedural hallucination: a third axis, alongside factual accuracy and correct tool use, and one that has been largely overlooked. To our knowledge, DialFork is the first benchmark aimed at measuring this axis: what the agent has to say, and in what order. How it's built: we simulate dialogues where an agent follows its workflow (24 tasks, 12 domains), then fork them: we replay each one and, at a chosen turn, give the agent an instruction that makes it drift, in different, complementary ways. That gives over 36k dialogues where we know where each drift starts and how far it goes, checked with 30 human annotators and an LLM judge calibrated on them. Three tasks, from the turn to the whole set. Because we know where each drift starts, and that an earlier drift goes further, we define three tasks that measure procedural hallucination at different levels:  The turn (Task 3). Given a dialogue, either whole or turn by turn as it unfolds (streaming), find the turn where the drift starts, or say there is none. Useful as a live guardrail. The dialogue (Task 2). Given a correct dialogue and its hallucinated versions, measure how far each one drifts from it; the earlier a version drifts, the larger its distance should be. A dialogue and its own hallucinated versions talk about the same thing; what sets them apart is how they unfold. Today, comparing dialogues means comparing their content, with embeddings and semantic similarity. This task opens a new dimension, procedural distance. Useful for retrieving or clustering conversations by how they went, not just by what they're about. The set (Task 1). Given a set of correct dialogues and a set of hallucinated ones, output a single procedural distance between the two sets as a whole, comparing them as distributions rather than matching dialogues one to one. Useful for monitoring agents, e.g. whether they drift after a model upgrade, or whether a user simulator's dialogues unfold like real ones.  Open problems, and a leaderboard to track them. In the paper, we report first results on all three tasks, from embedding-based distances to streaming detectors and zero-shot LLMs. They leave plenty of room. To track progress, each task has its own track on a public leaderboard on Hugging Face; adding your method takes a single CSV file of predictions. Everything is open (data, code, every prediction from the paper, and the human judgments), and we hope it's a useful starting point for the community:  Leaderboard: https://huggingface.co/spaces/DialFork/leaderboard Code: https://github.com/idiap/dialfork Paper: https://arxiv.org/abs/2610.21561 Dataset: https://huggingface.co/datasets/DialFork/dialfork  Happy to answer questions, and feedback (including critical) is very welcome.    submitted by    /u/sergbur   [link] [comments]"
       },
-      "relevance_score": 0.05234541731301237,
+      "relevance_score": 0.046117683338778685,
       "sources": [
         {
           "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
@@ -221,6 +199,28 @@
         }
       ],
       "faculty_summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent st..."
+    },
+    {
+      "type": "article",
+      "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+      "description": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u...",
+      "url": "https://arxiv.org/abs/2611.06953",
+      "source": "arXiv",
+      "date": "2026-11-06T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Aleksandr Volkov, Roman Sultimov, Mikhail Kuzin, Yury Maximov",
+        "source_excerpt": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design. We examine how the choice of held-out unit changes the conclusions drawn from SteelBench tensile-strength evaluations. For gradient boosting, pooled out-of-fold $R^2$ fell from 0.859 on a random split to 0.113 when steel families were held out. Empirical coverage of nominal 90% prediction intervals ranged from 91.0% under random splitting to 37.6% on held-out sources. The effect of physics-derived features depended on the evaluation. They increased gradient-boosting $R^2$ by 0.2534 in a 17-family holdout analysis and decreased it by 0.358 in a separate four-grade laboratory analysis. We report group-level errors and a synthetic regression experiment illustrating how calibration can deteriorate on held-out groups. These results motivate reporting the evaluation population alongside a property estimate or compliance score."
+      },
+      "relevance_score": 0.04560569123293893,
+      "sources": [
+        {
+          "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06953"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.06953v1 Announce Type: new \nAbstract: Steel property models can perform well on random test splits even when they extrapolate poorly to unfamiliar alloys. SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, u..."
     }
   ]
 }
