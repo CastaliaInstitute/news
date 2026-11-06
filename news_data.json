@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-06T01:05:47.498086",
+  "generated_at": "2026-11-06T02:06:10.280640",
   "total_items": 10,
   "items": [
+    {
+      "type": "article",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "url": "https://openai.com/index/franklin-templeton",
+      "source": "OpenAI",
+      "date": "2026-11-05T00:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
+      },
+      "relevance_score": 0.12785610465099456,
+      "sources": [
+        {
+          "title": "Franklin Templeton uses OpenAI to support investment research",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/franklin-templeton"
+        }
+      ],
+      "faculty_summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
+    },
     {
       "type": "article",
       "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
@@ -14,7 +36,7 @@
         "author": "/u/Severe-Heat-518",
         "source_excerpt": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end backpropagation. Chess was chosen as the testbed because it requires both local pattern recognition and long-range spatial dependencies.  GitHub Repo: https://github.com/P1X3R/sparse-chess Control Group Repo: https://github.com/P1X3R/sparse-chess-control-group  1. Motivation & Core Hypothesis Standard deep learning models (ResNets, Transformers) rely on global backpropagation. I wanted to test if extreme weight/activation sparsity (~99%) combined with local prediction updates could enable scalable, compute-efficient policy/value prediction on modest hardware. 2. Architecture & Optimizations  Model Size: ~44.9M parameters. Encoders: Fuzzy ART-based encoders mapping local receptive fields to columns. Body: Dendritic Neural Layers (DNNs) with Leaky ReLU activations acting as non-backprop feature extractors. Heads: Specialized policy and value heads matching Lc0 formats (WDL output + Lc0 move probability distributions). Quantization: Byte weights with stochastic rounding for optimized SIMD throughput.  3. Methodology & Baseline Control  Dataset: Chunks of the Lc0 test80 dataset (10k training games, 2k validation games). Control Baseline: A tiny, standard CNN (32 channels, ~3.8M parameters\u2014less than 1/10th the parameter size of the SPH model) trained via standard backpropagation on the exact same dataset splits.  4. Results & Key Findings (Negative Result) The SPH architecture failed catastrophically when compared against standard end-to-end backpropagation.  Failure to Converge on Policy: While the standard 3.8M CNN quickly learned board geometry, tactical threats, and basic move distributions, the 44.9M SPH model severely underperformed on policy accuracy and value loss. Extreme Sparsity Penalty: Enforcing ~99% sparsity choked the flow of tactical information. In chess, \"empty\" squares and long-range piece interactions carry high dense information content that local sparse representations struggle to propagate without global credit assignment. Local Learning vs. Global Dependencies: Local learning rules excel at unsupervised visual feature extraction, but they fail to pass gradient signals back from a global board outcome (Win/Draw/Loss) to early receptive fields.  5. Discussion & Questions for the Community  Global Credit Assignment: Has anyone successfully adapted local/biological learning rules (e.g., Target Propagation, Predictive Coding, HTM/SPH) to tasks with strict, long-range global credit assignment like games or logic reasoning? Dense Domains & Sparsity: Is ~99% sparsity fundamentally incompatible with dense symbolic/grid representations like chess, or is the limitation purely in my architecture (or maybe a nasty bug I couldn't catch)?  Would love to hear thoughts from anyone working on non-backprop architectures, neuromorphic computing, or biological AI abstractions!    submitted by    /u/Severe-Heat-518   [link] [comments]"
       },
-      "relevance_score": 0.1221024963739464,
+      "relevance_score": 0.11430664197168383,
       "sources": [
         {
           "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
@@ -23,6 +45,31 @@
         }
       ],
       "faculty_summary": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end backpropagat..."
+    },
+    {
+      "type": "article",
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "description": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts ...",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "source": "arXiv",
+      "date": "2026-11-05T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Riccardo Riccio, Haitz S\\'aez de Oc\\'ariz Borde, Pietro Li\\`o",
+        "source_excerpt": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning trace and identifies specific factual or expertise gaps. These signals trigger targeted knowledge retrieval or mid-discussion specialist recruitment. On the MEDAGENTSBENCH hard subset (862 questions across nine biomedical datasets), upfront retrieval provides little benefit, while challenge-aware in-between retrieval performs better; on a multi-specialist backbone it improves accuracy on 8 of 9 datasets and adds 6 percentage points over Challenger Only. Ablations indicate benefits from both retrieval timing and gap-specific query signals, and a live web-search experiment shows that the timing advantage persists across retrieval backends. For specialist recruitment, self-triggered adaptation is unreliable, whereas Challenger-triggered recruitment raises GPT-4.1-mini MedQA accuracy from 46% to 54%, with positive direction on all tested generalization datasets. Naively combining retrieval and specialist recruitment degrades performance, highlighting the need to coordinate adaptive intervention channels. These results show that when and why external resources are recruited is a key design choice in multi-agent medical reasoning.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.09140109183808631,
+      "sources": [
+        {
+          "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.05393"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts ..."
     },
     {
       "type": "article",
@@ -36,7 +83,7 @@
         "author": "Chawit Kaewnuratchadasorn, Jiaji Wang, Xin Nie",
         "source_excerpt": "arXiv:2611.05439v1 Announce Type: new \nAbstract: High-fidelity simulation of dynamical systems is central to scientific discovery and engineering design, yet remains computationally demanding. Here we introduce the Implicit Neural Operator Solver (INOS), which learns the implicit solve and encodes a time integrator. INOS pretrains a neural operator from static equilibrium solutions and reuses it within Newmark-$\\beta$ integration. At each time increment, the integrator forms an effective equilibrium problem, the pretrained neural operator infers the next-step solution field, and the Newmark relations advance the dynamic state. Numerical examples in linear and nonlinear elastodynamics demonstrate accurate full-field predictions without dynamic trajectory supervision. Comparative results show that INOS, evaluated zero-shot, achieves higher predictive accuracy than neural solver baselines trained on dynamic simulations. In addition, INOS delivers over 4,600$\\times$ speedup in nonlinear simulations over sequential classical finite-element solvers. INOS natively accommodates changes in dynamic conditions and enables reuse of the pretrained operator across spatial and temporal discretizations. Further evaluation demonstrates a stable million-step rollout. These findings establish INOS as a reusable neural implicit solver for accurate, efficient, and robust dynamic modeling."
       },
-      "relevance_score": 0.09317095225696975,
+      "relevance_score": 0.08815066874817114,
       "sources": [
         {
           "title": "Learning Implicit Solves for Dynamic Simulations",
@@ -58,7 +105,7 @@
         "author": "Ojaswi Sinha, Amin Farajzadeh, Animesh Yadav, Melike Erol-Kantarci",
         "source_excerpt": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasingly significant as the learning rate decays. Moreover, accumulated noise enables Byzantine attackers to exploit loss-based model selection by mimicking honest model averages. To address these challenges, we propose screened, hop-aware, ranked, proximal averaging, a robust DFL framework (FedSharp). In this approach, each node maintains models from its 2b predecessors, ensuring at least b honest candidates when at most b nodes are Byzantine. FedSharp screens suspicious models using coordinate-wise median deviations, averages the b lowest-loss candidates to reduce fresh channel-noise variance by a factor of b, and applies noise-adaptive gradient-norm regularization and proximal training to mitigate accumulated noise and non-IID drift. Experiments on a 100-node ring with 33 Byzantine nodes show that FedSharp achieves 93.5-94.9% accuracy on MNIST, compared with 29.4-38.1% for a state-of-the-art single-model-selection benchmark, and 32.8-48.8% on CIFAR-10, compared with 10.0-30.5%, across Gaussian and hidden attacks under IID and non-IID data. On MNIST, FedSharp also achieves accuracy within approximately one percentage point of the benchmark operating without channel noise."
       },
-      "relevance_score": 0.08852924058575627,
+      "relevance_score": 0.08649161452666707,
       "sources": [
         {
           "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
@@ -67,31 +114,6 @@
         }
       ],
       "faculty_summary": "arXiv:2611.05546v1 Announce Type: new \nAbstract: Decentralized federated learning (DFL) eliminates the central aggregation server but remains vulnerable to data heterogeneity, Byzantine attacks, and channel noise. We show that noise accumulates as models propagate across nodes, becoming increasin..."
-    },
-    {
-      "type": "article",
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "description": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts ...",
-      "url": "https://arxiv.org/abs/2611.05393",
-      "source": "arXiv",
-      "date": "2026-11-05T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Riccardo Riccio, Haitz S\\'aez de Oc\\'ariz Borde, Pietro Li\\`o",
-        "source_excerpt": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and retrieve knowledge from the question alone, rather than from gaps that emerge during reasoning. We propose challenge-aware adaptive recruitment: an external CHALLENGER inspects the evolving reasoning trace and identifies specific factual or expertise gaps. These signals trigger targeted knowledge retrieval or mid-discussion specialist recruitment. On the MEDAGENTSBENCH hard subset (862 questions across nine biomedical datasets), upfront retrieval provides little benefit, while challenge-aware in-between retrieval performs better; on a multi-specialist backbone it improves accuracy on 8 of 9 datasets and adds 6 percentage points over Challenger Only. Ablations indicate benefits from both retrieval timing and gap-specific query signals, and a live web-search experiment shows that the timing advantage persists across retrieval backends. For specialist recruitment, self-triggered adaptation is unreliable, whereas Challenger-triggered recruitment raises GPT-4.1-mini MedQA accuracy from 46% to 54%, with positive direction on all tested generalization datasets. Naively combining retrieval and specialist recruitment degrades performance, highlighting the need to coordinate adaptive intervention channels. These results show that when and why external resources are recruited is a key design choice in multi-agent medical reasoning.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.08609242960788552,
-      "sources": [
-        {
-          "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.05393"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts ..."
     },
     {
       "type": "article",
@@ -105,7 +127,7 @@
         "author": "Abdullah Al Kalbani, David M. Schultz, Alexandra K. Anderson-Frey, Zhonghua Zheng, Catherine McGuire",
         "source_excerpt": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a published review of the Spanish plume weather pattern and its 102-article corpus.\n  In the initial searches, five tools collectively identified 57 articles, with the best individual tool finding 42. Institutional library access increased discovery from 42 to 82 articles for Codex and from 15 to 79 for Claude Code. Given the complete corpus of 102 PDFs, three tools correctly identified all 18 articles discussing the Spanish plume substantially, but incorrectly classified 40% to 79% of the 84 passing mentions as substantial. The same three tools produced syntheses evaluated blindly by two domain experts. Although largely accurate, the syntheses provided limited insight and sometimes contained unsupported claims, quotation errors, and exaggerated statements of consensus. Finally, all three tools proposed research directions broader than the Spanish plume literature, although two approached questions identified in the benchmark review.\n  No single tool performed best across all tasks. We provide eight recommendations for researchers using AI tools in literature reviews. Our findings suggest that LLMs can assist with discovering and interpreting scientific literature, particularly when institutional access is available, but cannot replace expert judgment in evaluating evidence or synthesizing research."
       },
-      "relevance_score": 0.08540221173755642,
+      "relevance_score": 0.08311255366210983,
       "sources": [
         {
           "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
@@ -127,7 +149,7 @@
         "author": "Mohammed Siraj B, Gousia Habib, Ruban S",
         "source_excerpt": "arXiv:2611.05442v1 Announce Type: new \nAbstract: Background: Quantum machine learning (QML) is promoted for clinical prediction, but comparisons with classical models are rarely paired or tested for equivalence. Methods: We compared a quantum-kernel support vector machine (QSVM; 4 qubits, tuned bandwidth) and a variational quantum classifier (VQC) with five tuned classical models across six public clinical datasets. All models used identical four-component inputs and 25 cross-validation splits. Paired AUROC differences were assessed using a corrected resampled t-test, Holm-adjusted equivalence tests (margins: +/-0.02 and +/-0.05), and random-effects pooling. Ablation, noise, finite-shot, and implementation-fault analyses were conducted. We propose QML-Health-READY, an eight-domain reporting framework. Results: Neither quantum model significantly outperformed any classical comparator. Pooled across datasets, QSVM differed from the kernel-matched radial basis function (RBF) SVM by -0.006 AUROC (95% CI: -0.017 to +0.004), equivalent to +/-0.02. VQC differed from the best classical model by -0.007 (95% CI: -0.019 to +0.004). QSVM was equivalent to RBF SVM within +/-0.05 in four of six datasets but was significantly worse than the best classical model on NHANES 2017-18 (-0.076). A classically trivial product-state kernel performed as well as the entangling kernel. With depolarizing noise (p = 0.01) and 1,024 shots per kernel entry, QSVM AUROC decreased by 0.054 (95% CI: 0.036 to 0.071). Untuned bandwidth produced near-chance AUROC (0.48-0.59). Conclusions: Correctly configured quantum classifiers approached but did not exceed tuned classical models. Finite-shot estimation, rather than gate noise, was their main practical cost, while configuration errors could reverse conclusions. QML-Health-READY defines reporting requirements for credible claims."
       },
-      "relevance_score": 0.07911165783719537,
+      "relevance_score": 0.07417796123343322,
       "sources": [
         {
           "title": "Matched but Not Better: An Equivalence-Tested Benchmark of Quantum Machine Learning on Six Clinical Datasets and the QML-Health-READY Reporting Framework",
@@ -149,7 +171,7 @@
         "author": "/u/aicommander",
         "source_excerpt": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 noon (U.S. time), please DM me or comment below.    submitted by    /u/aicommander   [link] [comments]"
       },
-      "relevance_score": 0.05752040645568421,
+      "relevance_score": 0.05189630480198222,
       "sources": [
         {
           "title": "Looking for Emergency Reviewers [R]",
@@ -158,28 +180,6 @@
         }
       ],
       "faculty_summary": "We\u2019re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6 ..."
-    },
-    {
-      "type": "article",
-      "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-      "description": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent st...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
-      "source": "Reddit ML",
-      "date": "2026-11-05T10:44:15",
-      "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/sergbur",
-        "source_excerpt": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops following the procedure it was given. For example, asked for the weather, it fetches the forecast (correct tool call) but never tells you, and starts asking you to rate its service instead. Most steps of a conversational procedure aren't tool calls but things the agent has to say: asking, confirming, telling the result. When an agent drifts from these steps, we call it procedural hallucination: a third axis, alongside factual accuracy and correct tool use, and one that has been largely overlooked. To our knowledge, DialFork is the first benchmark aimed at measuring this axis: what the agent has to say, and in what order. How it's built: we simulate dialogues where an agent follows its workflow (24 tasks, 12 domains), then fork them: we replay each one and, at a chosen turn, give the agent an instruction that makes it drift, in different, complementary ways. That gives over 36k dialogues where we know where each drift starts and how far it goes, checked with 30 human annotators and an LLM judge calibrated on them. Three tasks, from the turn to the whole set. Because we know where each drift starts, and that an earlier drift goes further, we define three tasks that measure procedural hallucination at different levels:  The turn (Task 3). Given a dialogue, either whole or turn by turn as it unfolds (streaming), find the turn where the drift starts, or say there is none. Useful as a live guardrail. The dialogue (Task 2). Given a correct dialogue and its hallucinated versions, measure how far each one drifts from it; the earlier a version drifts, the larger its distance should be. A dialogue and its own hallucinated versions talk about the same thing; what sets them apart is how they unfold. Today, comparing dialogues means comparing their content, with embeddings and semantic similarity. This task opens a new dimension, procedural distance. Useful for retrieving or clustering conversations by how they went, not just by what they're about. The set (Task 1). Given a set of correct dialogues and a set of hallucinated ones, output a single procedural distance between the two sets as a whole, comparing them as distributions rather than matching dialogues one to one. Useful for monitoring agents, e.g. whether they drift after a model upgrade, or whether a user simulator's dialogues unfold like real ones.  Open problems, and a leaderboard to track them. In the paper, we report first results on all three tasks, from embedding-based distances to streaming detectors and zero-shot LLMs. They leave plenty of room. To track progress, each task has its own track on a public leaderboard on Hugging Face; adding your method takes a single CSV file of predictions. Everything is open (data, code, every prediction from the paper, and the human judgments), and we hope it's a useful starting point for the community:  Leaderboard: https://huggingface.co/spaces/DialFork/leaderboard Code: https://github.com/idiap/dialfork Paper: https://arxiv.org/abs/2610.21561 Dataset: https://huggingface.co/datasets/DialFork/dialfork  Happy to answer questions, and feedback (including critical) is very welcome.    submitted by    /u/sergbur   [link] [comments]"
-      },
-      "relevance_score": 0.051476299747133546,
-      "sources": [
-        {
-          "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-          "publisher": "Reddit ML",
-          "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/"
-        }
-      ],
-      "faculty_summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent st..."
     },
     {
       "type": "article",
@@ -193,7 +193,7 @@
         "author": "Ivan Silajev",
         "source_excerpt": "arXiv:2611.05557v1 Announce Type: new \nAbstract: Support vector machines (SVMs) are fundamentally grounded in geometric margin maximisation and currently lack a mainstream probabilistic interpretation. This keeps them theoretically isolated from probabilistic machine learning models that are naturally comparable and combinable. In this paper, we bridge this gap by proving that the dual objectives of both support vector classification and support vector regression are exact, constrained Kullback-Leibler (KL) divergence minimisation tasks between two Gaussian measures. We further show that this same divergence formulation recovers the exact objective function for kernel ridge regression when domain constraints are removed and $L^2$ regularisation is applied. By demonstrating that SVM duals directly minimise relative entropy, our results provide a unified information-theoretic model for standard kernel machines and lay the foundation for unifying broader kernel-based algorithms under probability theory."
       },
-      "relevance_score": 0.04943030086151237,
+      "relevance_score": 0.04797820304316248,
       "sources": [
         {
           "title": "Support Vector Machines Directly Minimise KL Divergence",
@@ -205,28 +205,25 @@
     },
     {
       "type": "article",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI",
-      "date": "2026-11-04T00:00:00",
+      "title": "The Confidence Score: a New Measure on Kernels",
+      "description": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which ...",
+      "url": "https://arxiv.org/abs/2611.05528",
+      "source": "arXiv",
+      "date": "2026-11-05T05:00:00",
       "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-        "matched_keywords": [
-          "reasoning"
-        ]
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Elizabeth Hofer, Martin v. Mohrenschildt",
+        "source_excerpt": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which kernels may produce accurate kernel classifiers. Many existing kernel measures, such as alignment to the ideal kernel, are designed to reward kernels which captures all samples from the same class as similar. While effective in many settings, this requirement is unnecessarily restrictive for classification, where classes may exhibit substantial internal structure. In this work, the \"Confidence Score\", a new kernel measure, is proposed. Unlike alignment-to-the-ideal kernel measures, the Confidence Score measures the alignment between an encoding of the ground truth and that ground truth projected by the kernel, allowing kernels that preserve intra-class structure to achieve high scores. Through experiments, it is demonstrated that the Confidence Score exhibits a higher correlation with classification accuracy across a variety of kernels on both real-world and synthetic datasets, compared to select other kernel measures."
       },
-      "relevance_score": 0.049302423963205846,
+      "relevance_score": 0.046244380751435596,
       "sources": [
         {
-          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/devrev-enterprise-self-service"
+          "title": "The Confidence Score: a New Measure on Kernels",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.05528"
         }
       ],
-      "faculty_summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+      "faculty_summary": "arXiv:2611.05528v1 Announce Type: new \nAbstract: Across a wide range of applications, kernel measures are used to tune hyperparameters, select among candidate kernels, and assess the suitability of kernels for specific learning tasks. For classification, kernel measures are used to predict which ..."
     }
   ]
 }
