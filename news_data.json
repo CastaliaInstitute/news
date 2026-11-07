@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:04:35.206089",
+  "generated_at": "2026-11-07T14:04:23.847265",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07174007223491215,
+      "relevance_score": 0.07122880758582181,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.06996290476773553,
+      "relevance_score": 0.06991900534335162,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05709024637907182,
+      "relevance_score": 0.05697484601155829,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -136,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "Upload Your RAM",
+      "title": "Need for Speed Underground 2 online in the browser",
       "description": "Comments",
-      "url": "https://uploadyourram.org",
+      "url": "https://nfsu2.xyz/",
       "source": "Hacker News",
-      "date": "2026-11-07T10:15:26",
+      "date": "2026-11-07T09:36:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Upload Your RAM",
+          "title": "Need for Speed Underground 2 online in the browser",
           "publisher": "Hacker News",
-          "url": "https://uploadyourram.org"
+          "url": "https://nfsu2.xyz/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Need for Speed Underground 2 online in the browser",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
       "description": "Comments",
-      "url": "https://nfsu2.xyz/",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "source": "Hacker News",
-      "date": "2026-11-07T09:36:36",
+      "date": "2026-11-07T09:46:03",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Need for Speed Underground 2 online in the browser",
+          "title": "Every Mac comes with an (undocumented) family member classifier",
           "publisher": "Hacker News",
-          "url": "https://nfsu2.xyz/"
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "title": "Running a law firm on Free software",
       "description": "Comments",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
       "source": "Hacker News",
-      "date": "2026-11-06T19:48:51",
+      "date": "2026-11-07T09:39:06",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "title": "Running a law firm on Free software",
           "publisher": "Hacker News",
-          "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/"
         }
       ],
       "faculty_summary": "Comments"
