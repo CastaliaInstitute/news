@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:05:28.964679",
+  "generated_at": "2026-11-07T06:05:45.099904",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07172700260193601,
+      "relevance_score": 0.07202484272954458,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.056971235701489556,
+      "relevance_score": 0.05767282679015788,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -102,7 +102,7 @@
         "author": "/u/Cali_Cobarde",
         "source_excerpt": "Disclosure: I'm at Boson AI and this is our release. Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now. Most voice models are still turn-based: listen, wait for end of turn, think, speak. Duplex runs all streams at once and keeps working in the background while it talks. Streams. Everything is cut into 160 ms chunks:  Audio in: 1 token per chunk (6.25 tokens/s) Audio out: 2 tokens per chunk (12.5 tokens/s) Video in: one ~12-token camera frame every 6 chunks Face out: 2 latents per chunk Text in and out alongside  Silence is represented as chunks too, which is what the model uses to decide when to backchannel, interrupt or stay quiet. That comes to ~2.6K tokens per minute for audio and video, 2.6K to 5K with thinking and tool traces (progressively compacted). The last 5 minutes plus compacted text history is 13K to 25K tokens; older history is kept as text. Background work. Thinking, tool calls and delegation are spans in the same stream and can cover many chunks. Tool results can arrive in stages and the model can start speaking before they are complete. Harder problems are delegated to a much larger backend model with the full shared context. This is the main difference from Thinking Machines' interaction models, where all reasoning and tool use goes to the background model, which can mean 10+ seconds per answer and makes cost harder to control. Voice and face. Set zero-shot at deployment: a short reference clip for the voice, one image for the face, and a text prompt for behavior. No fine-tuning. Audio comes from a causal flow-matching decoder (2 frames per chunk), the face from a causal DiT conditioned on the reference image and the previous two latents. Training. Starts from a text-pretrained LLM, continued pretraining on ~2T tokens of text, audio and video on our own H100 cluster (Megatron-based stack). Post-training is multi-teacher on-policy distillation: specialist teachers trained with RL (including GRPO) on conversation, interaction timing, delegation and task completion, distilled into one student. On top of that, a self-improvement loop in simulated environments with realistic timing, interruptions, overlapping speech and background noise. Benchmarks. Best published or reproduced configuration from each lab (we reproduced more than half of the competitor numbers):   Benchmark Duplex (45B) TML Interaction Small (276B) OpenAI best Google best    Big Bench Audio 98.9 96.5 (75.7 w/o background agent) 97 98   Audio MultiChallenge (APR) 44.9 43.4 48.5 36.1   Full-Duplex-Bench v1.5 75.5 77.8 80.1 54.3   QIVD (streaming) 56.0 54.0 58.2 56.1   ProactiveVideoQA (PAUC) 31.9 33.5 25.0 \u2013   \u03c4-Voice (pass@1) 69.8 \u2013 74.5 68.6   IFEval 94.1 89.7 95.2 90.0   OpenAI's best settings lead on five of seven, by 1 to 5 points, several at their highest thinking setting. Turn-taking (Full-Duplex-Bench) is where we're furthest behind. Our takeaway is that at this size, data and training matter more than parameter count; the front model is deliberately mid-sized because the design target is that an hour of model time costs at most a tenth of an hour of human time. Announcement with demos: https://www.boson.ai/blog/higgs-realtime-duplex My write-up: https://alex.smola.org/posts/50-talking-while-thinking/ Happy to answer questions about the chunked-stream design and the delegation setup.    submitted by    /u/Cali_Cobarde   [link] [comments]"
       },
-      "relevance_score": 0.0427076022343142,
+      "relevance_score": 0.04283311660847901,
       "sources": [
         {
           "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
@@ -158,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
       "description": "Comments",
-      "url": "https://josef.cn/blog/unitree",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
       "source": "Hacker News",
-      "date": "2026-11-07T01:05:16",
+      "date": "2026-11-07T04:54:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+          "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
           "publisher": "Hacker News",
-          "url": "https://josef.cn/blog/unitree"
+          "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "title": "What do the next 4000 emoji look like?",
       "description": "Comments",
-      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
       "source": "Hacker News",
-      "date": "2026-11-06T23:37:19",
+      "date": "2026-11-05T20:46:26",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+          "title": "What do the next 4000 emoji look like?",
           "publisher": "Hacker News",
-          "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/"
+          "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look"
         }
       ],
       "faculty_summary": "Comments"
