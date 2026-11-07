@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:05:21.251714",
+  "generated_at": "2026-11-07T17:04:03.220063",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.06991900534335162,
+      "relevance_score": 0.06977432932262642,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -102,7 +102,7 @@
         "author": "/u/rohitx0",
         "source_excerpt": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process. One of the reviewers seems to have submitted a review for a completely different paper. And I don't mean they misunderstood our method or missed the main contribution. Their entire paper summary describes a completely different research problem, method, and set of experiments. It has practically nothing to do with our submission, yet they went ahead and gave it a rejection. Of the other two reviewers, one actually provided a good, thoughtful review, correctly identifying the strengths and weaknesses of our work. The other, however, didn't seem to have read the paper carefully. They criticized our negative findings as a weakness, despite the fact that investigating and demonstrating the limitations of existing approaches is explicitly part of the paper's objective. I'm perfectly fine with criticism, rejection, or reviewers disagreeing with our conclusions. That's part of research. But how is an author supposed to respond when one reviewer is apparently reviewing an entirely different manuscript? Has anyone experienced something like this before? Should I contact the AC directly, and is there any realistic chance of getting such a review disregarded or corrected? I'm genuinely at a loss as to how something like this happens at a conference of this scale.    submitted by    /u/rohitx0   [link] [comments]"
       },
-      "relevance_score": 0.028090279051956546,
+      "relevance_score": 0.028161367399088755,
       "sources": [
         {
           "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
@@ -158,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "description": "Comments",
+      "url": "https://kevinboone.me/tpwin.html",
+      "source": "Hacker News",
+      "date": "2026-11-07T16:06:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+          "publisher": "Hacker News",
+          "url": "https://kevinboone.me/tpwin.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Need for Speed Underground 2 online in the browser",
       "description": "Comments",
       "url": "https://nfsu2.xyz/",
@@ -196,28 +218,6 @@
           "title": "Libghostty 1.0",
           "publisher": "Hacker News",
           "url": "https://mitchellh.com/writing/libghostty-1-0"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Running a law firm on Free software",
-      "description": "Comments",
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "source": "Hacker News",
-      "date": "2026-11-07T09:39:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Running a law firm on Free software",
-          "publisher": "Hacker News",
-          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/"
         }
       ],
       "faculty_summary": "Comments"
