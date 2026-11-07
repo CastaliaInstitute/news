@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:05:25.331885",
+  "generated_at": "2026-11-07T10:04:55.463212",
   "total_items": 10,
   "items": [
     {
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Asahi Linux Progress Linux 7.3",
+      "title": "The Components of Agent Memory",
       "description": "Comments",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
       "source": "Hacker News",
-      "date": "2026-11-07T05:20:18",
+      "date": "2026-11-07T06:39:04",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Asahi Linux Progress Linux 7.3",
+          "title": "The Components of Agent Memory",
           "publisher": "Hacker News",
-          "url": "https://asahilinux.org/2026/11/progress-report-7-3/"
+          "url": "https://www.anthropic.com/research/components-of-agent-memory"
         }
       ],
       "faculty_summary": "Comments"
