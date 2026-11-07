@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:04:13.155972",
+  "generated_at": "2026-11-07T16:05:21.251714",
   "total_items": 10,
   "items": [
     {
@@ -136,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "Need for Speed Underground 2 online in the browser",
-      "description": "Comments",
-      "url": "https://nfsu2.xyz/",
-      "source": "Hacker News",
-      "date": "2026-11-07T09:36:36",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Need for Speed Underground 2 online in the browser",
-          "publisher": "Hacker News",
-          "url": "https://nfsu2.xyz/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "The $8 Linux Computer (2022)",
       "description": "Comments",
       "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
@@ -174,6 +152,28 @@
           "title": "The $8 Linux Computer (2022)",
           "publisher": "Hacker News",
           "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "description": "Comments",
+      "url": "https://nfsu2.xyz/",
+      "source": "Hacker News",
+      "date": "2026-11-07T09:36:36",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Need for Speed Underground 2 online in the browser",
+          "publisher": "Hacker News",
+          "url": "https://nfsu2.xyz/"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "title": "Running a law firm on Free software",
       "description": "Comments",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
       "source": "Hacker News",
-      "date": "2026-11-07T09:46:03",
+      "date": "2026-11-07T09:39:06",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "title": "Running a law firm on Free software",
           "publisher": "Hacker News",
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/"
         }
       ],
       "faculty_summary": "Comments"
