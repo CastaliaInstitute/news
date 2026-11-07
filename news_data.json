@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-06T23:04:23.601794",
+  "generated_at": "2026-11-07T00:08:25.842400",
   "total_items": 10,
   "items": [
     {
       "type": "article",
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "description": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain oc...",
-      "url": "https://arxiv.org/abs/2611.06984",
+      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+      "description": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsi...",
+      "url": "https://arxiv.org/abs/2611.07066",
       "source": "arXiv",
       "date": "2026-11-06T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
-        "source_excerpt": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation finishes. Here we present FlexFloor, a system that enables earlier resource release during synchronous response generation while preserving the expert computation required by ongoing responses. FlexFloor jointly adapts response scheduling and the active group of workers. It uses historical response lengths and memory constraints to guide batching and prompt placement, then progressively releases workers while maintaining expert availability and correct communication. Compared with the verl baseline, FlexFloor generates approximately 65.40% more response tokens per unit of occupied computing time and increases response generation throughput by 52.74%, with little observed variation in rollout reward. By making reinforcement learning post-training more efficient, FlexFloor supports faster development and iterative improvement of large language models and AI agents."
+        "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
+        "source_excerpt": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsic rewards are often used to aid discovery, but naively combining them with team objectives can distort the learning signal, compromising task performance. In this paper, we propose EFXPLORER, a constrained exploration framework that maximizes exploration objectives subject to a constraint that preserves established task performance. We solve the resulting problem using an epigraph reformulation that introduces adaptive exploration budgets. This approach separates intrinsic rewards from task objectives and regulates exploration through task feasibility. To further encourage diverse and temporally extended exploration, we incorporate a successor distance-based intrinsic reward that captures long-horizon dependencies. Empirically, our method outperforms strong baselines and induces novel cooperative strategies across SMAX, VMAS, and MPE benchmark suites."
       },
-      "relevance_score": 0.10996336836668984,
+      "relevance_score": 0.10558771589928483,
       "sources": [
         {
-          "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+          "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.06984"
+          "url": "https://arxiv.org/abs/2611.07066"
         }
       ],
-      "faculty_summary": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain oc..."
+      "faculty_summary": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsi..."
     },
     {
       "type": "article",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.10927593018077249,
+      "relevance_score": 0.1039295166314623,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -45,50 +45,6 @@
         }
       ],
       "faculty_summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-    },
-    {
-      "type": "article",
-      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-      "description": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsi...",
-      "url": "https://arxiv.org/abs/2611.07066",
-      "source": "arXiv",
-      "date": "2026-11-06T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
-        "source_excerpt": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsic rewards are often used to aid discovery, but naively combining them with team objectives can distort the learning signal, compromising task performance. In this paper, we propose EFXPLORER, a constrained exploration framework that maximizes exploration objectives subject to a constraint that preserves established task performance. We solve the resulting problem using an epigraph reformulation that introduces adaptive exploration budgets. This approach separates intrinsic rewards from task objectives and regulates exploration through task feasibility. To further encourage diverse and temporally extended exploration, we incorporate a successor distance-based intrinsic reward that captures long-horizon dependencies. Empirically, our method outperforms strong baselines and induces novel cooperative strategies across SMAX, VMAS, and MPE benchmark suites."
-      },
-      "relevance_score": 0.10917369813212852,
-      "sources": [
-        {
-          "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.07066"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity of joint state-action spaces, which hinders the emergence of coordinated behaviors from trial-and-error alone. Intrinsi..."
-    },
-    {
-      "type": "article",
-      "title": "AI is dramatically accelerating AI research",
-      "description": "Comments",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "Hacker News",
-      "date": "2026-11-06T20:27:23",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.10711172278019082,
-      "sources": [
-        {
-          "title": "AI is dramatically accelerating AI research",
-          "publisher": "Hacker News",
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -102,7 +58,7 @@
         "author": "Jingjuan Huang, Zhiyao Zhang, Alvaro Velasquez, Nathaniel D. Bastian, Jia Liu",
         "source_excerpt": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy the filter stability assumption can be well approximated by a superstate Markov Decision Process (MDP) based on a truncated history in a finite-memory window, with a value gap that decays with the window length. However, existing finite-time convergence analyses on such superstate MDP surrogates are either limited to over-simplified linear function approximation or rely on an i.i.d. sampling oracle that is violated by POMDP trajectories, both of which severely limit the applicability of these theoretical results in practice. This motivates us to bridge the gap by investigating RL in POMDPs with nonlinear neural value function approximation. Our main contributions are threefold: i) We first establish a new finite-state MDP point-wise approximation error bound, which lays the foundation for our RL algorithm design and analysis in POMDPs; ii) By applying Temporal-Difference (TD) learning to POMDP-generated superstate transitions and targeting the Bellman fixed point of the superstate MDP, we prove a finite-time critic error bound with nonlinear neural value function approximation; and iii) By combining the neural critic function approximation error bound with the policy mirror descent framework, we obtain a finite-time sublinear regret against the optimal POMDP value. To the best of our knowledge, such a finite-time sublinear regret based on neural function approximation is the first in the literature for finite-memory POMDPs. Our numerical experiments also verify our theoretical results."
       },
-      "relevance_score": 0.10553793209256472,
+      "relevance_score": 0.10195940202297038,
       "sources": [
         {
           "title": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
@@ -111,6 +67,50 @@
         }
       ],
       "faculty_summary": "arXiv:2611.07069v1 Announce Type: new \nAbstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the curse of long-range dependence on history. Fortunately, recent studies have shown that a range of POMDPs that satisfy t..."
+    },
+    {
+      "type": "article",
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "description": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain oc...",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "source": "arXiv",
+      "date": "2026-11-06T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
+        "source_excerpt": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently, approximately one-third of occupied worker time in the baseline occurs after local response generation finishes. Here we present FlexFloor, a system that enables earlier resource release during synchronous response generation while preserving the expert computation required by ongoing responses. FlexFloor jointly adapts response scheduling and the active group of workers. It uses historical response lengths and memory constraints to guide batching and prompt placement, then progressively releases workers while maintaining expert availability and correct communication. Compared with the verl baseline, FlexFloor generates approximately 65.40% more response tokens per unit of occupied computing time and increases response generation throughput by 52.74%, with little observed variation in rollout reward. By making reinforcement learning post-training more efficient, FlexFloor supports faster development and iterative improvement of large language models and AI agents."
+      },
+      "relevance_score": 0.1014455625432171,
+      "sources": [
+        {
+          "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06984"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain oc..."
+    },
+    {
+      "type": "article",
+      "title": "AI is dramatically accelerating AI research",
+      "description": "Comments",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "Hacker News",
+      "date": "2026-11-06T20:27:23",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.10097999088340726,
+      "sources": [
+        {
+          "title": "AI is dramatically accelerating AI research",
+          "publisher": "Hacker News",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -124,7 +124,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.0932024841007337,
+      "relevance_score": 0.08981370831890817,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -146,7 +146,7 @@
         "author": "/u/fanconic",
         "source_excerpt": "I submitted my paper to ICLR, after improving and correcting since I \"published\" it previously in a workshop/arXiv. In this process, I changed the name of the method and title. Now a reviewer, pointed out that my method is very closely related to basically an old version of my paper, and wants me to compare against it. Understandably, if looking at the title and method name, one could think these are two different ones. However, if looking more closely, they are clearly the same... How do I argue for this to my friend, that they are exactly the same paper, but now corrected and improved, without breaking anonymity?  Admittedly, the scores are anyway bad, so I have not much hope, but this is a first for me...    submitted by    /u/fanconic   [link] [comments]"
       },
-      "relevance_score": 0.09077864889123004,
+      "relevance_score": 0.08403790442033121,
       "sources": [
         {
           "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
@@ -168,7 +168,7 @@
         "author": "/u/Strong_Boy_757",
         "source_excerpt": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as industry standard. No one would doubt the value of research coming out of (top-tier) academia. It was definitely a \"seller's market\" for academics. But nowadays I am not quite certain as to what exactly is going on, i.e, whether this relationship still holds. I guess a straight-forward way to put this is: \"is industry still adopting ideas from academia?\" I've observed that for any given research topic, especially something industry has proposed, there would be literally tens of thousands of follow up papers from various universities around the world trying to do something adjacent to it, almost as if showing industry how things can be done differently or even \"beat the industry at their game\". But it feels industry is quite, how do I put this, \"impassive\", \"unmoved\". Strongest example would be development of new optimization routines. Thousands were proposed from universities. Countless GPU years were dedicated to experiments. Seems serious adoption is quite low to none. Apparently there are still new CNN/RNN architecture being proposed, have you heard of any of them? It almost seems as if academia and industry are diverging into completely different worlds. With industry seems to take on the previous role of academia as an idea generator, and instead everything is worked in-house. This seems to create a challenge for those doing research in university: \"what use is the research if it is not adopted in real-life (in this extremely applied field), or even acknowledged?\"    submitted by    /u/Strong_Boy_757   [link] [comments]"
       },
-      "relevance_score": 0.07638861279254332,
+      "relevance_score": 0.0785927347213959,
       "sources": [
         {
           "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
@@ -190,7 +190,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07578781352715382,
+      "relevance_score": 0.0697006440806814,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -212,7 +212,7 @@
         "author": "/u/TechDc-1306",
         "source_excerpt": "I'm exploring the field of Embodied AI, particularly humanoid intelligence, cognitive architectures, and the intersection of AI and robotics. I'm looking to connect with people who are:  Researching or building Embodied AI systems. Working on humanoid robots and robot foundation models. Exploring VLMs, VLAs, world models, and reinforcement learning. Interested in cognitive architectures and how intelligent robotic systems should be designed.  I'd love to connect with people in this space, exchange ideas, discuss ongoing research, and potentially explore collaborations. If you're working in this area or know someone who is, feel free to reach out!    submitted by    /u/TechDc-1306   [link] [comments]"
       },
-      "relevance_score": 0.07064266348935463,
+      "relevance_score": 0.0670803387289788,
       "sources": [
         {
           "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
