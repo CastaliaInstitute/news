@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:04:13.986270",
+  "generated_at": "2026-11-07T12:06:02.113810",
   "total_items": 10,
   "items": [
     {
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05697484601155829,
+      "relevance_score": 0.057575127870733184,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -136,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "description": "Comments",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "date": "2026-11-07T09:46:03",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "publisher": "Hacker News",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Libghostty 1.0",
       "description": "Comments",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
@@ -180,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "title": "Need for Speed Underground 2 online in the browser",
       "description": "Comments",
-      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "url": "https://nfsu2.xyz/",
       "source": "Hacker News",
-      "date": "2026-11-07T04:54:36",
+      "date": "2026-11-07T09:36:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+          "title": "Need for Speed Underground 2 online in the browser",
           "publisher": "Hacker News",
-          "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "description": "Comments",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "source": "Hacker News",
-      "date": "2026-11-06T19:48:51",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-          "publisher": "Hacker News",
-          "url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+          "url": "https://nfsu2.xyz/"
         }
       ],
       "faculty_summary": "Comments"
