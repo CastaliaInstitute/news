@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:04:23.847265",
+  "generated_at": "2026-11-07T15:04:13.155972",
   "total_items": 10,
   "items": [
     {
@@ -80,7 +80,7 @@
         "author": "/u/Strong_Boy_757",
         "source_excerpt": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as industry standard. No one would doubt the value of research coming out of (top-tier) academia. It was definitely a \"seller's market\" for academics. But nowadays I am not quite certain as to what exactly is going on, i.e, whether this relationship still holds. I guess a straight-forward way to put this is: \"is industry still adopting ideas from academia?\" I've observed that for any given research topic, especially something industry has proposed, there would be literally tens of thousands of follow up papers from various universities around the world trying to do something adjacent to it, almost as if showing industry how things can be done differently or even \"beat the industry at their game\". But it feels industry is quite, how do I put this, \"impassive\", \"unmoved\". Strongest example would be development of new optimization routines. Thousands were proposed from universities. Countless GPU years were dedicated to experiments. Seems serious adoption is quite low to none. Apparently there are still new CNN/RNN architecture being proposed, have you heard of any of them? It almost seems as if academia and industry are diverging into completely different worlds. With industry seems to take on the previous role of academia as an idea generator, and instead everything is worked in-house. This seems to create a challenge for those doing research in university: \"what use is the research if it is not adopted in real-life (in this extremely applied field), or even acknowledged?\"    submitted by    /u/Strong_Boy_757   [link] [comments]"
       },
-      "relevance_score": 0.04158923026960148,
+      "relevance_score": 0.04169631028749697,
       "sources": [
         {
           "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
@@ -158,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "The $8 Linux Computer (2022)",
+      "description": "Comments",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "source": "Hacker News",
+      "date": "2026-11-07T14:00:20",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The $8 Linux Computer (2022)",
+          "publisher": "Hacker News",
+          "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Libghostty 1.0",
       "description": "Comments",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
@@ -196,28 +218,6 @@
           "title": "Every Mac comes with an (undocumented) family member classifier",
           "publisher": "Hacker News",
           "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Running a law firm on Free software",
-      "description": "Comments",
-      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "source": "Hacker News",
-      "date": "2026-11-07T09:39:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Running a law firm on Free software",
-          "publisher": "Hacker News",
-          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/"
         }
       ],
       "faculty_summary": "Comments"
