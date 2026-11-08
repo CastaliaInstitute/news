@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T04:05:33.908333",
+  "generated_at": "2026-11-08T05:04:52.163021",
   "total_items": 10,
   "items": [
     {
@@ -136,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "Goodbye Claude, Hello Pi",
+      "description": "Comments",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
+      "date": "2026-11-08T03:11:48",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Goodbye Claude, Hello Pi",
+          "publisher": "Hacker News",
+          "url": "https://caleb.software/posts/claude-to-pi.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "What I run on my $10 USD OpenStick homelab",
       "description": "Comments",
       "url": "https://blog.bosscher.ch/posts/openstick/",
@@ -196,28 +218,6 @@
           "title": "Making any integer with four 2s (2025)",
           "publisher": "Hacker News",
           "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "GitHub New pull request overview page in public preview",
-      "description": "Comments",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "source": "Hacker News",
-      "date": "2026-11-07T23:09:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GitHub New pull request overview page in public preview",
-          "publisher": "Hacker News",
-          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
         }
       ],
       "faculty_summary": "Comments"
