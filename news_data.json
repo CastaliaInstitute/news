@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-11-08T03:05:51.970540",
+  "generated_at": "2026-11-08T04:05:33.908333",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: DuoNeural/RMSN-300M-Reasoning-SFT",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/DuoNeural/RMSN-300M-Reasoning-SFT",
-      "source": "Hugging Face",
-      "date": "2026-11-08T03:04:51.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "safetensors",
-          "rmsn",
-          "pytorch",
-          "physics-informed",
-          "port-hamiltonian",
-          "metriplectic-mechanics",
-          "lyapunov-stability",
-          "sheaf-theory",
-          "language-modeling",
-          "reasoning",
-          "instruction-tuned",
-          "math",
-          "text-generation",
-          "en",
-          "license:mit",
-          "region:us"
-        ],
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.10520526135466181,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: DuoNeural/RMSN-300M-Reasoning-SFT",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/DuoNeural/RMSN-300M-Reasoning-SFT"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Australian universities are creating AI-native graduates",
@@ -56,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.0721832997557965,
+      "relevance_score": 0.0715192372732955,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -78,7 +36,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.06289029665169156,
+      "relevance_score": 0.06977432932262642,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -100,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05744296373188428,
+      "relevance_score": 0.05697484601155829,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -109,28 +67,6 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "type": "article",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "description": "Comments",
-      "url": "https://hunch.net/?p=13764006",
-      "source": "Hacker News",
-      "date": "2026-11-07T18:02:17",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.05077162963327773,
-      "sources": [
-        {
-          "title": "The end of Microsoft Research's AI Frontiers group",
-          "publisher": "Hacker News",
-          "url": "https://hunch.net/?p=13764006"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -144,7 +80,7 @@
         "author": "/u/Strong_Boy_757",
         "source_excerpt": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as industry standard. No one would doubt the value of research coming out of (top-tier) academia. It was definitely a \"seller's market\" for academics. But nowadays I am not quite certain as to what exactly is going on, i.e, whether this relationship still holds. I guess a straight-forward way to put this is: \"is industry still adopting ideas from academia?\" I've observed that for any given research topic, especially something industry has proposed, there would be literally tens of thousands of follow up papers from various universities around the world trying to do something adjacent to it, almost as if showing industry how things can be done differently or even \"beat the industry at their game\". But it feels industry is quite, how do I put this, \"impassive\", \"unmoved\". Strongest example would be development of new optimization routines. Thousands were proposed from universities. Countless GPU years were dedicated to experiments. Seems serious adoption is quite low to none. Apparently there are still new CNN/RNN architecture being proposed, have you heard of any of them? It almost seems as if academia and industry are diverging into completely different worlds. With industry seems to take on the previous role of academia as an idea generator, and instead everything is worked in-house. This seems to create a challenge for those doing research in university: \"what use is the research if it is not adopted in real-life (in this extremely applied field), or even acknowledged?\"    submitted by    /u/Strong_Boy_757   [link] [comments]"
       },
-      "relevance_score": 0.03715007939501097,
+      "relevance_score": 0.04160699823138002,
       "sources": [
         {
           "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
@@ -166,7 +102,7 @@
         "author": "/u/rohitx0",
         "source_excerpt": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process. One of the reviewers seems to have submitted a review for a completely different paper. And I don't mean they misunderstood our method or missed the main contribution. Their entire paper summary describes a completely different research problem, method, and set of experiments. It has practically nothing to do with our submission, yet they went ahead and gave it a rejection. Of the other two reviewers, one actually provided a good, thoughtful review, correctly identifying the strengths and weaknesses of our work. The other, however, didn't seem to have read the paper carefully. They criticized our negative findings as a weakness, despite the fact that investigating and demonstrating the limitations of existing approaches is explicitly part of the paper's objective. I'm perfectly fine with criticism, rejection, or reviewers disagreeing with our conclusions. That's part of research. But how is an author supposed to respond when one reviewer is apparently reviewing an entirely different manuscript? Has anyone experienced something like this before? Should I contact the AC directly, and is there any realistic chance of getting such a review disregarded or corrected? I'm genuinely at a loss as to how something like this happens at a conference of this scale.    submitted by    /u/rohitx0   [link] [comments]"
       },
-      "relevance_score": 0.02833535513938737,
+      "relevance_score": 0.028161367399088755,
       "sources": [
         {
           "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
@@ -188,7 +124,7 @@
         "author": "/u/sooham",
         "source_excerpt": "Im an incoming masters student in ML, a bit older than most (31). I\u2019ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton\u2019s forward forward, capsule networks). Ive also replicated dozens of papers during this time.  It may seem small to most here, but It would be an amazing dream to do publish a conference quality paper but all my research ideas feel so clunky, inelegant and crude. My ADHD lets me to spawn hundreds of ideas and hyperfocus on a couple, so far all my preliminary work doesnt point to anything really novel. I dont understand how first authors come up with beautiful results like engrams, diffusion models, VAEs, MoEs, token superposition in pretraining, that seems so obvious when you read the paper but clearly are anything but obvious. Are these people just built different or did their research also start off clunky? Is it just luck? Most PIs dont expect to lead the research so it cant be an astute PI?     submitted by    /u/sooham   [link] [comments]"
       },
-      "relevance_score": 0.016423345190488714,
+      "relevance_score": 0.018447635078977818,
       "sources": [
         {
           "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
@@ -222,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "description": "Comments",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "Hacker News",
-      "date": "2026-11-07T17:06:36",
+      "date": "2026-11-07T20:45:32",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -235,9 +171,53 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
           "publisher": "Hacker News",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Making any integer with four 2s (2025)",
+      "description": "Comments",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "date": "2026-11-07T22:38:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Making any integer with four 2s (2025)",
+          "publisher": "Hacker News",
+          "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "GitHub New pull request overview page in public preview",
+      "description": "Comments",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "Hacker News",
+      "date": "2026-11-07T23:09:40",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "GitHub New pull request overview page in public preview",
+          "publisher": "Hacker News",
+          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
         }
       ],
       "faculty_summary": "Comments"
