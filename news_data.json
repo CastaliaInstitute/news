@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-08T15:04:35.536098",
+  "generated_at": "2026-11-08T16:05:16.457912",
   "total_items": 10,
   "items": [
     {
       "type": "article",
-      "title": "Writing as a Thinking Tool",
+      "title": "Writing as a thinking tool",
       "description": "Comments",
       "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
       "source": "Hacker News",
@@ -14,10 +14,10 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.09864986805059794,
+      "relevance_score": 0.09903850229478672,
       "sources": [
         {
-          "title": "Writing as a Thinking Tool",
+          "title": "Writing as a thinking tool",
           "publisher": "Hacker News",
           "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
         }
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.07928507334146082,
+      "relevance_score": 0.07933311470996847,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05816997022098386,
+      "relevance_score": 0.05740838610327435,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -102,7 +102,7 @@
         "author": "/u/Sl0wJH1",
         "source_excerpt": "Hi y\u2019all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.com/r/learnmachinelearning/comments/1xq23zi/local_rnn_style_vla_model_project/ Video Description:  The leftmost display shows what the models sees, The yellow triangle marker on screen shows which shape is NOT the target shape on that run (counter intuitive, I know). Importantly, the model does not see it, it is only to make it easier to see if the model is performing correctly. The upper right display shows the models visual attention, in which I discuss later. And the bottom right is the per step state matrix cell values. A small 128x128 view of the whole 768x768 matrix. Preamble:  Recently, I have been extremely fascinated by machine learning and AI, for obvious reasons. Originally, I was intrigued by LLMs, that is, until I learnt how they work (RNN gang stand up), their dis-continuity to me isn\u2019t as elegant as the carried state in RNNs (this is my opinion, in which I don\u2019t really have any objective reasoning for). And what better way to lean than to do? Architecture: So I thought why not just make the recurrent state massive? What I have here is an attention based neural network that maintains a 768x768 matrix, with a per cell LSTM like gate. Similarish to a state space model if you will. The total model parameter count is 25,561,354.  However, 12,976,128 of those parameters are dedicated to a legacy 49k vocabulary output decoder. Originally, this started in language modelling, but it didn\u2019t work very well. It got to a CE loss of around 4.5 on a reasonably diverse data set across an 80 token rollout average, having seen 80 tokens of context first. This was trained for about ~150k steps with a batch count of 8 across 160 total tokens per episode. So about 200m total tokens seen. Perhaps not enough for how diverse the data set was (600m total tokens across wiki articles, science papers, online text forums, etc), but the loss seemed to indicate a long lasting plateau, decreasing only around 0.05 to 0.1 nats across the last 50k steps. Side note: around 10% of the total training data was from 4chan (don\u2019t hate), and must have all been collected from a very political board, specially around the 2016 us elections. The model was very much not PC lmao. But atleast now I know where NOT to collect \u201cquality\u201d data from\u2026  The shown model is a continuation from the a legacy language checkpoint that was transitioned into VLA orientated tasks. My thinking was that having a basic understanding of language might help if the task involved text. However I did no comparison against a fresh checkpoint at the Vision/action switch over to compare bootstrapping speed, so I guess we\u2019ll never know. And the model no longer retains any text output ability. When queried through the legacy text input, it defaults to repeating a single token or two indefinitely. The model processes vision through learned, state-directed attention across raw pixel RGB values at a 128x128 resolution, without a separate pretrained vision encoder. Any visual recognition and spatial understanding is learned within the same recurrent architecture that produces the action outputs. I did try doing the pretrained CNN route, however because compute is heavily restricted in my case (I got that 12gb 3060 on me), and I don\u2019t like spending money renting gpus, I count afford to locally train the model at any resonable speed with the added separate vision encoder. The attention based vision used here added very little extra compute, and seems to work well enough. An interesting side effect of this vision encoder is that the relative, per pixel attention values can be easily displayed (the top right display from the video), which proved useful for trouble shooting training. It can accept variable resolution sizes on inference without requiring pretraining. Although, it can usually only accept larger than the trained 128x128, as any smaller looses what little detail there already is. Training: The target task took inspiration from the Leaning to Reinforcement Learn (2016) paper. Rather than training the model to memorise fixed object identities, the objective is to develop a \u201cgeneral\u201d ability to recognise and associate unfamiliar visual patterns with arbitrary names during inference, without updating its learned parameters. Importantly, the model received ZERO proprioception, only visual and text inputs. The model is introduced to 2 randomly generated shapes ranging from a minimum of 3 cubes to a max of 10. There is, however, a minimum separation between the 2 shape cube counts on any 3 room task, set at around 5 The other 2 room and 1 room environments have no such minimum separation value. Each of the shapes are randomly assigned a name from a pool of 5 names (Dax, Mip, Kiv, Fep and Tav). The introduction lasts 3 steps per shape, as it is directly tied to the text introduction, which is always \u201cthis is [shape name]\u201d. After introduction, the model then spawns into a simple 3d enviroment, and given the command \u201cGo to [shape name]\u201d with some random variance in how the command is said. Initially, the model needed a the chronological order of the shape introduced before it was able to make the name to shape distinction, for example; \u201cgo to the first seen shape, [shape name]\u201d.  The 3D environment in the 2 and 3 room episodes are randomly generated with a doorway/s connecting the rooms at random point. Although the possable range in which they occupy is small, and in 3 room environments, the 2 attaching rooms are always on opposing sides of the spawn room. The wall colour and texture have remained fixed throughout all of VLA training, and the model performs noticeable worse on inference if the wall texture or colour is changes without pretraining.  Even though the training enviroment logic was..."
       },
-      "relevance_score": 0.025726953970475627,
+      "relevance_score": 0.02603624572890884,
       "sources": [
         {
           "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
@@ -124,7 +124,7 @@
         "author": "/u/sooham",
         "source_excerpt": "Im an incoming masters student in ML, a bit older than most (31). I\u2019ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton\u2019s forward forward, capsule networks). Ive also replicated dozens of papers during this time.  It may seem small to most here, but It would be an amazing dream to do publish a conference quality paper but all my research ideas feel so clunky, inelegant and crude. My ADHD lets me to spawn hundreds of ideas and hyperfocus on a couple, so far all my preliminary work doesnt point to anything really novel. I dont understand how first authors come up with beautiful results like engrams, diffusion models, VAEs, MoEs, token superposition in pretraining, that seems so obvious when you read the paper but clearly are anything but obvious. Are these people just built different or did their research also start off clunky? Is it just luck? Most PIs dont expect to lead the research so it cant be an astute PI?     submitted by    /u/sooham   [link] [comments]"
       },
-      "relevance_score": 0.02082382829754641,
+      "relevance_score": 0.020594369721494643,
       "sources": [
         {
           "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "JIT bitmap text rendering for microcontrollers",
+      "title": "Goodbye Claude, hello Pi",
       "description": "Comments",
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
       "source": "Hacker News",
-      "date": "2026-11-08T10:42:15",
+      "date": "2026-11-08T03:11:48",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "JIT bitmap text rendering for microcontrollers",
+          "title": "Goodbye Claude, hello Pi",
           "publisher": "Hacker News",
-          "url": "https://linebender.org/blog/jit-bitmap-text/"
+          "url": "https://caleb.software/posts/claude-to-pi.html"
         }
       ],
       "faculty_summary": "Comments"
