@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:05:21.791955",
+  "generated_at": "2026-11-08T02:05:59.592850",
   "total_items": 10,
   "items": [
     {
@@ -158,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "description": "Comments",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News",
-      "date": "2026-11-07T20:45:32",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "publisher": "Hacker News",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "What I run on my $10 USD OpenStick homelab",
       "description": "Comments",
       "url": "https://blog.bosscher.ch/posts/openstick/",
@@ -202,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "GitHub New pull request overview page in public preview",
+      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
       "description": "Comments",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
       "source": "Hacker News",
-      "date": "2026-11-07T23:09:40",
+      "date": "2026-11-07T17:06:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "GitHub New pull request overview page in public preview",
+          "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
           "publisher": "Hacker News",
-          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/"
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Making any integer with four 2s (2025)",
+      "description": "Comments",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "date": "2026-11-07T22:38:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Making any integer with four 2s (2025)",
+          "publisher": "Hacker News",
+          "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
         }
       ],
       "faculty_summary": "Comments"
