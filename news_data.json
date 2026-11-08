@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:05:36.063767",
+  "generated_at": "2026-11-08T09:05:18.075276",
   "total_items": 10,
   "items": [
     {
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05757395228805237,
+      "relevance_score": 0.056971235701489556,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -102,7 +102,7 @@
         "author": "/u/sooham",
         "source_excerpt": "Im an incoming masters student in ML, a bit older than most (31). I\u2019ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton\u2019s forward forward, capsule networks). Ive also replicated dozens of papers during this time.  It may seem small to most here, but It would be an amazing dream to do publish a conference quality paper but all my research ideas feel so clunky, inelegant and crude. My ADHD lets me to spawn hundreds of ideas and hyperfocus on a couple, so far all my preliminary work doesnt point to anything really novel. I dont understand how first authors come up with beautiful results like engrams, diffusion models, VAEs, MoEs, token superposition in pretraining, that seems so obvious when you read the paper but clearly are anything but obvious. Are these people just built different or did their research also start off clunky? Is it just luck? Most PIs dont expect to lead the research so it cant be an astute PI?     submitted by    /u/sooham   [link] [comments]"
       },
-      "relevance_score": 0.02117775438332985,
+      "relevance_score": 0.021205296723994575,
       "sources": [
         {
           "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
@@ -180,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+      "description": "Comments",
+      "url": "https://clj.rs/",
+      "source": "Hacker News",
+      "date": "2026-11-04T15:23:16",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+          "publisher": "Hacker News",
+          "url": "https://clj.rs/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Kirlian Photography: Building Your Own Equipment",
       "description": "Comments",
       "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
@@ -196,28 +218,6 @@
           "title": "Kirlian Photography: Building Your Own Equipment",
           "publisher": "Hacker News",
           "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Making any integer with four 2s (2025)",
-      "description": "Comments",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "source": "Hacker News",
-      "date": "2026-11-07T22:38:58",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Making any integer with four 2s (2025)",
-          "publisher": "Hacker News",
-          "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
         }
       ],
       "faculty_summary": "Comments"
