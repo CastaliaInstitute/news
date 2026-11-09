@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:06:41.152955",
+  "generated_at": "2026-11-09T19:04:26.671348",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09205730552697496,
+      "relevance_score": 0.09163613565605461,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07071754542741954,
+      "relevance_score": 0.07039400674345554,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -45,28 +45,6 @@
         }
       ],
       "faculty_summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    },
-    {
-      "type": "article",
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "description": "Comments",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "source": "Hacker News",
-      "date": "2026-11-09T07:04:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0706408823088016,
-      "sources": [
-        {
-          "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-          "publisher": "Hacker News",
-          "url": "https://twitter.com/shanemelaugh/status/2119192075505893695"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -80,7 +58,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06681566652274509,
+      "relevance_score": 0.06650997926105792,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -102,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04859448464418777,
+      "relevance_score": 0.04837216081331011,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -111,6 +89,28 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "type": "article",
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "description": "Comments",
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:27:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Too many men suffering in silence, national health report finds (Canada)",
+          "publisher": "Hacker News",
+          "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -130,6 +130,28 @@
           "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
           "publisher": "Hacker News",
           "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "description": "Comments",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "source": "Hacker News",
+      "date": "2026-11-09T17:58:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Our Smallest, Most Efficient Model: Muse Ember",
+          "publisher": "Hacker News",
+          "url": "https://research.meta.ai/blog/muse-ember"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "description": "Comments",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:25:01",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+          "publisher": "Hacker News",
+          "url": "https://www.infineon.com/press-release/2026/infpr202611-028"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
       "description": "Comments",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
@@ -174,50 +218,6 @@
           "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
           "publisher": "Hacker News",
           "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
-      "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50427934",
-      "source": "Hacker News",
-      "date": "2026-11-09T16:36:38",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
-          "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50427934"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Zebkit \u2013 Chromium as an embeddable library",
-      "description": "Comments",
-      "url": "https://github.com/ikey4u/zebkit",
-      "source": "Hacker News",
-      "date": "2026-11-09T14:34:00",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Zebkit \u2013 Chromium as an embeddable library",
-          "publisher": "Hacker News",
-          "url": "https://github.com/ikey4u/zebkit"
         }
       ],
       "faculty_summary": "Comments"
