@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:05:05.241767",
+  "generated_at": "2026-11-09T12:06:05.214594",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.07959110500495474,
+      "relevance_score": 0.07922733477626963,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07293490440170003,
+      "relevance_score": 0.07260155626120515,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -45,28 +45,6 @@
         }
       ],
       "faculty_summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    },
-    {
-      "type": "article",
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "description": "Comments",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "source": "Hacker News",
-      "date": "2026-11-09T07:04:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.07091552939761549,
-      "sources": [
-        {
-          "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-          "publisher": "Hacker News",
-          "url": "https://twitter.com/shanemelaugh/status/2119192075505893695"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -80,7 +58,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06714921948191692,
+      "relevance_score": 0.06684231474770769,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -102,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04923408402061117,
+      "relevance_score": 0.04900906020667914,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -124,7 +102,7 @@
         "author": "/u/tughanbulut",
         "source_excerpt": "I run a website focused on checking references in research papers, and I\u2019ve been writing about citation errors and AI in academic publishing. Reading the ICLR threads, I kept coming back to one question: are careful authors losing the benefit of the doubt because reviewers have seen too much unchecked work? One reviewer in the discussion threads said suspected AI-generated writing puts them off \u201ceven if the findings are legitimate.\u201d I get the frustration. Spending hours checking claims that the authors apparently haven\u2019t checked themselves sounds exhausting. What worries me is whether that frustration follows the reviewer into the next paper. Does an unclear sentence or a citation mistake start looking like evidence that the authors never understood their own work? Separately, an author reporting 4/2/2/2 said one review concerned a completely different paper. We only have their account, so I wouldn\u2019t assume why it happened. But it raises another question: when an author points out a factual mistake in a review, what gets that correction properly considered? An honest mistake can still undermine a result. Sometimes the reviewer is right and the paper needs more evidence. But when an author can show that an objection rests on something the paper doesn\u2019t say, they should be able to get that specific point reconsidered. Reviewers and ACs: have you noticed yourself becoming more suspicious this cycle? What helps you distinguish a correctable mistake from a deeper problem with the work? And what should an author do when a factual correction gets no response? I collected the original discussions, relevant policies and practical suggestions for responding to factual errors in a longer field note on my site.    submitted by    /u/tughanbulut   [link] [comments]"
       },
-      "relevance_score": 0.021666486500643463,
+      "relevance_score": 0.0215674600736495,
       "sources": [
         {
           "title": "The AI slop tax: are careful authors losing the benefit of the doubt at ICLR? [D]",
@@ -180,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "description": "Comments",
+      "url": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News",
+      "date": "2026-11-08T22:35:35",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+          "publisher": "Hacker News",
+          "url": "https://ketchup3d.github.io/app/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Unlocking any car from X brand in most of the world",
       "description": "Comments",
       "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
       "description": "Comments",
-      "url": "https://ketchup3d.github.io/app/",
+      "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
       "source": "Hacker News",
-      "date": "2026-11-08T22:35:35",
+      "date": "2026-11-06T13:48:35",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+          "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
           "publisher": "Hacker News",
-          "url": "https://ketchup3d.github.io/app/"
+          "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/"
         }
       ],
       "faculty_summary": "Comments"
