@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:05:47.404462",
+  "generated_at": "2026-11-09T17:05:16.063063",
   "total_items": 10,
   "items": [
     {
@@ -92,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "description": "Comments",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source": "Hacker News",
+      "date": "2026-11-09T16:00:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "publisher": "Hacker News",
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Fold Epic Paper Airplanes",
       "description": "Comments",
       "url": "https://www.foldableflight.com",
@@ -114,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "Humans will never again create a project like Wikipedia",
+      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
       "description": "Comments",
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
       "source": "Hacker News",
-      "date": "2026-11-09T12:30:20",
+      "date": "2026-11-09T15:39:01",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -127,9 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Humans will never again create a project like Wikipedia",
+          "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
           "publisher": "Hacker News",
-          "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
+          "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Zebkit \u2013 Chromium as an embeddable library",
+      "title": "Humans will never again create a project like Wikipedia",
       "description": "Comments",
-      "url": "https://github.com/ikey4u/zebkit",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
       "source": "Hacker News",
-      "date": "2026-11-09T14:34:00",
+      "date": "2026-11-09T12:30:20",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Zebkit \u2013 Chromium as an embeddable library",
+          "title": "Humans will never again create a project like Wikipedia",
           "publisher": "Hacker News",
-          "url": "https://github.com/ikey4u/zebkit"
+          "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "What is malloc doing, anyway?",
+      "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
       "description": "Comments",
-      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
       "source": "Hacker News",
-      "date": "2026-11-09T11:31:05",
+      "date": "2026-11-09T17:00:06",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "What is malloc doing, anyway?",
+          "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
           "publisher": "Hacker News",
-          "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
-      "description": "Comments",
-      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-      "source": "Hacker News",
-      "date": "2026-11-09T10:11:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
-          "publisher": "Hacker News",
-          "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/"
+          "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer"
         }
       ],
       "faculty_summary": "Comments"
