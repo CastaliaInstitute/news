@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:06:10.113699",
+  "generated_at": "2026-11-09T09:06:30.140427",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09189054671950835,
+      "relevance_score": 0.0923099800845352,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07199561130669403,
+      "relevance_score": 0.0723242344632164,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+    },
+    {
+      "type": "article",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "description": "Comments",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "source": "Hacker News",
+      "date": "2026-11-09T07:04:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.07186815770297761,
+      "sources": [
+        {
+          "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+          "publisher": "Hacker News",
+          "url": "https://twitter.com/shanemelaugh/status/2119192075505893695"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -58,7 +80,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06677995044238913,
+      "relevance_score": 0.06708476677366937,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -80,7 +102,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04878980802917073,
+      "relevance_score": 0.04901250855812888,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -174,28 +196,6 @@
           "title": "I'm not convinced the AI bubble exists",
           "publisher": "Hacker News",
           "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Chimera Vocal Synth",
-      "description": "Comments",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "source": "Hacker News",
-      "date": "2026-11-08T22:36:03",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Chimera Vocal Synth",
-          "publisher": "Hacker News",
-          "url": "https://chimera-vocal-synth.vercel.app/"
         }
       ],
       "faculty_summary": "Comments"
