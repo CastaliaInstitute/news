@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T07:05:44.286397",
+  "generated_at": "2026-11-09T08:06:10.113699",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09193067150932524,
+      "relevance_score": 0.09189054671950835,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07238935205389535,
+      "relevance_score": 0.07199561130669403,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04886581356972358,
+      "relevance_score": 0.04878980802917073,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -92,11 +92,11 @@
     },
     {
       "type": "article",
-      "title": "Apple capped engineers at a $200 daily AI budget",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
       "description": "Comments",
-      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "url": "https://arxiv.org/abs/2610.14162",
       "source": "Hacker News",
-      "date": "2026-11-09T05:30:11",
+      "date": "2026-11-09T07:20:37",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,9 +105,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Apple capped engineers at a $200 daily AI budget",
+          "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
           "publisher": "Hacker News",
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1"
+          "url": "https://arxiv.org/abs/2610.14162"
         }
       ],
       "faculty_summary": "Comments"
