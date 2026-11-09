@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:05:29.061115",
+  "generated_at": "2026-11-09T15:05:25.356935",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09193067150932524,
+      "relevance_score": 0.09184431036273144,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07238935205389535,
+      "relevance_score": 0.07154914609412225,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -58,7 +58,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06677995044238913,
+      "relevance_score": 0.06664694399883891,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04886581356972358,
+      "relevance_score": 0.04870254143086458,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -89,28 +89,6 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "type": "article",
-      "title": "Fold Epic Paper Airplanes",
-      "description": "Comments",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News",
-      "date": "2026-11-09T12:19:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Fold Epic Paper Airplanes",
-          "publisher": "Hacker News",
-          "url": "https://www.foldableflight.com"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -130,6 +108,28 @@
           "title": "Humans will never again create a project like Wikipedia",
           "publisher": "Hacker News",
           "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Fold Epic Paper Airplanes",
+      "description": "Comments",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "date": "2026-11-09T12:19:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Fold Epic Paper Airplanes",
+          "publisher": "Hacker News",
+          "url": "https://www.foldableflight.com"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+      "title": "Zebkit \u2013 Chromium's engine as a library you link, not a runtime you live in",
       "description": "Comments",
-      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "url": "https://github.com/ikey4u/zebkit",
       "source": "Hacker News",
-      "date": "2026-11-09T10:11:47",
+      "date": "2026-11-09T14:34:00",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+          "title": "Zebkit \u2013 Chromium's engine as a library you link, not a runtime you live in",
           "publisher": "Hacker News",
-          "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/"
+          "url": "https://github.com/ikey4u/zebkit"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
       "description": "Comments",
-      "url": "https://zenodo.org/records/23682548",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
       "source": "Hacker News",
-      "date": "2026-11-09T11:30:27",
+      "date": "2026-11-09T10:11:47",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
           "publisher": "Hacker News",
-          "url": "https://zenodo.org/records/23682548"
+          "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/"
         }
       ],
       "faculty_summary": "Comments"
