@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:08:06.573285",
+  "generated_at": "2026-11-09T07:05:44.286397",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09103553293238209,
+      "relevance_score": 0.09193067150932524,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.0714650225687512,
+      "relevance_score": 0.07238935205389535,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+    },
+    {
+      "type": "article",
+      "title": "Amazon applied science intern interview next week - EU based [D]",
+      "description": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am ...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+      "source": "Reddit ML",
+      "date": "2026-11-09T06:31:34",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/ade17_in",
+        "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
+      },
+      "relevance_score": 0.06677995044238913,
+      "sources": [
+        {
+          "title": "Amazon applied science intern interview next week - EU based [D]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/"
+        }
+      ],
+      "faculty_summary": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am ..."
     },
     {
       "type": "article",
@@ -58,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05659708788091686,
+      "relevance_score": 0.04886581356972358,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -70,11 +92,11 @@
     },
     {
       "type": "article",
-      "title": "RIP, Harvest",
+      "title": "Apple capped engineers at a $200 daily AI budget",
       "description": "Comments",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
       "source": "Hacker News",
-      "date": "2026-11-09T01:58:21",
+      "date": "2026-11-09T05:30:11",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -83,9 +105,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "RIP, Harvest",
+          "title": "Apple capped engineers at a $200 daily AI budget",
           "publisher": "Hacker News",
-          "url": "https://aphyr.com/posts/427-rip-harvest"
+          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1"
         }
       ],
       "faculty_summary": "Comments"
@@ -114,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "A Critique of GPUI",
-      "description": "Comments",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-      "source": "Hacker News",
-      "date": "2026-11-09T03:51:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A Critique of GPUI",
-          "publisher": "Hacker News",
-          "url": "https://blog.zortax.de/posts/a-critique-of-gpui"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Unlocking any car from X brand in most of the world",
       "description": "Comments",
       "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
@@ -158,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Chimera Vocal Synth",
-      "description": "Comments",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "source": "Hacker News",
-      "date": "2026-11-08T22:36:03",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Chimera Vocal Synth",
-          "publisher": "Hacker News",
-          "url": "https://chimera-vocal-synth.vercel.app/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "I'm not convinced the AI bubble exists",
       "description": "Comments",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
@@ -196,6 +174,28 @@
           "title": "I'm not convinced the AI bubble exists",
           "publisher": "Hacker News",
           "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Chimera Vocal Synth",
+      "description": "Comments",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "source": "Hacker News",
+      "date": "2026-11-08T22:36:03",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Chimera Vocal Synth",
+          "publisher": "Hacker News",
+          "url": "https://chimera-vocal-synth.vercel.app/"
         }
       ],
       "faculty_summary": "Comments"
