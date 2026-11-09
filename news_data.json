@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:05:16.063063",
+  "generated_at": "2026-11-09T18:06:41.152955",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09179029575399095,
+      "relevance_score": 0.09205730552697496,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07103711702830989,
+      "relevance_score": 0.07071754542741954,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+    },
+    {
+      "type": "article",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "description": "Comments",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "source": "Hacker News",
+      "date": "2026-11-09T07:04:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0706408823088016,
+      "sources": [
+        {
+          "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+          "publisher": "Hacker News",
+          "url": "https://twitter.com/shanemelaugh/status/2119192075505893695"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -58,7 +80,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06664694399883891,
+      "relevance_score": 0.06681566652274509,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -80,7 +102,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04860101920780672,
+      "relevance_score": 0.04859448464418777,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -136,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
       "description": "Comments",
-      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
       "source": "Hacker News",
-      "date": "2026-11-09T15:39:01",
+      "date": "2026-11-09T14:31:39",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,20 +171,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+          "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
           "publisher": "Hacker News",
-          "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing"
+          "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "I Saw Your HN Comment",
+      "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
       "description": "Comments",
-      "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "url": "https://news.ycombinator.com/item?id=50427934",
       "source": "Hacker News",
-      "date": "2026-11-09T15:01:03",
+      "date": "2026-11-09T16:36:38",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "I Saw Your HN Comment",
+          "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
           "publisher": "Hacker News",
-          "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/"
+          "url": "https://news.ycombinator.com/item?id=50427934"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Humans will never again create a project like Wikipedia",
+      "title": "Zebkit \u2013 Chromium as an embeddable library",
       "description": "Comments",
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "url": "https://github.com/ikey4u/zebkit",
       "source": "Hacker News",
-      "date": "2026-11-09T12:30:20",
+      "date": "2026-11-09T14:34:00",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Humans will never again create a project like Wikipedia",
+          "title": "Zebkit \u2013 Chromium as an embeddable library",
           "publisher": "Hacker News",
-          "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
-      "description": "Comments",
-      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "source": "Hacker News",
-      "date": "2026-11-09T17:00:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
-          "publisher": "Hacker News",
-          "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer"
+          "url": "https://github.com/ikey4u/zebkit"
         }
       ],
       "faculty_summary": "Comments"
