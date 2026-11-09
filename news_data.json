@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:06:04.577459",
+  "generated_at": "2026-11-09T03:05:54.509955",
   "total_items": 10,
   "items": [
     {
@@ -136,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "description": "Comments",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-08T23:28:01",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://isocpp.org/files/papers/P4454R0.pdf"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Chimera Vocal Synth",
       "description": "Comments",
       "url": "https://chimera-vocal-synth.vercel.app/",
@@ -202,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Ask HN: What are you working on? (November 2026)",
+      "title": "Declarative Dragging",
       "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50417407",
+      "url": "https://declarative-dragging.github.io/",
       "source": "Hacker News",
-      "date": "2026-11-08T21:20:20",
+      "date": "2026-11-04T17:05:07",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Ask HN: What are you working on? (November 2026)",
+          "title": "Declarative Dragging",
           "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50417407"
+          "url": "https://declarative-dragging.github.io/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "description": "Comments",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "Hacker News",
+      "date": "2026-11-08T19:20:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+          "publisher": "Hacker News",
+          "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"
         }
       ],
       "faculty_summary": "Comments"
