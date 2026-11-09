@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-09T19:04:26.671348",
+  "generated_at": "2026-11-09T20:05:21.278559",
   "total_items": 10,
   "items": [
-    {
-      "type": "article",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "url": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI",
-      "date": "2026-11-05T00:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-      },
-      "relevance_score": 0.09163613565605461,
-      "sources": [
-        {
-          "title": "Franklin Templeton uses OpenAI to support investment research",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/franklin-templeton"
-        }
-      ],
-      "faculty_summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-    },
     {
       "type": "article",
       "title": "Australian universities are creating AI-native graduates",
@@ -36,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07039400674345554,
+      "relevance_score": 0.06922179479461454,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -58,7 +36,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06650997926105792,
+      "relevance_score": 0.06599158556779192,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -80,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04837216081331011,
+      "relevance_score": 0.04823689405295369,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -89,28 +67,6 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "type": "article",
-      "title": "Too many men suffering in silence, national health report finds (Canada)",
-      "description": "Comments",
-      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:27:58",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Too many men suffering in silence, national health report finds (Canada)",
-          "publisher": "Hacker News",
-          "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -130,6 +86,50 @@
           "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
           "publisher": "Hacker News",
           "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "description": "Comments",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:56:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "publisher": "Hacker News",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "description": "Comments",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:33:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+          "publisher": "Hacker News",
+          "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Fold Epic Paper Airplanes",
-      "description": "Comments",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News",
-      "date": "2026-11-09T12:19:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Fold Epic Paper Airplanes",
-          "publisher": "Hacker News",
-          "url": "https://www.foldableflight.com"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
       "description": "Comments",
       "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
@@ -202,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "title": "E-means: 10x faster k-means at equal loss",
       "description": "Comments",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "url": "https://e-means.github.io/",
       "source": "Hacker News",
-      "date": "2026-11-09T14:31:39",
+      "date": "2026-11-09T18:45:43",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+          "title": "E-means: 10x faster k-means at equal loss",
           "publisher": "Hacker News",
-          "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
+          "url": "https://e-means.github.io/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Fold Epic Paper Airplanes",
+      "description": "Comments",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "date": "2026-11-09T12:19:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Fold Epic Paper Airplanes",
+          "publisher": "Hacker News",
+          "url": "https://www.foldableflight.com"
         }
       ],
       "faculty_summary": "Comments"
