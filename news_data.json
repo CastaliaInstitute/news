@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:06:30.140427",
+  "generated_at": "2026-11-09T10:05:10.212207",
   "total_items": 10,
   "items": [
     {
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.07186815770297761,
+      "relevance_score": 0.07070635386787477,
       "sources": [
         {
           "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
@@ -180,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "PixelOS",
+      "description": "Comments",
+      "url": "https://pixelos.net/",
+      "source": "Hacker News",
+      "date": "2026-11-09T07:31:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "PixelOS",
+          "publisher": "Hacker News",
+          "url": "https://pixelos.net/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "I'm not convinced the AI bubble exists",
       "description": "Comments",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
@@ -196,28 +218,6 @@
           "title": "I'm not convinced the AI bubble exists",
           "publisher": "Hacker News",
           "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Declarative Dragging",
-      "description": "Comments",
-      "url": "https://declarative-dragging.github.io/",
-      "source": "Hacker News",
-      "date": "2026-11-04T17:05:07",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Declarative Dragging",
-          "publisher": "Hacker News",
-          "url": "https://declarative-dragging.github.io/"
         }
       ],
       "faculty_summary": "Comments"
