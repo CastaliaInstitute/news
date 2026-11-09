@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:05:25.356935",
+  "generated_at": "2026-11-09T16:05:47.404462",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09184431036273144,
+      "relevance_score": 0.09179029575399095,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07154914609412225,
+      "relevance_score": 0.07103711702830989,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04870254143086458,
+      "relevance_score": 0.04860101920780672,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -89,28 +89,6 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "type": "article",
-      "title": "Humans will never again create a project like Wikipedia",
-      "description": "Comments",
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "source": "Hacker News",
-      "date": "2026-11-09T12:30:20",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Humans will never again create a project like Wikipedia",
-          "publisher": "Hacker News",
-          "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -136,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Children of Men: The Future Is a Mirror for the Present",
+      "title": "Humans will never again create a project like Wikipedia",
       "description": "Comments",
-      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
       "source": "Hacker News",
-      "date": "2026-11-09T13:27:01",
+      "date": "2026-11-09T12:30:20",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,16 +127,38 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Children of Men: The Future Is a Mirror for the Present",
+          "title": "Humans will never again create a project like Wikipedia",
           "publisher": "Hacker News",
-          "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/"
+          "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Zebkit \u2013 Chromium's engine as a library you link, not a runtime you live in",
+      "title": "I Saw Your HN Comment",
+      "description": "Comments",
+      "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "source": "Hacker News",
+      "date": "2026-11-09T15:01:03",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "I Saw Your HN Comment",
+          "publisher": "Hacker News",
+          "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Zebkit \u2013 Chromium as an embeddable library",
       "description": "Comments",
       "url": "https://github.com/ikey4u/zebkit",
       "source": "Hacker News",
@@ -171,7 +171,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Zebkit \u2013 Chromium's engine as a library you link, not a runtime you live in",
+          "title": "Zebkit \u2013 Chromium as an embeddable library",
           "publisher": "Hacker News",
           "url": "https://github.com/ikey4u/zebkit"
         }
