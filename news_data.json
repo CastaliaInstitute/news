@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:05:46.190993",
+  "generated_at": "2026-11-09T14:05:29.061115",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
       },
-      "relevance_score": 0.09189054671950835,
+      "relevance_score": 0.09193067150932524,
       "sources": [
         {
           "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07199561130669403,
+      "relevance_score": 0.07238935205389535,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04878980802917073,
+      "relevance_score": 0.04886581356972358,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -136,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "Try Gleam",
+      "title": "Children of Men: The Future Is a Mirror for the Present",
       "description": "Comments",
-      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
       "source": "Hacker News",
-      "date": "2026-11-09T11:55:14",
+      "date": "2026-11-09T13:27:01",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Try Gleam",
+          "title": "Children of Men: The Future Is a Mirror for the Present",
           "publisher": "Hacker News",
-          "url": "https://nchagnet.eu/blog/you-should-try-gleam"
+          "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "title": "What is malloc doing, anyway?",
       "description": "Comments",
-      "url": "https://arxiv.org/abs/2610.14162",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
       "source": "Hacker News",
-      "date": "2026-11-09T07:20:37",
+      "date": "2026-11-09T11:31:05",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+          "title": "What is malloc doing, anyway?",
           "publisher": "Hacker News",
-          "url": "https://arxiv.org/abs/2610.14162"
+          "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Hours of YouTube and 85 handtyped pages of notes on LLM Inference \u2013 Start here",
+      "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
       "description": "Comments",
-      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "url": "https://zenodo.org/records/23682548",
       "source": "Hacker News",
-      "date": "2026-11-09T11:36:55",
+      "date": "2026-11-09T11:30:27",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Hours of YouTube and 85 handtyped pages of notes on LLM Inference \u2013 Start here",
+          "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
           "publisher": "Hacker News",
-          "url": "https://github.com/samir-sarwar/samir-vllm"
+          "url": "https://zenodo.org/records/23682548"
         }
       ],
       "faculty_summary": "Comments"
