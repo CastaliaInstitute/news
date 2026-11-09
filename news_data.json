@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:05:17.193611",
+  "generated_at": "2026-11-09T22:05:24.518015",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06949674677321589,
+      "relevance_score": 0.07039400674345554,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -36,7 +36,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06599158556779192,
+      "relevance_score": 0.06642443993152836,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04823689405295369,
+      "relevance_score": 0.048251634953233966,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -67,6 +67,28 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "type": "article",
+      "title": "Introducing Control Room: Human control over AI workloads",
+      "description": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "url": "https://openai.com/index/introducing-control-room",
+      "source": "OpenAI",
+      "date": "2026-11-09T13:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+      },
+      "relevance_score": 0.03192233598792716,
+      "sources": [
+        {
+          "title": "Introducing Control Room: Human control over AI workloads",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/introducing-control-room"
+        }
+      ],
+      "faculty_summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
     },
     {
       "type": "article",
@@ -92,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
       "description": "Comments",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "source": "Hacker News",
-      "date": "2026-11-09T16:00:45",
+      "date": "2026-11-09T20:04:55",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
           "publisher": "Hacker News",
-          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "description": "Comments",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News",
-      "date": "2026-11-09T18:56:29",
+      "date": "2026-11-09T16:00:45",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,20 +171,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
           "publisher": "Hacker News",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "CUI \u2013 Native UI components for C",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
       "description": "Comments",
-      "url": "https://yappologistic.github.io/CUI/",
+      "url": "https://github.com/thisisme6598/gemini_files/",
       "source": "Hacker News",
-      "date": "2026-11-09T19:35:16",
+      "date": "2026-11-09T18:24:38",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,9 +193,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "CUI \u2013 Native UI components for C",
+          "title": "Google Gemini routes personal Drive files and emails to human annotators",
           "publisher": "Hacker News",
-          "url": "https://yappologistic.github.io/CUI/"
+          "url": "https://github.com/thisisme6598/gemini_files/"
         }
       ],
       "faculty_summary": "Comments"
@@ -196,28 +218,6 @@
           "title": "Our Smallest, Most Efficient Model: Muse Ember",
           "publisher": "Hacker News",
           "url": "https://research.meta.ai/blog/muse-ember"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-      "description": "Comments",
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:25:01",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-          "publisher": "Hacker News",
-          "url": "https://www.infineon.com/press-release/2026/infpr202611-028"
         }
       ],
       "faculty_summary": "Comments"
