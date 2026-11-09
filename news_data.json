@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:05:21.278559",
+  "generated_at": "2026-11-09T21:05:17.193611",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06922179479461454,
+      "relevance_score": 0.06949674677321589,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -70,6 +70,28 @@
     },
     {
       "type": "article",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "description": "Comments",
+      "url": "https://postalpro.usps.com/zcb",
+      "source": "Hacker News",
+      "date": "2026-11-09T19:58:59",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "USPS now offers official ZIP Code boundary polygons",
+          "publisher": "Hacker News",
+          "url": "https://postalpro.usps.com/zcb"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "description": "Comments",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
@@ -86,6 +108,28 @@
           "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
           "publisher": "Hacker News",
           "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "E-means: 10x faster k-means at equal loss",
+      "description": "Comments",
+      "url": "https://e-means.github.io/",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:45:43",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "E-means: 10x faster k-means at equal loss",
+          "publisher": "Hacker News",
+          "url": "https://e-means.github.io/"
         }
       ],
       "faculty_summary": "Comments"
@@ -114,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "title": "CUI \u2013 Native UI components for C",
       "description": "Comments",
-      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "url": "https://yappologistic.github.io/CUI/",
       "source": "Hacker News",
-      "date": "2026-11-09T18:33:58",
+      "date": "2026-11-09T19:35:16",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -127,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+          "title": "CUI \u2013 Native UI components for C",
           "publisher": "Hacker News",
-          "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+          "url": "https://yappologistic.github.io/CUI/"
         }
       ],
       "faculty_summary": "Comments"
@@ -174,50 +218,6 @@
           "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
           "publisher": "Hacker News",
           "url": "https://www.infineon.com/press-release/2026/infpr202611-028"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "E-means: 10x faster k-means at equal loss",
-      "description": "Comments",
-      "url": "https://e-means.github.io/",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:45:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "E-means: 10x faster k-means at equal loss",
-          "publisher": "Hacker News",
-          "url": "https://e-means.github.io/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Fold Epic Paper Airplanes",
-      "description": "Comments",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News",
-      "date": "2026-11-09T12:19:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Fold Epic Paper Airplanes",
-          "publisher": "Hacker News",
-          "url": "https://www.foldableflight.com"
         }
       ],
       "faculty_summary": "Comments"
