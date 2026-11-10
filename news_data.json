@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:08:42.403070",
+  "generated_at": "2026-11-10T01:05:41.467782",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06968546893695483,
+      "relevance_score": 0.06941077268755605,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.05943548333159911,
+      "relevance_score": 0.05953382448764469,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -92,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "description": "Comments",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:56:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "publisher": "Hacker News",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "USPS now offers official ZIP Code boundary polygons",
       "description": "Comments",
       "url": "https://postalpro.usps.com/zcb",
@@ -114,7 +136,7 @@
     },
     {
       "type": "article",
-      "title": "TPUs",
+      "title": "TPU 8tx and TPU 8i Max",
       "description": "Comments",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "source": "Hacker News",
@@ -127,7 +149,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "TPUs",
+          "title": "TPU 8tx and TPU 8i Max",
           "publisher": "Hacker News",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
         }
@@ -158,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
       "description": "Comments",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
       "source": "Hacker News",
-      "date": "2026-11-09T20:04:55",
+      "date": "2026-11-09T23:08:13",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,31 +193,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title": "Fable 5.2 one-shotted my nephew's dream game",
           "publisher": "Hacker News",
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "E-means: 10x faster k-means at equal loss",
-      "description": "Comments",
-      "url": "https://e-means.github.io/",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:45:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "E-means: 10x faster k-means at equal loss",
-          "publisher": "Hacker News",
-          "url": "https://e-means.github.io/"
+          "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game"
         }
       ],
       "faculty_summary": "Comments"
