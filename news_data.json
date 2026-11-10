@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:04:25.924437",
+  "generated_at": "2026-11-10T18:05:36.910997",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.23343538628118082,
+      "relevance_score": 0.23166399404477006,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -61,7 +61,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06310962106321692,
+      "relevance_score": 0.06237795437282374,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -83,7 +83,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.05130620811852196,
+      "relevance_score": 0.0511293164789605,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -127,7 +127,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.02564782860014709,
+      "relevance_score": 0.025483639756068408,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -161,28 +161,6 @@
     },
     {
       "type": "article",
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "description": "Comments",
-      "url": "https://www.blender.org/download/releases/5-3/",
-      "source": "Hacker News",
-      "date": "2026-11-10T16:15:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Blender 5.3 released with Gaussian Splat support",
-          "publisher": "Hacker News",
-          "url": "https://www.blender.org/download/releases/5-3/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": ".name Grandfathered",
       "description": "Comments",
       "url": "https://neil.fraser.name/news/2026/11/10/",
@@ -199,6 +177,28 @@
           "title": ".name Grandfathered",
           "publisher": "Hacker News",
           "url": "https://neil.fraser.name/news/2026/11/10/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Smart home devices should work without the internet",
+      "description": "Comments",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "source": "Hacker News",
+      "date": "2026-11-10T15:25:20",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Smart home devices should work without the internet",
+          "publisher": "Hacker News",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/"
         }
       ],
       "faculty_summary": "Comments"
