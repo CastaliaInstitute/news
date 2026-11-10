@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:05:52.977559",
+  "generated_at": "2026-11-10T04:05:36.728854",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06941077268755605,
+      "relevance_score": 0.07011088013102154,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.05943548333159911,
+      "relevance_score": 0.05953382448764469,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04823583137711796,
+      "relevance_score": 0.04829775486461601,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -136,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "description": "Comments",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News",
-      "date": "2026-11-09T23:08:13",
+      "date": "2026-11-09T16:00:45",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Fable 5.2 one-shotted my nephew's dream game",
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
           "publisher": "Hacker News",
-          "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game"
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "description": "Comments",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "url": "https://www.foldableflight.com",
       "source": "Hacker News",
-      "date": "2026-11-09T16:00:45",
+      "date": "2026-11-09T12:19:22",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,9 +193,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "title": "Foldable Flight: The Best Paper Airplanes",
           "publisher": "Hacker News",
-          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+          "url": "https://www.foldableflight.com"
         }
       ],
       "faculty_summary": "Comments"
