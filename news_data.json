@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:05:24.644486",
+  "generated_at": "2026-11-10T08:06:02.197475",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06941077268755605,
+      "relevance_score": 0.07031767321255425,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -36,7 +36,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06696172417748972,
+      "relevance_score": 0.0672960016334935,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.05953382448764469,
+      "relevance_score": 0.05070783591685614,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04810735463704832,
+      "relevance_score": 0.04937572825185034,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -89,6 +89,28 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "type": "article",
+      "title": "How do you guys use ai to come up with research ideas/loops to test them? Any tips? [D]",
+      "description": "Hey guys, Im a uni student who's been tasked by this PhD student at this lab im interning at to figure out a problem across a certain type of system and figure out how it generalised. I'm in undergrad, so I get that research starts with measuring a gap and naming what a system is bad at. The issu...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xsh5uh/how_do_you_guys_use_ai_to_come_up_with_research/",
+      "source": "Reddit ML",
+      "date": "2026-11-10T07:56:55",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/nightlife-4225",
+        "source_excerpt": "Hey guys, Im a uni student who's been tasked by this PhD student at this lab im interning at to figure out a problem across a certain type of system and figure out how it generalised. I'm in undergrad, so I get that research starts with measuring a gap and naming what a system is bad at. The issue is, I'm using opus 5.5....and it genuinely kinda sucks. I'm tryna build a system to invalidate hypothesis/situations where a systems fails, but all the hypothesis don't really make sense and as much as I'd love to consume all the related literature out there im in a race against time. I know the whole idea is that ai can only look backwards instead of forwards so I try to prompt it with things like what can we borrow from adjacent fields ( im in computer vision so usually this is ehat techniques can we borrow from the guys working on llms). Is this skill of figuring out a problem then coming up with a solution supposed to be just brute force prompting till something sticks? The PhD student is really busy and also just made me scratch a project i was working from 2 months so he basically accepts no questions, and i wanted to get at least a preprint out b4 my internship ends. Any advice from anyone on the research side/anyone with experience trying to come up with unique ideas and stress testing them would be very much appreciated. I really feel like the answer doesn't boil down to prompt engineering and im missing something. Happy researching (and prompting)    submitted by    /u/nightlife-4225   [link] [comments]"
+      },
+      "relevance_score": 0.04566357858631197,
+      "sources": [
+        {
+          "title": "How do you guys use ai to come up with research ideas/loops to test them? Any tips? [D]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xsh5uh/how_do_you_guys_use_ai_to_come_up_with_research/"
+        }
+      ],
+      "faculty_summary": "Hey guys, Im a uni student who's been tasked by this PhD student at this lab im interning at to figure out a problem across a certain type of system and figure out how it generalised. I'm in undergrad, so I get that research starts with measuring a gap and naming what a system is bad at. The issu..."
     },
     {
       "type": "article",
@@ -174,28 +196,6 @@
           "title": "Your TV can see through walls",
           "publisher": "Hacker News",
           "url": "https://maurycyz.com/projects/fading/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "description": "Comments",
-      "url": "https://e-means.github.io/",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:45:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "E-means: Outperforming k-means in one-tenth the epochs",
-          "publisher": "Hacker News",
-          "url": "https://e-means.github.io/"
         }
       ],
       "faculty_summary": "Comments"
