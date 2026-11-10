@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:05:14.146487",
+  "generated_at": "2026-11-10T22:05:14.181990",
   "total_items": 10,
   "items": [
     {
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "title": "Six Math Essentials by Terence Tao",
       "description": "Comments",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
       "source": "Hacker News",
-      "date": "2026-11-10T18:02:02",
+      "date": "2026-11-10T20:58:44",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Synaptics patent claims stop work on DisplayLink drivers",
+          "title": "Six Math Essentials by Terence Tao",
           "publisher": "Hacker News",
-          "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/"
+          "url": "https://teorth.github.io/tao-web/six-math-essentials.html"
         }
       ],
       "faculty_summary": "Comments"
