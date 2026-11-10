@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:05:06.100272",
+  "generated_at": "2026-11-10T12:06:02.053672",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.23011485701980533,
+      "relevance_score": 0.23111627566931464,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -61,7 +61,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.06095300299746563,
+      "relevance_score": 0.061387015196527325,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -83,7 +83,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.050688522999471915,
+      "relevance_score": 0.05079864067895549,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -127,7 +127,7 @@
         "author": "/u/nightlife-4225",
         "source_excerpt": "Hey guys, Im a uni student who's been tasked by this PhD student at this lab im interning at to figure out a problem across a certain type of system and figure out how it generalised. I'm in undergrad, so I get that research starts with measuring a gap and naming what a system is bad at. The issue is, I'm using opus 5.5....and it genuinely kinda sucks. I'm tryna build a system to invalidate hypothesis/situations where a systems fails, but all the hypothesis don't really make sense and as much as I'd love to consume all the related literature out there im in a race against time. I know the whole idea is that ai can only look backwards instead of forwards so I try to prompt it with things like what can we borrow from adjacent fields ( im in computer vision so usually this is ehat techniques can we borrow from the guys working on llms). Is this skill of figuring out a problem then coming up with a solution supposed to be just brute force prompting till something sticks? The PhD student is really busy and also just made me scratch a project i was working from 2 months so he basically accepts no questions, and i wanted to get at least a preprint out b4 my internship ends. Any advice from anyone on the research side/anyone with experience trying to come up with unique ideas and stress testing them would be very much appreciated. I really feel like the answer doesn't boil down to prompt engineering and im missing something. Happy researching (and prompting)    submitted by    /u/nightlife-4225   [link] [comments]"
       },
-      "relevance_score": 0.040711693069026916,
+      "relevance_score": 0.04073064658060173,
       "sources": [
         {
           "title": "How do you guys use ai to come up with research ideas/loops to test them? Any tips? [D]",
@@ -161,28 +161,6 @@
     },
     {
       "type": "article",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "description": "Comments",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:01:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Claude Fable 5.2 and Mythos 5.2",
-          "publisher": "Hacker News",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Queens Public library under ransomware attack e-borrowing suspended",
       "description": "Comments",
       "url": "https://connect.queenslibrary.org/",
@@ -199,6 +177,28 @@
           "title": "Queens Public library under ransomware attack e-borrowing suspended",
           "publisher": "Hacker News",
           "url": "https://connect.queenslibrary.org/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "description": "Comments",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:01:10",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "publisher": "Hacker News",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
         }
       ],
       "faculty_summary": "Comments"
