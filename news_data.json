@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:05:42.023757",
+  "generated_at": "2026-11-10T06:06:30.161377",
   "total_items": 10,
   "items": [
     {
@@ -136,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "description": "Comments",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "source": "Hacker News",
-      "date": "2026-11-09T16:00:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-          "publisher": "Hacker News",
-          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "description": "Comments",
       "url": "https://e-means.github.io/",
@@ -180,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "How Many People Work from Home?",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "description": "Comments",
-      "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News",
-      "date": "2026-11-05T12:00:05",
+      "date": "2026-11-09T16:00:45",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +171,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "How Many People Work from Home?",
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
           "publisher": "Hacker News",
-          "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home"
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Horible public key tricks",
+      "title": "Locating the source of a mysterious beep",
       "description": "Comments",
-      "url": "https://maurycyz.com/projects/badcert/",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "source": "Hacker News",
-      "date": "2026-11-10T00:07:17",
+      "date": "2026-11-10T00:10:46",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Horible public key tricks",
+          "title": "Locating the source of a mysterious beep",
           "publisher": "Hacker News",
-          "url": "https://maurycyz.com/projects/badcert/"
+          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "description": "Comments",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "date": "2026-11-09T12:19:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Foldable Flight: The Best Paper Airplanes",
+          "publisher": "Hacker News",
+          "url": "https://www.foldableflight.com"
         }
       ],
       "faculty_summary": "Comments"
