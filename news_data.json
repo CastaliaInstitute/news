@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T04:05:36.728854",
+  "generated_at": "2026-11-10T05:05:42.023757",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06655754771381422,
+      "relevance_score": 0.06642443993152836,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04829775486461601,
+      "relevance_score": 0.04816878400976718,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Foldable Flight: The Best Paper Airplanes",
+      "title": "How Many People Work from Home?",
       "description": "Comments",
-      "url": "https://www.foldableflight.com",
+      "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
       "source": "Hacker News",
-      "date": "2026-11-09T12:19:22",
+      "date": "2026-11-05T12:00:05",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,9 +193,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Foldable Flight: The Best Paper Airplanes",
+          "title": "How Many People Work from Home?",
           "publisher": "Hacker News",
-          "url": "https://www.foldableflight.com"
+          "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home"
         }
       ],
       "faculty_summary": "Comments"
