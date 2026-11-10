@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:05:41.467782",
+  "generated_at": "2026-11-10T02:06:10.689420",
   "total_items": 10,
   "items": [
     {
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.05953382448764469,
+      "relevance_score": 0.0596203850270358,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -89,28 +89,6 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "type": "article",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "description": "Comments",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:56:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Claude Fable 5.2 and Mythos 5.2",
-          "publisher": "Hacker News",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -158,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "description": "Comments",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:24:38",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Google Gemini routes personal Drive files and emails to human annotators",
-          "publisher": "Hacker News",
-          "url": "https://github.com/thisisme6598/gemini_files/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Fable 5.2 one-shotted my nephew's dream game",
       "description": "Comments",
       "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
@@ -202,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
       "description": "Comments",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "url": "https://github.com/thisisme6598/gemini_files/",
       "source": "Hacker News",
-      "date": "2026-11-09T16:00:45",
+      "date": "2026-11-09T18:24:38",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +171,53 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "title": "Google Gemini routes personal Drive files and emails to human annotators",
           "publisher": "Hacker News",
-          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
+          "url": "https://github.com/thisisme6598/gemini_files/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "description": "Comments",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "Hacker News",
+      "date": "2026-11-09T20:04:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "publisher": "Hacker News",
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "description": "Comments",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "date": "2026-11-09T18:56:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "publisher": "Hacker News",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
         }
       ],
       "faculty_summary": "Comments"
