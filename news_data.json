@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:06:30.161377",
+  "generated_at": "2026-11-10T07:05:24.644486",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
       },
-      "relevance_score": 0.07011088013102154,
+      "relevance_score": 0.06941077268755605,
       "sources": [
         {
           "title": "Australian universities are creating AI-native graduates",
@@ -36,7 +36,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06642443993152836,
+      "relevance_score": 0.06696172417748972,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
       },
-      "relevance_score": 0.04816878400976718,
+      "relevance_score": 0.04810735463704832,
       "sources": [
         {
           "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -89,6 +89,28 @@
         }
       ],
       "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "type": "article",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "description": "Comments",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News",
+      "date": "2026-11-10T06:01:08",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+          "publisher": "Hacker News",
+          "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -136,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "Your TV can see through walls",
+      "description": "Comments",
+      "url": "https://maurycyz.com/projects/fading/",
+      "source": "Hacker News",
+      "date": "2026-11-10T05:24:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Your TV can see through walls",
+          "publisher": "Hacker News",
+          "url": "https://maurycyz.com/projects/fading/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "description": "Comments",
       "url": "https://e-means.github.io/",
@@ -158,28 +202,6 @@
     },
     {
       "type": "article",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "description": "Comments",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "source": "Hacker News",
-      "date": "2026-11-09T16:00:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-          "publisher": "Hacker News",
-          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Locating the source of a mysterious beep",
       "description": "Comments",
       "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
@@ -196,28 +218,6 @@
           "title": "Locating the source of a mysterious beep",
           "publisher": "Hacker News",
           "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "description": "Comments",
-      "url": "https://www.foldableflight.com",
-      "source": "Hacker News",
-      "date": "2026-11-09T12:19:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Foldable Flight: The Best Paper Airplanes",
-          "publisher": "Hacker News",
-          "url": "https://www.foldableflight.com"
         }
       ],
       "faculty_summary": "Comments"
