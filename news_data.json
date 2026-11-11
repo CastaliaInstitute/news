@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:05:24.720580",
+  "generated_at": "2026-11-11T02:05:51.577456",
   "total_items": 10,
   "items": [
     {
@@ -139,28 +139,6 @@
     },
     {
       "type": "article",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "description": "Comments",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "source": "Hacker News",
-      "date": "2026-11-10T19:50:46",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Scion is back and is going to sell a kei truck in America",
-          "publisher": "Hacker News",
-          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": ".name Grandfathered",
       "description": "Comments",
       "url": "https://neil.fraser.name/news/2026/11/10/",
@@ -177,6 +155,28 @@
           "title": ".name Grandfathered",
           "publisher": "Hacker News",
           "url": "https://neil.fraser.name/news/2026/11/10/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "description": "Comments",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "source": "Hacker News",
+      "date": "2026-11-10T19:50:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "publisher": "Hacker News",
+          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
         }
       ],
       "faculty_summary": "Comments"
