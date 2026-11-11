@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:05:39.987601",
+  "generated_at": "2026-11-11T17:04:40.566271",
   "total_items": 10,
   "items": [
     {
@@ -39,7 +39,7 @@
         "author": "Jayakody Kankanamalage Chamani Shiranthika",
         "source_excerpt": "arXiv:2611.12940v1 Announce Type: new \nAbstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized medicine and the dynamic treatment regimen are two such preliminary research fields; researchers are focusing their mindsets currently. Estimating the optimal dynamic treatment regimens from the observational real clinical data is being popularized among the researchers, widening its scope towards more advanced versions of reinforcement learning algorithms.\n  This research is about a research study that focused on reinforcement learning techniques that have been approached in the context of cancer chemotherapy treatments. Primarily this thesis addresses the result of the study by means of the state-of-the-art on reinforcement learning techniques used in generating the optimal policy for sequential treatments, including the existing online reinforcement learning approaches. Thereby a simulation for cancer chemotherapy via traditional Q-learning would be presented. Secondly, the study will extend towards using offline reinforcement learning in the optimal policy generation. Thus, the proposed solution follows a data-driven approach, which works on the real human colon cancer clinical data.\n  The novelty of the proposed solution resides in the implementation of an offline reinforcement learning approach by means of a model-based architecture using the conservative Q-learning and the model-based offline policy optimization algorithm. As per the experimental results and the evaluations, it was revealed that the proposed Chemo RL model caters well the problem of cancer chemotherapy treatment scheduling and serves as a supportive model for the junior oncologists in deciding their treatment decisions."
       },
-      "relevance_score": 0.21860111116179998,
+      "relevance_score": 0.23208594882680933,
       "sources": [
         {
           "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
@@ -105,7 +105,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.06478715201700207,
+      "relevance_score": 0.06613923115378452,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -149,7 +149,7 @@
         "author": "Gunik Luthra, Ronald J. Pandolfi, Benjamin T. Diroll, Ricky Ronquillo, Ruipeng Li, Christopher B. Murray, Marcus M. Noack, Kevin G. Yager, Esther H. R. Tsai",
         "source_excerpt": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray experiments on nanoparticle superlattices under evolving, human-defined objectives. Complete human-agent and agent-agent transcripts enable an audit that reconstructs decision provenance and characterizes the division of cognitive labor. Across three experiments, 61-67% of messages involved interpretation or judgment, while the share of methodological and scientific contributions increased from 46% in the setup-focused first experiment to 56-61% in later experiments. Provenance showed that 59-68% of error corrections involved multiple participants and that about half of all decisions incorporated the input of another participant. These results may guide design principles for multi-agent scientific systems and inform future agent harnesses, model training, and accessible autonomous experimentation."
       },
-      "relevance_score": 0.05257561609460706,
+      "relevance_score": 0.055425154758395885,
       "sources": [
         {
           "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
@@ -171,7 +171,7 @@
         "author": "Anshul Kumar, Neha Prasad, Manoj Kumar, Barnab\\'as P\\'oczos, Deeksha Varshney",
         "source_excerpt": "arXiv:2611.12998v1 Announce Type: new \nAbstract: Linear probes are a standard method to study geometric structures, such as helices and circles, from the activations of large language models (LLMs), and such structure is often taken as evidence that the model computes with it. Probe accuracy alone cannot establish this, because it conflates four separate claims. These are (1) that the concept is decodable from the activations, (2) that they form a specific shape, (3) that the shape belongs to the probed concept rather than to a related concept the model also represents, and (4) that the output of the model depends on the shape. We call these claims decodability, shape, ownership, and causal use, and we test them separately with a four-stage Bayesian pipeline. Stage 2 compares candidate shapes and selects the best one only when its evidence passes a predefined threshold. Stage 3 removes a set of related concepts, specified in advance, and tests whether the shape is owned or inherited. Stage 4 intervenes on the shape to test whether the output of the model depends on it. We apply the pipeline to two-digit addition and multiplication in GPT-J 6B, Llama 3.1 8B, and Pythia 6.9B. Nearly every concept is decodable, but the decoded directions overlap substantially across concepts. Every strongly supported comparison selects a ribbon, which is a helix whose radius changes with the value, or a torus. Of 1,330 cells with an ownership verdict, 19% of shapes are owned and 81% are inherited. Owned and inherited shapes move the output about equally often. Intervening on the shape retains approximately 61% of the effect of intervening on the full probe while using at most five dimensions, against a median of nine for the probe. Our results indicate that a probe verdict alone overstates what a model computes with, and we propose that probe results be reported as verdicts on all four claims rather than as a single accuracy."
       },
-      "relevance_score": 0.046069325585654596,
+      "relevance_score": 0.046981647523682106,
       "sources": [
         {
           "title": "Linear Probes to Bayesian Manifolds: Geometry of Arithmetic in Large Language Models",
@@ -215,7 +215,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.03532094394190478,
+      "relevance_score": 0.03620257707112677,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
