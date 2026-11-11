@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:05:51.265636",
+  "generated_at": "2026-11-11T09:05:28.272362",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.3357952015782354,
+      "relevance_score": 0.33403326133565336,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "Jayakody Kankanamalage Chamani Shiranthika",
         "source_excerpt": "arXiv:2611.12940v1 Announce Type: new \nAbstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized medicine and the dynamic treatment regimen are two such preliminary research fields; researchers are focusing their mindsets currently. Estimating the optimal dynamic treatment regimens from the observational real clinical data is being popularized among the researchers, widening its scope towards more advanced versions of reinforcement learning algorithms.\n  This research is about a research study that focused on reinforcement learning techniques that have been approached in the context of cancer chemotherapy treatments. Primarily this thesis addresses the result of the study by means of the state-of-the-art on reinforcement learning techniques used in generating the optimal policy for sequential treatments, including the existing online reinforcement learning approaches. Thereby a simulation for cancer chemotherapy via traditional Q-learning would be presented. Secondly, the study will extend towards using offline reinforcement learning in the optimal policy generation. Thus, the proposed solution follows a data-driven approach, which works on the real human colon cancer clinical data.\n  The novelty of the proposed solution resides in the implementation of an offline reinforcement learning approach by means of a model-based architecture using the conservative Q-learning and the model-based offline policy optimization algorithm. As per the experimental results and the evaluations, it was revealed that the proposed Chemo RL model caters well the problem of cancer chemotherapy treatment scheduling and serves as a supportive model for the junior oncologists in deciding their treatment decisions."
       },
-      "relevance_score": 0.2163172751846425,
+      "relevance_score": 0.23828969017686957,
       "sources": [
         {
           "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
@@ -61,7 +61,7 @@
         "author": "Rui Xue, Tianfu Wu",
         "source_excerpt": "arXiv:2611.12990v1 Announce Type: new \nAbstract: Multimodal attributed graphs (MAGs), in which nodes carry text, images, and other modalities while edges encode relations among entities, underlie e-commerce, social media, content platforms, and creative applications. Learning on MAGs has developed along two complementary lines: graph-centric methods redesign how modalities are fused, propagated, and connected within message passing, while foundation-model-centric methods pretrain transferable multimodal graph encoders or bring graph context into multimodal large language models for prediction and generation. In parallel, several benchmarks have appeared with different datasets and evaluation protocols. This survey takes an algorithm-centric and evaluation-grounded view of the field and makes three contributions. Modeling: we introduce a unified message-passing formulation and organize methods into five integration levels (feature, propagation, topology, learning, and foundation model), covering discriminative and graph-conditioned generative models; within this formulation we derive representative methods as special cases, compare their assumptions, expressiveness, and cost, and identify cross-modal sensitivity as a property that separates otherwise similar architectures. Datasets and evaluation: we review recent benchmarks, summarize their datasets and metrics, define model-independent descriptors (label homophily, average degree, clustering, and edge provenance), and map each evaluation protocol to the baselines it uses. Frontiers: we connect multimodal graph learning to AI agents, covering the multimodal graphs that agents perceive and remember and graph engineering, the practice of organizing agent workflows as explicit graphs; we then discuss open problems, concrete efforts for the community, and research directions, including when graph structure helps in the presence of strong multimodal foundation models."
       },
-      "relevance_score": 0.1798960739513394,
+      "relevance_score": 0.1761078524603059,
       "sources": [
         {
           "title": "Multimodal Graph Learning: A Survey of Models, Benchmarks, and Frontiers",
@@ -83,7 +83,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.07135385042554901,
+      "relevance_score": 0.06586632229219624,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -92,6 +92,28 @@
         }
       ],
       "faculty_summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
+      "type": "article",
+      "title": "Seeking Research Collaborators and Funding: Investigating Biological Intelligence and Neural Computing [D]",
+      "description": "\u200b Can living neural systems provide new insights into computation, adaptation, and intelligence? We are developing an independent research initiative called Transference, through Paraibis Global Trade Solutions, to investigate the intersection of biological computing, neuroscience, artificial int...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtct76/seeking_research_collaborators_and_funding/",
+      "source": "Reddit ML",
+      "date": "2026-11-11T08:46:07",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/council_of_desires",
+        "source_excerpt": "\u200b Can living neural systems provide new insights into computation, adaptation, and intelligence? We are developing an independent research initiative called Transference, through Paraibis Global Trade Solutions, to investigate the intersection of biological computing, neuroscience, artificial intelligence, and emerging computational architectures. Our research has progressed from theoretical investigation into computational analysis of experimental neural activity datasets. Research completed We gratefully acknowledge FinalSpark, which provided access to the FS369 and FS437 experimental datasets used in our research. Using these datasets, we conducted a structured discovery and independent validation programme investigating neural responses to electrical stimulation. Our original hypothesis did not fully replicate in the independent validation dataset. However, the analysis revealed an interesting pattern involving changes in electrode-level activity and temporary compensation among different recording channels. This observation has informed a new hypothesis concerning minority-channel compensation and transient recruitment. Importantly, this new hypothesis was generated from our subsequent analysis and has not yet been independently validated. We consider this distinction essential to maintaining scientific integrity. What we hope to investigate next We are seeking opportunities to conduct prospective experiments involving living neural systems. Our principal interests include: - Neural responses to controlled electrical stimulation. - Electrode-level activity redistribution and network dynamics. - Computational modelling of biological neural behaviour. - Machine learning methods for analysing electrophysiological activity. - Reproducible experimental methods and independent hypothesis testing. - The longer-term computational potential of biological intelligence. Seeking research collaboration and financing We are interested in connecting with researchers, laboratories, universities, research foundations, funding organizations, and individuals working in related fields. We would particularly welcome discussions involving:  Access to experimental biological computing infrastructure. Collaborative neuroscience and electrophysiology research. Independent experimental validation. Research grants, sponsorship, or other legitimate financing mechanisms. Technical criticism and suggestions for improving our experimental approach.  Our objective is not to claim that we have demonstrated a new computing technology. Rather, we want to establish the experimental evidence necessary to determine whether the phenomena we are investigating have broader scientific or computational significance. Acknowledgement We appreciate FinalSpark for providing the experimental datasets that made this stage of our independent research possible. Their work in biological computing can be explored at: https://finalspark.com Invitation to the community We would be interested to hear from researchers and others familiar with biological neural networks, multi-electrode arrays, neural stimulation, electrophysiology, or biological computing. What experimental controls, validation methods, or computational approaches would you consider essential when investigating changes in neural activity following stimulation? We also welcome private discussions with potential scientific collaborators and research sponsors. Research programme: Transference \u2014 Paraibis Global Trade Solutions Contact: info@paraibis.com Thank you for any constructive feedback or opportunities for collaboration.    submitted by    /u/council_of_desires   [link] [comments]"
+      },
+      "relevance_score": 0.05983478319371387,
+      "sources": [
+        {
+          "title": "Seeking Research Collaborators and Funding: Investigating Biological Intelligence and Neural Computing [D]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xtct76/seeking_research_collaborators_and_funding/"
+        }
+      ],
+      "faculty_summary": "\u200b Can living neural systems provide new insights into computation, adaptation, and intelligence? We are developing an independent research initiative called Transference, through Paraibis Global Trade Solutions, to investigate the intersection of biological computing, neuroscience, artificial int..."
     },
     {
       "type": "article",
@@ -105,7 +127,7 @@
         "author": "Jiin Woo, Gauri Joshi, Yuejie Chi",
         "source_excerpt": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogeneity not as a hurdle to consensus, but as a structural asset that catalyzes exploration. We first propose Personalized Federated Upper Confidence Bound Value Iteration (PF-UCBVI), which achieves optimal linear speedup by decoupling shared dynamics from personalized objectives. To eliminate the risks of explicit exploration, we then introduce Personalized Federated Exploration-Free Value Iteration (PF-EFVI), a purely greedy algorithm that leverages reward diversity to ensure state-action coverage. We prove that PF-EFVI attains logarithmic regret without explicit exploration bonuses under sufficient reward diversity. Our results reveal that agent disagreement shifts the exploration burden from temporal complexity to spatial diversity, enabling efficient collective learning without explicit exploration."
       },
-      "relevance_score": 0.05610786112668456,
+      "relevance_score": 0.05620996122077452,
       "sources": [
         {
           "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
@@ -127,7 +149,7 @@
         "author": "Gunik Luthra, Ronald J. Pandolfi, Benjamin T. Diroll, Ricky Ronquillo, Ruipeng Li, Christopher B. Murray, Marcus M. Noack, Kevin G. Yager, Esther H. R. Tsai",
         "source_excerpt": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray experiments on nanoparticle superlattices under evolving, human-defined objectives. Complete human-agent and agent-agent transcripts enable an audit that reconstructs decision provenance and characterizes the division of cognitive labor. Across three experiments, 61-67% of messages involved interpretation or judgment, while the share of methodological and scientific contributions increased from 46% in the setup-focused first experiment to 56-61% in later experiments. Provenance showed that 59-68% of error corrections involved multiple participants and that about half of all decisions incorporated the input of another participant. These results may guide design principles for multi-agent scientific systems and inform future agent harnesses, model training, and accessible autonomous experimentation."
       },
-      "relevance_score": 0.05230930867954092,
+      "relevance_score": 0.05382650965513995,
       "sources": [
         {
           "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
@@ -149,7 +171,7 @@
         "author": "Anshul Kumar, Neha Prasad, Manoj Kumar, Barnab\\'as P\\'oczos, Deeksha Varshney",
         "source_excerpt": "arXiv:2611.12998v1 Announce Type: new \nAbstract: Linear probes are a standard method to study geometric structures, such as helices and circles, from the activations of large language models (LLMs), and such structure is often taken as evidence that the model computes with it. Probe accuracy alone cannot establish this, because it conflates four separate claims. These are (1) that the concept is decodable from the activations, (2) that they form a specific shape, (3) that the shape belongs to the probed concept rather than to a related concept the model also represents, and (4) that the output of the model depends on the shape. We call these claims decodability, shape, ownership, and causal use, and we test them separately with a four-stage Bayesian pipeline. Stage 2 compares candidate shapes and selects the best one only when its evidence passes a predefined threshold. Stage 3 removes a set of related concepts, specified in advance, and tests whether the shape is owned or inherited. Stage 4 intervenes on the shape to test whether the output of the model depends on it. We apply the pipeline to two-digit addition and multiplication in GPT-J 6B, Llama 3.1 8B, and Pythia 6.9B. Nearly every concept is decodable, but the decoded directions overlap substantially across concepts. Every strongly supported comparison selects a ribbon, which is a helix whose radius changes with the value, or a torus. Of 1,330 cells with an ownership verdict, 19% of shapes are owned and 81% are inherited. Owned and inherited shapes move the output about equally often. Intervening on the shape retains approximately 61% of the effect of intervening on the full probe while using at most five dimensions, against a median of nine for the probe. Our results indicate that a probe verdict alone overstates what a model computes with, and we propose that probe results be reported as verdicts on all four claims rather than as a single accuracy."
       },
-      "relevance_score": 0.045637528636708224,
+      "relevance_score": 0.04630313843513159,
       "sources": [
         {
           "title": "Linear Probes to Bayesian Manifolds: Geometry of Arithmetic in Large Language Models",
@@ -171,7 +193,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.04047138122929968,
+      "relevance_score": 0.036470178218915815,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -193,7 +215,7 @@
         "author": "Haoran Zhang, Huizhen Sun, Hanbin Wen, Jie Leng, Jiaxin Zhu, Zhaohua Sun",
         "source_excerpt": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: they pose questions on curated images or give agents preprocessed inputs, leaving out the raw multi-sensor archives where such analysis begins. We introduce EarthRecord, a benchmark built on the raw record of 56 sites: four decades of Landsat, MODIS, VIIRS, and Sentinel-2 data, with cloud masking and cross-sensor harmonization left to the agent. It poses 238 land-change questions across ten analysis tasks, scored against withheld references from global products, agreement among methods, and visual interpretation. Two controls test what answers rest on: the closed book removes the record, and instrument pairs alter one satellite's data while nothing changes on the ground. Evaluations of twelve multimodal agents reveal that leading agents complete most analyses end to end but falter when an answer requires mapping from imagery. Further analysis shows that the record moves answers from prior knowledge to the pixels but not yet to the real change on the ground: when one satellite's data are altered, half of the right answers follow the alteration. EarthRecord thus provides a principled platform for measuring and advancing agents from pixels to land change."
       },
-      "relevance_score": 0.03612093765049357,
+      "relevance_score": 0.03609873900612128,
       "sources": [
         {
           "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
@@ -202,28 +224,6 @@
         }
       ],
       "faculty_summary": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short..."
-    },
-    {
-      "type": "article",
-      "title": "MADSNet: A Multi-Scale Axial-Attentive Dense Spiking Network for Spike Camera Image Reconstruction",
-      "description": "arXiv:2611.12980v1 Announce Type: new \nAbstract: Spike cameras encode dynamic scenes into high-temporal-resolution binary spike streams for efficient high-speed vision. Although spiking neural networks (SNNs) can process such signals with sparse and accumulate-only computation, existing SNN-based...",
-      "url": "https://arxiv.org/abs/2611.12980",
-      "source": "arXiv",
-      "date": "2026-11-11T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Sirui Li, Rui Zhao, Siqi Cai, Haizhou Li, Tiejun Huang, Yajing Zheng",
-        "source_excerpt": "arXiv:2611.12980v1 Announce Type: new \nAbstract: Spike cameras encode dynamic scenes into high-temporal-resolution binary spike streams for efficient high-speed vision. Although spiking neural networks (SNNs) can process such signals with sparse and accumulate-only computation, existing SNN-based reconstruction methods are typically shallow and still lag behind ANN-based models in reconstruction fidelity. This paper proposes MADSNet, a Multi-scale Axial-attentive Dense Spiking Network for spike camera image reconstruction. MADSNet adopts a hierarchical spiking encoder--decoder, where a multi-scale spike stem extracts early features, axial spike attention captures long-range dependencies, a dense spiking bottleneck enhances feature reuse, and a spike-to-continuous decoder reconstructs continuous intensity images from spike-domain representations. Experiments on gray-scale and color spike reconstruction show that MADSNet outperforms SSIR by 4.3 dB PSNR and Spk2ImgNet by 1.94 dB on SREDS. Compared with Spk2ImgNet, it achieves about 15$\\times$ lower latency and uses only about 1/40 of the estimated energy, demonstrating that carefully designed SNN architectures can improve reconstruction quality while preserving computational efficiency."
-      },
-      "relevance_score": 0.029039050909290338,
-      "sources": [
-        {
-          "title": "MADSNet: A Multi-Scale Axial-Attentive Dense Spiking Network for Spike Camera Image Reconstruction",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.12980"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.12980v1 Announce Type: new \nAbstract: Spike cameras encode dynamic scenes into high-temporal-resolution binary spike streams for efficient high-speed vision. Although spiking neural networks (SNNs) can process such signals with sparse and accumulate-only computation, existing SNN-based..."
     }
   ]
 }
