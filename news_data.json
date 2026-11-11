@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:09:29.462469",
+  "generated_at": "2026-11-11T01:05:24.720580",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.24038494136220662,
+      "relevance_score": 0.23941818178854662,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "/u/ade17_in",
         "source_excerpt": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am confident regarding the machine learning breath one but not the DSA/coding one. I have never studied this (or leetcoded) and also did not code much recently (AI does a better job than me in coding). Should I just cancel the interview as I know I am going to mess this up or try my best and prepare? How was your experience?    submitted by    /u/ade17_in   [link] [comments]"
       },
-      "relevance_score": 0.06455078979514173,
+      "relevance_score": 0.07179233725380278,
       "sources": [
         {
           "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -48,28 +48,6 @@
         }
       ],
       "faculty_summary": "Hi all! After multiple rejections I finally got an interview for a PhD applied science intern role at Amazon in the EU (Germany or Ams). I have two interviews scheduled after each other next week and need help preparing for those. The thing is, I have never given a technical interview ever, I am ..."
-    },
-    {
-      "type": "article",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "date": "2026-11-06T00:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-      },
-      "relevance_score": 0.05049572396453575,
-      "sources": [
-        {
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-        }
-      ],
-      "faculty_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
     },
     {
       "type": "article",
@@ -83,7 +61,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.0455439273274061,
+      "relevance_score": 0.045382481334963136,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -105,7 +83,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.025604122243006653,
+      "relevance_score": 0.025509486294715247,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -127,7 +105,7 @@
         "author": "/u/Exact-Contact-3837",
         "source_excerpt": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest. There is builtin tensor support, auto-grad, back-prop and its quite fast. I wrote it because, it seemed less mystifying to read maths instead of a random class that supposedly does something. I wrote it from scratch in cpp (23) due to the fact that I wanted to emphasise on precision, however it's subtly built on top of `xtensor`.  check it out in action #include <usul.hpp> using namespace std; int main() { double LR = 0.1; int EPOCH = 5000; // lets write the forward pass Tensor X = { {0.0, 0.0}, // this is what we're feeding it {0.0, 1.0}, {1.0, 0.0}, {1.0, 1.0}, }; // this is what we're after Tensor Y_true = { 0.0, // xor{0.0, 0.0} = 0.0 1.0, // xor{0.0, 1.0} = 1.0 1.0, // xor{1.0, 0.0} = 1.0 0.0 // xor{1.0, 1.0} = 0.0 }; Y_true.reshape({4, 1}); // we are now going to create a single layer, double neuron network // each layer will have a bias and weights tensor. auto W1 = generate_random_matrix({2, 4}, -1.0, 1.0); auto B1 = generate_random_matrix({1, 4}, -1.0, 1.0); auto W2 = generate_random_matrix({4, 1}, -1.0, 1.0); auto B2 = generate_random_matrix({1, 1}, -1.0, 1.0); // this is the training loop for (int i = 0; i < EPOCH; i++) { // so lets do one forward pass // first layer auto Z1 = X % W1 + B1; auto A = Z1.ReLU(); // second layer auto Z2 = A % W2 + B2; // activation // should be - auto S = Z2.activate(Activate::Sigmoid); auto S = Z2.Sigmoid(); // Loss // should be - auto Loss = S.loss(Loss::MSE); auto loss = (S - Y_true) * (S - Y_true); loss = loss.mean(); cout << \"Loss: \" << loss << \"\\n\"; cout << \"guesses: \" << \"\\n\" << S << \"\\n\"; cout << \"should be: \" << Y_true << \"\\n\"; loss.backwards(); W1.step(LR); B1.step(LR); W2.step(LR); B2.step(LR); } }  which will output Guesses: Tensor({{ 0.027546}, { 0.963592}, { 0.964138}, { 0.038964}}, shape=(4,1)) should be: Tensor({{ 0.}, { 1.}, { 1.}, { 0.}}, shape=(4,1)) Loss: Tensor( 0.001222, shape=())  Just write the maths, and Usul-cpp will handle the rest, it is extremely lightweight, and the entire library is memory safe. And its called Usul, because I'm a huge dune fan.  You can view the project at https://github.com/crushr3sist/Usul-cpp Any ideas for what to do next are all welcome, you can also pull and implement features that you think could improve this project. (no vibecoded prs please, this project is not vibe-coded) BACKGROUND INFO BELOW i'd like to share a bit of a background. maths has always stood in the way between me and finally learning how to write neural networks, I've always been fascinated by them ever since i saw that diagram of a deep neural network with all the node edges interconnecting with others. Well I stopped letting highschool math class trauma stop me from understanding these concepts, i took a pen and paper out, taught myself numerical descent, analytical descent, backwards propagation, what a compute graph is, all of these subjects, taught myself, until I was manually backwards propagating the loss between a few arithmetics, until that moved into scalar level neural networks and doing simple calculus and being able to do xor gate problem with scalar, and then I taught myself matrix calculus, and well... I taught myself neural networks, taught myself the maths, until I hand written the xor gate problem in matrix syntax using xtensor, and manually, by hand, no AI, did the xor gate problem manually backwards propagating error, automatically differentiating. This was also a kind of detox from LLM dependency, I don't tend to use it for code, but because its so central in my daily life and a migration from google to gemini, using LLMs for immediate information access had started to affect my mind and my ability to intake information. I really hope some of you find this library useful, as i did spend a pretty decent amount of time on it, and I would love it if any of you had any ideas on what to do next with this library. Thank you for reading, I really appreciate it.    submitted by    /u/Exact-Contact-3837   [link] [comments]"
       },
-      "relevance_score": 0.0220044726411636,
+      "relevance_score": 0.02182758958678369,
       "sources": [
         {
           "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
@@ -139,29 +117,7 @@
     },
     {
       "type": "article",
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-      "description": "Comments",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "source": "Hacker News",
-      "date": "2026-11-10T19:50:46",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-          "publisher": "Hacker News",
-          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
       "description": "Comments",
       "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
       "source": "Hacker News",
@@ -174,9 +130,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+          "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
           "publisher": "Hacker News",
           "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "description": "Comments",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "source": "Hacker News",
+      "date": "2026-11-10T19:50:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "publisher": "Hacker News",
+          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
         }
       ],
       "faculty_summary": "Comments"
@@ -221,6 +199,28 @@
           "title": "Smart home devices should work without the internet",
           "publisher": "Hacker News",
           "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Six Math Essentials by Terence Tao",
+      "description": "Comments",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "source": "Hacker News",
+      "date": "2026-11-10T20:58:44",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Six Math Essentials by Terence Tao",
+          "publisher": "Hacker News",
+          "url": "https://teorth.github.io/tao-web/six-math-essentials.html"
         }
       ],
       "faculty_summary": "Comments"
