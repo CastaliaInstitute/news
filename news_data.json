@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:05:38.203984",
+  "generated_at": "2026-11-11T04:05:41.063546",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.23941818178854662,
+      "relevance_score": 0.23956362405162207,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -61,7 +61,7 @@
         "author": "",
         "source_excerpt": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
       },
-      "relevance_score": 0.045382481334963136,
+      "relevance_score": 0.04498711315387459,
       "sources": [
         {
           "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -83,7 +83,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.025509486294715247,
+      "relevance_score": 0.02516408515698353,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -114,6 +114,28 @@
         }
       ],
       "faculty_summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest. There is builtin tensor support, auto-grad, back-prop and its qui..."
+    },
+    {
+      "type": "article",
+      "title": "Announcing .NET 11",
+      "description": "Comments",
+      "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "source": "Hacker News",
+      "date": "2026-11-10T16:01:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Announcing .NET 11",
+          "publisher": "Hacker News",
+          "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -177,28 +199,6 @@
           "title": ".name Grandfathered",
           "publisher": "Hacker News",
           "url": "https://neil.fraser.name/news/2026/11/10/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "description": "Comments",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "source": "Hacker News",
-      "date": "2026-11-10T19:50:46",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Scion is back and is going to sell a kei truck in America",
-          "publisher": "Hacker News",
-          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
         }
       ],
       "faculty_summary": "Comments"
