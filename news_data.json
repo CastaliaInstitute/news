@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:05:24.410720",
+  "generated_at": "2026-11-12T02:05:55.964053",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.32167455549706925,
+      "relevance_score": 0.3345771310955074,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "Jayakody Kankanamalage Chamani Shiranthika",
         "source_excerpt": "arXiv:2611.12940v1 Announce Type: new \nAbstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modelling real-life scenarios. Personalized medicine and the dynamic treatment regimen are two such preliminary research fields; researchers are focusing their mindsets currently. Estimating the optimal dynamic treatment regimens from the observational real clinical data is being popularized among the researchers, widening its scope towards more advanced versions of reinforcement learning algorithms.\n  This research is about a research study that focused on reinforcement learning techniques that have been approached in the context of cancer chemotherapy treatments. Primarily this thesis addresses the result of the study by means of the state-of-the-art on reinforcement learning techniques used in generating the optimal policy for sequential treatments, including the existing online reinforcement learning approaches. Thereby a simulation for cancer chemotherapy via traditional Q-learning would be presented. Secondly, the study will extend towards using offline reinforcement learning in the optimal policy generation. Thus, the proposed solution follows a data-driven approach, which works on the real human colon cancer clinical data.\n  The novelty of the proposed solution resides in the implementation of an offline reinforcement learning approach by means of a model-based architecture using the conservative Q-learning and the model-based offline policy optimization algorithm. As per the experimental results and the evaluations, it was revealed that the proposed Chemo RL model caters well the problem of cancer chemotherapy treatment scheduling and serves as a supportive model for the junior oncologists in deciding their treatment decisions."
       },
-      "relevance_score": 0.20167472230015873,
+      "relevance_score": 0.21839674711494836,
       "sources": [
         {
           "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
@@ -61,7 +61,7 @@
         "author": "Rui Xue, Tianfu Wu",
         "source_excerpt": "arXiv:2611.12990v1 Announce Type: new \nAbstract: Multimodal attributed graphs (MAGs), in which nodes carry text, images, and other modalities while edges encode relations among entities, underlie e-commerce, social media, content platforms, and creative applications. Learning on MAGs has developed along two complementary lines: graph-centric methods redesign how modalities are fused, propagated, and connected within message passing, while foundation-model-centric methods pretrain transferable multimodal graph encoders or bring graph context into multimodal large language models for prediction and generation. In parallel, several benchmarks have appeared with different datasets and evaluation protocols. This survey takes an algorithm-centric and evaluation-grounded view of the field and makes three contributions. Modeling: we introduce a unified message-passing formulation and organize methods into five integration levels (feature, propagation, topology, learning, and foundation model), covering discriminative and graph-conditioned generative models; within this formulation we derive representative methods as special cases, compare their assumptions, expressiveness, and cost, and identify cross-modal sensitivity as a property that separates otherwise similar architectures. Datasets and evaluation: we review recent benchmarks, summarize their datasets and metrics, define model-independent descriptors (label homophily, average degree, clustering, and edge provenance), and map each evaluation protocol to the baselines it uses. Frontiers: we connect multimodal graph learning to AI agents, covering the multimodal graphs that agents perceive and remember and graph engineering, the practice of organizing agent workflows as explicit graphs; we then discuss open problems, concrete efforts for the community, and research directions, including when graph structure helps in the presence of strong multimodal foundation models."
       },
-      "relevance_score": 0.16930179028394493,
+      "relevance_score": 0.16587936451702673,
       "sources": [
         {
           "title": "Multimodal Graph Learning: A Survey of Models, Benchmarks, and Frontiers",
@@ -83,7 +83,7 @@
         "author": "/u/promptdom",
         "source_excerpt": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017\u20132026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more accessible for the community - might build an open source autoresearch capability on top of it later If you see something that's missing or want to add features/contribute, open a PR and i'll accept it :] paper explorer: https://corl.operatic.ai/explore repo on github - star to follow along!! https://github.com/operatic-ai/corl-explorer    submitted by    /u/promptdom   [link] [comments]"
       },
-      "relevance_score": 0.09619776185282472,
+      "relevance_score": 0.0965276012158355,
       "sources": [
         {
           "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
@@ -117,28 +117,6 @@
     },
     {
       "type": "article",
-      "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
-      "description": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogen...",
-      "url": "https://arxiv.org/abs/2611.12964",
-      "source": "arXiv",
-      "date": "2026-11-11T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Jiin Woo, Gauri Joshi, Yuejie Chi",
-        "source_excerpt": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogeneity not as a hurdle to consensus, but as a structural asset that catalyzes exploration. We first propose Personalized Federated Upper Confidence Bound Value Iteration (PF-UCBVI), which achieves optimal linear speedup by decoupling shared dynamics from personalized objectives. To eliminate the risks of explicit exploration, we then introduce Personalized Federated Exploration-Free Value Iteration (PF-EFVI), a purely greedy algorithm that leverages reward diversity to ensure state-action coverage. We prove that PF-EFVI attains logarithmic regret without explicit exploration bonuses under sufficient reward diversity. Our results reveal that agent disagreement shifts the exploration burden from temporal complexity to spatial diversity, enabling efficient collective learning without explicit exploration."
-      },
-      "relevance_score": 0.05305733765645625,
-      "sources": [
-        {
-          "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.12964"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogen..."
-    },
-    {
-      "type": "article",
       "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
       "description": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Her...",
       "url": "https://arxiv.org/abs/2611.12933",
@@ -149,7 +127,7 @@
         "author": "Gunik Luthra, Ronald J. Pandolfi, Benjamin T. Diroll, Ricky Ronquillo, Ruipeng Li, Christopher B. Murray, Marcus M. Noack, Kevin G. Yager, Esther H. R. Tsai",
         "source_excerpt": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here, using coding-agent infrastructure grounded in validated scientific methods, we demonstrate autonomous synchrotron X-ray experiments on nanoparticle superlattices under evolving, human-defined objectives. Complete human-agent and agent-agent transcripts enable an audit that reconstructs decision provenance and characterizes the division of cognitive labor. Across three experiments, 61-67% of messages involved interpretation or judgment, while the share of methodological and scientific contributions increased from 46% in the setup-focused first experiment to 56-61% in later experiments. Provenance showed that 59-68% of error corrections involved multiple participants and that about half of all decisions incorporated the input of another participant. These results may guide design principles for multi-agent scientific systems and inform future agent harnesses, model training, and accessible autonomous experimentation."
       },
-      "relevance_score": 0.053014417518642554,
+      "relevance_score": 0.05439349961109701,
       "sources": [
         {
           "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
@@ -158,6 +136,28 @@
         }
       ],
       "faculty_summary": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Her..."
+    },
+    {
+      "type": "article",
+      "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
+      "description": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogen...",
+      "url": "https://arxiv.org/abs/2611.12964",
+      "source": "arXiv",
+      "date": "2026-11-11T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Jiin Woo, Gauri Joshi, Yuejie Chi",
+        "source_excerpt": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogeneity not as a hurdle to consensus, but as a structural asset that catalyzes exploration. We first propose Personalized Federated Upper Confidence Bound Value Iteration (PF-UCBVI), which achieves optimal linear speedup by decoupling shared dynamics from personalized objectives. To eliminate the risks of explicit exploration, we then introduce Personalized Federated Exploration-Free Value Iteration (PF-EFVI), a purely greedy algorithm that leverages reward diversity to ensure state-action coverage. We prove that PF-EFVI attains logarithmic regret without explicit exploration bonuses under sufficient reward diversity. Our results reveal that agent disagreement shifts the exploration burden from temporal complexity to spatial diversity, enabling efficient collective learning without explicit exploration."
+      },
+      "relevance_score": 0.05222564810091942,
+      "sources": [
+        {
+          "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.12964"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.12964v1 Announce Type: new \nAbstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration is often hindered when agents possess distinct goals. In this paper, we flip this paradigm, framing reward heterogen..."
     },
     {
       "type": "article",
