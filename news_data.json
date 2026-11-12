@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:05:35.241179",
+  "generated_at": "2026-11-12T10:05:26.476060",
   "total_items": 10,
   "items": [
     {
@@ -117,28 +117,6 @@
     },
     {
       "type": "article",
-      "title": "Humble Bundle just killed most of their security through vibecoding",
-      "description": "Comments",
-      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-      "source": "Hacker News",
-      "date": "2026-11-12T06:52:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Humble Bundle just killed most of their security through vibecoding",
-          "publisher": "Hacker News",
-          "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Jane Street: Socratic Tutor",
       "description": "Comments",
       "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
@@ -155,28 +133,6 @@
           "title": "Jane Street: Socratic Tutor",
           "publisher": "Hacker News",
           "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "description": "Comments",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "source": "Hacker News",
-      "date": "2026-11-11T22:34:23",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "publisher": "Hacker News",
-          "url": "https://www.mcmillen.dev/sigbovik/"
         }
       ],
       "faculty_summary": "Comments"
@@ -205,11 +161,11 @@
     },
     {
       "type": "article",
-      "title": "AWS emulator",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
       "description": "Comments",
-      "url": "https://github.com/aws/aws-emulator",
+      "url": "https://www.mcmillen.dev/sigbovik/",
       "source": "Hacker News",
-      "date": "2026-11-11T18:21:38",
+      "date": "2026-11-11T22:34:23",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +174,53 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "AWS emulator",
+          "title": "93% of paint splatters are valid Perl programs (2019)",
           "publisher": "Hacker News",
-          "url": "https://github.com/aws/aws-emulator"
+          "url": "https://www.mcmillen.dev/sigbovik/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A live tree of systemd jobs on the boot console",
+      "description": "Comments",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "source": "Hacker News",
+      "date": "2026-11-09T13:02:44",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A live tree of systemd jobs on the boot console",
+          "publisher": "Hacker News",
+          "url": "https://codeberg.org/wvhulle/bootvine"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "description": "Comments",
+      "url": "https://blog.benjamin.ie/legocam",
+      "source": "Hacker News",
+      "date": "2026-11-10T11:46:09",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+          "publisher": "Hacker News",
+          "url": "https://blog.benjamin.ie/legocam"
         }
       ],
       "faculty_summary": "Comments"
