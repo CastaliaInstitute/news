@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:05:06.953567",
+  "generated_at": "2026-11-12T21:05:14.821574",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.23628243025339496,
+      "relevance_score": 0.23759561128626905,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.04761558209440486,
+      "relevance_score": 0.0529974568501577,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -48,28 +48,6 @@
         }
       ],
       "faculty_summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
-    },
-    {
-      "type": "article",
-      "title": "Work at the Frontier: AI\u2019s effect on freelance work",
-      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI",
-      "date": "2026-11-10T07:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-      },
-      "relevance_score": 0.02235725134491584,
-      "sources": [
-        {
-          "title": "Work at the Frontier: AI\u2019s effect on freelance work",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/ai-effect-on-freelance-work"
-        }
-      ],
-      "faculty_summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
     },
     {
       "type": "article",
@@ -83,7 +61,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.019592730221687487,
+      "relevance_score": 0.02207586363064935,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -117,11 +95,11 @@
     },
     {
       "type": "article",
-      "title": "Rust 1.100.0",
+      "title": "Ask HN: Microsoft/Azure Outage?",
       "description": "Comments",
-      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "url": "https://news.ycombinator.com/item?id=50471668",
       "source": "Hacker News",
-      "date": "2026-11-12T18:24:06",
+      "date": "2026-11-12T18:17:13",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -130,31 +108,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Rust 1.100.0",
+          "title": "Ask HN: Microsoft/Azure Outage?",
           "publisher": "Hacker News",
-          "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "description": "Comments",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "source": "Hacker News",
-      "date": "2026-11-12T19:05:33",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-          "publisher": "Hacker News",
-          "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+          "url": "https://news.ycombinator.com/item?id=50471668"
         }
       ],
       "faculty_summary": "Comments"
@@ -183,11 +139,11 @@
     },
     {
       "type": "article",
-      "title": "Gemini 4 Hydrogen",
+      "title": "Rust 1.100",
       "description": "Comments",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "source": "Hacker News",
-      "date": "2026-11-12T18:01:48",
+      "date": "2026-11-12T18:39:05",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,9 +152,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Gemini 4 Hydrogen",
+          "title": "Rust 1.100",
           "publisher": "Hacker News",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "description": "Comments",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "source": "Hacker News",
+      "date": "2026-11-12T19:05:33",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+          "publisher": "Hacker News",
+          "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
         }
       ],
       "faculty_summary": "Comments"
@@ -221,6 +199,28 @@
           "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
           "publisher": "Hacker News",
           "url": "https://github.com/simpsoka/zigzag"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Gemini 4 Hydrogen",
+      "description": "Comments",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "Hacker News",
+      "date": "2026-11-12T18:01:48",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Gemini 4 Hydrogen",
+          "publisher": "Hacker News",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
         }
       ],
       "faculty_summary": "Comments"
