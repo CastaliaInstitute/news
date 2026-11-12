@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:04:39.938065",
+  "generated_at": "2026-11-12T20:05:06.953567",
   "total_items": 10,
   "items": [
     {
@@ -139,6 +139,50 @@
     },
     {
       "type": "article",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "description": "Comments",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "source": "Hacker News",
+      "date": "2026-11-12T19:05:33",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+          "publisher": "Hacker News",
+          "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "description": "Comments",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "Hacker News",
+      "date": "2026-11-12T18:52:01",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Gemini 4 Hydrogen and Orchestrator",
+          "publisher": "Hacker News",
+          "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Gemini 4 Hydrogen",
       "description": "Comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
@@ -161,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "Ask HN: Microsoft/Azure Outage?",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50471668",
+      "url": "https://github.com/simpsoka/zigzag",
       "source": "Hacker News",
-      "date": "2026-11-12T18:17:13",
+      "date": "2026-11-12T17:02:42",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -174,53 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Ask HN: Microsoft/Azure Outage?",
+          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
           "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50471668"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Outlook is down, and so is Microsoft's status page",
-      "description": "Comments",
-      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-      "source": "Hacker News",
-      "date": "2026-11-12T18:20:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Outlook is down, and so is Microsoft's status page",
-          "publisher": "Hacker News",
-          "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "description": "Comments",
-      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "source": "Hacker News",
-      "date": "2026-11-12T14:18:49",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-          "publisher": "Hacker News",
-          "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"
+          "url": "https://github.com/simpsoka/zigzag"
         }
       ],
       "faculty_summary": "Comments"
