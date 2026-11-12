@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:05:30.085124",
+  "generated_at": "2026-11-12T06:07:07.093801",
   "total_items": 10,
   "items": [
     {
@@ -39,7 +39,7 @@
         "author": "/u/promptdom",
         "source_excerpt": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017\u20132026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more accessible for the community - might build an open source autoresearch capability on top of it later If you see something that's missing or want to add features/contribute, open a PR and i'll accept it :] paper explorer: https://corl.operatic.ai/explore repo on github - star to follow along!! https://github.com/operatic-ai/corl-explorer    submitted by    /u/promptdom   [link] [comments]"
       },
-      "relevance_score": 0.07418472885528052,
+      "relevance_score": 0.07427563216084851,
       "sources": [
         {
           "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
@@ -205,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "title": "Gemini Decisions API",
       "description": "Comments",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "source": "Hacker News",
-      "date": "2026-11-11T21:24:35",
+      "date": "2026-11-11T18:32:42",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title": "Gemini Decisions API",
           "publisher": "Hacker News",
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
         }
       ],
       "faculty_summary": "Comments"
