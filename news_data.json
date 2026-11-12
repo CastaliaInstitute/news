@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:05:35.491468",
+  "generated_at": "2026-11-12T08:06:11.412061",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.2288877501415659,
+      "relevance_score": 0.227912815402929,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -105,7 +105,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.022052989613540363,
+      "relevance_score": 0.021994696845223677,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -114,6 +114,28 @@
         }
       ],
       "faculty_summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+    },
+    {
+      "type": "article",
+      "title": "Humble Bundle just killed most of their security through vibecoding",
+      "description": "Comments",
+      "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "source": "Hacker News",
+      "date": "2026-11-12T06:52:48",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Humble Bundle just killed most of their security through vibecoding",
+          "publisher": "Hacker News",
+          "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -161,50 +183,6 @@
     },
     {
       "type": "article",
-      "title": "AWS emulator",
-      "description": "Comments",
-      "url": "https://github.com/aws/aws-emulator",
-      "source": "Hacker News",
-      "date": "2026-11-11T18:21:38",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "AWS emulator",
-          "publisher": "Hacker News",
-          "url": "https://github.com/aws/aws-emulator"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "description": "Comments",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "source": "Hacker News",
-      "date": "2026-11-11T22:31:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nvidia is preparing to oust Jensen Huang",
-          "publisher": "Hacker News",
-          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Jane Street: Socratic Tutor",
       "description": "Comments",
       "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
@@ -221,6 +199,28 @@
           "title": "Jane Street: Socratic Tutor",
           "publisher": "Hacker News",
           "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "AWS emulator",
+      "description": "Comments",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News",
+      "date": "2026-11-11T18:21:38",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "AWS emulator",
+          "publisher": "Hacker News",
+          "url": "https://github.com/aws/aws-emulator"
         }
       ],
       "faculty_summary": "Comments"
