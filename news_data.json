@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:05:12.665834",
+  "generated_at": "2026-11-12T12:06:18.999849",
   "total_items": 10,
   "items": [
     {
@@ -105,7 +105,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.04385406109818366,
+      "relevance_score": 0.043938292458770484,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -127,7 +127,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.0202892224219227,
+      "relevance_score": 0.020595446811523022,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -139,11 +139,11 @@
     },
     {
       "type": "article",
-      "title": "A live tree of systemd jobs on the boot console",
+      "title": "Anthropic IPO",
       "description": "Comments",
-      "url": "https://codeberg.org/wvhulle/bootvine",
+      "url": "https://ipo.anthropic.com/us/",
       "source": "Hacker News",
-      "date": "2026-11-09T13:02:44",
+      "date": "2026-11-12T11:46:41",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,9 +152,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A live tree of systemd jobs on the boot console",
+          "title": "Anthropic IPO",
           "publisher": "Hacker News",
-          "url": "https://codeberg.org/wvhulle/bootvine"
+          "url": "https://ipo.anthropic.com/us/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Why Writing Correct Software Is Hard",
+      "description": "Comments",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "source": "Hacker News",
+      "date": "2026-11-12T10:28:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Why Writing Correct Software Is Hard",
+          "publisher": "Hacker News",
+          "url": "https://pron.github.io/posts/correctness-and-complexity"
         }
       ],
       "faculty_summary": "Comments"
@@ -183,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "Tim Peters has died",
+      "title": "A live tree of systemd jobs on the boot console",
       "description": "Comments",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "url": "https://codeberg.org/wvhulle/bootvine",
       "source": "Hacker News",
-      "date": "2026-11-11T07:03:17",
+      "date": "2026-11-09T13:02:44",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,31 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Tim Peters has died",
+          "title": "A live tree of systemd jobs on the boot console",
           "publisher": "Hacker News",
-          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Why Writing Correct Software Is Hard",
-      "description": "Comments",
-      "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "source": "Hacker News",
-      "date": "2026-11-12T10:28:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Why Writing Correct Software Is Hard",
-          "publisher": "Hacker News",
-          "url": "https://pron.github.io/posts/correctness-and-complexity"
+          "url": "https://codeberg.org/wvhulle/bootvine"
         }
       ],
       "faculty_summary": "Comments"
