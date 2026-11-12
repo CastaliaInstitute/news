@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:06:06.796309",
+  "generated_at": "2026-11-12T15:05:24.139998",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.22787814130881623,
+      "relevance_score": 0.23967521472447367,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -26,50 +26,6 @@
         }
       ],
       "faculty_summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "type": "article",
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "description": "Comments",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "source": "Hacker News",
-      "date": "2026-11-12T02:11:11",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0723453452151598,
-      "sources": [
-        {
-          "title": "Critical RCE Vulnerability in Apache HTTP Server",
-          "publisher": "Hacker News",
-          "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-      "description": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017\u20132026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more a...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
-      "source": "Reddit ML",
-      "date": "2026-11-11T21:42:54",
-      "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/promptdom",
-        "source_excerpt": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017\u20132026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more accessible for the community - might build an open source autoresearch capability on top of it later If you see something that's missing or want to add features/contribute, open a PR and i'll accept it :] paper explorer: https://corl.operatic.ai/explore repo on github - star to follow along!! https://github.com/operatic-ai/corl-explorer    submitted by    /u/promptdom   [link] [comments]"
-      },
-      "relevance_score": 0.07083973535266205,
-      "sources": [
-        {
-          "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-          "publisher": "Reddit ML",
-          "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/"
-        }
-      ],
-      "faculty_summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017\u20132026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more a..."
     },
     {
       "type": "article",
@@ -83,7 +39,7 @@
         "author": "/u/Strong_Boy_757",
         "source_excerpt": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pair of eyes that Chinese researchers in ML (especially Chinese researcher based in China) are extremely productive to the point of defying common sense. We are talking about 100-200 papers while an undergraduate/graduate student. 1 paper a week is not unheard of. Can easily pull up Google scholar profiles of random Chinese researcher or PhD student with hundreds of papers submitted to dozens of different conferences. At the same time they have co-authors in the range of dozens and sometimes hundreds, especially when it comes to benchmarks or surveys. The research seem to concentrate heavily in the LLM/Multi-Modal space, with very few novel mathematical derivation/arguments but tons of experiments, sometimes ranging almost hundred page of experiments. I ran some of these work in ChatGPT/Claude to check for possible LLM generated artifacts and usually it quickly returns a list of suspicious sections, but the paper were subsequently accepted in ICLR/AAAI and similar conferences anyways. I am confused as to what exactly is happening. I understand that Chinese folks have entire publishing ecosystem and hiring ecosystem that is insular to the west. It is well known that the Chinese faculties working in the states would routinely advertise for academic positions in places like Xiaohongshu (RedNote) or Douyin or BiliBili, which creates a certain level of unfairness. But I wonder if similar network exist for people who want to publish papers to get together to \"scratch each other's back\", or give someone the proper credentials (some kind of academic nepotism). Would appreciate it if someone can give us an inside look into how this all work.    submitted by    /u/Strong_Boy_757   [link] [comments]"
       },
-      "relevance_score": 0.058485728867305145,
+      "relevance_score": 0.060073824609484044,
       "sources": [
         {
           "title": "Can we talk about the ML research coming from China? [D]",
@@ -105,7 +61,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.043984231620435,
+      "relevance_score": 0.04789231485279954,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -127,7 +83,7 @@
         "author": "",
         "source_excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
       },
-      "relevance_score": 0.020301485120155633,
+      "relevance_score": 0.022187001641042238,
       "sources": [
         {
           "title": "Work at the Frontier: AI\u2019s effect on freelance work",
@@ -136,28 +92,6 @@
         }
       ],
       "faculty_summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-    },
-    {
-      "type": "article",
-      "title": "Why Writing Correct Software Is Hard",
-      "description": "Comments",
-      "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "source": "Hacker News",
-      "date": "2026-11-12T10:28:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Why Writing Correct Software Is Hard",
-          "publisher": "Hacker News",
-          "url": "https://pron.github.io/posts/correctness-and-complexity"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -183,11 +117,11 @@
     },
     {
       "type": "article",
-      "title": "Jane Street: Socratic Tutor",
+      "title": "Why Writing Correct Software Is Hard",
       "description": "Comments",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
       "source": "Hacker News",
-      "date": "2026-11-10T10:18:22",
+      "date": "2026-11-12T10:28:26",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,20 +130,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Jane Street: Socratic Tutor",
+          "title": "Why Writing Correct Software Is Hard",
           "publisher": "Hacker News",
-          "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+          "url": "https://pron.github.io/posts/correctness-and-complexity"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "A live tree of systemd jobs on the boot console",
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
       "description": "Comments",
-      "url": "https://codeberg.org/wvhulle/bootvine",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
       "source": "Hacker News",
-      "date": "2026-11-09T13:02:44",
+      "date": "2026-11-12T14:12:37",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +152,75 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A live tree of systemd jobs on the boot console",
+          "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
           "publisher": "Hacker News",
-          "url": "https://codeberg.org/wvhulle/bootvine"
+          "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "description": "Comments",
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "source": "Hacker News",
+      "date": "2026-11-12T13:56:11",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Jensen Huang resigns as Nvidia CEO immediately",
+          "publisher": "Hacker News",
+          "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "description": "Comments",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "source": "Hacker News",
+      "date": "2026-11-12T14:18:49",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+          "publisher": "Hacker News",
+          "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Jane Street \u2013 Our software engineering interviews are changing (a little)",
+      "description": "Comments",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "source": "Hacker News",
+      "date": "2026-11-12T14:05:28",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Jane Street \u2013 Our software engineering interviews are changing (a little)",
+          "publisher": "Hacker News",
+          "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/"
         }
       ],
       "faculty_summary": "Comments"
