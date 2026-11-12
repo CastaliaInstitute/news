@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:05:05.124394",
+  "generated_at": "2026-11-12T23:04:48.107588",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.23759561128626905,
+      "relevance_score": 0.2387908188845218,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0529974568501577,
+      "relevance_score": 0.053197093557118796,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -139,6 +139,28 @@
     },
     {
       "type": "article",
+      "title": "Foundation Models framework",
+      "description": "Comments",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "source": "Hacker News",
+      "date": "2026-11-12T21:13:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Foundation Models framework",
+          "publisher": "Hacker News",
+          "url": "https://developer.apple.com/foundation-models-framework/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
       "description": "Comments",
       "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
@@ -155,28 +177,6 @@
           "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
           "publisher": "Hacker News",
           "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Foundation Models Framework (macOS)",
-      "description": "Comments",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "source": "Hacker News",
-      "date": "2026-11-12T21:13:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Foundation Models Framework (macOS)",
-          "publisher": "Hacker News",
-          "url": "https://developer.apple.com/foundation-models-framework/"
         }
       ],
       "faculty_summary": "Comments"
