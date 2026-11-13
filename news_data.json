@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:05:30.218706",
+  "generated_at": "2026-11-13T04:05:21.838567",
   "total_items": 10,
   "items": [
     {
@@ -39,7 +39,7 @@
         "author": "/u/Rollgus",
         "source_excerpt": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. The accuracy for all MNIST handwritten numbers is 96.52% so 9,652/10,000.    submitted by    /u/Rollgus   [link] [comments]"
       },
-      "relevance_score": 0.08468232869297249,
+      "relevance_score": 0.08553902386473129,
       "sources": [
         {
           "title": "Weights for MNIST Handwriting Network [P]",
@@ -61,7 +61,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.05338764637537212,
+      "relevance_score": 0.0545380183445811,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -95,28 +95,6 @@
     },
     {
       "type": "article",
-      "title": "Jensen Huang resigns",
-      "description": "Comments",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "source": "Hacker News",
-      "date": "2026-11-12T13:52:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Jensen Huang resigns",
-          "publisher": "Hacker News",
-          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Africa's solar revolution is vast and speedy",
       "description": "Comments",
       "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
@@ -133,6 +111,28 @@
           "title": "Africa's solar revolution is vast and speedy",
           "publisher": "Hacker News",
           "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Jensen Huang resigns",
+      "description": "Comments",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "Hacker News",
+      "date": "2026-11-12T13:52:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Jensen Huang resigns",
+          "publisher": "Hacker News",
+          "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
         }
       ],
       "faculty_summary": "Comments"
@@ -183,11 +183,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
       "description": "Comments",
-      "url": "https://github.com/simpsoka/zigzag",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
       "source": "Hacker News",
-      "date": "2026-11-12T17:02:42",
+      "date": "2026-11-13T02:16:24",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,20 +196,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+          "title": "Nvidia employees petition to bring back Jensen Huang",
           "publisher": "Hacker News",
-          "url": "https://github.com/simpsoka/zigzag"
+          "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "description": "Comments",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "source": "Hacker News",
-      "date": "2026-11-12T19:05:33",
+      "date": "2026-11-12T23:06:17",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
           "publisher": "Hacker News",
-          "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
         }
       ],
       "faculty_summary": "Comments"
