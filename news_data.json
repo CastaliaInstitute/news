@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:04:22.877311",
+  "generated_at": "2026-11-13T23:05:14.825116",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "/u/v_aravind",
         "source_excerpt": "I work in graphene and 2D materials, and I built a test of the everyday technical work in a research group. It has seven parts: reducing a messy tensile data set against a lab SOP (with unit and outlier traps), writing a CIF density function checked on three hidden structures, four back-of-envelope physics calculations, critiquing a manuscript with 10 planted errors and 6 correct-but-suspicious decoys, false-premise and fabricated-paper questions with calibration scoring, an experimental design, and an abstract under constraints. All the data are synthetic, the answer keys are computed by code, and it's scored out of 100 across 8 categories. Setup: Gemini 4 Carbon and Gemini 4 Hydrogen (Antigravity), Claude Opus 5.5 and Claude Fable 5.2 (Claude app). All at \"High\", not max. 3 fresh runs each, files attached, prompt pasted, nothing else. Web search and code execution were on. Results: mean scores were 100.0 / 99.7 / 99.3 / 98.5, all 12 runs fell between 97.8 and 100, and each took 7\u201324 min. Every run caught the unit trap, passed the hidden CIF tests, got the subtle physics right (Krenchel 8/15 for platelets, graphene quantum capacitance), found all 10 planted errors with zero false positives, and refused the false premise and the fake paper. The points lost were formatting trivia. Three runs found a real error in the manuscript that I hadn't planted. Caveats: one examiner, n=3 per model, and I designed the test with Claude Opus 5.5's help (the Gemini models came out on top anyway). My read is that this is consistent with FrontierScience, METR time horizons and PaperBench: bounded work with a known procedure is saturated, and the gap is in long-horizon, open-ended work. Next I'm building a simulated-lab campaign: the agent gets a budget, instruments and a target spec, with planted surprises of the kind real projects have and a signed log of every action, for runs of 2\u20136 hours. Questions for the sub: how are people scoring the trajectory (e.g. recovery from a wrong early assumption) separately from the final output in long-horizon evals? And has anyone run measured human baselines on agentic tasks of that length? PhD student: my estimate of 11\u201316 hours of focused work and an expected score of 75\u201390, not a measurement. Full write-up: https://aiamnano.substack.com/p/frontier-ai-models-vs-phd-student    submitted by    /u/v_aravind   [link] [comments]"
       },
-      "relevance_score": 0.06851621213429701,
+      "relevance_score": 0.06924470303609397,
       "sources": [
         {
           "title": "Four frontier models scored 97.8\u2013100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.060125273873887344,
+      "relevance_score": 0.06138821865337138,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -58,7 +58,7 @@
         "author": "/u/Apathiq",
         "source_excerpt": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive. First bad thing: the level of pushiness is terrible. I went to bed, and when I woke up, I had 1 email and 2 follow-up emails asking me to complete some part of the verification where the uploaded document did not have the correct format... ok. Then I did the survey. Their website is an absolute mess. The survey appeared under two different views of the page, and after I completed it, it was only shown as \"pending\" in one view... Under the other, it was shown as if I hadn't submitted it yet... So I received a bunch of emails (very pushy again) asking me to complete the survey, which I answered. Regularly, whenever I've sent an email, I've waited 48-96h to get an answer, but if I didn't answer quickly, I was receiving follow-ups every 2-12 hours. Then I was notified by email that the survey was accepted, great. A few days later, they sent me the forms to fill out to get paid: a crazy amount of paperwork for getting paid for a survey, and absolutely not worth it. It required more paperwork than the one I needed for getting a public contract in my country, including a document that requires going in person to a tax office, waiting up to 4 weeks, and probably paying for the document. So my recommendation to other people getting contacted by them: run away, it's a waste of time, and they are unprofessional.     submitted by    /u/Apathiq   [link] [comments]"
       },
-      "relevance_score": 0.05677078320434641,
+      "relevance_score": 0.05783027181018277,
       "sources": [
         {
           "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -136,6 +136,72 @@
     },
     {
       "type": "article",
+      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+      "description": "Comments",
+      "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+      "source": "Hacker News",
+      "date": "2026-11-13T22:16:11",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+          "publisher": "Hacker News",
+          "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "description": "Comments",
+      "url": "https://orcasairband.com/",
+      "source": "Hacker News",
+      "date": "2026-11-13T22:04:24",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+          "publisher": "Hacker News",
+          "url": "https://orcasairband.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Claude Meetings",
+      "description": "Comments",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "source": "Hacker News",
+      "date": "2026-11-13T22:39:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Meetings",
+          "publisher": "Hacker News",
+          "url": "https://claude.com/resources/articles/claude-meetings"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "FM-1 Workbench",
       "description": "Comments",
       "url": "https://open.m-vave.com/fm1-workbench",
@@ -152,72 +218,6 @@
           "title": "FM-1 Workbench",
           "publisher": "Hacker News",
           "url": "https://open.m-vave.com/fm1-workbench"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "description": "Comments",
-      "url": "https://haddyalchaer.com/jepa",
-      "source": "Hacker News",
-      "date": "2026-11-13T17:55:28",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "After 600 experiments, here's what I discovered about JEPA world models",
-          "publisher": "Hacker News",
-          "url": "https://haddyalchaer.com/jepa"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "description": "Comments",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "source": "Hacker News",
-      "date": "2026-11-12T22:03:09",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-          "publisher": "Hacker News",
-          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "description": "Comments",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "source": "Hacker News",
-      "date": "2026-11-13T19:24:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-          "publisher": "Hacker News",
-          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider"
         }
       ],
       "faculty_summary": "Comments"
