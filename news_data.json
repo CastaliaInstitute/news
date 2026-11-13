@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:05:43.049034",
+  "generated_at": "2026-11-13T17:05:04.275609",
   "total_items": 10,
   "items": [
     {
@@ -80,7 +80,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.02513874121694961,
+      "relevance_score": 0.025070245040398318,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -114,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "description": "Comments",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News",
-      "date": "2026-11-13T12:10:24",
+      "date": "2026-11-13T10:18:13",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -127,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
           "publisher": "Hacker News",
-          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+          "url": "https://status.claude.com/incidents/nn11wk485zfn"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "description": "Comments",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "source": "Hacker News",
+      "date": "2026-11-13T12:10:24",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Jensen Huang resigns",
       "description": "Comments",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
@@ -196,28 +218,6 @@
           "title": "Jensen Huang resigns",
           "publisher": "Hacker News",
           "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "description": "Comments",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "source": "Hacker News",
-      "date": "2026-11-13T10:18:13",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-          "publisher": "Hacker News",
-          "url": "https://status.claude.com/incidents/nn11wk485zfn"
         }
       ],
       "faculty_summary": "Comments"
