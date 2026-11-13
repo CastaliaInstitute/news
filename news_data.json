@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:05:44.449742",
+  "generated_at": "2026-11-13T03:05:30.218706",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.23013124830891057,
+      "relevance_score": 0.22914959773096102,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -61,7 +61,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.053555263112428836,
+      "relevance_score": 0.05338764637537212,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -83,7 +83,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.022146374387999945,
+      "relevance_score": 0.022107366322574262,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -111,6 +111,28 @@
           "title": "Jensen Huang resigns",
           "publisher": "Hacker News",
           "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Africa's solar revolution is vast and speedy",
+      "description": "Comments",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+      "source": "Hacker News",
+      "date": "2026-11-13T02:28:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Africa's solar revolution is vast and speedy",
+          "publisher": "Hacker News",
+          "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy"
         }
       ],
       "faculty_summary": "Comments"
@@ -199,28 +221,6 @@
           "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
           "publisher": "Hacker News",
           "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Foundation Models framework",
-      "description": "Comments",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "source": "Hacker News",
-      "date": "2026-11-12T21:13:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Foundation Models framework",
-          "publisher": "Hacker News",
-          "url": "https://developer.apple.com/foundation-models-framework/"
         }
       ],
       "faculty_summary": "Comments"
