@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:05:37.136474",
+  "generated_at": "2026-11-13T14:05:21.003752",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.22598018483418553,
+      "relevance_score": 0.22238126397689634,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06251627553144605,
+      "relevance_score": 0.053843616200651305,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -61,7 +61,7 @@
         "author": "/u/Apathiq",
         "source_excerpt": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive. First bad thing: the level of pushiness is terrible. I went to bed, and when I woke up, I had 1 email and 2 follow-up emails asking me to complete some part of the verification where the uploaded document did not have the correct format... ok. Then I did the survey. Their website is an absolute mess. The survey appeared under two different views of the page, and after I completed it, it was only shown as \"pending\" in one view... Under the other, it was shown as if I hadn't submitted it yet... So I received a bunch of emails (very pushy again) asking me to complete the survey, which I answered. Regularly, whenever I've sent an email, I've waited 48-96h to get an answer, but if I didn't answer quickly, I was receiving follow-ups every 2-12 hours. Then I was notified by email that the survey was accepted, great. A few days later, they sent me the forms to fill out to get paid: a crazy amount of paperwork for getting paid for a survey, and absolutely not worth it. It required more paperwork than the one I needed for getting a public contract in my country, including a document that requires going in person to a tax office, waiting up to 4 weeks, and probably paying for the document. So my recommendation to other people getting contacted by them: run away, it's a waste of time, and they are unprofessional.     submitted by    /u/Apathiq   [link] [comments]"
       },
-      "relevance_score": 0.05205430532429117,
+      "relevance_score": 0.05017321258429565,
       "sources": [
         {
           "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -83,7 +83,7 @@
         "author": "/u/ladyofcode",
         "source_excerpt": "Hey r/learnmachinelearning! I\u2019m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models and natural language inference.  Inspired by the explosion of interest in discriminative models like TypeSafe AI\u2019s Jev, I wanted to see how far I could get using smaller, non-generative models for the bulk of the legal document playbook review workflow.  The theoretical benefits of a non-generative approach to this problem are enormous. As true clause-level pairwise review is a quadratic problem, it\u2019s unfeasible to do at scale using a model like Opus or Astra. Comparing two average-sized documents with 133 clauses each would take 17,689 API calls, which is far too slow and expensive.  Simply uploading the files directly to Claude or GPT is no remedy either. Decoders and agentic architectures don\u2019t have fixed attention that lets them thoroughly analyse a document in one shot. Even with a multi-shot approach, they\u2019re weak on recall and routinely hallucinate.  My lawyer friends raise this problem constantly, and I couldn\u2019t find an open-source solution to it, so I decided to build one myself.  My pipeline pushes the bulk of the NLI, entailment and reasoning onto faster and more accurate legal encoder models. For the longest document pairs I sampled, the full pipeline ran in under 20 seconds. Unlike generative architectures, these models run a comprehensive pairwise comparison, and although they can still make false positive or false negative errors, those misses and misclassifications aren\u2019t hallucinations (out-of-domain results introduced into the feature set).  The pipeline works as follows:   Enrich: we enrich each document into a hierarchical tree of sections, clauses and subclauses. Clauses are the key atoms that the pairwise comparisons run on downstream.  Embed: we embed each clause as a vector.  Filter: we use a legal zero-shot classifier to drop items that aren\u2019t provisions, like footnotes or signature blocks.  Shortlist: we keep each clause\u2019s three most relevant pairs from the reference document, as long as their cosine similarity is at least 0.5.  Score: we use a reranker and a classifier to score each shortlisted pair. Each answers a question in the format it\u2019s built for: the reranker scores how relevant text is to a search query (relevance), and the classifier scores whether a statement is true (NLI/entailment).  Sort: if a clause and its best match are on the same topic but have a high conflict score, it\u2019s a deviation. If there\u2019s no same-topic match, it\u2019s a gap, i.e. the topic is in one document but not the other.   That\u2019s the whole conflict detection pipeline. On top of it, you can optionally plug in an LLM to summarise each finding in plain English or redraft a clause to favour the party you\u2019re representing. Because the generative step only runs after the NLI and encoder stack has already decided what the conflicts are, it can\u2019t hallucinate a conflict into existence.  To demonstrate the pipeline\u2019s power, we inputted Bob Iger\u2019s 2011 and 2022 Disney employment agreements. The pipeline found many disparities and conflicts, and across most of them, the 2011 agreement was more favourable to Iger than the 2022 one.  One interesting finding was a gap: the 2011 agreement had no intellectual property assignment clause, while the 2022 agreement makes Iger assign all work-related IP to Disney, with an exception for inventions he makes on his own time without company resources.  The code is MIT-licensed, so it\u2019s free for personal and commercial use. The guide walks through every step, so you can swap in your own models or make your own architectural changes wherever you like.  Have fun, and let me know what you think! \ud83d\ude01 Write-up and static demo: https://isaacus.com/blog/build-a-legal-document-conflict-detector  GitHub repo: https://github.com/isaacus-dev/cookbooks     submitted by    /u/ladyofcode   [link] [comments]"
       },
-      "relevance_score": 0.03484146029220063,
+      "relevance_score": 0.03488485736464438,
       "sources": [
         {
           "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
@@ -92,6 +92,28 @@
         }
       ],
       "faculty_summary": "Hey r/learnmachinelearning! I\u2019m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models and natural language in..."
+    },
+    {
+      "type": "article",
+      "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+      "description": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
+      "source": "Reddit ML",
+      "date": "2026-11-12T16:02:13",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/Hope999991",
+        "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
+      },
+      "relevance_score": 0.022363935286331613,
+      "sources": [
+        {
+          "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/"
+        }
+      ],
+      "faculty_summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
     },
     {
       "type": "article",
@@ -183,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "Rust 1.100",
+      "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
       "description": "Comments",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
       "source": "Hacker News",
-      "date": "2026-11-12T18:39:05",
+      "date": "2026-11-13T13:51:27",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,31 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Rust 1.100",
+          "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
           "publisher": "Hacker News",
-          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "description": "Comments",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
-      "source": "Hacker News",
-      "date": "2026-11-13T03:08:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-          "publisher": "Hacker News",
-          "url": "https://brave.com/blog/search-api-agentic-payments/"
+          "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest"
         }
       ],
       "faculty_summary": "Comments"
