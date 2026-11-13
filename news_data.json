@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:05:04.275609",
+  "generated_at": "2026-11-13T18:05:35.539316",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.059750108627553575,
+      "relevance_score": 0.061000529335760764,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -36,7 +36,7 @@
         "author": "/u/Apathiq",
         "source_excerpt": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive. First bad thing: the level of pushiness is terrible. I went to bed, and when I woke up, I had 1 email and 2 follow-up emails asking me to complete some part of the verification where the uploaded document did not have the correct format... ok. Then I did the survey. Their website is an absolute mess. The survey appeared under two different views of the page, and after I completed it, it was only shown as \"pending\" in one view... Under the other, it was shown as if I hadn't submitted it yet... So I received a bunch of emails (very pushy again) asking me to complete the survey, which I answered. Regularly, whenever I've sent an email, I've waited 48-96h to get an answer, but if I didn't answer quickly, I was receiving follow-ups every 2-12 hours. Then I was notified by email that the survey was accepted, great. A few days later, they sent me the forms to fill out to get paid: a crazy amount of paperwork for getting paid for a survey, and absolutely not worth it. It required more paperwork than the one I needed for getting a public contract in my country, including a document that requires going in person to a tax office, waiting up to 4 weeks, and probably paying for the document. So my recommendation to other people getting contacted by them: run away, it's a waste of time, and they are unprofessional.     submitted by    /u/Apathiq   [link] [comments]"
       },
-      "relevance_score": 0.05625517534317339,
+      "relevance_score": 0.057295028248642646,
       "sources": [
         {
           "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -80,7 +80,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.025070245040398318,
+      "relevance_score": 0.025114395489696184,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -92,7 +92,29 @@
     },
     {
       "type": "article",
-      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+      "title": "\"LibreOffice works 365 days a year. Just saying.\"",
+      "description": "Comments",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "source": "Hacker News",
+      "date": "2026-11-13T17:09:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "\"LibreOffice works 365 days a year. Just saying.\"",
+          "publisher": "Hacker News",
+          "url": "https://twitter.com/LibreOffice/status/2121205272479998268"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "description": "Comments",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "source": "Hacker News",
@@ -105,53 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
           "publisher": "Hacker News",
           "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "description": "Comments",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "source": "Hacker News",
-      "date": "2026-11-13T10:18:13",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-          "publisher": "Hacker News",
-          "url": "https://status.claude.com/incidents/nn11wk485zfn"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Why Zig over C for Systems Programming",
-      "description": "Comments",
-      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-      "source": "Hacker News",
-      "date": "2026-11-13T14:01:13",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Why Zig over C for Systems Programming",
-          "publisher": "Hacker News",
-          "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "title": "Apify Security Incident",
       "description": "Comments",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749",
       "source": "Hacker News",
-      "date": "2026-11-13T12:10:24",
+      "date": "2026-11-13T16:55:59",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "title": "Apify Security Incident",
           "publisher": "Hacker News",
-          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
+          "url": "https://status.apify.com/incidents/sxd1dj5j6749"
         }
       ],
       "faculty_summary": "Comments"
@@ -218,6 +196,28 @@
           "title": "Jensen Huang resigns",
           "publisher": "Hacker News",
           "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Why Zig over C for Systems Programming",
+      "description": "Comments",
+      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+      "source": "Hacker News",
+      "date": "2026-11-13T14:01:13",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Why Zig over C for Systems Programming",
+          "publisher": "Hacker News",
+          "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/"
         }
       ],
       "faculty_summary": "Comments"
