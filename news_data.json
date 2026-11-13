@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:05:18.431315",
+  "generated_at": "2026-11-13T02:05:44.449742",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.2396258577636805,
+      "relevance_score": 0.23013124830891057,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -26,6 +26,28 @@
         }
       ],
       "faculty_summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    },
+    {
+      "type": "article",
+      "title": "Weights for MNIST Handwriting Network [P]",
+      "description": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. Th...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/",
+      "source": "Reddit ML",
+      "date": "2026-11-12T21:35:41",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/Rollgus",
+        "source_excerpt": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. The accuracy for all MNIST handwritten numbers is 96.52% so 9,652/10,000.    submitted by    /u/Rollgus   [link] [comments]"
+      },
+      "relevance_score": 0.08468232869297249,
+      "sources": [
+        {
+          "title": "Weights for MNIST Handwriting Network [P]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/"
+        }
+      ],
+      "faculty_summary": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. Th..."
     },
     {
       "type": "article",
@@ -39,7 +61,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.05405433238399602,
+      "relevance_score": 0.053555263112428836,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -61,7 +83,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.02185255399377269,
+      "relevance_score": 0.022146374387999945,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -139,11 +161,11 @@
     },
     {
       "type": "article",
-      "title": "Foundation Models framework",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "description": "Comments",
-      "url": "https://developer.apple.com/foundation-models-framework/",
+      "url": "https://github.com/simpsoka/zigzag",
       "source": "Hacker News",
-      "date": "2026-11-12T21:13:26",
+      "date": "2026-11-12T17:02:42",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,9 +174,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Foundation Models framework",
+          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
           "publisher": "Hacker News",
-          "url": "https://developer.apple.com/foundation-models-framework/"
+          "url": "https://github.com/simpsoka/zigzag"
         }
       ],
       "faculty_summary": "Comments"
@@ -183,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "title": "Foundation Models framework",
       "description": "Comments",
-      "url": "https://github.com/simpsoka/zigzag",
+      "url": "https://developer.apple.com/foundation-models-framework/",
       "source": "Hacker News",
-      "date": "2026-11-12T17:02:42",
+      "date": "2026-11-12T21:13:26",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,31 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+          "title": "Foundation Models framework",
           "publisher": "Hacker News",
-          "url": "https://github.com/simpsoka/zigzag"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Service degradation on Microsoft 365",
-      "description": "Comments",
-      "url": "https://status.cloud.microsoft/",
-      "source": "Hacker News",
-      "date": "2026-11-12T18:20:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Service degradation on Microsoft 365",
-          "publisher": "Hacker News",
-          "url": "https://status.cloud.microsoft/"
+          "url": "https://developer.apple.com/foundation-models-framework/"
         }
       ],
       "faculty_summary": "Comments"
