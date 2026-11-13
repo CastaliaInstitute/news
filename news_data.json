@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:04:48.107588",
+  "generated_at": "2026-11-13T00:08:49.107938",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.2387908188845218,
+      "relevance_score": 0.238333993794306,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.053197093557118796,
+      "relevance_score": 0.0531208785572378,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
