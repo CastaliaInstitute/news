@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:05:21.838567",
+  "generated_at": "2026-11-13T05:05:24.103973",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.22914959773096102,
+      "relevance_score": 0.238333993794306,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -26,28 +26,6 @@
         }
       ],
       "faculty_summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "type": "article",
-      "title": "Weights for MNIST Handwriting Network [P]",
-      "description": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. Th...",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/",
-      "source": "Reddit ML",
-      "date": "2026-11-12T21:35:41",
-      "metadata": {
-        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/Rollgus",
-        "source_excerpt": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. The accuracy for all MNIST handwritten numbers is 96.52% so 9,652/10,000.    submitted by    /u/Rollgus   [link] [comments]"
-      },
-      "relevance_score": 0.08553902386473129,
-      "sources": [
-        {
-          "title": "Weights for MNIST Handwriting Network [P]",
-          "publisher": "Reddit ML",
-          "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/"
-        }
-      ],
-      "faculty_summary": "The weights for my network looks really cool. First one is the first hidden layer of 64 neurons, the seconds is the second hidden layer of 32 neurons, and the last one is the output layer of 10 neurons. I've pretty much just started learning Machine Learning, so this is my first project. Th..."
     },
     {
       "type": "article",
@@ -61,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0545380183445811,
+      "relevance_score": 0.052772293542128826,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -83,7 +61,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.022107366322574262,
+      "relevance_score": 0.02185255399377269,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -92,28 +70,6 @@
         }
       ],
       "faculty_summary": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
-    },
-    {
-      "type": "article",
-      "title": "Africa's solar revolution is vast and speedy",
-      "description": "Comments",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
-      "source": "Hacker News",
-      "date": "2026-11-13T02:28:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Africa's solar revolution is vast and speedy",
-          "publisher": "Hacker News",
-          "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -133,6 +89,28 @@
           "title": "Jensen Huang resigns",
           "publisher": "Hacker News",
           "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Switcher (2004)",
+      "description": "Comments",
+      "url": "https://folklore.org/Switcher.html",
+      "source": "Hacker News",
+      "date": "2026-11-13T03:14:59",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Switcher (2004)",
+          "publisher": "Hacker News",
+          "url": "https://folklore.org/Switcher.html"
         }
       ],
       "faculty_summary": "Comments"
@@ -161,6 +139,28 @@
     },
     {
       "type": "article",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "description": "Comments",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "Hacker News",
+      "date": "2026-11-12T23:06:17",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "publisher": "Hacker News",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "description": "Comments",
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
@@ -183,11 +183,11 @@
     },
     {
       "type": "article",
-      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "description": "Comments",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "url": "https://github.com/simpsoka/zigzag",
       "source": "Hacker News",
-      "date": "2026-11-13T02:16:24",
+      "date": "2026-11-12T17:02:42",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,20 +196,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Nvidia employees petition to bring back Jensen Huang",
+          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
           "publisher": "Hacker News",
-          "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+          "url": "https://github.com/simpsoka/zigzag"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
       "description": "Comments",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
       "source": "Hacker News",
-      "date": "2026-11-12T23:06:17",
+      "date": "2026-11-12T19:05:33",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
           "publisher": "Hacker News",
-          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+          "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
         }
       ],
       "faculty_summary": "Comments"
