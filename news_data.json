@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:05:50.445071",
+  "generated_at": "2026-11-13T10:05:17.161859",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.2301976278640423,
+      "relevance_score": 0.22914959773096102,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -26,44 +26,6 @@
         }
       ],
       "faculty_summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: infosave/Mellum2.1-12B-A2.5B-Thinking-CMF",
-      "description": "Downloads: 1,558 | Likes: 2",
-      "url": "https://huggingface.co/infosave/Mellum2.1-12B-A2.5B-Thinking-CMF",
-      "source": "Hugging Face",
-      "date": "2026-11-13T09:03:14.000Z",
-      "metadata": {
-        "downloads": 1558,
-        "likes": 2,
-        "tags": [
-          "cortiq",
-          "cmf",
-          "quantized",
-          "moe",
-          "code",
-          "reasoning",
-          "tool-calling",
-          "vulkan",
-          "metal",
-          "text-generation",
-          "en",
-          "base_model:JetBrains/Mellum2.1-12B-A2.5B-Thinking",
-          "base_model:quantized:JetBrains/Mellum2.1-12B-A2.5B-Thinking",
-          "license:apache-2.0",
-          "region:us"
-        ]
-      },
-      "relevance_score": 0.08768716855019079,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: infosave/Mellum2.1-12B-A2.5B-Thinking-CMF",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/infosave/Mellum2.1-12B-A2.5B-Thinking-CMF"
-        }
-      ],
-      "faculty_summary": "Downloads: 1,558 | Likes: 2"
     },
     {
       "type": "article",
@@ -77,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.05478745141009651,
+      "relevance_score": 0.0545380183445811,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -99,7 +61,7 @@
         "author": "/u/ladyofcode",
         "source_excerpt": "Hey r/learnmachinelearning! I\u2019m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models and natural language inference.  Inspired by the explosion of interest in discriminative models like TypeSafe AI\u2019s Jev, I wanted to see how far I could get using smaller, non-generative models for the bulk of the legal document playbook review workflow.  The theoretical benefits of a non-generative approach to this problem are enormous. As true clause-level pairwise review is a quadratic problem, it\u2019s unfeasible to do at scale using a model like Opus or Astra. Comparing two average-sized documents with 133 clauses each would take 17,689 API calls, which is far too slow and expensive.  Simply uploading the files directly to Claude or GPT is no remedy either. Decoders and agentic architectures don\u2019t have fixed attention that lets them thoroughly analyse a document in one shot. Even with a multi-shot approach, they\u2019re weak on recall and routinely hallucinate.  My lawyer friends raise this problem constantly, and I couldn\u2019t find an open-source solution to it, so I decided to build one myself.  My pipeline pushes the bulk of the NLI, entailment and reasoning onto faster and more accurate legal encoder models. For the longest document pairs I sampled, the full pipeline ran in under 20 seconds. Unlike generative architectures, these models run a comprehensive pairwise comparison, and although they can still make false positive or false negative errors, those misses and misclassifications aren\u2019t hallucinations (out-of-domain results introduced into the feature set).  The pipeline works as follows:   Enrich: we enrich each document into a hierarchical tree of sections, clauses and subclauses. Clauses are the key atoms that the pairwise comparisons run on downstream.  Embed: we embed each clause as a vector.  Filter: we use a legal zero-shot classifier to drop items that aren\u2019t provisions, like footnotes or signature blocks.  Shortlist: we keep each clause\u2019s three most relevant pairs from the reference document, as long as their cosine similarity is at least 0.5.  Score: we use a reranker and a classifier to score each shortlisted pair. Each answers a question in the format it\u2019s built for: the reranker scores how relevant text is to a search query (relevance), and the classifier scores whether a statement is true (NLI/entailment).  Sort: if a clause and its best match are on the same topic but have a high conflict score, it\u2019s a deviation. If there\u2019s no same-topic match, it\u2019s a gap, i.e. the topic is in one document but not the other.   That\u2019s the whole conflict detection pipeline. On top of it, you can optionally plug in an LLM to summarise each finding in plain English or redraft a clause to favour the party you\u2019re representing. Because the generative step only runs after the NLI and encoder stack has already decided what the conflicts are, it can\u2019t hallucinate a conflict into existence.  To demonstrate the pipeline\u2019s power, we inputted Bob Iger\u2019s 2011 and 2022 Disney employment agreements. The pipeline found many disparities and conflicts, and across most of them, the 2011 agreement was more favourable to Iger than the 2022 one.  One interesting finding was a gap: the 2011 agreement had no intellectual property assignment clause, while the 2022 agreement makes Iger assign all work-related IP to Disney, with an exception for inventions he makes on his own time without company resources.  The code is MIT-licensed, so it\u2019s free for personal and commercial use. The guide walks through every step, so you can swap in your own models or make your own architectural changes wherever you like.  Have fun, and let me know what you think! \ud83d\ude01 Write-up and static demo: https://isaacus.com/blog/build-a-legal-document-conflict-detector  GitHub repo: https://github.com/isaacus-dev/cookbooks     submitted by    /u/ladyofcode   [link] [comments]"
       },
-      "relevance_score": 0.03948125589589512,
+      "relevance_score": 0.039343056384590416,
       "sources": [
         {
           "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
@@ -121,7 +83,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.02223662905226827,
+      "relevance_score": 0.022135391443865584,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
@@ -171,6 +133,28 @@
           "title": "IceWM",
           "publisher": "Hacker News",
           "url": "https://ice-wm.org/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "description": "Comments",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "source": "Hacker News",
+      "date": "2026-11-13T09:08:18",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Dawn of the Data Intelligence Engineer",
+          "publisher": "Hacker News",
+          "url": "https://motherduck.com/blog/the-data-intelligence-engineer/"
         }
       ],
       "faculty_summary": "Comments"
