@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:08:49.107938",
+  "generated_at": "2026-11-13T01:05:18.431315",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "education"
         ]
       },
-      "relevance_score": 0.238333993794306,
+      "relevance_score": 0.2396258577636805,
       "sources": [
         {
           "title": "Closing the AI guidance gap in education",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0531208785572378,
+      "relevance_score": 0.05405433238399602,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -61,7 +61,7 @@
         "author": "/u/Hope999991",
         "source_excerpt": "With submissions to the big three ML conferences increasing rapidly, what if each conference imposed a hard cap of 1,000 accepted papers per year? Would this improve research quality, or simply make acceptance more arbitrary and competitive?    submitted by    /u/Hope999991   [link] [comments]"
       },
-      "relevance_score": 0.02207586363064935,
+      "relevance_score": 0.02185255399377269,
       "sources": [
         {
           "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
