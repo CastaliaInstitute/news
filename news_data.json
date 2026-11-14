@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-14T14:04:34.170419",
+  "generated_at": "2026-11-14T15:04:38.163680",
   "total_items": 10,
   "items": [
+    {
+      "type": "article",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "description": "Comments",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "Hacker News",
+      "date": "2026-11-14T13:20:43",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.14609757028446066,
+      "sources": [
+        {
+          "title": "Advancing science and engineering with Antigravity's /teamwork",
+          "publisher": "Hacker News",
+          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: roskosmos19/Orca-4B-Thinking",
+      "description": "Downloads: 38 | Likes: 1",
+      "url": "https://huggingface.co/roskosmos19/Orca-4B-Thinking",
+      "source": "Hugging Face",
+      "date": "2026-11-14T15:03:25.000Z",
+      "metadata": {
+        "downloads": 38,
+        "likes": 1,
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3",
+          "text-generation",
+          "reasoning",
+          "chain-of-thought",
+          "deepseek-r1",
+          "thinking",
+          "whale",
+          "conversational",
+          "en",
+          "de",
+          "es",
+          "fr",
+          "zh",
+          "base_model:Qwen/Qwen3.5-4B",
+          "base_model:finetune:Qwen/Qwen3.5-4B",
+          "license:apache-2.0",
+          "text-generation-inference",
+          "endpoints_compatible",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.14430786981793886,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: roskosmos19/Orca-4B-Thinking",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/roskosmos19/Orca-4B-Thinking"
+        }
+      ],
+      "faculty_summary": "Downloads: 38 | Likes: 1"
+    },
     {
       "type": "article",
       "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -14,7 +80,7 @@
         "author": "/u/Apathiq",
         "source_excerpt": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive. First bad thing: the level of pushiness is terrible. I went to bed, and when I woke up, I had 1 email and 2 follow-up emails asking me to complete some part of the verification where the uploaded document did not have the correct format... ok. Then I did the survey. Their website is an absolute mess. The survey appeared under two different views of the page, and after I completed it, it was only shown as \"pending\" in one view... Under the other, it was shown as if I hadn't submitted it yet... So I received a bunch of emails (very pushy again) asking me to complete the survey, which I answered. Regularly, whenever I've sent an email, I've waited 48-96h to get an answer, but if I didn't answer quickly, I was receiving follow-ups every 2-12 hours. Then I was notified by email that the survey was accepted, great. A few days later, they sent me the forms to fill out to get paid: a crazy amount of paperwork for getting paid for a survey, and absolutely not worth it. It required more paperwork than the one I needed for getting a public contract in my country, including a document that requires going in person to a tax office, waiting up to 4 weeks, and probably paying for the document. So my recommendation to other people getting contacted by them: run away, it's a waste of time, and they are unprofessional.     submitted by    /u/Apathiq   [link] [comments]"
       },
-      "relevance_score": 0.09047320239442379,
+      "relevance_score": 0.0866402578520334,
       "sources": [
         {
           "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -36,7 +102,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.08033997967225157,
+      "relevance_score": 0.08286823191038362,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -58,7 +124,7 @@
         "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
         "source_excerpt": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes that boost a model's rank, including votes on irrelevant models), strategic prompting (choosing prompts that favor a model), and strategic nomination (boosting the rank of a model by inserting irrelevant models). We demonstrate these effects on public leaderboard data, analyze the circumstances that cause these vulnerabilities, and describe approaches to safeguard against each attack. Notably, these issues hold for any preference-based evaluation using the Bradley-Terry model that allows open prompting, voting, or model submission. These manipulations boost the rank of nearly every tested model; each attack can boost a model by up to 15-20 places in a ranking and, combined, they can boost a model by up to 45 places."
       },
-      "relevance_score": 0.06930996128061859,
+      "relevance_score": 0.06803307813628381,
       "sources": [
         {
           "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
@@ -83,7 +149,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02825988965852382,
+      "relevance_score": 0.026990542035294184,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -139,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "Ggml v1.0.0",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
       "description": "Comments",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
       "source": "Hacker News",
-      "date": "2026-11-14T02:28:29",
+      "date": "2026-11-14T14:05:54",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,31 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Ggml v1.0.0",
+          "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
           "publisher": "Hacker News",
-          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Monkey Island: all 13 versions side by side",
-      "description": "Comments",
-      "url": "https://monkeyisland.pages.dev/",
-      "source": "Hacker News",
-      "date": "2026-11-14T04:23:30",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Monkey Island: all 13 versions side by side",
-          "publisher": "Hacker News",
-          "url": "https://monkeyisland.pages.dev/"
+          "url": "https://gitlab.com/snipedbywifi/terminactory"
         }
       ],
       "faculty_summary": "Comments"
@@ -199,28 +243,6 @@
           "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
           "publisher": "Hacker News",
           "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "description": "Comments",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "Hacker News",
-      "date": "2026-11-14T02:52:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "publisher": "Hacker News",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
         }
       ],
       "faculty_summary": "Comments"
