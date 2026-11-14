@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:05:42.272640",
+  "generated_at": "2026-11-14T19:03:53.920331",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.11893686031926305,
+      "relevance_score": 0.14672279362057353,
       "sources": [
         {
           "title": "Advancing science and engineering with Antigravity's /teamwork",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07931200571094336,
+      "relevance_score": 0.08052655862707893,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -58,7 +58,7 @@
         "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
         "source_excerpt": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes that boost a model's rank, including votes on irrelevant models), strategic prompting (choosing prompts that favor a model), and strategic nomination (boosting the rank of a model by inserting irrelevant models). We demonstrate these effects on public leaderboard data, analyze the circumstances that cause these vulnerabilities, and describe approaches to safeguard against each attack. Notably, these issues hold for any preference-based evaluation using the Bradley-Terry model that allows open prompting, voting, or model submission. These manipulations boost the rank of nearly every tested model; each attack can boost a model by up to 15-20 places in a ranking and, combined, they can boost a model by up to 45 places."
       },
-      "relevance_score": 0.0679416539648203,
+      "relevance_score": 0.06483910141840823,
       "sources": [
         {
           "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
@@ -83,7 +83,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027933008059346634,
+      "relevance_score": 0.027106736702258428,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -92,6 +92,28 @@
         }
       ],
       "faculty_summary": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match prec..."
+    },
+    {
+      "type": "article",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "description": "Comments",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "Hacker News",
+      "date": "2026-11-14T17:43:10",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "publisher": "Hacker News",
+          "url": "https://www.crissyfield.de/research/lovable-en/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -111,6 +133,28 @@
           "title": "PyPI's redesigned project pages with clearer security signals are now live",
           "publisher": "Hacker News",
           "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A Family Tree of Software Job Titles",
+      "description": "Comments",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source": "Hacker News",
+      "date": "2026-11-14T17:45:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A Family Tree of Software Job Titles",
+          "publisher": "Hacker News",
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
         }
       ],
       "faculty_summary": "Comments"
@@ -177,50 +221,6 @@
           "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
           "publisher": "Hacker News",
           "url": "https://gitlab.com/snipedbywifi/terminactory"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Generative AI uses more energy on non-English text",
-      "description": "Comments",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "source": "Hacker News",
-      "date": "2026-11-10T15:07:28",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Generative AI uses more energy on non-English text",
-          "publisher": "Hacker News",
-          "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "description": "Comments",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "source": "Hacker News",
-      "date": "2026-11-14T15:04:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "publisher": "Hacker News",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
         }
       ],
       "faculty_summary": "Comments"
