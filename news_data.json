@@ -1,94 +1,91 @@
 {
-  "generated_at": "2026-11-14T03:05:34.058961",
+  "generated_at": "2026-11-14T04:05:15.469419",
   "total_items": 10,
   "items": [
     {
       "type": "model_release",
-      "title": "\ud83e\udd16 New Model: elisepaul/Qwen3.8-Flash-Reasoning-NVFP4-One-Spark",
-      "description": "Downloads: 52 | Likes: 1",
-      "url": "https://huggingface.co/elisepaul/Qwen3.8-Flash-Reasoning-NVFP4-One-Spark",
+      "title": "\ud83e\udd16 New Model: Neuron-AI-Labs/Neuron-27B-Thinking",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/Neuron-AI-Labs/Neuron-27B-Thinking",
       "source": "Hugging Face",
-      "date": "2026-11-14T03:04:42.000Z",
+      "date": "2026-11-14T04:03:04.000Z",
       "metadata": {
-        "downloads": 52,
-        "likes": 1,
+        "downloads": 0,
+        "likes": 0,
         "tags": [
-          "vllm",
+          "transformers",
           "safetensors",
-          "qwen4_exp",
-          "dgx",
-          "spark",
-          "dgx-spark",
-          "one-spark",
-          "single-node",
-          "gb10",
-          "blackwell",
-          "unified-memory",
-          "lpddr5x",
-          "flashinfer",
-          "nvidia",
-          "nvfp4",
-          "fp4",
-          "mxfp8",
-          "fp8",
-          "modelopt",
-          "nvidia-modelopt",
-          "qwen",
-          "qwen3",
-          "qwen3.8",
-          "coder",
-          "code",
-          "coding",
-          "code-generation",
-          "agent",
-          "moe",
-          "mixture-of-experts",
-          "mtp",
-          "multi-token-prediction",
-          "speculative-decoding",
-          "swe-bench",
-          "deepseek",
-          "deepseek-v4.1-flash",
-          "deepseek-v4.1-flash-1017",
-          "deepseek-v4",
-          "reasoning",
-          "deep-thinking",
-          "cot",
-          "chain-of-thought",
-          "frankenmoe",
-          "model-merging",
-          "mergekit",
+          "qwen3_5_text",
           "text-generation",
+          "neuron",
+          "neura-tech-ai",
+          "27B",
+          "qwen3",
           "conversational",
+          "reasoning",
           "en",
+          "hi",
           "zh",
-          "dataset:princeton-nlp/SWE-bench_Lite",
-          "arxiv:2412.19437",
-          "arxiv:2409.19606",
-          "arxiv:2404.19737",
-          "arxiv:2412.15115",
-          "arxiv:2307.08691",
-          "arxiv:2312.06635",
-          "arxiv:2403.13257",
-          "base_model:deepseek-ai/DeepSeek-V4.1-Flash",
-          "base_model:quantized:deepseek-ai/DeepSeek-V4.1-Flash",
-          "license:other",
-          "8-bit",
+          "es",
+          "fr",
+          "de",
+          "ar",
+          "ja",
+          "ko",
+          "pt",
+          "ru",
+          "it",
+          "tr",
+          "id",
+          "vi",
+          "th",
+          "pl",
+          "nl",
+          "sv",
+          "da",
+          "no",
+          "fi",
+          "cs",
+          "ro",
+          "hu",
+          "el",
+          "he",
+          "fa",
+          "ur",
+          "bn",
+          "ta",
+          "te",
+          "mr",
+          "gu",
+          "pa",
+          "ml",
+          "kn",
+          "uk",
+          "bg",
+          "sr",
+          "hr",
+          "sk",
+          "sl",
+          "ms",
+          "tl",
+          "sw",
+          "af",
+          "base_model:Qwen/Qwen3.8-27B",
+          "base_model:finetune:Qwen/Qwen3.8-27B",
+          "license:apache-2.0",
+          "endpoints_compatible",
           "region:us"
-        ],
-        "matched_keywords": [
-          "reasoning"
         ]
       },
-      "relevance_score": 0.09479604601980798,
+      "relevance_score": 0.09349425037752293,
       "sources": [
         {
-          "title": "\ud83e\udd16 New Model: elisepaul/Qwen3.8-Flash-Reasoning-NVFP4-One-Spark",
+          "title": "\ud83e\udd16 New Model: Neuron-AI-Labs/Neuron-27B-Thinking",
           "publisher": "Hugging Face",
-          "url": "https://huggingface.co/elisepaul/Qwen3.8-Flash-Reasoning-NVFP4-One-Spark"
+          "url": "https://huggingface.co/Neuron-AI-Labs/Neuron-27B-Thinking"
         }
       ],
-      "faculty_summary": "Downloads: 52 | Likes: 1"
+      "faculty_summary": "Downloads: 0 | Likes: 0"
     },
     {
       "type": "article",
@@ -124,7 +121,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06503700355156951,
+      "relevance_score": 0.06528571894504019,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -146,7 +143,7 @@
         "author": "/u/Apathiq",
         "source_excerpt": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive. First bad thing: the level of pushiness is terrible. I went to bed, and when I woke up, I had 1 email and 2 follow-up emails asking me to complete some part of the verification where the uploaded document did not have the correct format... ok. Then I did the survey. Their website is an absolute mess. The survey appeared under two different views of the page, and after I completed it, it was only shown as \"pending\" in one view... Under the other, it was shown as if I hadn't submitted it yet... So I received a bunch of emails (very pushy again) asking me to complete the survey, which I answered. Regularly, whenever I've sent an email, I've waited 48-96h to get an answer, but if I didn't answer quickly, I was receiving follow-ups every 2-12 hours. Then I was notified by email that the survey was accepted, great. A few days later, they sent me the forms to fill out to get paid: a crazy amount of paperwork for getting paid for a survey, and absolutely not worth it. It required more paperwork than the one I needed for getting a public contract in my country, including a document that requires going in person to a tax office, waiting up to 4 weeks, and probably paying for the document. So my recommendation to other people getting contacted by them: run away, it's a waste of time, and they are unprofessional.     submitted by    /u/Apathiq   [link] [comments]"
       },
-      "relevance_score": 0.06063078357706957,
+      "relevance_score": 0.059535278707397506,
       "sources": [
         {
           "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -180,11 +177,11 @@
     },
     {
       "type": "article",
-      "title": "FAA lifted National Ground Stop at 0119Z",
+      "title": "Ggml v1.0.0",
       "description": "Comments",
-      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
       "source": "Hacker News",
-      "date": "2026-11-14T01:30:01",
+      "date": "2026-11-14T02:28:29",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,16 +190,16 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "FAA lifted National Ground Stop at 0119Z",
+          "title": "Ggml v1.0.0",
           "publisher": "Hacker News",
-          "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5"
+          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "FAA issues national ground stop",
+      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
       "description": "Comments",
       "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
       "source": "Hacker News",
@@ -215,7 +212,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "FAA issues national ground stop",
+          "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
           "publisher": "Hacker News",
           "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
         }
@@ -246,11 +243,11 @@
     },
     {
       "type": "article",
-      "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+      "title": "What Happened to 3Com?",
       "description": "Comments",
-      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
       "source": "Hacker News",
-      "date": "2026-11-14T02:02:42",
+      "date": "2026-11-13T23:48:59",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -259,9 +256,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+          "title": "What Happened to 3Com?",
           "publisher": "Hacker News",
-          "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks"
+          "url": "https://dfarq.homeip.net/what-happened-to-3com/"
         }
       ],
       "faculty_summary": "Comments"
