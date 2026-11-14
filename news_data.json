@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:05:06.657089",
+  "generated_at": "2026-11-14T10:04:43.629545",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "/u/v_aravind",
         "source_excerpt": "I work in graphene and 2D materials, and I built a test of the everyday technical work in a research group. It has seven parts: reducing a messy tensile data set against a lab SOP (with unit and outlier traps), writing a CIF density function checked on three hidden structures, four back-of-envelope physics calculations, critiquing a manuscript with 10 planted errors and 6 correct-but-suspicious decoys, false-premise and fabricated-paper questions with calibration scoring, an experimental design, and an abstract under constraints. All the data are synthetic, the answer keys are computed by code, and it's scored out of 100 across 8 categories. Setup: Gemini 4 Carbon and Gemini 4 Hydrogen (Antigravity), Claude Opus 5.5 and Claude Fable 5.2 (Claude app). All at \"High\", not max. 3 fresh runs each, files attached, prompt pasted, nothing else. Web search and code execution were on. Results: mean scores were 100.0 / 99.7 / 99.3 / 98.5, all 12 runs fell between 97.8 and 100, and each took 7\u201324 min. Every run caught the unit trap, passed the hidden CIF tests, got the subtle physics right (Krenchel 8/15 for platelets, graphene quantum capacitance), found all 10 planted errors with zero false positives, and refused the false premise and the fake paper. The points lost were formatting trivia. Three runs found a real error in the manuscript that I hadn't planted. Caveats: one examiner, n=3 per model, and I designed the test with Claude Opus 5.5's help (the Gemini models came out on top anyway). My read is that this is consistent with FrontierScience, METR time horizons and PaperBench: bounded work with a known procedure is saturated, and the gap is in long-horizon, open-ended work. Next I'm building a simulated-lab campaign: the agent gets a budget, instruments and a target spec, with planted surprises of the kind real projects have and a signed log of every action, for runs of 2\u20136 hours. Questions for the sub: how are people scoring the trajectory (e.g. recovery from a wrong early assumption) separately from the final output in long-horizon evals? And has anyone run measured human baselines on agentic tasks of that length? PhD student: my estimate of 11\u201316 hours of focused work and an expected score of 75\u201390, not a measurement. Full write-up: https://aiamnano.substack.com/p/frontier-ai-models-vs-phd-student    submitted by    /u/v_aravind   [link] [comments]"
       },
-      "relevance_score": 0.09282541159673025,
+      "relevance_score": 0.08985432527900798,
       "sources": [
         {
           "title": "Four frontier models scored 97.8\u2013100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
@@ -36,7 +36,7 @@
         "author": "/u/Apathiq",
         "source_excerpt": "I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community. After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive. First bad thing: the level of pushiness is terrible. I went to bed, and when I woke up, I had 1 email and 2 follow-up emails asking me to complete some part of the verification where the uploaded document did not have the correct format... ok. Then I did the survey. Their website is an absolute mess. The survey appeared under two different views of the page, and after I completed it, it was only shown as \"pending\" in one view... Under the other, it was shown as if I hadn't submitted it yet... So I received a bunch of emails (very pushy again) asking me to complete the survey, which I answered. Regularly, whenever I've sent an email, I've waited 48-96h to get an answer, but if I didn't answer quickly, I was receiving follow-ups every 2-12 hours. Then I was notified by email that the survey was accepted, great. A few days later, they sent me the forms to fill out to get paid: a crazy amount of paperwork for getting paid for a survey, and absolutely not worth it. It required more paperwork than the one I needed for getting a public contract in my country, including a document that requires going in person to a tax office, waiting up to 4 weeks, and probably paying for the document. So my recommendation to other people getting contacted by them: run away, it's a waste of time, and they are unprofessional.     submitted by    /u/Apathiq   [link] [comments]"
       },
-      "relevance_score": 0.07643524060840726,
+      "relevance_score": 0.07749515272582969,
       "sources": [
         {
           "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07373562352344525,
+      "relevance_score": 0.06932638299581652,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -80,7 +80,7 @@
         "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
         "source_excerpt": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes that boost a model's rank, including votes on irrelevant models), strategic prompting (choosing prompts that favor a model), and strategic nomination (boosting the rank of a model by inserting irrelevant models). We demonstrate these effects on public leaderboard data, analyze the circumstances that cause these vulnerabilities, and describe approaches to safeguard against each attack. Notably, these issues hold for any preference-based evaluation using the Bradley-Terry model that allows open prompting, voting, or model submission. These manipulations boost the rank of nearly every tested model; each attack can boost a model by up to 15-20 places in a ranking and, combined, they can boost a model by up to 45 places."
       },
-      "relevance_score": 0.06787265596165519,
+      "relevance_score": 0.06463295049436682,
       "sources": [
         {
           "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
@@ -102,7 +102,7 @@
         "author": "/u/ladyofcode",
         "source_excerpt": "Hey r/learnmachinelearning! I\u2019m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using only encoder models and natural language inference.  Inspired by the explosion of interest in discriminative models like TypeSafe AI\u2019s Jev, I wanted to see how far I could get using smaller, non-generative models for the bulk of the legal document playbook review workflow.  The theoretical benefits of a non-generative approach to this problem are enormous. As true clause-level pairwise review is a quadratic problem, it\u2019s unfeasible to do at scale using a model like Opus or Astra. Comparing two average-sized documents with 133 clauses each would take 17,689 API calls, which is far too slow and expensive.  Simply uploading the files directly to Claude or GPT is no remedy either. Decoders and agentic architectures don\u2019t have fixed attention that lets them thoroughly analyse a document in one shot. Even with a multi-shot approach, they\u2019re weak on recall and routinely hallucinate.  My lawyer friends raise this problem constantly, and I couldn\u2019t find an open-source solution to it, so I decided to build one myself.  My pipeline pushes the bulk of the NLI, entailment and reasoning onto faster and more accurate legal encoder models. For the longest document pairs I sampled, the full pipeline ran in under 20 seconds. Unlike generative architectures, these models run a comprehensive pairwise comparison, and although they can still make false positive or false negative errors, those misses and misclassifications aren\u2019t hallucinations (out-of-domain results introduced into the feature set).  The pipeline works as follows:   Enrich: we enrich each document into a hierarchical tree of sections, clauses and subclauses. Clauses are the key atoms that the pairwise comparisons run on downstream.  Embed: we embed each clause as a vector.  Filter: we use a legal zero-shot classifier to drop items that aren\u2019t provisions, like footnotes or signature blocks.  Shortlist: we keep each clause\u2019s three most relevant pairs from the reference document, as long as their cosine similarity is at least 0.5.  Score: we use a reranker and a classifier to score each shortlisted pair. Each answers a question in the format it\u2019s built for: the reranker scores how relevant text is to a search query (relevance), and the classifier scores whether a statement is true (NLI/entailment).  Sort: if a clause and its best match are on the same topic but have a high conflict score, it\u2019s a deviation. If there\u2019s no same-topic match, it\u2019s a gap, i.e. the topic is in one document but not the other.   That\u2019s the whole conflict detection pipeline. On top of it, you can optionally plug in an LLM to summarise each finding in plain English or redraft a clause to favour the party you\u2019re representing. Because the generative step only runs after the NLI and encoder stack has already decided what the conflicts are, it can\u2019t hallucinate a conflict into existence.  To demonstrate the pipeline\u2019s power, we inputted Bob Iger\u2019s 2011 and 2022 Disney employment agreements. The pipeline found many disparities and conflicts, and across most of them, the 2011 agreement was more favourable to Iger than the 2022 one.  One interesting finding was a gap: the 2011 agreement had no intellectual property assignment clause, while the 2022 agreement makes Iger assign all work-related IP to Disney, with an exception for inventions he makes on his own time without company resources.  The code is MIT-licensed, so it\u2019s free for personal and commercial use. The guide walks through every step, so you can swap in your own models or make your own architectural changes wherever you like.  Have fun, and let me know what you think! \ud83d\ude01 Write-up and static demo: https://isaacus.com/blog/build-a-legal-document-conflict-detector  GitHub repo: https://github.com/isaacus-dev/cookbooks     submitted by    /u/ladyofcode   [link] [comments]"
       },
-      "relevance_score": 0.05312343899832244,
+      "relevance_score": 0.05142310371250691,
       "sources": [
         {
           "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
@@ -127,7 +127,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.028876874355978906,
+      "relevance_score": 0.028484829433775498,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -136,6 +136,28 @@
         }
       ],
       "faculty_summary": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match prec..."
+    },
+    {
+      "type": "article",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "description": "Comments",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "source": "Hacker News",
+      "date": "2026-11-10T14:16:05",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Why get an expensive Pi when I have an old phone?",
+          "publisher": "Hacker News",
+          "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -161,6 +183,28 @@
     },
     {
       "type": "article",
+      "title": "Monkey Island: all 13 versions side by side",
+      "description": "Comments",
+      "url": "https://monkeyisland.pages.dev/",
+      "source": "Hacker News",
+      "date": "2026-11-14T04:23:30",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Monkey Island: all 13 versions side by side",
+          "publisher": "Hacker News",
+          "url": "https://monkeyisland.pages.dev/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "description": "Comments",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
@@ -177,50 +221,6 @@
           "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
           "publisher": "Hacker News",
           "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-      "description": "Comments",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "source": "Hacker News",
-      "date": "2026-11-13T21:05:53",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-          "publisher": "Hacker News",
-          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Terminal borders that don't cost a cell",
-      "description": "Comments",
-      "url": "https://www.joshka.net/cell-borders/",
-      "source": "Hacker News",
-      "date": "2026-11-13T23:06:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Terminal borders that don't cost a cell",
-          "publisher": "Hacker News",
-          "url": "https://www.joshka.net/cell-borders/"
         }
       ],
       "faculty_summary": "Comments"
