@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:03:53.920331",
+  "generated_at": "2026-11-14T20:04:49.527738",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.14672279362057353,
+      "relevance_score": 0.14218389049920346,
       "sources": [
         {
           "title": "Advancing science and engineering with Antigravity's /teamwork",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.08052655862707893,
+      "relevance_score": 0.07643070217173051,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -58,7 +58,7 @@
         "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
         "source_excerpt": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes that boost a model's rank, including votes on irrelevant models), strategic prompting (choosing prompts that favor a model), and strategic nomination (boosting the rank of a model by inserting irrelevant models). We demonstrate these effects on public leaderboard data, analyze the circumstances that cause these vulnerabilities, and describe approaches to safeguard against each attack. Notably, these issues hold for any preference-based evaluation using the Bradley-Terry model that allows open prompting, voting, or model submission. These manipulations boost the rank of nearly every tested model; each attack can boost a model by up to 15-20 places in a ranking and, combined, they can boost a model by up to 45 places."
       },
-      "relevance_score": 0.06483910141840823,
+      "relevance_score": 0.06608001591237164,
       "sources": [
         {
           "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
@@ -83,7 +83,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027106736702258428,
+      "relevance_score": 0.02705559904895847,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -111,6 +111,28 @@
           "title": "Lovable apps expose passport details and more than 200K private messages",
           "publisher": "Hacker News",
           "url": "https://www.crissyfield.de/research/lovable-en/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "US IRS free online tax filing open source repo",
+      "description": "Comments",
+      "url": "https://github.com/IRS-Public/direct-file",
+      "source": "Hacker News",
+      "date": "2026-11-14T17:48:20",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "US IRS free online tax filing open source repo",
+          "publisher": "Hacker News",
+          "url": "https://github.com/IRS-Public/direct-file"
         }
       ],
       "faculty_summary": "Comments"
@@ -199,28 +221,6 @@
           "title": "Why get an expensive Pi when I have an old phone?",
           "publisher": "Hacker News",
           "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "description": "Comments",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "source": "Hacker News",
-      "date": "2026-11-14T14:05:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-          "publisher": "Hacker News",
-          "url": "https://gitlab.com/snipedbywifi/terminactory"
         }
       ],
       "faculty_summary": "Comments"
