@@ -1,28 +1,48 @@
 {
-  "generated_at": "2026-11-15T00:10:03.071344",
+  "generated_at": "2026-11-15T01:05:07.850271",
   "total_items": 10,
   "items": [
     {
-      "type": "article",
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "description": "Comments",
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "source": "Hacker News",
-      "date": "2026-11-14T13:20:43",
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking",
+      "source": "Hugging Face",
+      "date": "2026-11-15T01:04:01.000Z",
       "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "mlx",
+          "safetensors",
+          "looped_transformer",
+          "legal",
+          "indian-law",
+          "chain-of-draft",
+          "thinking",
+          "looped-transformer",
+          "recurrent-depth",
+          "bns-2023",
+          "cpc-1908",
+          "income-tax",
+          "gst",
+          "apple-silicon",
+          "text-generation",
+          "en",
+          "license:apache-2.0",
+          "model-index",
+          "region:us"
+        ]
       },
-      "relevance_score": 0.11504252885907161,
+      "relevance_score": 0.11821532889778166,
       "sources": [
         {
-          "title": "Advancing science and engineering with Antigravity's /teamwork",
-          "publisher": "Hacker News",
-          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+          "title": "\ud83e\udd16 New Model: Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking"
         }
       ],
-      "faculty_summary": "Comments"
+      "faculty_summary": "Downloads: 0 | Likes: 0"
     },
     {
       "type": "article",
@@ -83,7 +103,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027050734344462694,
+      "relevance_score": 0.027307732894558432,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -183,6 +203,28 @@
     },
     {
       "type": "article",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "description": "Comments",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News",
+      "date": "2026-11-14T22:26:30",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+          "publisher": "Hacker News",
+          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "KDE: The documentary [video]",
       "description": "Comments",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
@@ -199,28 +241,6 @@
           "title": "KDE: The documentary [video]",
           "publisher": "Hacker News",
           "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "description": "Comments",
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "source": "Hacker News",
-      "date": "2026-11-14T15:40:52",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "PyPI's redesigned project pages with clearer security signals are now live",
-          "publisher": "Hacker News",
-          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
         }
       ],
       "faculty_summary": "Comments"
