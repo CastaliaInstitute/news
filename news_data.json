@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-11-15T01:05:07.850271",
+  "generated_at": "2026-11-15T02:05:32.875566",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking",
-      "source": "Hugging Face",
-      "date": "2026-11-15T01:04:01.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "mlx",
-          "safetensors",
-          "looped_transformer",
-          "legal",
-          "indian-law",
-          "chain-of-draft",
-          "thinking",
-          "looped-transformer",
-          "recurrent-depth",
-          "bns-2023",
-          "cpc-1908",
-          "income-tax",
-          "gst",
-          "apple-silicon",
-          "text-generation",
-          "en",
-          "license:apache-2.0",
-          "model-index",
-          "region:us"
-        ]
-      },
-      "relevance_score": 0.11821532889778166,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/Suvir-Misra/Looped-Transformer-485M-Indian-Law-Thinking"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Supporting research on AI and children\u2019s safety",
@@ -56,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07653305617119449,
+      "relevance_score": 0.0784269636330559,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -78,7 +36,7 @@
         "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
         "source_excerpt": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes that boost a model's rank, including votes on irrelevant models), strategic prompting (choosing prompts that favor a model), and strategic nomination (boosting the rank of a model by inserting irrelevant models). We demonstrate these effects on public leaderboard data, analyze the circumstances that cause these vulnerabilities, and describe approaches to safeguard against each attack. Notably, these issues hold for any preference-based evaluation using the Bradley-Terry model that allows open prompting, voting, or model submission. These manipulations boost the rank of nearly every tested model; each attack can boost a model by up to 15-20 places in a ranking and, combined, they can boost a model by up to 45 places."
       },
-      "relevance_score": 0.06688124362062424,
+      "relevance_score": 0.06735776751009742,
       "sources": [
         {
           "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
@@ -103,7 +61,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027307732894558432,
+      "relevance_score": 0.027335420835071473,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -241,6 +199,28 @@
           "title": "KDE: The documentary [video]",
           "publisher": "Hacker News",
           "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "description": "Comments",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "source": "Hacker News",
+      "date": "2026-11-14T15:40:52",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "PyPI's redesigned project pages with clearer security signals are now live",
+          "publisher": "Hacker News",
+          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
         }
       ],
       "faculty_summary": "Comments"
