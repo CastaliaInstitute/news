@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:04:19.465551",
+  "generated_at": "2026-11-15T12:05:29.022988",
   "total_items": 10,
   "items": [
     {
@@ -114,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
       "description": "Comments",
-      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "url": "https://tsoracle.rs/",
       "source": "Hacker News",
-      "date": "2026-11-10T17:21:48",
+      "date": "2026-11-13T10:04:37",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -127,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+          "title": "Strictly monotonic timestamps and gapless sequences in Rust",
           "publisher": "Hacker News",
-          "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade"
+          "url": "https://tsoracle.rs/"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+      "description": "Comments",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "source": "Hacker News",
+      "date": "2026-11-15T05:29:54",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+          "publisher": "Hacker News",
+          "url": "https://netbsd.org/~nia/disk-encrypt/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "description": "Comments",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -180,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Semicircle Packing",
+      "title": "My favourite modern NES games",
       "description": "Comments",
-      "url": "https://rorz.io/writing/semicircle-packing",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
       "source": "Hacker News",
-      "date": "2026-11-13T14:42:57",
+      "date": "2026-11-15T02:41:25",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Semicircle Packing",
+          "title": "My favourite modern NES games",
           "publisher": "Hacker News",
-          "url": "https://rorz.io/writing/semicircle-packing"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-      "description": "Comments",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "source": "Hacker News",
-      "date": "2026-11-15T05:29:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-          "publisher": "Hacker News",
-          "url": "https://netbsd.org/~nia/disk-encrypt/"
+          "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
         }
       ],
       "faculty_summary": "Comments"
