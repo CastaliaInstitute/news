@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:05:29.022988",
+  "generated_at": "2026-11-15T13:04:52.439511",
   "total_items": 10,
   "items": [
     {
@@ -158,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-      "description": "Comments",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "source": "Hacker News",
-      "date": "2026-11-15T05:29:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
-          "publisher": "Hacker News",
-          "url": "https://netbsd.org/~nia/disk-encrypt/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "description": "Comments",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -218,6 +196,28 @@
           "title": "My favourite modern NES games",
           "publisher": "Hacker News",
           "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+      "description": "Comments",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "source": "Hacker News",
+      "date": "2026-11-15T05:29:54",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+          "publisher": "Hacker News",
+          "url": "https://netbsd.org/~nia/disk-encrypt/"
         }
       ],
       "faculty_summary": "Comments"
