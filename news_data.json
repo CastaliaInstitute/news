@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-15T04:05:41.521686",
+  "generated_at": "2026-11-15T05:05:16.820677",
   "total_items": 10,
   "items": [
     {
       "type": "model_release",
-      "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r100-e5-lr1e-5-seed42-20261114",
+      "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114",
       "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r100-e5-lr1e-5-seed42-20261114",
+      "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114",
       "source": "Hugging Face",
-      "date": "2026-11-15T04:03:35.000Z",
+      "date": "2026-11-15T05:04:32.000Z",
       "metadata": {
         "downloads": 0,
         "likes": 0,
@@ -28,12 +28,12 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0853193768280471,
+      "relevance_score": 0.06902820691231017,
       "sources": [
         {
-          "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r100-e5-lr1e-5-seed42-20261114",
+          "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114",
           "publisher": "Hugging Face",
-          "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r100-e5-lr1e-5-seed42-20261114"
+          "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114"
         }
       ],
       "faculty_summary": "Downloads: 0 | Likes: 0"
@@ -50,7 +50,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07871097123470912,
+      "relevance_score": 0.0676842339294368,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -59,53 +59,6 @@
         }
       ],
       "faculty_summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
-    },
-    {
-      "type": "article",
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "description": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of a...",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv",
-      "date": "2026-11-14T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
-        "source_excerpt": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of anonymous models on user prompts, aggregating votes via the Bradley-Terry model to produce the final ranking. However, we find that these leaderboards are highly vulnerable to several manipulation strategies that unscrupulous providers could use to boost a model's rank: strategic voting (individual votes that boost a model's rank, including votes on irrelevant models), strategic prompting (choosing prompts that favor a model), and strategic nomination (boosting the rank of a model by inserting irrelevant models). We demonstrate these effects on public leaderboard data, analyze the circumstances that cause these vulnerabilities, and describe approaches to safeguard against each attack. Notably, these issues hold for any preference-based evaluation using the Bradley-Terry model that allows open prompting, voting, or model submission. These manipulations boost the rank of nearly every tested model; each attack can boost a model by up to 15-20 places in a ranking and, combined, they can boost a model by up to 45 places."
-      },
-      "relevance_score": 0.06871364616945994,
-      "sources": [
-        {
-          "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.14769"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise comparisons of a..."
-    },
-    {
-      "type": "article",
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "description": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match prec...",
-      "url": "https://arxiv.org/abs/2611.14794",
-      "source": "arXiv",
-      "date": "2026-11-14T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Abhinav Gupta, Ben Slivinski, Yashica Patodia, Michael Saldivar",
-        "source_excerpt": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% and 21% of attempts. On near-ceiling MATH-500, gains are at most 5 points at a loss of 13-27 points of coverage. An output-token-matched self-consistency selector obtains 82.9% precision at 35% coverage, compared with the verifier's pooled 87.6% (paired difference: +4.8 points, 95% interval [-8.2, 18.5]). A diagnostic sample reveals a distinct failure mode: 52 of 88 completed problems end in invalid proof construction without ever reaching a judge. Finally, external-LLM acceptance of rendered certified chains is 61.0-67.6%, compared with 87.6% answer-key match. These audits lack human or formal-kernel ground truth. Open-weight auditor pairs show near-zero chance-corrected agreement, which measures consistency rather than accuracy against proof truth. These results motivate separate reporting of execution failures, selected-answer precision, and independently assessed proof validity. We provide per-configuration results and evaluation details in the supplement.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.023693178400031507,
-      "sources": [
-        {
-          "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.14794"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match prec..."
     },
     {
       "type": "article",
@@ -153,6 +106,50 @@
     },
     {
       "type": "article",
+      "title": "Kiri \u2013 The Modern Container Runtime",
+      "description": "Comments",
+      "url": "https://runkiri.com/",
+      "source": "Hacker News",
+      "date": "2026-11-15T04:40:41",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Kiri \u2013 The Modern Container Runtime",
+          "publisher": "Hacker News",
+          "url": "https://runkiri.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "description": "Comments",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "date": "2026-11-15T04:39:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+          "publisher": "Hacker News",
+          "url": "https://github.com/matheuzgomes/gawain"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "description": "Comments",
       "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -175,50 +172,6 @@
     },
     {
       "type": "article",
-      "title": "A family tree of software job titles",
-      "description": "Comments",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "source": "Hacker News",
-      "date": "2026-11-14T17:45:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A family tree of software job titles",
-          "publisher": "Hacker News",
-          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "description": "Comments",
-      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "source": "Hacker News",
-      "date": "2026-11-14T22:26:30",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-          "publisher": "Hacker News",
-          "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
       "description": "Comments",
       "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
@@ -235,6 +188,50 @@
           "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
           "publisher": "Hacker News",
           "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Osint Case Studies",
+      "description": "Comments",
+      "url": "https://osintsearch.org/blog/osint-case-studies",
+      "source": "Hacker News",
+      "date": "2026-11-15T03:33:41",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Osint Case Studies",
+          "publisher": "Hacker News",
+          "url": "https://osintsearch.org/blog/osint-case-studies"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "description": "Comments",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "source": "Hacker News",
+      "date": "2026-11-13T11:55:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Evolving Story of How Chemistry Became Biology",
+          "publisher": "Hacker News",
+          "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
         }
       ],
       "faculty_summary": "Comments"
