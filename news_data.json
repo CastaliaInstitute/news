@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:04:23.838114",
+  "generated_at": "2026-11-15T20:04:49.953610",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06964832222129734,
+      "relevance_score": 0.074977163964561,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -39,7 +39,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.04883588434020351,
+      "relevance_score": 0.05333339699056579,
       "sources": [
         {
           "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
@@ -111,6 +111,28 @@
           "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
           "publisher": "Hacker News",
           "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "description": "Comments",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "source": "Hacker News",
+      "date": "2026-11-15T17:53:31",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+          "publisher": "Hacker News",
+          "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
         }
       ],
       "faculty_summary": "Comments"
@@ -199,28 +221,6 @@
           "title": "SpaceX catches the Starship to end Flight 15",
           "publisher": "Hacker News",
           "url": "https://www.spacex.com/launches/starship-flight-15"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "description": "Comments",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "Hacker News",
-      "date": "2026-11-15T12:14:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "publisher": "Hacker News",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
         }
       ],
       "faculty_summary": "Comments"
