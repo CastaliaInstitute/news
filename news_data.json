@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-15T22:05:02.062397",
+  "generated_at": "2026-11-15T23:04:13.833530",
   "total_items": 10,
   "items": [
+    {
+      "type": "article",
+      "title": "Our new blog for science",
+      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI",
+      "date": "2026-11-15T22:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+      },
+      "relevance_score": 0.12184613310395458,
+      "sources": [
+        {
+          "title": "Our new blog for science",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/our-new-blog-for-science"
+        }
+      ],
+      "faculty_summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
     {
       "type": "article",
       "title": "Supporting research on AI and children\u2019s safety",
@@ -14,7 +36,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07463836310512648,
+      "relevance_score": 0.07307651048551306,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -39,7 +61,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05271618437125756,
+      "relevance_score": 0.052164696166213664,
       "sources": [
         {
           "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
@@ -48,6 +70,50 @@
         }
       ],
       "faculty_summary": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs ..."
+    },
+    {
+      "type": "article",
+      "title": "Old Bitly Links Are Being Hijacked",
+      "description": "Comments",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "source": "Hacker News",
+      "date": "2026-11-15T22:11:43",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Old Bitly Links Are Being Hijacked",
+          "publisher": "Hacker News",
+          "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "description": "Comments",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "source": "Hacker News",
+      "date": "2026-11-15T18:23:21",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A short explainer on how El Ni\u00f1o works [video]",
+          "publisher": "Hacker News",
+          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -73,11 +139,11 @@
     },
     {
       "type": "article",
-      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "description": "Comments",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
       "source": "Hacker News",
-      "date": "2026-11-15T18:23:21",
+      "date": "2026-11-15T19:26:22",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -86,9 +152,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A short explainer on how El Ni\u00f1o works [video]",
+          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
           "publisher": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
+          "url": "https://bruceroettgers.eu/blog/protomaps/"
         }
       ],
       "faculty_summary": "Comments"
@@ -139,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "title": "Handwriting, as a Font",
       "description": "Comments",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "url": "https://ductus.sorenblank.com",
       "source": "Hacker News",
-      "date": "2026-11-15T19:26:22",
+      "date": "2026-11-15T19:42:13",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,75 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+          "title": "Handwriting, as a Font",
           "publisher": "Hacker News",
-          "url": "https://bruceroettgers.eu/blog/protomaps/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "description": "Comments",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "source": "Hacker News",
-      "date": "2026-11-12T05:29:24",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-          "publisher": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-      "description": "Comments",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "source": "Hacker News",
-      "date": "2026-11-15T18:36:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-          "publisher": "Hacker News",
-          "url": "https://github.com/eclipse-mosquitto/mosquitto"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "description": "Comments",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "source": "Hacker News",
-      "date": "2026-11-15T18:36:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-          "publisher": "Hacker News",
-          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+          "url": "https://ductus.sorenblank.com"
         }
       ],
       "faculty_summary": "Comments"
