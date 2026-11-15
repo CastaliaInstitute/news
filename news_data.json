@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:05:19.518512",
+  "generated_at": "2026-11-15T19:04:23.838114",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06265354046843982,
+      "relevance_score": 0.06964832222129734,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -26,25 +26,28 @@
     },
     {
       "type": "article",
-      "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
-      "description": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/",
+      "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
+      "description": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs ...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
       "source": "Reddit ML",
-      "date": "2026-11-15T16:45:14",
+      "date": "2026-11-15T17:52:41",
       "metadata": {
         "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
-        "author": "/u/harrydong",
-        "source_excerpt": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]"
+        "author": "/u/Good-Presentation-23",
+        "source_excerpt": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs anywhere. Processing img 5yk991rjlt1i1... Background,   Reasoning models (DeepSeek, Qwen, and so on) \"think\" in a scratchpad before answering. The scratchpad ends when the model writes a special token, </think>. To pick each next token, the model first computes a summary of everything so far: a long list of numbers called the hidden state. The last layer, the output layer, has one row of weights per word in the vocabulary. Each word's score is its row multiplied by the hidden state, and the highest-scoring words are the likeliest next words. So the score for \"stop thinking now\" (</think>) comes from exactly one row of that layer.  What I did  Ran the model on 24 maths problems and recorded its hidden state at every token of its thinking. Marked the points where the right answer had already appeared and the model was only re-checking (specifically, the ends of paragraphs after that point), and treated everything else as \"still working\". Found the direction in the hidden state that best separates those two groups. This is a probe: a simple linear classifier (linear discriminant analysis), computed directly with linear algebra, with no gradient training. Added that direction, times a strength of 14, to the </think> row. The \"stop\" score now rises only when the model's state looks like \"done, just re-checking\". While it's still solving, nothing measurable changes.  A useful side effect: because only one token's score changes, I can compute exactly what the edited model would do from recordings of the original, without rerunning it. That's how I picked the strength and searched for cases where it would stop too early. Processing img 0r3nr3xrlt1i1... On a problem it never saw: the answer appears at token 567, the original keeps thinking until token 7,415, and the edited model stops by token ~2,000 with 98% probability. Results (small samples, one run per setting) Processing img psaikkt6lt1i1...  Qwen3.5-4B (runs in stock llama.cpp): same accuracy on 8 unseen MATH-500 problems with 54% fewer tokens. On 3 AIME 2025 problems with a 32k-token limit, the original ran out of tokens on all three while re-checking answers it already had; the edited model solved 2. DeepSeek V4.1 Flash (763B parameters, 2-bit, on my laptop with an 8 GB GPU, streaming weights from the SSD): 7/7 maths problems vs 6/7, with 40% fewer tokens. As a coding agent building a small website: 84% less thinking. It still thinks after an error or anything unexpected, and skips thinking after routine steps. Page quality held up; an LLM rating put it highest, and the screenshots are below so you can judge for yourself.  Processing img 3q1n1yp8lt1i1... What isn't new: using a probe on the hidden state to stop reasoning early is published (e.g. Zhang et al. 2025, arXiv 2504.05419). What's new is putting the probe inside that one row of weights, so nothing extra runs, plus these measurements. Limitations: small sample sizes; the probe was fitted on maths only (the agent results are transfer); the AIME comparison uses a 32k budget, below the 81,920 Qwen recommends for competition maths. Write-up: https://think-graft.vercel.app Code and all logs: https://github.com/nextgen-user/think-graft Model (GGUF): https://huggingface.co/vaibhavrpi/Qwen3.5-4B-think-graft-GGUF    submitted by    /u/Good-Presentation-23   [link] [comments]",
+        "matched_keywords": [
+          "reasoning"
+        ]
       },
-      "relevance_score": 0.029323933739883214,
+      "relevance_score": 0.04883588434020351,
       "sources": [
         {
-          "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
+          "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
           "publisher": "Reddit ML",
-          "url": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/"
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/"
         }
       ],
-      "faculty_summary": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]"
+      "faculty_summary": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs ..."
     },
     {
       "type": "article",
@@ -64,6 +67,28 @@
           "title": "All AI-generated code should be Open Source",
           "publisher": "Hacker News",
           "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A short explainer on how El Ni\u00f1o works [video]",
+      "description": "Comments",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "source": "Hacker News",
+      "date": "2026-11-15T18:23:21",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A short explainer on how El Ni\u00f1o works [video]",
+          "publisher": "Hacker News",
+          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
         }
       ],
       "faculty_summary": "Comments"
@@ -92,6 +117,28 @@
     },
     {
       "type": "article",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "description": "Comments",
+      "url": "https://prog21.dadgum.com/116.html",
+      "source": "Hacker News",
+      "date": "2026-11-15T13:44:16",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+          "publisher": "Hacker News",
+          "url": "https://prog21.dadgum.com/116.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Emacs Is My Browser",
       "description": "Comments",
       "url": "https://joshblais.com/blog/emacs-as-my-browser/",
@@ -114,11 +161,11 @@
     },
     {
       "type": "article",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "description": "Comments",
-      "url": "https://prog21.dadgum.com/116.html",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
       "source": "Hacker News",
-      "date": "2026-11-15T13:44:16",
+      "date": "2026-11-12T05:29:24",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -127,9 +174,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
           "publisher": "Hacker News",
-          "url": "https://prog21.dadgum.com/116.html"
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
         }
       ],
       "faculty_summary": "Comments"
@@ -174,50 +221,6 @@
           "title": "Understanding Positional Embeddings in Modern LLMs",
           "publisher": "Hacker News",
           "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "description": "Comments",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "source": "Hacker News",
-      "date": "2026-11-12T05:29:24",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-          "publisher": "Hacker News",
-          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The Atheist Bible",
-      "description": "Comments",
-      "url": "https://suchanek.name/texts/atheism/",
-      "source": "Hacker News",
-      "date": "2026-11-15T16:05:53",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The Atheist Bible",
-          "publisher": "Hacker News",
-          "url": "https://suchanek.name/texts/atheism/"
         }
       ],
       "faculty_summary": "Comments"
