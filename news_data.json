@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-11-15T16:04:48.225456",
+  "generated_at": "2026-11-15T17:04:29.020988",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: samartomar/spark-x2.6-4b-hindsight-1.1-research-preview",
-      "description": "Downloads: 182 | Likes: 1",
-      "url": "https://huggingface.co/samartomar/spark-x2.6-4b-hindsight-1.1-research-preview",
-      "source": "Hugging Face",
-      "date": "2026-11-15T16:04:01.000Z",
-      "metadata": {
-        "downloads": 182,
-        "likes": 1,
-        "tags": [
-          "peft",
-          "safetensors",
-          "gguf",
-          "lora",
-          "rslora",
-          "research",
-          "hindsight",
-          "structured-output",
-          "text-generation",
-          "en",
-          "base_model:XHToken/Spark-X2.6-4B",
-          "base_model:adapter:XHToken/Spark-X2.6-4B",
-          "license:apache-2.0",
-          "endpoints_compatible",
-          "region:us",
-          "conversational"
-        ]
-      },
-      "relevance_score": 0.07379167997012322,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: samartomar/spark-x2.6-4b-hindsight-1.1-research-preview",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/samartomar/spark-x2.6-4b-hindsight-1.1-research-preview"
-        }
-      ],
-      "faculty_summary": "Downloads: 182 | Likes: 1"
-    },
     {
       "type": "article",
       "title": "Supporting research on AI and children\u2019s safety",
@@ -53,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.05960021318501714,
+      "relevance_score": 0.058580132922239875,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -62,6 +23,28 @@
         }
       ],
       "faculty_summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
+      "type": "article",
+      "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
+      "description": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/",
+      "source": "Reddit ML",
+      "date": "2026-11-15T16:45:14",
+      "metadata": {
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/harrydong",
+        "source_excerpt": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]"
+      },
+      "relevance_score": 0.02747789483832425,
+      "sources": [
+        {
+          "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/"
+        }
+      ],
+      "faculty_summary": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]"
     },
     {
       "type": "article",
@@ -131,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "title": "Emacs Is My Browser",
       "description": "Comments",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
       "source": "Hacker News",
-      "date": "2026-11-15T14:31:52",
+      "date": "2026-11-15T15:21:21",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -144,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+          "title": "Emacs Is My Browser",
           "publisher": "Hacker News",
-          "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
+          "url": "https://joshblais.com/blog/emacs-as-my-browser/"
         }
       ],
       "faculty_summary": "Comments"
@@ -197,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "A NES emulator written in Odin",
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
       "description": "Comments",
-      "url": "https://lucypero.com/lucynes.html",
+      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
       "source": "Hacker News",
-      "date": "2026-11-15T12:51:47",
+      "date": "2026-11-15T14:31:52",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -210,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A NES emulator written in Odin",
+          "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
           "publisher": "Hacker News",
-          "url": "https://lucypero.com/lucynes.html"
+          "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "description": "Comments",
-      "url": "https://space.stackexchange.com/questions/37775",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
       "source": "Hacker News",
-      "date": "2026-11-15T09:06:43",
+      "date": "2026-11-12T05:29:24",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -232,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Why did some Apollo missions carry a grenade launcher?",
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
           "publisher": "Hacker News",
-          "url": "https://space.stackexchange.com/questions/37775"
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
         }
       ],
       "faculty_summary": "Comments"
