@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:04:46.953022",
+  "generated_at": "2026-11-15T11:04:19.465551",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0709133935143739,
+      "relevance_score": 0.07061031240981215,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -48,50 +48,6 @@
     },
     {
       "type": "article",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "description": "Comments",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "source": "Hacker News",
-      "date": "2026-11-14T17:43:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Lovable apps expose passport details and more than 200K private messages",
-          "publisher": "Hacker News",
-          "url": "https://www.crissyfield.de/research/lovable-en/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-      "description": "Comments",
-      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-      "source": "Hacker News",
-      "date": "2026-11-10T17:21:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-          "publisher": "Hacker News",
-          "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Why did some Apollo missions carry a grenade launcher?",
       "description": "Comments",
       "url": "https://space.stackexchange.com/questions/37775",
@@ -108,6 +64,28 @@
           "title": "Why did some Apollo missions carry a grenade launcher?",
           "publisher": "Hacker News",
           "url": "https://space.stackexchange.com/questions/37775"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "description": "Comments",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "Hacker News",
+      "date": "2026-11-14T17:43:10",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "publisher": "Hacker News",
+          "url": "https://www.crissyfield.de/research/lovable-en/"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
       "description": "Comments",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
       "source": "Hacker News",
-      "date": "2026-11-15T05:29:54",
+      "date": "2026-11-10T17:21:48",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +127,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+          "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
           "publisher": "Hacker News",
-          "url": "https://netbsd.org/~nia/disk-encrypt/"
+          "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "description": "Comments",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "source": "Hacker News",
+      "date": "2026-11-12T21:27:01",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+          "publisher": "Hacker News",
+          "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "My favourite modern NES games",
+      "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
       "description": "Comments",
-      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
       "source": "Hacker News",
-      "date": "2026-11-15T02:41:25",
+      "date": "2026-11-15T05:29:54",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "My favourite modern NES games",
+          "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
           "publisher": "Hacker News",
-          "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
+          "url": "https://netbsd.org/~nia/disk-encrypt/"
         }
       ],
       "faculty_summary": "Comments"
