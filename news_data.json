@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:05:32.875566",
+  "generated_at": "2026-11-15T03:05:31.978621",
   "total_items": 10,
   "items": [
     {
@@ -61,7 +61,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027335420835071473,
+      "relevance_score": 0.02754155883455889,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
