@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:05:02.811213",
+  "generated_at": "2026-11-15T10:04:46.953022",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0678182966402588,
+      "relevance_score": 0.0709133935143739,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -42,28 +42,6 @@
           "title": "SpaceX catches the Starship to end Flight 15",
           "publisher": "Hacker News",
           "url": "https://www.spacex.com/launches/starship-flight-15"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "description": "Comments",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-      "source": "Hacker News",
-      "date": "2026-11-13T05:22:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Memory Safety Bugs in Rust Standard Library",
-          "publisher": "Hacker News",
-          "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/"
         }
       ],
       "faculty_summary": "Comments"
@@ -114,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "description": "Comments",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "source": "Hacker News",
+      "date": "2026-11-15T09:06:43",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Why did some Apollo missions carry a grenade launcher?",
+          "publisher": "Hacker News",
+          "url": "https://space.stackexchange.com/questions/37775"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Court denies motion to dismiss DRAM price fixing case",
       "description": "Comments",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
@@ -130,28 +130,6 @@
           "title": "Court denies motion to dismiss DRAM price fixing case",
           "publisher": "Hacker News",
           "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "description": "Comments",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "source": "Hacker News",
-      "date": "2026-11-14T22:22:49",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-          "publisher": "Hacker News",
-          "url": "https://retrocomputing.stackexchange.com/questions/17957"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "description": "Comments",
-      "url": "https://github.com/matheuzgomes/gawain",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "source": "Hacker News",
-      "date": "2026-11-15T04:39:25",
+      "date": "2026-11-14T22:22:49",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,9 +171,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
           "publisher": "Hacker News",
-          "url": "https://github.com/matheuzgomes/gawain"
+          "url": "https://retrocomputing.stackexchange.com/questions/17957"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Semicircle Packing",
+      "description": "Comments",
+      "url": "https://rorz.io/writing/semicircle-packing",
+      "source": "Hacker News",
+      "date": "2026-11-13T14:42:57",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Semicircle Packing",
+          "publisher": "Hacker News",
+          "url": "https://rorz.io/writing/semicircle-packing"
         }
       ],
       "faculty_summary": "Comments"
