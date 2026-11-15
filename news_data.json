@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:04:34.435441",
+  "generated_at": "2026-11-15T22:05:02.062397",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0734480381041812,
+      "relevance_score": 0.07463836310512648,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -39,7 +39,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.054137639079641024,
+      "relevance_score": 0.05271618437125756,
       "sources": [
         {
           "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
@@ -48,6 +48,28 @@
         }
       ],
       "faculty_summary": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs ..."
+    },
+    {
+      "type": "article",
+      "title": "Your Agent Will Pick the Hackable One",
+      "description": "Comments",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "source": "Hacker News",
+      "date": "2026-11-15T21:10:39",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Your Agent Will Pick the Hackable One",
+          "publisher": "Hacker News",
+          "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -67,28 +89,6 @@
           "title": "A short explainer on how El Ni\u00f1o works [video]",
           "publisher": "Hacker News",
           "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-      "description": "Comments",
-      "url": "https://arkanumdata.com/research/house-trades",
-      "source": "Hacker News",
-      "date": "2026-11-15T19:46:02",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-          "publisher": "Hacker News",
-          "url": "https://arkanumdata.com/research/house-trades"
         }
       ],
       "faculty_summary": "Comments"
@@ -139,6 +139,28 @@
     },
     {
       "type": "article",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "description": "Comments",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "source": "Hacker News",
+      "date": "2026-11-15T19:26:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+          "publisher": "Hacker News",
+          "url": "https://bruceroettgers.eu/blog/protomaps/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "description": "Comments",
       "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
@@ -177,28 +199,6 @@
           "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
           "publisher": "Hacker News",
           "url": "https://github.com/eclipse-mosquitto/mosquitto"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "description": "Comments",
-      "url": "https://prog21.dadgum.com/116.html",
-      "source": "Hacker News",
-      "date": "2026-11-15T13:44:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-          "publisher": "Hacker News",
-          "url": "https://prog21.dadgum.com/116.html"
         }
       ],
       "faculty_summary": "Comments"
