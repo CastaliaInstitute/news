@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:05:25.107018",
+  "generated_at": "2026-11-15T08:05:51.048349",
   "total_items": 10,
   "items": [
     {
@@ -48,28 +48,6 @@
     },
     {
       "type": "article",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "description": "Comments",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "source": "Hacker News",
-      "date": "2026-11-14T17:43:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Lovable apps expose passport details and more than 200K private messages",
-          "publisher": "Hacker News",
-          "url": "https://www.crissyfield.de/research/lovable-en/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Memory Safety Bugs in Rust Standard Library",
       "description": "Comments",
       "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
@@ -92,11 +70,11 @@
     },
     {
       "type": "article",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
       "description": "Comments",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
       "source": "Hacker News",
-      "date": "2026-11-14T22:22:49",
+      "date": "2026-11-14T17:43:10",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,53 +83,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "title": "Lovable apps expose passport details and more than 200K private messages",
           "publisher": "Hacker News",
-          "url": "https://retrocomputing.stackexchange.com/questions/17957"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "description": "Comments",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "Hacker News",
-      "date": "2026-11-15T01:18:36",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Court denies motion to dismiss DRAM price fixing case",
-          "publisher": "Hacker News",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-      "description": "Comments",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "source": "Hacker News",
-      "date": "2026-11-15T04:39:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-          "publisher": "Hacker News",
-          "url": "https://github.com/matheuzgomes/gawain"
+          "url": "https://www.crissyfield.de/research/lovable-en/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "The Evolving Story of How Chemistry Became Biology",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
       "description": "Comments",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
       "source": "Hacker News",
-      "date": "2026-11-13T11:55:19",
+      "date": "2026-11-15T01:18:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +127,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Evolving Story of How Chemistry Became Biology",
+          "title": "Court denies motion to dismiss DRAM price fixing case",
           "publisher": "Hacker News",
-          "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "description": "Comments",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "source": "Hacker News",
-      "date": "2026-11-15T04:09:11",
+      "date": "2026-11-14T22:22:49",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +149,75 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
           "publisher": "Hacker News",
-          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
+          "url": "https://retrocomputing.stackexchange.com/questions/17957"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "description": "Comments",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "date": "2026-11-15T04:39:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+          "publisher": "Hacker News",
+          "url": "https://github.com/matheuzgomes/gawain"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "My favourite modern NES games",
+      "description": "Comments",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "source": "Hacker News",
+      "date": "2026-11-15T02:41:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "My favourite modern NES games",
+          "publisher": "Hacker News",
+          "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "description": "Comments",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "source": "Hacker News",
+      "date": "2026-11-11T11:11:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+          "publisher": "Hacker News",
+          "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/"
         }
       ],
       "faculty_summary": "Comments"
