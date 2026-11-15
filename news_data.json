@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:04:22.669417",
+  "generated_at": "2026-11-15T00:10:03.071344",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.14218389049920346,
+      "relevance_score": 0.11504252885907161,
       "sources": [
         {
           "title": "Advancing science and engineering with Antigravity's /teamwork",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07643070217173051,
+      "relevance_score": 0.07653305617119449,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -83,7 +83,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.026913906544958587,
+      "relevance_score": 0.027050734344462694,
       "sources": [
         {
           "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
@@ -92,6 +92,28 @@
         }
       ],
       "faculty_summary": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match prec..."
+    },
+    {
+      "type": "article",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "description": "Comments",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "date": "2026-11-14T21:22:24",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "publisher": "Hacker News",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -117,11 +139,11 @@
     },
     {
       "type": "article",
-      "title": "SpaceX Catches the Starship to end Flight 15",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
       "description": "Comments",
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "source": "Hacker News",
-      "date": "2026-11-14T21:22:24",
+      "date": "2026-11-14T22:22:49",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -130,16 +152,16 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "SpaceX Catches the Starship to end Flight 15",
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
           "publisher": "Hacker News",
-          "url": "https://x.com/i/broadcasts/2brajgZlOKRMka"
+          "url": "https://retrocomputing.stackexchange.com/questions/17957"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "A Family Tree of Software Job Titles",
+      "title": "A family tree of software job titles",
       "description": "Comments",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "source": "Hacker News",
@@ -152,7 +174,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A Family Tree of Software Job Titles",
+          "title": "A family tree of software job titles",
           "publisher": "Hacker News",
           "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
         }
@@ -199,28 +221,6 @@
           "title": "PyPI's redesigned project pages with clearer security signals are now live",
           "publisher": "Hacker News",
           "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "description": "Comments",
-      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-      "source": "Hacker News",
-      "date": "2026-11-12T18:28:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-          "publisher": "Hacker News",
-          "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/"
         }
       ],
       "faculty_summary": "Comments"
