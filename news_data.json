@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:06:22.621433",
+  "generated_at": "2026-11-15T07:05:25.107018",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06987814750057067,
+      "relevance_score": 0.07146220126154153,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -70,28 +70,6 @@
     },
     {
       "type": "article",
-      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-      "description": "Comments",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "source": "Hacker News",
-      "date": "2026-11-15T04:39:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-          "publisher": "Hacker News",
-          "url": "https://github.com/matheuzgomes/gawain"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Memory Safety Bugs in Rust Standard Library",
       "description": "Comments",
       "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
@@ -136,6 +114,94 @@
     },
     {
       "type": "article",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "description": "Comments",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "Hacker News",
+      "date": "2026-11-15T01:18:36",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Court denies motion to dismiss DRAM price fixing case",
+          "publisher": "Hacker News",
+          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "description": "Comments",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "date": "2026-11-15T04:39:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+          "publisher": "Hacker News",
+          "url": "https://github.com/matheuzgomes/gawain"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "description": "Comments",
+      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "source": "Hacker News",
+      "date": "2026-11-10T17:21:48",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+          "publisher": "Hacker News",
+          "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "description": "Comments",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "source": "Hacker News",
+      "date": "2026-11-13T11:55:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Evolving Story of How Chemistry Became Biology",
+          "publisher": "Hacker News",
+          "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
       "description": "Comments",
       "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
@@ -152,72 +218,6 @@
           "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
           "publisher": "Hacker News",
           "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Osint Case Studies",
-      "description": "Comments",
-      "url": "https://osintsearch.org/blog/osint-case-studies",
-      "source": "Hacker News",
-      "date": "2026-11-15T03:33:41",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Osint Case Studies",
-          "publisher": "Hacker News",
-          "url": "https://osintsearch.org/blog/osint-case-studies"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "description": "Comments",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "source": "Hacker News",
-      "date": "2026-11-15T02:00:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-          "publisher": "Hacker News",
-          "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A family tree of software job titles",
-      "description": "Comments",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "source": "Hacker News",
-      "date": "2026-11-14T17:45:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A family tree of software job titles",
-          "publisher": "Hacker News",
-          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
         }
       ],
       "faculty_summary": "Comments"
