@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:04:28.694955",
+  "generated_at": "2026-11-15T15:04:14.535034",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06904514188663259,
+      "relevance_score": 0.07061031240981215,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -23,6 +23,28 @@
         }
       ],
       "faculty_summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
+      "type": "article",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "description": "Comments",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "source": "Hacker News",
+      "date": "2026-11-15T13:15:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+          "publisher": "Hacker News",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -48,6 +70,50 @@
     },
     {
       "type": "article",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "description": "Comments",
+      "url": "https://prog21.dadgum.com/116.html",
+      "source": "Hacker News",
+      "date": "2026-11-15T13:44:16",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+          "publisher": "Hacker News",
+          "url": "https://prog21.dadgum.com/116.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "description": "Comments",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "Hacker News",
+      "date": "2026-11-15T12:14:06",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Understanding Positional Embeddings in Modern LLMs",
+          "publisher": "Hacker News",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Why did some Apollo missions carry a grenade launcher?",
       "description": "Comments",
       "url": "https://space.stackexchange.com/questions/37775",
@@ -64,6 +130,28 @@
           "title": "Why did some Apollo missions carry a grenade launcher?",
           "publisher": "Hacker News",
           "url": "https://space.stackexchange.com/questions/37775"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A NES emulator written in Odin",
+      "description": "Comments",
+      "url": "https://lucypero.com/lucynes.html",
+      "source": "Hacker News",
+      "date": "2026-11-15T12:51:47",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A NES emulator written in Odin",
+          "publisher": "Hacker News",
+          "url": "https://lucypero.com/lucynes.html"
         }
       ],
       "faculty_summary": "Comments"
@@ -114,72 +202,6 @@
     },
     {
       "type": "article",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "description": "Comments",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "source": "Hacker News",
-      "date": "2026-11-15T12:14:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Understanding Positional Embeddings in Modern LLMs",
-          "publisher": "Hacker News",
-          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Chasing an audio artifact on power loss",
-      "description": "Comments",
-      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "source": "Hacker News",
-      "date": "2026-11-12T23:11:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Chasing an audio artifact on power loss",
-          "publisher": "Hacker News",
-          "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-      "description": "Comments",
-      "url": "https://tsoracle.rs/",
-      "source": "Hacker News",
-      "date": "2026-11-13T10:04:37",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-          "publisher": "Hacker News",
-          "url": "https://tsoracle.rs/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "What thousands of conversations look like inside a language model",
       "description": "Comments",
       "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
@@ -196,28 +218,6 @@
           "title": "What thousands of conversations look like inside a language model",
           "publisher": "Hacker News",
           "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "description": "Comments",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-      "source": "Hacker News",
-      "date": "2026-11-12T21:27:01",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-          "publisher": "Hacker News",
-          "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o"
         }
       ],
       "faculty_summary": "Comments"
