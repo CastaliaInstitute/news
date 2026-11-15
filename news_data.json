@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-11-15T05:05:16.820677",
+  "generated_at": "2026-11-15T06:06:22.621433",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114",
-      "source": "Hugging Face",
-      "date": "2026-11-15T05:04:32.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "transformers",
-          "safetensors",
-          "exaone",
-          "text-generation",
-          "generated_from_trainer",
-          "sft",
-          "trl",
-          "conversational",
-          "custom_code",
-          "region:us"
-        ],
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.06902820691231017,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-no-reasoning-fullft-sft-r20-e15-lr1e-5-seed42-20261114"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Supporting research on AI and children\u2019s safety",
@@ -50,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.0676842339294368,
+      "relevance_score": 0.06987814750057067,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -106,28 +70,6 @@
     },
     {
       "type": "article",
-      "title": "Kiri \u2013 The Modern Container Runtime",
-      "description": "Comments",
-      "url": "https://runkiri.com/",
-      "source": "Hacker News",
-      "date": "2026-11-15T04:40:41",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Kiri \u2013 The Modern Container Runtime",
-          "publisher": "Hacker News",
-          "url": "https://runkiri.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
       "description": "Comments",
       "url": "https://github.com/matheuzgomes/gawain",
@@ -144,6 +86,28 @@
           "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
           "publisher": "Hacker News",
           "url": "https://github.com/matheuzgomes/gawain"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "description": "Comments",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "source": "Hacker News",
+      "date": "2026-11-13T05:22:08",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Memory Safety Bugs in Rust Standard Library",
+          "publisher": "Hacker News",
+          "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/"
         }
       ],
       "faculty_summary": "Comments"
@@ -172,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
       "description": "Comments",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
       "source": "Hacker News",
-      "date": "2026-11-15T02:00:54",
+      "date": "2026-11-15T04:09:11",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -185,9 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+          "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
           "publisher": "Hacker News",
-          "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp"
         }
       ],
       "faculty_summary": "Comments"
@@ -216,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "The Evolving Story of How Chemistry Became Biology",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
       "description": "Comments",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
       "source": "Hacker News",
-      "date": "2026-11-13T11:55:19",
+      "date": "2026-11-15T02:00:54",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -229,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Evolving Story of How Chemistry Became Biology",
+          "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
           "publisher": "Hacker News",
-          "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
+          "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A family tree of software job titles",
+      "description": "Comments",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source": "Hacker News",
+      "date": "2026-11-14T17:45:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A family tree of software job titles",
+          "publisher": "Hacker News",
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/"
         }
       ],
       "faculty_summary": "Comments"
