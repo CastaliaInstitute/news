@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:04:29.020988",
+  "generated_at": "2026-11-15T18:05:19.518512",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.058580132922239875,
+      "relevance_score": 0.06265354046843982,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -36,7 +36,7 @@
         "author": "/u/harrydong",
         "source_excerpt": "https://cadence.floatingpragma.ai/ https://github.com/muellerberndt/cadence    submitted by    /u/harrydong   [link] [comments]"
       },
-      "relevance_score": 0.02747789483832425,
+      "relevance_score": 0.029323933739883214,
       "sources": [
         {
           "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
@@ -92,28 +92,6 @@
     },
     {
       "type": "article",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "description": "Comments",
-      "url": "https://prog21.dadgum.com/116.html",
-      "source": "Hacker News",
-      "date": "2026-11-15T13:44:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-          "publisher": "Hacker News",
-          "url": "https://prog21.dadgum.com/116.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Emacs Is My Browser",
       "description": "Comments",
       "url": "https://joshblais.com/blog/emacs-as-my-browser/",
@@ -130,6 +108,28 @@
           "title": "Emacs Is My Browser",
           "publisher": "Hacker News",
           "url": "https://joshblais.com/blog/emacs-as-my-browser/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "description": "Comments",
+      "url": "https://prog21.dadgum.com/116.html",
+      "source": "Hacker News",
+      "date": "2026-11-15T13:44:16",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+          "publisher": "Hacker News",
+          "url": "https://prog21.dadgum.com/116.html"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,28 +180,6 @@
     },
     {
       "type": "article",
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "description": "Comments",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-      "source": "Hacker News",
-      "date": "2026-11-15T14:31:52",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-          "publisher": "Hacker News",
-          "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "description": "Comments",
       "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
@@ -218,6 +196,28 @@
           "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
           "publisher": "Hacker News",
           "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Atheist Bible",
+      "description": "Comments",
+      "url": "https://suchanek.name/texts/atheism/",
+      "source": "Hacker News",
+      "date": "2026-11-15T16:05:53",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Atheist Bible",
+          "publisher": "Hacker News",
+          "url": "https://suchanek.name/texts/atheism/"
         }
       ],
       "faculty_summary": "Comments"
