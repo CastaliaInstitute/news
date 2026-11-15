@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-15T15:04:14.535034",
+  "generated_at": "2026-11-15T16:04:48.225456",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: samartomar/spark-x2.6-4b-hindsight-1.1-research-preview",
+      "description": "Downloads: 182 | Likes: 1",
+      "url": "https://huggingface.co/samartomar/spark-x2.6-4b-hindsight-1.1-research-preview",
+      "source": "Hugging Face",
+      "date": "2026-11-15T16:04:01.000Z",
+      "metadata": {
+        "downloads": 182,
+        "likes": 1,
+        "tags": [
+          "peft",
+          "safetensors",
+          "gguf",
+          "lora",
+          "rslora",
+          "research",
+          "hindsight",
+          "structured-output",
+          "text-generation",
+          "en",
+          "base_model:XHToken/Spark-X2.6-4B",
+          "base_model:adapter:XHToken/Spark-X2.6-4B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us",
+          "conversational"
+        ]
+      },
+      "relevance_score": 0.07379167997012322,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: samartomar/spark-x2.6-4b-hindsight-1.1-research-preview",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/samartomar/spark-x2.6-4b-hindsight-1.1-research-preview"
+        }
+      ],
+      "faculty_summary": "Downloads: 182 | Likes: 1"
+    },
     {
       "type": "article",
       "title": "Supporting research on AI and children\u2019s safety",
@@ -14,7 +53,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07061031240981215,
+      "relevance_score": 0.05960021318501714,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -23,6 +62,28 @@
         }
       ],
       "faculty_summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
+      "type": "article",
+      "title": "All AI-generated code should be Open Source",
+      "description": "Comments",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "source": "Hacker News",
+      "date": "2026-11-15T14:46:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "All AI-generated code should be Open Source",
+          "publisher": "Hacker News",
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -42,28 +103,6 @@
           "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
           "publisher": "Hacker News",
           "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "description": "Comments",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "source": "Hacker News",
-      "date": "2026-11-14T21:22:24",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "SpaceX catches the Starship to end Flight 15",
-          "publisher": "Hacker News",
-          "url": "https://www.spacex.com/launches/starship-flight-15"
         }
       ],
       "faculty_summary": "Comments"
@@ -92,6 +131,50 @@
     },
     {
       "type": "article",
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "description": "Comments",
+      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "source": "Hacker News",
+      "date": "2026-11-15T14:31:52",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+          "publisher": "Hacker News",
+          "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "description": "Comments",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "date": "2026-11-14T21:22:24",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "publisher": "Hacker News",
+          "url": "https://www.spacex.com/launches/starship-flight-15"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "description": "Comments",
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
@@ -108,28 +191,6 @@
           "title": "Understanding Positional Embeddings in Modern LLMs",
           "publisher": "Hacker News",
           "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "description": "Comments",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "source": "Hacker News",
-      "date": "2026-11-15T09:06:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Why did some Apollo missions carry a grenade launcher?",
-          "publisher": "Hacker News",
-          "url": "https://space.stackexchange.com/questions/37775"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,11 +219,11 @@
     },
     {
       "type": "article",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
       "description": "Comments",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "url": "https://space.stackexchange.com/questions/37775",
       "source": "Hacker News",
-      "date": "2026-11-14T17:43:10",
+      "date": "2026-11-15T09:06:43",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,53 +232,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "title": "Why did some Apollo missions carry a grenade launcher?",
           "publisher": "Hacker News",
-          "url": "https://www.crissyfield.de/research/lovable-en/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "description": "Comments",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "source": "Hacker News",
-      "date": "2026-11-15T01:18:36",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Court denies motion to dismiss DRAM price fixing case",
-          "publisher": "Hacker News",
-          "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "What thousands of conversations look like inside a language model",
-      "description": "Comments",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "source": "Hacker News",
-      "date": "2026-11-13T10:26:01",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "What thousands of conversations look like inside a language model",
-          "publisher": "Hacker News",
-          "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/"
+          "url": "https://space.stackexchange.com/questions/37775"
         }
       ],
       "faculty_summary": "Comments"
