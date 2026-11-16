@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:06:05.106978",
+  "generated_at": "2026-11-16T04:06:11.838971",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
       },
-      "relevance_score": 0.12150226881198678,
+      "relevance_score": 0.11833597998636888,
       "sources": [
         {
           "title": "Our new blog for science",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.07052615674677283,
+      "relevance_score": 0.06911970382787253,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -58,7 +58,7 @@
         "author": "/u/Datu1423",
         "source_excerpt": "Hi everyone, I\u2019m a data analyst on a financial crime team, and I\u2019m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I\u2019d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has used ML in practice. Some context: like most teams in this space, we rely mostly on rule-based systems, which generate a lot of false positives and take up a lot of analyst time on alert review. I\u2019d like to explore whether ML can help, but I want to start with something realistic rather than overpromising. A few questions for those with experience:  Use cases: Where have you seen ML add the most value? For example, alert prioritization/scoring, reducing false positives, anomaly detection, entity resolution or name matching in screening, or network/graph analysis to spot linked accounts? Data and labels: How do you deal with the lack of good labeled data? SARs are rare and confirmed cases even rarer. Did you use alert dispositions as labels, go unsupervised, or something else? Explainability and regulators: How do you make models explainable enough for compliance teams, auditors, and regulators? Any experience with model validation or model risk management for these models? Getting buy-in: How did you convince compliance or management to try ML alongside (or instead of) existing rules? What did your first pilot look like? Tools and resources: Any libraries, papers, datasets (e.g. synthetic transaction datasets), courses, or books you\u2019d recommend?  If you\u2019ve done a project like this, I\u2019d really appreciate hearing what worked, what didn\u2019t, and what you\u2019d do differently. Happy to share what I end up building in return. Thanks in advance!    submitted by    /u/Datu1423   [link] [comments]"
       },
-      "relevance_score": 0.050135131188528026,
+      "relevance_score": 0.04893940925392599,
       "sources": [
         {
           "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
@@ -136,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "What's Next for Nvidia?",
+      "description": "Comments",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "source": "Hacker News",
+      "date": "2026-11-15T23:55:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "What's Next for Nvidia?",
+          "publisher": "Hacker News",
+          "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Coles hit by a cybersecurity incident",
       "description": "Comments",
       "url": "https://www.colesgroup.com.au/updates/",
@@ -196,28 +218,6 @@
           "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
           "publisher": "Hacker News",
           "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "description": "Comments",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "source": "Hacker News",
-      "date": "2026-11-15T19:26:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-          "publisher": "Hacker News",
-          "url": "https://bruceroettgers.eu/blog/protomaps/"
         }
       ],
       "faculty_summary": "Comments"
