@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:07:14.127633",
+  "generated_at": "2026-11-16T02:06:29.248130",
   "total_items": 10,
   "items": [
     {
@@ -58,7 +58,7 @@
         "author": "/u/Datu1423",
         "source_excerpt": "Hi everyone, I\u2019m a data analyst on a financial crime team, and I\u2019m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I\u2019d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has used ML in practice. Some context: like most teams in this space, we rely mostly on rule-based systems, which generate a lot of false positives and take up a lot of analyst time on alert review. I\u2019d like to explore whether ML can help, but I want to start with something realistic rather than overpromising. A few questions for those with experience:  Use cases: Where have you seen ML add the most value? For example, alert prioritization/scoring, reducing false positives, anomaly detection, entity resolution or name matching in screening, or network/graph analysis to spot linked accounts? Data and labels: How do you deal with the lack of good labeled data? SARs are rare and confirmed cases even rarer. Did you use alert dispositions as labels, go unsupervised, or something else? Explainability and regulators: How do you make models explainable enough for compliance teams, auditors, and regulators? Any experience with model validation or model risk management for these models? Getting buy-in: How did you convince compliance or management to try ML alongside (or instead of) existing rules? What did your first pilot look like? Tools and resources: Any libraries, papers, datasets (e.g. synthetic transaction datasets), courses, or books you\u2019d recommend?  If you\u2019ve done a project like this, I\u2019d really appreciate hearing what worked, what didn\u2019t, and what you\u2019d do differently. Happy to share what I end up building in return. Thanks in advance!    submitted by    /u/Datu1423   [link] [comments]"
       },
-      "relevance_score": 0.049526447843424526,
+      "relevance_score": 0.049124964125850365,
       "sources": [
         {
           "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
@@ -108,6 +108,28 @@
           "title": "Preserving 30 Years of Salon Journalism",
           "publisher": "Hacker News",
           "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Coles hit by a cybersecurity incident",
+      "description": "Comments",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "source": "Hacker News",
+      "date": "2026-11-16T01:14:35",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Coles hit by a cybersecurity incident",
+          "publisher": "Hacker News",
+          "url": "https://www.colesgroup.com.au/updates/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "What's Next for Nvidia?",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
       "description": "Comments",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
       "source": "Hacker News",
-      "date": "2026-11-15T23:55:55",
+      "date": "2026-11-16T00:21:54",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "What's Next for Nvidia?",
+          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
           "publisher": "Hacker News",
-          "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "description": "Comments",
-      "url": "https://lastcomplication.com/",
-      "source": "Hacker News",
-      "date": "2026-11-15T22:48:52",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-          "publisher": "Hacker News",
-          "url": "https://lastcomplication.com/"
+          "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
         }
       ],
       "faculty_summary": "Comments"
