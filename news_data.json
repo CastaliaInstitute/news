@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:09:20.438396",
+  "generated_at": "2026-11-16T13:12:48.135719",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.22749478819826774,
+      "relevance_score": 0.21602573331851785,
       "sources": [
         {
           "title": "Coffeehouses and the Rise of Science [pdf]",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
       },
-      "relevance_score": 0.19411221174272314,
+      "relevance_score": 0.1843261255341606,
       "sources": [
         {
           "title": "Our new blog for science",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.1269355461488719,
+      "relevance_score": 0.1173903058425898,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -80,7 +80,7 @@
         "author": "Kate M. O'Neill, Ian Whitehouse, Adam N. McCaughan, Ryan O'Loughlin, Sonia Buckley, Wolfgang Losert",
         "source_excerpt": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ of all brain cells but do not emit electrical signals. Nevertheless, they may play critical roles in important cognitive brain functions, specifically learning, memory, and information processing. Here we consider the implications of these discoveries for brain-inspired machine learning (ML), where analogy is typically drawn between neurons and their electrical interactions. We highlight specific algorithms for two key astrocyte characteristics. The first characteristic is the ability to link to and modulate thousands of synapses simultaneously. A model based on this characteristic yields faster training and makes the network more robust to noise, providing a supervised learning algorithm that can be applied to any existing neural network. The second characteristic we focus on is that the non-electrical communication among astrocytes includes slow, rhythmic dynamics. The rhythmic sharing algorithm we developed based on this premise yields rapid anomaly detection adaptation and prevents catastrophic forgetting. Overall, we find that astrocyte-derived algorithms outperform neurocentric algorithms significantly and remediate critical weaknesses of current state-of-the-art ML models."
       },
-      "relevance_score": 0.11152912650029366,
+      "relevance_score": 0.10590643209637773,
       "sources": [
         {
           "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
@@ -105,7 +105,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.10817470506074818,
+      "relevance_score": 0.10260492323660753,
       "sources": [
         {
           "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
@@ -127,7 +127,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.10228050485623755,
+      "relevance_score": 0.09712407585575264,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -152,7 +152,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.08386593080604571,
+      "relevance_score": 0.0796378648772669,
       "sources": [
         {
           "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
@@ -174,7 +174,7 @@
         "author": "Samarth Vinayaka",
         "source_excerpt": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater degradation than false-keep, while a non-deleting baseline can still fail when incorrect labels steer generation. On a frozen 102/102 calibration/test split, a simple deployment-matched gate reaches 0.655 accuracy versus 0.641 for always hard-drop and 0.662 for test-informed oracle selection. Global-accuracy crossovers require gold labels and are model- and task-specific diagnostics, not deployment thresholds. Deletion should instead be treated as cost-sensitive: validate query-critical false-drop risk on matched data, or default to label-free retention when such validation is unavailable."
       },
-      "relevance_score": 0.06959630860898859,
+      "relevance_score": 0.06608763973272033,
       "sources": [
         {
           "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
@@ -196,7 +196,7 @@
         "author": "Ali Mohammadi Ruzbahani, Rezvan Abouzadeh",
         "source_excerpt": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is divided into episodes whose learning rate is raised again and cooled, every cooled state joins a memory of past selves, and each new episode learns from the labels, from the tempered predictions of this memory, and from adversarial dreams sought where student and memory disagree most. The memory averages predictions rather than weights, and the deployed network is the last student, so inference costs nothing extra. Across CIFAR-100, Tiny-ImageNet and Imagewoof, four architecture families and 5\\% to 100\\% of the labels, model annealing raises the top-1 accuracy of the AdamW-trained ConvNeXt, ViT and MLP-Mixer over cross-entropy training in 28 of 33 configurations, by 1.3 points on average, and is on par in accuracy with snapshot distillation, the closest competitor. On these families it is better than both in likelihood, calibration and robustness to corruptions and small adversarial perturbations. For an SGD-trained ResNet-18 it lowers accuracy but still improves robustness to small adversarial perturbations. Separating the reheated schedule from relearning shows that relearning helps every family and that the losses come from reheats, which undo most of this network's fit to its training set. How early the accuracy of a cross-entropy run saturates largely separates the AdamW families from ResNet-18 but does not predict the gain within them. With little data, relearning from the latest snapshot without dreams, as snapshot distillation does, compounds overconfidence in the AdamW families from episode to episode. The memory and the dreams each curb most of this drift, and together they remove it."
       },
-      "relevance_score": 0.06257447244680951,
+      "relevance_score": 0.060263215075932026,
       "sources": [
         {
           "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
@@ -218,7 +218,7 @@
         "author": "Ahmed Shoyeb Raihan, Farzana Islam, Ashish Nimbarte, Imtiaz Ahmed",
         "source_excerpt": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel temperature and final chemical composition challenging. Intermittent or delayed measurements limit the information available for timely prediction. This study develops an availability-aware historical-feedback learning framework for predicting EAF endpoint temperature and the final concentrations of twelve chemical elements. Eight industrial data sources are integrated into three progressively enriched predictor representations comprising 19 static, 39 temporal, and 47 history-informed features. Historical outcomes are incorporated only when eligible under an assumed 60-minute measurement-release delay. Using 19,738 temperature heats and 3,341 chemistry heats, twelve tuned regression algorithms are evaluated through chronological forward validation. The proposed historical-feedback representation reduces root mean squared error (RMSE) in 147 of 156 matched algorithm-target comparisons. For temperature prediction, ExtraTrees achieves an RMSE of 12.290 degrees C, representing a 5.54 percent reduction compared with its temporal-only counterpart. Historical-feature ablation and feedback-delay sensitivity analyses demonstrate the importance of recent outcome information and its availability. In a separate retrospective later-period evaluation, lightweight adaptive residual correction reduces temperature RMSE from 12.502 to 12.275 degrees C without retraining the underlying model. Exploratory deep learning comparisons and target-specific feature-attribution analyses provide additional insights into predictive behavior. The results establish historical outcome availability and sequential feedback as important considerations for EAF endpoint prediction."
       },
-      "relevance_score": 0.0597754659999972,
+      "relevance_score": 0.055359166182808825,
       "sources": [
         {
           "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
