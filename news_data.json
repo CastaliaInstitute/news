@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:06:11.838971",
+  "generated_at": "2026-11-16T05:05:34.022928",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
       },
-      "relevance_score": 0.11833597998636888,
+      "relevance_score": 0.21123363272716245,
       "sources": [
         {
           "title": "Our new blog for science",
@@ -23,6 +23,53 @@
         }
       ],
       "faculty_summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
+    {
+      "type": "article",
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "description": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain networ...",
+      "url": "https://arxiv.org/abs/2611.17532",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Kate M. O'Neill, Ian Whitehouse, Adam N. McCaughan, Ryan O'Loughlin, Sonia Buckley, Wolfgang Losert",
+        "source_excerpt": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ of all brain cells but do not emit electrical signals. Nevertheless, they may play critical roles in important cognitive brain functions, specifically learning, memory, and information processing. Here we consider the implications of these discoveries for brain-inspired machine learning (ML), where analogy is typically drawn between neurons and their electrical interactions. We highlight specific algorithms for two key astrocyte characteristics. The first characteristic is the ability to link to and modulate thousands of synapses simultaneously. A model based on this characteristic yields faster training and makes the network more robust to noise, providing a supervised learning algorithm that can be applied to any existing neural network. The second characteristic we focus on is that the non-electrical communication among astrocytes includes slow, rhythmic dynamics. The rhythmic sharing algorithm we developed based on this premise yields rapid anomaly detection adaptation and prevents catastrophic forgetting. Overall, we find that astrocyte-derived algorithms outperform neurocentric algorithms significantly and remediate critical weaknesses of current state-of-the-art ML models."
+      },
+      "relevance_score": 0.10977782082864523,
+      "sources": [
+        {
+          "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17532"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain networ..."
+    },
+    {
+      "type": "article",
+      "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+      "description": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preference...",
+      "url": "https://arxiv.org/abs/2611.17398",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Henry Bell, Caroline Zhang, Dhaval Potdar, Mohammed Mobasserul Haque, Brandon Fain",
+        "source_excerpt": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preferences or constitutional principles specified at training time and subsequently fixed. In practice, many deployers rely on system prompting to implement contextual norms and guardrails at inference time. Prior work has shown that post-generation reflective reasoning with critique and revision can improve conformance compared to simple system prompting, but such methods are limited to the reasoning abilities inherent in the trained model. We introduce Reflect-Reasoning, a training method that teaches models how to reason about alignment to principles, rather than simply which principles to follow. Across five models, Reflect-Reasoning consistently outperforms both system prompting and explicit prompting strategies for in-context reflective reasoning. These improvements extend and generalize to entirely out-of-distribution domains of medical and financial principles. We additionally demonstrate that Reflect-Reasoning reduces the occurrence of rare but serious principle violations. Finally, we show that Reflect-Reasoning does not erode the safety engineering of a model and is robust against jailbreaking attempts using adversarial constitutions. Overall, our results demonstrate that Reflect-Reasoning is a scalable method for training constitutional alignment as a generalizable reasoning capability, enabling models to adapt to novel principles and produce transparent reasoning traces without additional fine-tuning.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.10649062719528801,
+      "sources": [
+        {
+          "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17398"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preference..."
     },
     {
       "type": "article",
@@ -36,7 +83,7 @@
         "author": "",
         "source_excerpt": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
       },
-      "relevance_score": 0.06911970382787253,
+      "relevance_score": 0.10432833123643788,
       "sources": [
         {
           "title": "Supporting research on AI and children\u2019s safety",
@@ -45,6 +92,119 @@
         }
       ],
       "faculty_summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
+      "type": "article",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "description": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to inf...",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Animesh Agarwal, Meysam Ghaffari, Nina Fatehi, Carlos Morato",
+        "source_excerpt": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval object: a tabular population prior ranked medication class candidates from a sparse condition medication co occurrence table estimated from training admissions. Using PACERAG as a fixed downstream pipeline and replacing only its patient retriever, this drop in swap improves F1 from 0.303 to 0.338 (+11.5% relative) and Jaccard from 0.218 to 0.237 on 1,004 heldout MIMIC IV admissions, with no additional LLM calls and no inference time patient index. A non LLM top k baseline reaches F1=0.248, confirming the prior is predictive before LLM integration. Aggregate population statistics can provide a more task aligned, efficient, and auditable retrieval source than patient level nearest neighbors for fixed vocabulary EHR set prediction.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.08367053084864247,
+      "sources": [
+        {
+          "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17341"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to inf..."
+    },
+    {
+      "type": "article",
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "description": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-...",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Samarth Vinayaka",
+        "source_excerpt": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater degradation than false-keep, while a non-deleting baseline can still fail when incorrect labels steer generation. On a frozen 102/102 calibration/test split, a simple deployment-matched gate reaches 0.655 accuracy versus 0.641 for always hard-drop and 0.662 for test-informed oracle selection. Global-accuracy crossovers require gold labels and are model- and task-specific diagnostics, not deployment thresholds. Deletion should instead be treated as cost-sensitive: validate query-critical false-drop risk on matched data, or default to label-free retention when such validation is unavailable."
+      },
+      "relevance_score": 0.06777645862547396,
+      "sources": [
+        {
+          "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17338"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-..."
+    },
+    {
+      "type": "article",
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "description": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning fr...",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Ali Mohammadi Ruzbahani, Rezvan Abouzadeh",
+        "source_excerpt": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is divided into episodes whose learning rate is raised again and cooled, every cooled state joins a memory of past selves, and each new episode learns from the labels, from the tempered predictions of this memory, and from adversarial dreams sought where student and memory disagree most. The memory averages predictions rather than weights, and the deployed network is the last student, so inference costs nothing extra. Across CIFAR-100, Tiny-ImageNet and Imagewoof, four architecture families and 5\\% to 100\\% of the labels, model annealing raises the top-1 accuracy of the AdamW-trained ConvNeXt, ViT and MLP-Mixer over cross-entropy training in 28 of 33 configurations, by 1.3 points on average, and is on par in accuracy with snapshot distillation, the closest competitor. On these families it is better than both in likelihood, calibration and robustness to corruptions and small adversarial perturbations. For an SGD-trained ResNet-18 it lowers accuracy but still improves robustness to small adversarial perturbations. Separating the reheated schedule from relearning shows that relearning helps every family and that the losses come from reheats, which undo most of this network's fit to its training set. How early the accuracy of a cross-entropy run saturates largely separates the AdamW families from ResNet-18 but does not predict the gain within them. With little data, relearning from the latest snapshot without dreams, as snapshot distillation does, compounds overconfidence in the AdamW families from episode to episode. The memory and the dreams each curb most of this drift, and together they remove it."
+      },
+      "relevance_score": 0.062419782849560436,
+      "sources": [
+        {
+          "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17524"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning fr..."
+    },
+    {
+      "type": "article",
+      "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
+      "description": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel t...",
+      "url": "https://arxiv.org/abs/2611.17463",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Ahmed Shoyeb Raihan, Farzana Islam, Ashish Nimbarte, Imtiaz Ahmed",
+        "source_excerpt": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel temperature and final chemical composition challenging. Intermittent or delayed measurements limit the information available for timely prediction. This study develops an availability-aware historical-feedback learning framework for predicting EAF endpoint temperature and the final concentrations of twelve chemical elements. Eight industrial data sources are integrated into three progressively enriched predictor representations comprising 19 static, 39 temporal, and 47 history-informed features. Historical outcomes are incorporated only when eligible under an assumed 60-minute measurement-release delay. Using 19,738 temperature heats and 3,341 chemistry heats, twelve tuned regression algorithms are evaluated through chronological forward validation. The proposed historical-feedback representation reduces root mean squared error (RMSE) in 147 of 156 matched algorithm-target comparisons. For temperature prediction, ExtraTrees achieves an RMSE of 12.290 degrees C, representing a 5.54 percent reduction compared with its temporal-only counterpart. Historical-feature ablation and feedback-delay sensitivity analyses demonstrate the importance of recent outcome information and its availability. In a separate retrospective later-period evaluation, lightweight adaptive residual correction reduces temperature RMSE from 12.502 to 12.275 degrees C without retraining the underlying model. Exploratory deep learning comparisons and target-specific feature-attribution analyses provide additional insights into predictive behavior. The results establish historical outcome availability and sequential feedback as important considerations for EAF endpoint prediction."
+      },
+      "relevance_score": 0.05884615122221459,
+      "sources": [
+        {
+          "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17463"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel t..."
+    },
+    {
+      "type": "article",
+      "title": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
+      "description": "arXiv:2611.17412v1 Announce Type: new \nAbstract: Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of ...",
+      "url": "https://arxiv.org/abs/2611.17412",
+      "source": "arXiv",
+      "date": "2026-11-16T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Christos Panourgias, Qitong Wang, George Tzagkarakis, Themis Palpanas",
+        "source_excerpt": "arXiv:2611.17412v1 Announce Type: new \nAbstract: Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of long series is slow. Learned approximations embed the series to make comparisons cheap, yet compare every pair with the same fixed rule, usually the Euclidean distance, although DTW aligns each pair differently. We observe that, once a pair is aligned, DTW is a Euclidean distance over coordinates selected for that pair. Building on this view, we propose Weighted Euclidean Time Warping (WETW), a learned distance that adapts the comparison of fixed-length embeddings to each pair. A small symmetric network predicts one weight per embedding di- mension and pair without computing an alignment, which halves the error of the best static distance on the same embeddings. The embeddings come from the Weighted Euclidean SEries Encoder (WESEE), whose multi-scale Temporal Feature Extractor keeps the timing information that global pooling removes and raises recall@1 from 0.90 to 0.95, although WETW works with any encoder. We also show that fitting DTW distances is not enough for search, as regression alone misorders the closest neighbours, and that ranking regularization raises recall@1 from 0.79 to 0.95. Our filter-and-verify pipeline, WETW-FV, uses WETW to build a shortlist and exact DTW to check it, so the search is approximate but every returned distance is exact. Over eight datasets, WETW-FV is 11.4x faster than the fastest exact method among the UCR Suite, lower bounds and MESSI-DTW, at a mean recall@10 of 0.93, while the best learned baseline reaches 0.59 at the same speed. On 48K-point series, WETW- FV remains 40x faster than the UCR Suite at a recall@10 of 0.91."
+      },
+      "relevance_score": 0.057067639261381815,
+      "sources": [
+        {
+          "title": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17412"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.17412v1 Announce Type: new \nAbstract: Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of ..."
     },
     {
       "type": "article",
@@ -58,7 +218,7 @@
         "author": "/u/Datu1423",
         "source_excerpt": "Hi everyone, I\u2019m a data analyst on a financial crime team, and I\u2019m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I\u2019d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has used ML in practice. Some context: like most teams in this space, we rely mostly on rule-based systems, which generate a lot of false positives and take up a lot of analyst time on alert review. I\u2019d like to explore whether ML can help, but I want to start with something realistic rather than overpromising. A few questions for those with experience:  Use cases: Where have you seen ML add the most value? For example, alert prioritization/scoring, reducing false positives, anomaly detection, entity resolution or name matching in screening, or network/graph analysis to spot linked accounts? Data and labels: How do you deal with the lack of good labeled data? SARs are rare and confirmed cases even rarer. Did you use alert dispositions as labels, go unsupervised, or something else? Explainability and regulators: How do you make models explainable enough for compliance teams, auditors, and regulators? Any experience with model validation or model risk management for these models? Getting buy-in: How did you convince compliance or management to try ML alongside (or instead of) existing rules? What did your first pilot look like? Tools and resources: Any libraries, papers, datasets (e.g. synthetic transaction datasets), courses, or books you\u2019d recommend?  If you\u2019ve done a project like this, I\u2019d really appreciate hearing what worked, what didn\u2019t, and what you\u2019d do differently. Happy to share what I end up building in return. Thanks in advance!    submitted by    /u/Datu1423   [link] [comments]"
       },
-      "relevance_score": 0.04893940925392599,
+      "relevance_score": 0.053466610961102876,
       "sources": [
         {
           "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
@@ -67,160 +227,6 @@
         }
       ],
       "faculty_summary": "Hi everyone, I\u2019m a data analyst on a financial crime team, and I\u2019m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I\u2019d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has u..."
-    },
-    {
-      "type": "article",
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "description": "Comments",
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "source": "Hacker News",
-      "date": "2026-11-16T02:04:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Universal XSS in uBlock Origin from website-driven element picker",
-          "publisher": "Hacker News",
-          "url": "https://iter.ca/post/ubo-uxss/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Qwen4-Max",
-      "description": "Comments",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
-      "source": "Hacker News",
-      "date": "2026-11-16T02:14:44",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Qwen4-Max",
-          "publisher": "Hacker News",
-          "url": "https://qwen.ai/blog?id=qwen4-max"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Old Bitly links are being hijacked",
-      "description": "Comments",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "source": "Hacker News",
-      "date": "2026-11-15T22:11:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Old Bitly links are being hijacked",
-          "publisher": "Hacker News",
-          "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "What's Next for Nvidia?",
-      "description": "Comments",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "source": "Hacker News",
-      "date": "2026-11-15T23:55:55",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "What's Next for Nvidia?",
-          "publisher": "Hacker News",
-          "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Coles hit by a cybersecurity incident",
-      "description": "Comments",
-      "url": "https://www.colesgroup.com.au/updates/",
-      "source": "Hacker News",
-      "date": "2026-11-16T01:14:35",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Coles hit by a cybersecurity incident",
-          "publisher": "Hacker News",
-          "url": "https://www.colesgroup.com.au/updates/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Preserving 30 years of Salon journalism",
-      "description": "Comments",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "source": "Hacker News",
-      "date": "2026-11-15T23:00:11",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Preserving 30 years of Salon journalism",
-          "publisher": "Hacker News",
-          "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "description": "Comments",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "source": "Hacker News",
-      "date": "2026-11-16T00:21:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-          "publisher": "Hacker News",
-          "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
-        }
-      ],
-      "faculty_summary": "Comments"
     }
   ]
 }
