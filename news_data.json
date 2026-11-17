@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-11-17T20:05:16.948219",
+  "generated_at": "2026-11-17T21:04:59.611069",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: VoidOSS/Qwen-2.6-Thinking-1.5B",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/VoidOSS/Qwen-2.6-Thinking-1.5B",
-      "source": "Hugging Face",
-      "date": "2026-11-17T20:02:40.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "safetensors",
-          "qwen2",
-          "reasoning",
-          "thinking",
-          "deepseek-r1",
-          "distillation",
-          "sft",
-          "qlora",
-          "text-generation",
-          "conversational",
-          "en",
-          "dataset:a-m-team/AM-DeepSeek-R1-0528-Distilled",
-          "base_model:Qwen/Qwen2.5-1.5B",
-          "base_model:finetune:Qwen/Qwen2.5-1.5B",
-          "license:apache-2.0",
-          "region:us"
-        ]
-      },
-      "relevance_score": 0.10828440897459854,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: VoidOSS/Qwen-2.6-Thinking-1.5B",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/VoidOSS/Qwen-2.6-Thinking-1.5B"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -53,7 +14,7 @@
         "author": "",
         "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       },
-      "relevance_score": 0.07040790491861319,
+      "relevance_score": 0.0700880281553013,
       "sources": [
         {
           "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -75,7 +36,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.06669249387165065,
+      "relevance_score": 0.0663894969410997,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -100,7 +61,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.03082008183911335,
+      "relevance_score": 0.030680060231666015,
       "sources": [
         {
           "title": "Our first phase of embedded assessments",
@@ -134,11 +95,11 @@
     },
     {
       "type": "article",
-      "title": "Apple Services Down",
+      "title": "jQuery 4.1.0",
       "description": "Comments",
-      "url": "https://developer.apple.com/system-status/",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
       "source": "Hacker News",
-      "date": "2026-11-17T17:47:14",
+      "date": "2026-11-17T19:50:40",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -147,9 +108,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Apple Services Down",
+          "title": "jQuery 4.1.0",
           "publisher": "Hacker News",
-          "url": "https://developer.apple.com/system-status/"
+          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
         }
       ],
       "faculty_summary": "Comments"
@@ -178,28 +139,6 @@
     },
     {
       "type": "article",
-      "title": "Phrack 73 Released",
-      "description": "Comments",
-      "url": "https://phrack.org/issues/73/introduction_md",
-      "source": "Hacker News",
-      "date": "2026-11-17T18:31:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Phrack 73 Released",
-          "publisher": "Hacker News",
-          "url": "https://phrack.org/issues/73/introduction_md"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "350 years ago, this man discovered that light has a finite speed",
       "description": "Comments",
       "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
@@ -222,6 +161,28 @@
     },
     {
       "type": "article",
+      "title": "Web Browser Engineering (2021)",
+      "description": "Comments",
+      "url": "https://browser.engineering/",
+      "source": "Hacker News",
+      "date": "2026-11-17T20:01:35",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Web Browser Engineering (2021)",
+          "publisher": "Hacker News",
+          "url": "https://browser.engineering/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Solid 2.0",
       "description": "Comments",
       "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
@@ -238,6 +199,28 @@
           "title": "Solid 2.0",
           "publisher": "Hacker News",
           "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Phrack 73 Released",
+      "description": "Comments",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "source": "Hacker News",
+      "date": "2026-11-17T18:31:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Phrack 73 Released",
+          "publisher": "Hacker News",
+          "url": "https://phrack.org/issues/73/introduction_md"
         }
       ],
       "faculty_summary": "Comments"
