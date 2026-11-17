@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:05:38.157510",
+  "generated_at": "2026-11-17T19:04:28.428072",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.0665733197107952,
+      "relevance_score": 0.06658330747095297,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       },
-      "relevance_score": 0.06485447386703054,
+      "relevance_score": 0.06430224499397615,
       "sources": [
         {
           "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.052247597860339334,
+      "relevance_score": 0.0516614587780063,
       "sources": [
         {
           "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -83,7 +83,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.03086448170899063,
+      "relevance_score": 0.030769624379662255,
       "sources": [
         {
           "title": "Our first phase of embedded assessments",
@@ -111,6 +111,28 @@
           "title": "GPT\u20116.2 Astra and Sol",
           "publisher": "Hacker News",
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "description": "Comments",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "source": "Hacker News",
+      "date": "2026-11-17T18:25:13",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "MAI Code 2 and Code 2 Flash",
+          "publisher": "Hacker News",
+          "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
         }
       ],
       "faculty_summary": "Comments"
@@ -161,6 +183,28 @@
     },
     {
       "type": "article",
+      "title": "Apple Services Down",
+      "description": "Comments",
+      "url": "https://downdetector.com/status/apple-support/",
+      "source": "Hacker News",
+      "date": "2026-11-17T17:47:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Apple Services Down",
+          "publisher": "Hacker News",
+          "url": "https://downdetector.com/status/apple-support/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
       "description": "Comments",
       "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
@@ -177,50 +221,6 @@
           "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
           "publisher": "Hacker News",
           "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "description": "Comments",
-      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-      "source": "Hacker News",
-      "date": "2026-11-16T15:02:20",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-          "publisher": "Hacker News",
-          "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "NSA Internal Network Down",
-      "description": "Comments",
-      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-      "source": "Hacker News",
-      "date": "2026-11-17T15:50:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "NSA Internal Network Down",
-          "publisher": "Hacker News",
-          "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/"
         }
       ],
       "faculty_summary": "Comments"
