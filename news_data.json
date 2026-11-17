@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:05:16.074216",
+  "generated_at": "2026-11-17T16:06:03.938400",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.07062548640996982,
+      "relevance_score": 0.07051354794099295,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.05570796552066936,
+      "relevance_score": 0.05577315982107001,
       "sources": [
         {
           "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -102,7 +102,7 @@
         "author": "/u/terrrp",
         "source_excerpt": "I deploy CNN + Attention stack models on edge devices, to great effect. Taking advantage of convs and reducing the spatial dimensionality makes all the sense in the world to me. Having vanilla ViTs learning the inductive biases from scratch makes none to me. Is it really a case of \"because I can\"? Avoiding padding along borders is the only advantage I can see to a tokenizer stem, and that has never been a huge issue to me. Am I missing something that has people reaching for ViTs instead of hybrid models for e.g. SSL/foundation models?  In my mind it's just a case of people using the status quo, and more of a historical accident that these models have become so popular. Iirc levit showed data/time efficiency boosts with a convolutional stem. I just don't work on the same datasets or tasks that most research does, so I'm genuinely curious if anyone else thinks vanilla ViTs seem excessive. Guess compute is cheap and the answer would just be distillation.    submitted by    /u/terrrp   [link] [comments]"
       },
-      "relevance_score": 0.04688012986613671,
+      "relevance_score": 0.04674103487430402,
       "sources": [
         {
           "title": "Why are ViTs so popular? [D]",
@@ -124,7 +124,7 @@
         "author": "/u/latenticlabs",
         "source_excerpt": "Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016\u20132026) and extracted every change a paper added and measured (a layer, a loss, more data, a larger learning rate...) with the effect it reported. [1] 621,064 added changes from 110,393 papers [2] 69% helped, 10% no clear effect, 16% worse (5% mixed) [3] 66% of papers report at least one change that did not help [4] ML venues report a null or negative result for 31% of changes, vision venues for 22% [5] Most often unhelpful among common changes: higher sampling temperature (52% of 122 papers), larger LoRA rank (46%), larger learning rate (46%). Least: adding a contrastive loss (4% of 1,317) Front page and the \"usual suspects\" table are public: https://atlas.scime.ai/what-didnt-work-2026?utm_source=reddit Disclosure: We built this (Latentic Labs). Happy to share the method or take corrections.    submitted by    /u/latenticlabs   [link] [comments]"
       },
-      "relevance_score": 0.037869715231646235,
+      "relevance_score": 0.037883081985590046,
       "sources": [
         {
           "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
@@ -171,7 +171,7 @@
         "author": "/u/Physical_Vehicle7714",
         "source_excerpt": "My paper sits at a 3/3/2 with confidence 3/3/2. I have a good case for the 2 to be discarded based on the quality of the review and the rebuttals. Can I make my case to the AC directly or is that just going to make things worse?    submitted by    /u/Physical_Vehicle7714   [link] [comments]"
       },
-      "relevance_score": 0.029166710604994775,
+      "relevance_score": 0.029173431776581066,
       "sources": [
         {
           "title": "Is it inappropriate to leave a comment for the AC summarizing the rebuttal process from my perspective and making my case? [D]",
@@ -183,11 +183,11 @@
     },
     {
       "type": "article",
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "title": "We don't need more apps. We need better open source",
       "description": "Comments",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
       "source": "Hacker News",
-      "date": "2026-11-17T11:45:51",
+      "date": "2026-11-17T14:45:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,20 +196,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+          "title": "We don't need more apps. We need better open source",
           "publisher": "Hacker News",
-          "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+          "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "title": "Loopholes Are for Assholes",
       "description": "Comments",
-      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
       "source": "Hacker News",
-      "date": "2026-11-16T15:02:20",
+      "date": "2026-11-17T14:20:32",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +218,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+          "title": "Loopholes Are for Assholes",
           "publisher": "Hacker News",
-          "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664"
+          "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/"
         }
       ],
       "faculty_summary": "Comments"
