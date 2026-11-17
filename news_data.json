@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-17T04:05:39.908621",
+  "generated_at": "2026-11-17T05:05:28.915813",
   "total_items": 10,
   "items": [
     {
       "type": "article",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "description": "Comments",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "source": "Hacker News",
-      "date": "2026-11-16T20:43:36",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "date": "2026-11-16T12:00:00",
       "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
+        "feed_url": "https://openai.com/blog/rss.xml",
         "author": "",
-        "source_excerpt": "Comments"
+        "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       },
-      "relevance_score": 0.12568329945950604,
+      "relevance_score": 0.07064274088144186,
       "sources": [
         {
-          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-          "publisher": "Hacker News",
-          "url": "https://www.cs.cmu.edu/learn/"
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/science-at-the-frontier"
         }
       ],
-      "faculty_summary": "Comments"
+      "faculty_summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
     },
     {
       "type": "article",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.1207066507591814,
+      "relevance_score": 0.0700072502374344,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -45,100 +45,6 @@
         }
       ],
       "faculty_summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
-    },
-    {
-      "type": "article",
-      "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
-      "description": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preference...",
-      "url": "https://arxiv.org/abs/2611.17398",
-      "source": "arXiv",
-      "date": "2026-11-16T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Henry Bell, Caroline Zhang, Dhaval Potdar, Mohammed Mobasserul Haque, Brandon Fain",
-        "source_excerpt": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preferences or constitutional principles specified at training time and subsequently fixed. In practice, many deployers rely on system prompting to implement contextual norms and guardrails at inference time. Prior work has shown that post-generation reflective reasoning with critique and revision can improve conformance compared to simple system prompting, but such methods are limited to the reasoning abilities inherent in the trained model. We introduce Reflect-Reasoning, a training method that teaches models how to reason about alignment to principles, rather than simply which principles to follow. Across five models, Reflect-Reasoning consistently outperforms both system prompting and explicit prompting strategies for in-context reflective reasoning. These improvements extend and generalize to entirely out-of-distribution domains of medical and financial principles. We additionally demonstrate that Reflect-Reasoning reduces the occurrence of rare but serious principle violations. Finally, we show that Reflect-Reasoning does not erode the safety engineering of a model and is robust against jailbreaking attempts using adversarial constitutions. Overall, our results demonstrate that Reflect-Reasoning is a scalable method for training constitutional alignment as a generalizable reasoning capability, enabling models to adapt to novel principles and produce transparent reasoning traces without additional fine-tuning.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.10708654568153697,
-      "sources": [
-        {
-          "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.17398"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.17398v1 Announce Type: new \nAbstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preference..."
-    },
-    {
-      "type": "article",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI",
-      "date": "2026-11-16T12:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
-      },
-      "relevance_score": 0.10341385687803653,
-      "sources": [
-        {
-          "title": "Science at the Frontier: How scientists use ChatGPT",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/science-at-the-frontier"
-        }
-      ],
-      "faculty_summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
-    },
-    {
-      "type": "article",
-      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-      "description": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain networ...",
-      "url": "https://arxiv.org/abs/2611.17532",
-      "source": "arXiv",
-      "date": "2026-11-16T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Kate M. O'Neill, Ian Whitehouse, Adam N. McCaughan, Ryan O'Loughlin, Sonia Buckley, Wolfgang Losert",
-        "source_excerpt": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ of all brain cells but do not emit electrical signals. Nevertheless, they may play critical roles in important cognitive brain functions, specifically learning, memory, and information processing. Here we consider the implications of these discoveries for brain-inspired machine learning (ML), where analogy is typically drawn between neurons and their electrical interactions. We highlight specific algorithms for two key astrocyte characteristics. The first characteristic is the ability to link to and modulate thousands of synapses simultaneously. A model based on this characteristic yields faster training and makes the network more robust to noise, providing a supervised learning algorithm that can be applied to any existing neural network. The second characteristic we focus on is that the non-electrical communication among astrocytes includes slow, rhythmic dynamics. The rhythmic sharing algorithm we developed based on this premise yields rapid anomaly detection adaptation and prevents catastrophic forgetting. Overall, we find that astrocyte-derived algorithms outperform neurocentric algorithms significantly and remediate critical weaknesses of current state-of-the-art ML models."
-      },
-      "relevance_score": 0.0978412139075393,
-      "sources": [
-        {
-          "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.17532"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain networ..."
-    },
-    {
-      "type": "article",
-      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-      "description": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to inf...",
-      "url": "https://arxiv.org/abs/2611.17341",
-      "source": "arXiv",
-      "date": "2026-11-16T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Animesh Agarwal, Meysam Ghaffari, Nina Fatehi, Carlos Morato",
-        "source_excerpt": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records while the target is a discrete set of medication class labels. We propose a more task aligned retrieval object: a tabular population prior ranked medication class candidates from a sparse condition medication co occurrence table estimated from training admissions. Using PACERAG as a fixed downstream pipeline and replacing only its patient retriever, this drop in swap improves F1 from 0.303 to 0.338 (+11.5% relative) and Jaccard from 0.218 to 0.237 on 1,004 heldout MIMIC IV admissions, with no additional LLM calls and no inference time patient index. A non LLM top k baseline reaches F1=0.248, confirming the prior is predictive before LLM integration. Aggregate population statistics can provide a more task aligned, efficient, and auditable retrieval source than patient level nearest neighbors for fixed vocabulary EHR set prediction.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.08372452000419582,
-      "sources": [
-        {
-          "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.17341"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to inf..."
     },
     {
       "type": "article",
@@ -152,7 +58,7 @@
         "author": "/u/Substantial-Buyer365",
         "source_excerpt": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share research and projects or learn more etc? I\u2019ve tried discord but I\u2019ve not found any promising servers yet apart from the frontier labs or hugging face etc and I find those too stuck on their own narrative. Any suggestions? Edit: seems a lot of us in the same boat. So I made one lol. Happy for anyone to message me.    submitted by    /u/Substantial-Buyer365   [link] [comments]"
       },
-      "relevance_score": 0.07972845870361256,
+      "relevance_score": 0.057965997358702975,
       "sources": [
         {
           "title": "Serious spaces? [D]",
@@ -164,69 +70,160 @@
     },
     {
       "type": "article",
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "description": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-...",
-      "url": "https://arxiv.org/abs/2611.17338",
-      "source": "arXiv",
-      "date": "2026-11-16T05:00:00",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "description": "Comments",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "source": "Hacker News",
+      "date": "2026-11-16T20:43:36",
       "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Samarth Vinayaka",
-        "source_excerpt": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest tested reliability. Paired targeted interventions show that false-drop causes significantly greater degradation than false-keep, while a non-deleting baseline can still fail when incorrect labels steer generation. On a frozen 102/102 calibration/test split, a simple deployment-matched gate reaches 0.655 accuracy versus 0.641 for always hard-drop and 0.662 for test-informed oracle selection. Global-accuracy crossovers require gold labels and are model- and task-specific diagnostics, not deployment thresholds. Deletion should instead be treated as cost-sensitive: validate query-critical false-drop risk on matched data, or default to label-free retention when such validation is unavailable."
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
       },
-      "relevance_score": 0.0678277705552578,
+      "relevance_score": 0.05561250918477546,
       "sources": [
         {
-          "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.17338"
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "publisher": "Hacker News",
+          "url": "https://www.cs.cmu.edu/learn/"
         }
       ],
-      "faculty_summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-..."
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-      "description": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning fr...",
-      "url": "https://arxiv.org/abs/2611.17524",
-      "source": "arXiv",
-      "date": "2026-11-16T05:00:00",
+      "title": "Why are ViTs so popular? [D]",
+      "description": "I deploy CNN + Attention stack models on edge devices, to great effect. Taking advantage of convs and reducing the spatial dimensionality makes all the sense in the world to me. Having vanilla ViTs learning the inductive biases from scratch makes none to me. Is it really a case of \"because I can\"...",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/",
+      "source": "Reddit ML",
+      "date": "2026-11-17T04:37:17",
       "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Ali Mohammadi Ruzbahani, Rezvan Abouzadeh",
-        "source_excerpt": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is divided into episodes whose learning rate is raised again and cooled, every cooled state joins a memory of past selves, and each new episode learns from the labels, from the tempered predictions of this memory, and from adversarial dreams sought where student and memory disagree most. The memory averages predictions rather than weights, and the deployed network is the last student, so inference costs nothing extra. Across CIFAR-100, Tiny-ImageNet and Imagewoof, four architecture families and 5\\% to 100\\% of the labels, model annealing raises the top-1 accuracy of the AdamW-trained ConvNeXt, ViT and MLP-Mixer over cross-entropy training in 28 of 33 configurations, by 1.3 points on average, and is on par in accuracy with snapshot distillation, the closest competitor. On these families it is better than both in likelihood, calibration and robustness to corruptions and small adversarial perturbations. For an SGD-trained ResNet-18 it lowers accuracy but still improves robustness to small adversarial perturbations. Separating the reheated schedule from relearning shows that relearning helps every family and that the losses come from reheats, which undo most of this network's fit to its training set. How early the accuracy of a cross-entropy run saturates largely separates the AdamW families from ResNet-18 but does not predict the gain within them. With little data, relearning from the latest snapshot without dreams, as snapshot distillation does, compounds overconfidence in the AdamW families from episode to episode. The memory and the dreams each curb most of this drift, and together they remove it."
+        "feed_url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "author": "/u/terrrp",
+        "source_excerpt": "I deploy CNN + Attention stack models on edge devices, to great effect. Taking advantage of convs and reducing the spatial dimensionality makes all the sense in the world to me. Having vanilla ViTs learning the inductive biases from scratch makes none to me. Is it really a case of \"because I can\"? Avoiding padding along borders is the only advantage I can see to a tokenizer stem, and that has never been a huge issue to me. Am I missing something that has people reaching for ViTs instead of hybrid models for e.g. SSL/foundation models?  In my mind it's just a case of people using the status quo, and more of a historical accident that these models have become so popular. Iirc levit showed data/time efficiency boosts with a convolutional stem. I just don't work on the same datasets or tasks that most research does, so I'm genuinely curious if anyone else thinks vanilla ViTs seem excessive. Guess compute is cheap and the answer would just be distillation.    submitted by    /u/terrrp   [link] [comments]"
       },
-      "relevance_score": 0.06324742901983925,
+      "relevance_score": 0.052522558843710716,
       "sources": [
         {
-          "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.17524"
+          "title": "Why are ViTs so popular? [D]",
+          "publisher": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/"
         }
       ],
-      "faculty_summary": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning fr..."
+      "faculty_summary": "I deploy CNN + Attention stack models on edge devices, to great effect. Taking advantage of convs and reducing the spatial dimensionality makes all the sense in the world to me. Having vanilla ViTs learning the inductive biases from scratch makes none to me. Is it really a case of \"because I can\"..."
     },
     {
       "type": "article",
-      "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
-      "description": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel t...",
-      "url": "https://arxiv.org/abs/2611.17463",
-      "source": "arXiv",
-      "date": "2026-11-16T05:00:00",
+      "title": "Our first phase of embedded assessments",
+      "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "date": "2026-11-16T08:00:00",
       "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Ahmed Shoyeb Raihan, Farzana Islam, Ashish Nimbarte, Imtiaz Ahmed",
-        "source_excerpt": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel temperature and final chemical composition challenging. Intermittent or delayed measurements limit the information available for timely prediction. This study develops an availability-aware historical-feedback learning framework for predicting EAF endpoint temperature and the final concentrations of twelve chemical elements. Eight industrial data sources are integrated into three progressively enriched predictor representations comprising 19 static, 39 temporal, and 47 history-informed features. Historical outcomes are incorporated only when eligible under an assumed 60-minute measurement-release delay. Using 19,738 temperature heats and 3,341 chemistry heats, twelve tuned regression algorithms are evaluated through chronological forward validation. The proposed historical-feedback representation reduces root mean squared error (RMSE) in 147 of 156 matched algorithm-target comparisons. For temperature prediction, ExtraTrees achieves an RMSE of 12.290 degrees C, representing a 5.54 percent reduction compared with its temporal-only counterpart. Historical-feature ablation and feedback-delay sensitivity analyses demonstrate the importance of recent outcome information and its availability. In a separate retrospective later-period evaluation, lightweight adaptive residual correction reduces temperature RMSE from 12.502 to 12.275 degrees C without retraining the underlying model. Exploratory deep learning comparisons and target-specific feature-attribution analyses provide additional insights into predictive behavior. The results establish historical outcome availability and sequential feedback as important considerations for EAF endpoint prediction."
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "matched_keywords": [
+          "assessment"
+        ]
       },
-      "relevance_score": 0.057454089563923186,
+      "relevance_score": 0.032318174816998224,
       "sources": [
         {
-          "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.17463"
+          "title": "Our first phase of embedded assessments",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
         }
       ],
-      "faculty_summary": "arXiv:2611.17463v1 Announce Type: new \nAbstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel t..."
+      "faculty_summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+    },
+    {
+      "type": "article",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "description": "Comments",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "source": "Hacker News",
+      "date": "2026-11-16T22:58:20",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "publisher": "Hacker News",
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "BugMeNot has closed",
+      "description": "Comments",
+      "url": "https://www.bugmenot.com/",
+      "source": "Hacker News",
+      "date": "2026-11-16T21:32:17",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "BugMeNot has closed",
+          "publisher": "Hacker News",
+          "url": "https://www.bugmenot.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "description": "Comments",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "source": "Hacker News",
+      "date": "2026-11-16T23:00:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Optimizely compromised, served malware on Zoom, GitLab",
+          "publisher": "Hacker News",
+          "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Running coding agents without handing them my credentials",
+      "description": "Comments",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "source": "Hacker News",
+      "date": "2026-11-17T01:18:56",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Running coding agents without handing them my credentials",
+          "publisher": "Hacker News",
+          "url": "https://blog.antonio.cx/running-agents-with-lend"
+        }
+      ],
+      "faculty_summary": "Comments"
     }
   ]
 }
