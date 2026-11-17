@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:04:59.611069",
+  "generated_at": "2026-11-17T22:05:25.948711",
   "total_items": 10,
   "items": [
     {
@@ -61,7 +61,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.030680060231666015,
+      "relevance_score": 0.030652490085785748,
       "sources": [
         {
           "title": "Our first phase of embedded assessments",
@@ -95,6 +95,28 @@
     },
     {
       "type": "article",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "description": "Comments",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News",
+      "date": "2026-11-17T21:11:28",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+          "publisher": "Hacker News",
+          "url": "https://calif.io/java4shell/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "jQuery 4.1.0",
       "description": "Comments",
       "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
@@ -111,6 +133,28 @@
           "title": "jQuery 4.1.0",
           "publisher": "Hacker News",
           "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "description": "Comments",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "source": "Hacker News",
+      "date": "2026-11-17T19:25:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+          "publisher": "Hacker News",
+          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
         }
       ],
       "faculty_summary": "Comments"
@@ -139,11 +183,11 @@
     },
     {
       "type": "article",
-      "title": "350 years ago, this man discovered that light has a finite speed",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "description": "Comments",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "source": "Hacker News",
-      "date": "2026-11-17T19:25:27",
+      "date": "2026-11-17T17:12:06",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,9 +196,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "350 years ago, this man discovered that light has a finite speed",
+          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
           "publisher": "Hacker News",
-          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
         }
       ],
       "faculty_summary": "Comments"
@@ -177,50 +221,6 @@
           "title": "Web Browser Engineering (2021)",
           "publisher": "Hacker News",
           "url": "https://browser.engineering/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Solid 2.0",
-      "description": "Comments",
-      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-      "source": "Hacker News",
-      "date": "2026-11-17T18:56:17",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Solid 2.0",
-          "publisher": "Hacker News",
-          "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Phrack 73 Released",
-      "description": "Comments",
-      "url": "https://phrack.org/issues/73/introduction_md",
-      "source": "Hacker News",
-      "date": "2026-11-17T18:31:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Phrack 73 Released",
-          "publisher": "Hacker News",
-          "url": "https://phrack.org/issues/73/introduction_md"
         }
       ],
       "faculty_summary": "Comments"
