@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:05:25.948711",
+  "generated_at": "2026-11-17T23:04:59.378811",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       },
-      "relevance_score": 0.0700880281553013,
+      "relevance_score": 0.07085916219513258,
       "sources": [
         {
           "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.0663894969410997,
+      "relevance_score": 0.06610256743985264,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -48,28 +48,47 @@
     },
     {
       "type": "article",
-      "title": "Our first phase of embedded assessments",
-      "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "title": "Introducing ChatGPT for Sales",
+      "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "source": "OpenAI",
-      "date": "2026-11-16T08:00:00",
+      "date": "2026-11-17T08:00:00",
       "metadata": {
         "feed_url": "https://openai.com/blog/rss.xml",
         "author": "",
-        "source_excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-        "matched_keywords": [
-          "assessment"
-        ]
+        "source_excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
       },
-      "relevance_score": 0.030652490085785748,
+      "relevance_score": 0.03148868586045163,
       "sources": [
         {
-          "title": "Our first phase of embedded assessments",
+          "title": "Introducing ChatGPT for Sales",
           "publisher": "OpenAI",
-          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
         }
       ],
-      "faculty_summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+      "faculty_summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+    },
+    {
+      "type": "article",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "description": "Comments",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News",
+      "date": "2026-11-17T21:11:28",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+          "publisher": "Hacker News",
+          "url": "https://calif.io/java4shell/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -95,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "description": "Comments",
-      "url": "https://calif.io/java4shell/",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "source": "Hacker News",
-      "date": "2026-11-17T21:11:28",
+      "date": "2026-11-17T22:13:34",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -108,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+          "title": "Quad9's withdrawal from France: A canary in the coal mine",
           "publisher": "Hacker News",
-          "url": "https://calif.io/java4shell/"
+          "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
         }
       ],
       "faculty_summary": "Comments"
@@ -139,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "description": "Comments",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "source": "Hacker News",
-      "date": "2026-11-17T19:25:27",
+      "date": "2026-11-17T17:12:06",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
           "publisher": "Hacker News",
-          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
+          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
         }
       ],
       "faculty_summary": "Comments"
@@ -183,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
       "description": "Comments",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
       "source": "Hacker News",
-      "date": "2026-11-17T17:12:06",
+      "date": "2026-11-17T19:25:27",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+          "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
           "publisher": "Hacker News",
-          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Web Browser Engineering (2021)",
-      "description": "Comments",
-      "url": "https://browser.engineering/",
-      "source": "Hacker News",
-      "date": "2026-11-17T20:01:35",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Web Browser Engineering (2021)",
-          "publisher": "Hacker News",
-          "url": "https://browser.engineering/"
+          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
         }
       ],
       "faculty_summary": "Comments"
