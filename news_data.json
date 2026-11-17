@@ -1,28 +1,45 @@
 {
-  "generated_at": "2026-11-17T19:04:28.428072",
+  "generated_at": "2026-11-17T20:05:16.948219",
   "total_items": 10,
   "items": [
     {
-      "type": "article",
-      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
-      "description": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI",
-      "date": "2026-11-16T09:00:00",
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: VoidOSS/Qwen-2.6-Thinking-1.5B",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/VoidOSS/Qwen-2.6-Thinking-1.5B",
+      "source": "Hugging Face",
+      "date": "2026-11-17T20:02:40.000Z",
       "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "safetensors",
+          "qwen2",
+          "reasoning",
+          "thinking",
+          "deepseek-r1",
+          "distillation",
+          "sft",
+          "qlora",
+          "text-generation",
+          "conversational",
+          "en",
+          "dataset:a-m-team/AM-DeepSeek-R1-0528-Distilled",
+          "base_model:Qwen/Qwen2.5-1.5B",
+          "base_model:finetune:Qwen/Qwen2.5-1.5B",
+          "license:apache-2.0",
+          "region:us"
+        ]
       },
-      "relevance_score": 0.06658330747095297,
+      "relevance_score": 0.10828440897459854,
       "sources": [
         {
-          "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/lvmh-media-division-partnership"
+          "title": "\ud83e\udd16 New Model: VoidOSS/Qwen-2.6-Thinking-1.5B",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/VoidOSS/Qwen-2.6-Thinking-1.5B"
         }
       ],
-      "faculty_summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+      "faculty_summary": "Downloads: 0 | Likes: 0"
     },
     {
       "type": "article",
@@ -36,7 +53,7 @@
         "author": "",
         "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       },
-      "relevance_score": 0.06430224499397615,
+      "relevance_score": 0.07040790491861319,
       "sources": [
         {
           "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -48,25 +65,25 @@
     },
     {
       "type": "article",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "description": "Comments",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "source": "Hacker News",
-      "date": "2026-11-16T20:43:36",
+      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+      "description": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "date": "2026-11-16T09:00:00",
       "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
+        "feed_url": "https://openai.com/blog/rss.xml",
         "author": "",
-        "source_excerpt": "Comments"
+        "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.0516614587780063,
+      "relevance_score": 0.06669249387165065,
       "sources": [
         {
-          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-          "publisher": "Hacker News",
-          "url": "https://www.cs.cmu.edu/learn/"
+          "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/lvmh-media-division-partnership"
         }
       ],
-      "faculty_summary": "Comments"
+      "faculty_summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
       "type": "article",
@@ -83,7 +100,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.030769624379662255,
+      "relevance_score": 0.03082008183911335,
       "sources": [
         {
           "title": "Our first phase of embedded assessments",
@@ -117,6 +134,28 @@
     },
     {
       "type": "article",
+      "title": "Apple Services Down",
+      "description": "Comments",
+      "url": "https://developer.apple.com/system-status/",
+      "source": "Hacker News",
+      "date": "2026-11-17T17:47:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Apple Services Down",
+          "publisher": "Hacker News",
+          "url": "https://developer.apple.com/system-status/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "MAI Code 2 and Code 2 Flash",
       "description": "Comments",
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
@@ -139,11 +178,11 @@
     },
     {
       "type": "article",
-      "title": "What is the best harness for each model?",
+      "title": "Phrack 73 Released",
       "description": "Comments",
-      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "url": "https://phrack.org/issues/73/introduction_md",
       "source": "Hacker News",
-      "date": "2026-11-17T14:53:43",
+      "date": "2026-11-17T18:31:25",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,20 +191,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "What is the best harness for each model?",
+          "title": "Phrack 73 Released",
           "publisher": "Hacker News",
-          "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+          "url": "https://phrack.org/issues/73/introduction_md"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "title": "350 years ago, this man discovered that light has a finite speed",
       "description": "Comments",
-      "url": "https://alloyhtml.com/example.html",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
       "source": "Hacker News",
-      "date": "2026-11-17T15:07:09",
+      "date": "2026-11-17T19:25:27",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -174,20 +213,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+          "title": "350 years ago, this man discovered that light has a finite speed",
           "publisher": "Hacker News",
-          "url": "https://alloyhtml.com/example.html"
+          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Apple Services Down",
+      "title": "Solid 2.0",
       "description": "Comments",
-      "url": "https://downdetector.com/status/apple-support/",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
       "source": "Hacker News",
-      "date": "2026-11-17T17:47:14",
+      "date": "2026-11-17T18:56:17",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,31 +235,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Apple Services Down",
+          "title": "Solid 2.0",
           "publisher": "Hacker News",
-          "url": "https://downdetector.com/status/apple-support/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "description": "Comments",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "source": "Hacker News",
-      "date": "2026-11-17T11:45:51",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-          "publisher": "Hacker News",
-          "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+          "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/"
         }
       ],
       "faculty_summary": "Comments"
