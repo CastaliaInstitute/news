@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:06:06.736567",
+  "generated_at": "2026-11-18T13:05:22.896535",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "Hao Bai, Chenlu Ye, Xuanchang Zhang, Aviral Kumar, Tong Zhang",
         "source_excerpt": "arXiv:2611.21791v1 Announce Type: new \nAbstract: Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effect of reward baselines on the expected update. Our gradient diagnostics show less extreme gradients with SC than with importance sampling (IS), but SC can still fail when the learner moves far from the behavior policy that generated the data. To limit this policy mismatch, we introduce Regularized Score Centering (RSC), which adds a reverse Kullback-Leibler (KL) penalty to encourage the learner's next-token distribution to stay close to the behavior policy's next-token distribution. RSC works with or without truncated importance sampling (TIS), which caps token importance weights. Our theoretical analysis supports this approach, showing that KL regularization improves convergence guarantees. We evaluate dense and mixture-of-experts models on mathematical reasoning and agentic tasks, including online shopping, tool use, games, and fully asynchronous software engineering. RSC with TIS substantially improves sample efficiency across all agentic benchmarks, attaining higher training rewards with the same number of sampled responses. In final evaluations, it achieves top performance across all six agentic tasks, improving by 14.3% on AppWorld and reaching 9.9 times the strongest baseline's score on BabyAI."
       },
-      "relevance_score": 0.1602137127749881,
+      "relevance_score": 0.15124918124312395,
       "sources": [
         {
           "title": "Regularized Score Centering",
@@ -36,7 +36,7 @@
         "author": "Chandini Vysyaraju, Raghuvir Duvvuri, Radu Timofte, Dmitry Ignatov",
         "source_excerpt": "arXiv:2611.21696v1 Announce Type: new \nAbstract: Layerwise learning-rate scaling assigns different learning rates to different parts of a network. Although established in fine-tuning pretrained models, its effects in vision networks trained from scratch are commonly assessed by training each candidate recipe. We show that, in this setting, the rate-related component of a layerwise strategy is well summarized by an effective learning rate computable directly from its multiplier profile. Across matched-control comparisons, changes in test accuracy closely track changes in training loss (r = -0.996), which supports an optimization-progress explanation of the short-budget rate effect. Increasing the untuned base learning rate tenfold shifts the rate-matched contrast upward in all six tested architectures (p = 0.016) and increases the number of architectures in which a published discriminative schedule, excluded from model fitting, outperforms the uniform control from two to five of six (p = 0.031). Within the evaluated strategy space, a parameter-weighted power mean with exponent 0.35 (95% confidence interval [0.20, 0.50]) accounts for 42.6% of within-architecture variance, compared with 36.4% for the arithmetic mean. Ranking candidates by this scalar without training improves the selected candidate's mean percentile rank from the 26th to the 10th and reduces its mean accuracy shortfall relative to the best candidate from 3.70 to 1.12 points. The rate-related effect decays as the training budget increases; relative to tuned baselines, the overall strategy effect falls within the prespecified practical-equivalence margin in two of three architectures. A separate grouping-related contrast can persist at long budgets, although its direction and magnitude depend on the architecture."
       },
-      "relevance_score": 0.11246524721418451,
+      "relevance_score": 0.10888870817295664,
       "sources": [
         {
           "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
@@ -58,7 +58,7 @@
         "author": "Wei-Che Hung",
         "source_excerpt": "arXiv:2611.21701v1 Announce Type: new \nAbstract: Learning-rate choices strongly affect language-model fine-tuning, but the best joint profile across layer groups is generally unknown. This paper studies quantum minimum finding for layer-group learning-rate selection within a hybrid classical-quantum training framework. It combines Durr-Hoyer minimum finding with BBHT search and compares fixed-budget and confidence-based stopping policies using a lookup oracle built from measured profile scores at fixed training checkpoints. The paper then introduces an Interaction-Guided Schedule Oracle that scores and marks joint schedules in superposition without a precomputed score table. Classical one-step loss measurements supply the main, pairwise and three-way interaction effects between layer groups. The circuit adds the effects for each schedule, compares the resulting score with the current baseline score, and marks improving schedules for amplitude amplification. Measured candidates are checked classically before acceptance. Uniform-rate training supplies the initial baseline; using schedules from classical adaptive methods as baselines for joint refinement is left for future work. In closed-loop fine-tuning of a 1.5-billion-parameter language model, each selected schedule drives the next 200 classical training steps. Benchmark accuracies lie within the range observed across five uniform-rate seeds. The results give a working example of how quantum superposition can support adaptive learning-rate selection during training; the remaining quantum limitations are discussed in the paper."
       },
-      "relevance_score": 0.1118214392856947,
+      "relevance_score": 0.10826607285681085,
       "sources": [
         {
           "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
@@ -80,7 +80,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.0971821336605669,
+      "relevance_score": 0.0941448513345823,
       "sources": [
         {
           "title": "Energy-Based Reasoners: 385x more efficient inference",
@@ -102,7 +102,7 @@
         "author": "",
         "source_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       },
-      "relevance_score": 0.08704362634421053,
+      "relevance_score": 0.08410315492128181,
       "sources": [
         {
           "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -124,7 +124,7 @@
         "author": "Gabriele Accarino, Mohammad M. Amirian, Thea H. Heimdal, Amanda R. Fay, Galen A. McKinley, Viviana Acquaviva",
         "source_excerpt": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deterministic, giving a single value per grid point, with uncertainty approximated post hoc via residuals, ensembles, or prescribed distributions. We instead learn a conditional predictive distribution for each observation: using Treeffuser, a conditional diffusion model with gradient-boosted-tree score functions, we estimate the full predictive distribution of $\\Delta p$CO$_2$ (the sea-air $p$CO$_2$ difference) from 13 environmental, spatial, and temporal predictors. On a held-out SOCAT test set, Treeffuser attains the lowest continuous ranked probability score among the uncertainty-quantification methods evaluated (8.229 $\\mu$atm) and the coverage closest to the nominal 68% / 95% levels (0.686 / 0.930), while retaining point-prediction skill comparable to a deterministic XGBoost baseline (RMSE 18.4 vs. 17.7 $\\mu$atm; $R^2$ 0.77 vs. 0.79). These results show that conditional diffusion can provide well-calibrated, observation-level uncertainties while largely preserving point-prediction skill. Because Treeffuser is generative, its samples can support probabilistic analyses of $\\Delta p$CO$_2$; extending this to spatially coherent field reconstruction will require modeling dependence across grid cells and evaluation on spatially held-out data."
       },
-      "relevance_score": 0.08077615325961993,
+      "relevance_score": 0.07825161532846707,
       "sources": [
         {
           "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
@@ -146,7 +146,7 @@
         "author": "Owen Queen, Ioana Ciuca, Emma Dann, Jean Somalwar, Carine You, Steven Dillmann, Viraj Manwadkar, Evan Gorrell, Harrison G Zhang, Jonathan K Pritchard, Risa H Wechsler, James Zou",
         "source_excerpt": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select, refine, or replace hypotheses between research rounds, while audit agents interrogate checkpointed records to trace claims, reproduce analyses, and inform subsequent decisions. Across two predictive modeling tasks, DiscoveryAgent produced the best variable-star classifier among evaluated baselines and, with scientist steering, a protein variant-effect predictor surpassed by only one of 106 ProteinGym baselines. We develop a rigorous checkpointing system that enables highly capable audit agents, a scalable form of oversight for agentic research. Audit agents autonomously identify errors at higher rates than previous AI scientist agents, and scientists collaborating with audit agents identify 14x more valid errors versus scientists performing manual review. In three case studies led by domain experts across physical science, social science, and life science, we developed a multimodal photometric-redshift estimator that resolves complementary failures of images and photometry, achieving 0.971 AUROC for low-redshift classification; documented an 83% rise in Florida homeowners-insurance premiums from 2013 to 2023, with a growing, regressive burden; and identified CD4+ T-cell relay genes, which both receive and exert broad transcriptional regulation, enriched for autoimmune disease associations. Together, these results show how autonomous research can expand scientists' empirical reach while centering their authority over research direction and their ability to understand and challenge the evidence."
       },
-      "relevance_score": 0.06955619923089001,
+      "relevance_score": 0.06711112816678583,
       "sources": [
         {
           "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
@@ -171,7 +171,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.057240400195557685,
+      "relevance_score": 0.056717960863498104,
       "sources": [
         {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -193,7 +193,7 @@
         "author": "Jorge Valverde-Rebaza, Carlos Paez De La Cruz, Pedro P\\'erez-Collado, Daniel S\\'anchez-Cata\\~no, Eashley Mart\\'inez-Vergara",
         "source_excerpt": "arXiv:2611.21825v1 Announce Type: new \nAbstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban representation learning framework for identifying unusual reporting patterns relative to representation-similar peers using only georeferenced crime records. The method constructs complementary hourly, weekly, and static reporting profiles, learns scale-specific representations under geographic self-supervision, and integrates them into a unified latent space. Neighbor Profile Divergence (NPD) is then used to quantify disagreement between each region's reporting profile and those of its retrieved peers. Experiments on more than 1.8 million crime records from Mexico City, aggregated into 1,058 H3 regions, show that the proposed representation achieves a mean Silhouette score of 0.4052, compared with 0.2863 for Hex2Vec. NPD rankings remain highly stable across neighborhood sizes, with Spearman correlations from 0.9720 to 0.9951, while most high-divergence candidates persist across configurations. The retrieved peers also extend substantially beyond immediate geographic neighborhoods, indicating that the learned representation captures structure beyond local spatial proximity. High-divergence regions exhibit spatially organized patterns and, in several cases, differences in incident volume relative to peer expectations. These results support NPD as an internal auditing and prioritization mechanism for identifying regions that warrant further investigation, rather than as direct evidence of underreporting."
       },
-      "relevance_score": 0.04582014803565221,
+      "relevance_score": 0.0436889794977986,
       "sources": [
         {
           "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
@@ -205,25 +205,25 @@
     },
     {
       "type": "article",
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "description": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety...",
-      "url": "https://arxiv.org/abs/2611.21832",
+      "title": "Margin Dynamics for Large Language Model Alignment",
+      "description": "arXiv:2611.21766v1 Announce Type: new \nAbstract: Practitioners choose among LLM alignment methods largely by trial and error. We provide a theoretical foundation: each pairwise method defines a vector field on the probability simplex that governs how the model redistributes mass between preferred...",
+      "url": "https://arxiv.org/abs/2611.21766",
       "source": "arXiv",
       "date": "2026-11-18T05:00:00",
       "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Keshav Shenoy, Anthony Zang, Eric Gan, Jacqueline Tay, Amy Ngo, Sebastian Prasanna, Julian Stastny, Vivek Hebbar",
-        "source_excerpt": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research transcript and the ability to run experiments, human auditors mostly fail to distinguish sabotaged from benign research: they achieve an AUROC of 0.59, not significantly better than chance, and fully identify the specific sabotage in only 17% of cases. Despite not being allowed to run experiments, the best frontier models outperform human auditors (Fable 5.1: AUROC 0.73, 32% full identification) within noise and weaker models perform comparably. When the saboteur chooses which experiments are attacked, rather than being required to sabotage every question given, sabotage identification drops further. Our results suggest that research sabotage by expert-level agents is difficult to detect with current auditing methods and provide a new setting for studying research sabotage."
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Xingzi Xu, Mehmet Saygin Seyfioglu, Karim Bouyarmane",
+        "source_excerpt": "arXiv:2611.21766v1 Announce Type: new \nAbstract: Practitioners choose among LLM alignment methods largely by trial and error. We provide a theoretical foundation: each pairwise method defines a vector field on the probability simplex that governs how the model redistributes mass between preferred and dispreferred completions. Projecting onto a single preferred/dispreferred pair reduces this to a one-dimensional margin ODE with a closed-form solution. These solutions reveal that DPO margins grow without bound (logarithmically as $O(\\log t)$ in the gradient-flow limit) while IPO margins converge to a finite $1/(2\\tau)$; that label noise induces a qualitative phase transition in DPO (unbounded $\\to$ bounded) but affects IPO only quantitatively; and that gradient concentration under asymmetric weighting governs trainability at scale. We confirm all three predictions across five model families spanning four benchmarks. The closed-form solutions also enable principled method design: we prove that adding any label smoothing $\\varepsilon > 0$ to SimPO creates a finite margin attractor at $\\Delta^* = \\beta^{-1}\\log((1-\\varepsilon)/\\varepsilon)$, while $\\varepsilon = 0$ (standard SimPO) has no attractor. We test this across three models (8B-9B) and confirm the prediction: the theory-derived configuration (TPO-S, $\\varepsilon = 0.05$) is competitive with the strongest baselines, attaining the highest mean IFEval score among the compared methods on all three, validating that the predicted finite attractor is a usable operating point rather than proposing a new state-of-the-art loss."
       },
-      "relevance_score": 0.04285393124358055,
+      "relevance_score": 0.04194331637674973,
       "sources": [
         {
-          "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+          "title": "Margin Dynamics for Large Language Model Alignment",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21832"
+          "url": "https://arxiv.org/abs/2611.21766"
         }
       ],
-      "faculty_summary": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety..."
+      "faculty_summary": "arXiv:2611.21766v1 Announce Type: new \nAbstract: Practitioners choose among LLM alignment methods largely by trial and error. We provide a theoretical foundation: each pairwise method defines a vector field on the probability simplex that governs how the model redistributes mass between preferred..."
     }
   ]
 }
