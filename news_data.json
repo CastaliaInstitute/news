@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:05:52.546491",
+  "generated_at": "2026-11-18T03:05:42.334645",
   "total_items": 10,
   "items": [
     {
@@ -114,6 +114,28 @@
     },
     {
       "type": "article",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "description": "Comments",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "Hacker News",
+      "date": "2026-11-18T00:17:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "publisher": "Hacker News",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "GPT\u20116.2 Astra and Sol",
       "description": "Comments",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
@@ -152,28 +174,6 @@
           "title": "Quad9's withdrawal from France: A canary in the coal mine",
           "publisher": "Hacker News",
           "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "description": "Comments",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "source": "Hacker News",
-      "date": "2026-11-18T00:17:58",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Google's AI answers reducing search traffic by 40%",
-          "publisher": "Hacker News",
-          "url": "https://revscope.co/blog/search-seo-geo-2026/"
         }
       ],
       "faculty_summary": "Comments"
