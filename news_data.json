@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:05:42.334645",
+  "generated_at": "2026-11-18T04:06:07.650300",
   "total_items": 10,
   "items": [
     {
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
       "description": "Comments",
-      "url": "https://github.com/microsoft/onnxruntime",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
       "source": "Hacker News",
-      "date": "2026-11-17T23:18:49",
+      "date": "2026-11-18T03:35:47",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+          "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
           "publisher": "Hacker News",
-          "url": "https://github.com/microsoft/onnxruntime"
+          "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer"
         }
       ],
       "faculty_summary": "Comments"
