@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:05:49.877434",
+  "generated_at": "2026-11-18T02:05:52.546491",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.0664393340543985,
+      "relevance_score": 0.06630920830541735,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -92,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "ID.me terms required for IRS sign-in",
+      "description": "Comments",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "source": "Hacker News",
+      "date": "2026-11-18T00:51:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "ID.me terms required for IRS sign-in",
+          "publisher": "Hacker News",
+          "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "GPT\u20116.2 Astra and Sol",
       "description": "Comments",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
@@ -136,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "description": "Comments",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "Hacker News",
+      "date": "2026-11-18T00:17:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "publisher": "Hacker News",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
       "description": "Comments",
       "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
@@ -152,50 +196,6 @@
           "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
           "publisher": "Hacker News",
           "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "description": "Comments",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "source": "Hacker News",
-      "date": "2026-11-17T17:12:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-          "publisher": "Hacker News",
-          "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "jQuery 4.1.0",
-      "description": "Comments",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "source": "Hacker News",
-      "date": "2026-11-17T19:50:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "jQuery 4.1.0",
-          "publisher": "Hacker News",
-          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
         }
       ],
       "faculty_summary": "Comments"
