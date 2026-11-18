@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:04:59.378811",
+  "generated_at": "2026-11-18T00:09:15.187646",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
       },
-      "relevance_score": 0.06610256743985264,
+      "relevance_score": 0.06630920830541735,
       "sources": [
         {
           "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
@@ -136,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "jQuery 4.1.0",
-      "description": "Comments",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "source": "Hacker News",
-      "date": "2026-11-17T19:50:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "jQuery 4.1.0",
-          "publisher": "Hacker News",
-          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "description": "Comments",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
@@ -180,6 +158,50 @@
     },
     {
       "type": "article",
+      "title": "jQuery 4.1.0",
+      "description": "Comments",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "source": "Hacker News",
+      "date": "2026-11-17T19:50:40",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "jQuery 4.1.0",
+          "publisher": "Hacker News",
+          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "description": "Comments",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "source": "Hacker News",
+      "date": "2026-11-17T23:32:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+          "publisher": "Hacker News",
+          "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "MAI Code 2 and Code 2 Flash",
       "description": "Comments",
       "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
@@ -196,28 +218,6 @@
           "title": "MAI Code 2 and Code 2 Flash",
           "publisher": "Hacker News",
           "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-      "description": "Comments",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-      "source": "Hacker News",
-      "date": "2026-11-17T19:25:27",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-          "publisher": "Hacker News",
-          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969"
         }
       ],
       "faculty_summary": "Comments"
