@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:05:32.904119",
+  "generated_at": "2026-11-19T04:05:36.335933",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "Wei-Che Hung",
         "source_excerpt": "arXiv:2611.21701v1 Announce Type: new \nAbstract: Learning-rate choices strongly affect language-model fine-tuning, but the best joint profile across layer groups is generally unknown. This paper studies quantum minimum finding for layer-group learning-rate selection within a hybrid classical-quantum training framework. It combines Durr-Hoyer minimum finding with BBHT search and compares fixed-budget and confidence-based stopping policies using a lookup oracle built from measured profile scores at fixed training checkpoints. The paper then introduces an Interaction-Guided Schedule Oracle that scores and marks joint schedules in superposition without a precomputed score table. Classical one-step loss measurements supply the main, pairwise and three-way interaction effects between layer groups. The circuit adds the effects for each schedule, compares the resulting score with the current baseline score, and marks improving schedules for amplitude amplification. Measured candidates are checked classically before acceptance. Uniform-rate training supplies the initial baseline; using schedules from classical adaptive methods as baselines for joint refinement is left for future work. In closed-loop fine-tuning of a 1.5-billion-parameter language model, each selected schedule drives the next 200 classical training steps. Benchmark accuracies lie within the range observed across five uniform-rate seeds. The results give a working example of how quantum superposition can support adaptive learning-rate selection during training; the remaining quantum limitations are discussed in the paper."
       },
-      "relevance_score": 0.11656507839877701,
+      "relevance_score": 0.11779456652777884,
       "sources": [
         {
           "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
@@ -58,7 +58,7 @@
         "author": "Chandini Vysyaraju, Raghuvir Duvvuri, Radu Timofte, Dmitry Ignatov",
         "source_excerpt": "arXiv:2611.21696v1 Announce Type: new \nAbstract: Layerwise learning-rate scaling assigns different learning rates to different parts of a network. Although established in fine-tuning pretrained models, its effects in vision networks trained from scratch are commonly assessed by training each candidate recipe. We show that, in this setting, the rate-related component of a layerwise strategy is well summarized by an effective learning rate computable directly from its multiplier profile. Across matched-control comparisons, changes in test accuracy closely track changes in training loss (r = -0.996), which supports an optimization-progress explanation of the short-budget rate effect. Increasing the untuned base learning rate tenfold shifts the rate-matched contrast upward in all six tested architectures (p = 0.016) and increases the number of architectures in which a published discriminative schedule, excluded from model fitting, outperforms the uniform control from two to five of six (p = 0.031). Within the evaluated strategy space, a parameter-weighted power mean with exponent 0.35 (95% confidence interval [0.20, 0.50]) accounts for 42.6% of within-architecture variance, compared with 36.4% for the arithmetic mean. Ranking candidates by this scalar without training improves the selected candidate's mean percentile rank from the 26th to the 10th and reduces its mean accuracy shortfall relative to the best candidate from 3.70 to 1.12 points. The rate-related effect decays as the training budget increases; relative to tuned baselines, the overall strategy effect falls within the prespecified practical-equivalence margin in two of three architectures. A separate grouping-related contrast can persist at long budgets, although its direction and magnitude depend on the architecture."
       },
-      "relevance_score": 0.11538453569291456,
+      "relevance_score": 0.11657666357546136,
       "sources": [
         {
           "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
@@ -67,6 +67,28 @@
         }
       ],
       "faculty_summary": "arXiv:2611.21696v1 Announce Type: new \nAbstract: Layerwise learning-rate scaling assigns different learning rates to different parts of a network. Although established in fine-tuning pretrained models, its effects in vision networks trained from scratch are commonly assessed by training each cand..."
+    },
+    {
+      "type": "article",
+      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
+      "description": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deter...",
+      "url": "https://arxiv.org/abs/2611.21769",
+      "source": "arXiv",
+      "date": "2026-11-18T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Gabriele Accarino, Mohammad M. Amirian, Thea H. Heimdal, Amanda R. Fay, Galen A. McKinley, Viviana Acquaviva",
+        "source_excerpt": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deterministic, giving a single value per grid point, with uncertainty approximated post hoc via residuals, ensembles, or prescribed distributions. We instead learn a conditional predictive distribution for each observation: using Treeffuser, a conditional diffusion model with gradient-boosted-tree score functions, we estimate the full predictive distribution of $\\Delta p$CO$_2$ (the sea-air $p$CO$_2$ difference) from 13 environmental, spatial, and temporal predictors. On a held-out SOCAT test set, Treeffuser attains the lowest continuous ranked probability score among the uncertainty-quantification methods evaluated (8.229 $\\mu$atm) and the coverage closest to the nominal 68% / 95% levels (0.686 / 0.930), while retaining point-prediction skill comparable to a deterministic XGBoost baseline (RMSE 18.4 vs. 17.7 $\\mu$atm; $R^2$ 0.77 vs. 0.79). These results show that conditional diffusion can provide well-calibrated, observation-level uncertainties while largely preserving point-prediction skill. Because Treeffuser is generative, its samples can support probabilistic analyses of $\\Delta p$CO$_2$; extending this to spatially coherent field reconstruction will require modeling dependence across grid cells and evaluation on spatially held-out data."
+      },
+      "relevance_score": 0.08514974541790639,
+      "sources": [
+        {
+          "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.21769"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deter..."
     },
     {
       "type": "article",
@@ -89,28 +111,6 @@
         }
       ],
       "faculty_summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
-      "type": "article",
-      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
-      "description": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deter...",
-      "url": "https://arxiv.org/abs/2611.21769",
-      "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Gabriele Accarino, Mohammad M. Amirian, Thea H. Heimdal, Amanda R. Fay, Galen A. McKinley, Viviana Acquaviva",
-        "source_excerpt": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deterministic, giving a single value per grid point, with uncertainty approximated post hoc via residuals, ensembles, or prescribed distributions. We instead learn a conditional predictive distribution for each observation: using Treeffuser, a conditional diffusion model with gradient-boosted-tree score functions, we estimate the full predictive distribution of $\\Delta p$CO$_2$ (the sea-air $p$CO$_2$ difference) from 13 environmental, spatial, and temporal predictors. On a held-out SOCAT test set, Treeffuser attains the lowest continuous ranked probability score among the uncertainty-quantification methods evaluated (8.229 $\\mu$atm) and the coverage closest to the nominal 68% / 95% levels (0.686 / 0.930), while retaining point-prediction skill comparable to a deterministic XGBoost baseline (RMSE 18.4 vs. 17.7 $\\mu$atm; $R^2$ 0.77 vs. 0.79). These results show that conditional diffusion can provide well-calibrated, observation-level uncertainties while largely preserving point-prediction skill. Because Treeffuser is generative, its samples can support probabilistic analyses of $\\Delta p$CO$_2$; extending this to spatially coherent field reconstruction will require modeling dependence across grid cells and evaluation on spatially held-out data."
-      },
-      "relevance_score": 0.08410768576319706,
-      "sources": [
-        {
-          "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21769"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deter..."
     },
     {
       "type": "article",
@@ -149,7 +149,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.06285250163710461,
+      "relevance_score": 0.06052802473361507,
       "sources": [
         {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -171,7 +171,7 @@
         "author": "Jorge Valverde-Rebaza, Carlos Paez De La Cruz, Pedro P\\'erez-Collado, Daniel S\\'anchez-Cata\\~no, Eashley Mart\\'inez-Vergara",
         "source_excerpt": "arXiv:2611.21825v1 Announce Type: new \nAbstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban representation learning framework for identifying unusual reporting patterns relative to representation-similar peers using only georeferenced crime records. The method constructs complementary hourly, weekly, and static reporting profiles, learns scale-specific representations under geographic self-supervision, and integrates them into a unified latent space. Neighbor Profile Divergence (NPD) is then used to quantify disagreement between each region's reporting profile and those of its retrieved peers. Experiments on more than 1.8 million crime records from Mexico City, aggregated into 1,058 H3 regions, show that the proposed representation achieves a mean Silhouette score of 0.4052, compared with 0.2863 for Hex2Vec. NPD rankings remain highly stable across neighborhood sizes, with Spearman correlations from 0.9720 to 0.9951, while most high-divergence candidates persist across configurations. The retrieved peers also extend substantially beyond immediate geographic neighborhoods, indicating that the learned representation captures structure beyond local spatial proximity. High-divergence regions exhibit spatially organized patterns and, in several cases, differences in incident volume relative to peer expectations. These results support NPD as an internal auditing and prioritization mechanism for identifying regions that warrant further investigation, rather than as direct evidence of underreporting."
       },
-      "relevance_score": 0.04734997933359484,
+      "relevance_score": 0.04888142916606265,
       "sources": [
         {
           "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
