@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:05:53.522625",
+  "generated_at": "2026-11-19T09:05:37.548526",
   "total_items": 10,
   "items": [
     {
@@ -55,7 +55,7 @@
       "description": "Downloads: 0 | Likes: 0",
       "url": "https://huggingface.co/freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
       "source": "Hugging Face",
-      "date": "2026-11-19T08:04:36.000Z",
+      "date": "2026-11-19T09:03:55.000Z",
       "metadata": {
         "downloads": 0,
         "likes": 0,
@@ -81,7 +81,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.08556432732896845,
+      "relevance_score": 0.07913336827491599,
       "sources": [
         {
           "title": "\ud83e\udd16 New Model: freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
@@ -103,7 +103,7 @@
         "author": "",
         "source_excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
       },
-      "relevance_score": 0.07722846593155579,
+      "relevance_score": 0.07679958842597062,
       "sources": [
         {
           "title": "Research acceleration: The jagged frontier",
@@ -125,7 +125,7 @@
         "author": "Peng Xie, Amr Alanwar",
         "source_excerpt": "arXiv:2611.23246v1 Announce Type: new \nAbstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial must stay accurate across that set, and it reaches only as far as its disc of convergence. The limit binds hardest on the rational terms and sigmoid gates of modern controllers: smooth as these look on the real line, in the complex plane they blow up at points just off the real axis, closer as a gate sharpens, and those points cap the set width a Taylor expansion can cover, most tightly on the switching surface where the controller decides. We prove a dichotomy: no Taylor degree certifies sets wider than that cap, while a Chebyshev abstraction of equal degree, anchored to the whole set in the same polynomial-zonotope pipeline, has no cap and gains width at a geometric rate in degree. Measured walls match the formulas to between 89 and 94 percent. We give closed-form rigorous remainders, among them the first polynomial softmax transformer; existing sound treatments are linear relaxations. On closed loops, certificates survive where the Taylor ones diverge, and specifications flip from unknown to proven; on trained classifiers up to real MNIST digits, the Chebyshev frontier certifies input territory the Taylor basis surrenders. Every certified claim passed large Monte-Carlo harnesses with zero violations, and an applicability map states in advance where the basis provably cannot matter."
       },
-      "relevance_score": 0.06818426736618415,
+      "relevance_score": 0.07172970904324132,
       "sources": [
         {
           "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
@@ -172,7 +172,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05429227053683365,
+      "relevance_score": 0.054931172531322445,
       "sources": [
         {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -194,7 +194,7 @@
         "author": "Keshav Shenoy, Anthony Zang, Eric Gan, Jacqueline Tay, Amy Ngo, Sebastian Prasanna, Julian Stastny, Vivek Hebbar",
         "source_excerpt": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research transcript and the ability to run experiments, human auditors mostly fail to distinguish sabotaged from benign research: they achieve an AUROC of 0.59, not significantly better than chance, and fully identify the specific sabotage in only 17% of cases. Despite not being allowed to run experiments, the best frontier models outperform human auditors (Fable 5.1: AUROC 0.73, 32% full identification) within noise and weaker models perform comparably. When the saboteur chooses which experiments are attacked, rather than being required to sabotage every question given, sabotage identification drops further. Our results suggest that research sabotage by expert-level agents is difficult to detect with current auditing methods and provide a new setting for studying research sabotage."
       },
-      "relevance_score": 0.03795187218882769,
+      "relevance_score": 0.03888126208157281,
       "sources": [
         {
           "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
