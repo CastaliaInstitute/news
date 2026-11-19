@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:04:56.407887",
+  "generated_at": "2026-11-19T22:05:21.159582",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.17955530153581756,
+      "relevance_score": 0.18230268854589746,
       "sources": [
         {
           "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
@@ -50,34 +50,12 @@
       "faculty_summary": "arXiv:2611.23248v1 Announce Type: new \nAbstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms a..."
     },
     {
-      "type": "article",
-      "title": "Research acceleration: The jagged frontier",
-      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "date": "2026-11-18T08:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-      },
-      "relevance_score": 0.08776558259020177,
-      "sources": [
-        {
-          "title": "Research acceleration: The jagged frontier",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier"
-        }
-      ],
-      "faculty_summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
       "type": "model_release",
       "title": "\ud83e\udd16 New Model: freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
       "description": "Downloads: 0 | Likes: 0",
       "url": "https://huggingface.co/freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
       "source": "Hugging Face",
-      "date": "2026-11-19T21:03:01.000Z",
+      "date": "2026-11-19T22:04:13.000Z",
       "metadata": {
         "downloads": 0,
         "likes": 0,
@@ -103,7 +81,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.08172896017121692,
+      "relevance_score": 0.08834586795476758,
       "sources": [
         {
           "title": "\ud83e\udd16 New Model: freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
@@ -112,6 +90,28 @@
         }
       ],
       "faculty_summary": "Downloads: 0 | Likes: 0"
+    },
+    {
+      "type": "article",
+      "title": "Research acceleration: The jagged frontier",
+      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "date": "2026-11-18T08:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+      },
+      "relevance_score": 0.08776558259020177,
+      "sources": [
+        {
+          "title": "Research acceleration: The jagged frontier",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+        }
+      ],
+      "faculty_summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
       "type": "article",
@@ -172,7 +172,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.057066667587751,
+      "relevance_score": 0.05635065734248272,
       "sources": [
         {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
