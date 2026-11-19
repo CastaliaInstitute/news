@@ -1,94 +1,53 @@
 {
-  "generated_at": "2026-11-19T04:05:36.335933",
+  "generated_at": "2026-11-19T05:05:33.999283",
   "total_items": 10,
   "items": [
     {
       "type": "article",
-      "title": "Regularized Score Centering",
-      "description": "arXiv:2611.21791v1 Announce Type: new \nAbstract: Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effec...",
-      "url": "https://arxiv.org/abs/2611.21791",
+      "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
+      "description": "arXiv:2611.23342v1 Announce Type: new \nAbstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration. Real-world materials da...",
+      "url": "https://arxiv.org/abs/2611.23342",
       "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
+      "date": "2026-11-19T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Hao Bai, Chenlu Ye, Xuanchang Zhang, Aviral Kumar, Tong Zhang",
-        "source_excerpt": "arXiv:2611.21791v1 Announce Type: new \nAbstract: Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effect of reward baselines on the expected update. Our gradient diagnostics show less extreme gradients with SC than with importance sampling (IS), but SC can still fail when the learner moves far from the behavior policy that generated the data. To limit this policy mismatch, we introduce Regularized Score Centering (RSC), which adds a reverse Kullback-Leibler (KL) penalty to encourage the learner's next-token distribution to stay close to the behavior policy's next-token distribution. RSC works with or without truncated importance sampling (TIS), which caps token importance weights. Our theoretical analysis supports this approach, showing that KL regularization improves convergence guarantees. We evaluate dense and mixture-of-experts models on mathematical reasoning and agentic tasks, including online shopping, tool use, games, and fully asynchronous software engineering. RSC with TIS substantially improves sample efficiency across all agentic benchmarks, attaining higher training rewards with the same number of sampled responses. In final evaluations, it achieves top performance across all six agentic tasks, improving by 14.3% on AppWorld and reaching 9.9 times the strongest baseline's score on BabyAI."
+        "author": "Sihan Liaing, Ji Zhang, Kehan Wang, Zihao Gao, Wei Ma, Yangang Wang, Zongguo Wang",
+        "source_excerpt": "arXiv:2611.23342v1 Announce Type: new \nAbstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration. Real-world materials databases may contain measurement errors, failed calculations, missing or duplicate records, and hidden violations of physicochemical constraints. Such problems are difficult to identify because corrupted samples may remain statistically plausible rather than appearing as explicit outliers. In this paper, we propose a confidence-based materials data quality assessment framework that integrates domain knowledge with graph-structured learning. Data quality is formulated as a continuous confidence estimation problem rather than a binary anomaly identification task, enabling sample-level assessment and historical-reference-based batch comparison. A nine-dimensional feature-quality prior and duplicate-aware sample initialization are calibrated using materials domain rules and statistical evidence. Confidence is further refined through sample-feature bipartite graph propagation and weakly supervised graph attention, while a Memory-GAT module provides historical reference scoring. Experiments on 23 ODDS benchmark datasets show that the generic module achieves an average AUC-ROC of 0.866. In five repeated mixed-contamination experiments on mp\\_20, rule calibration improves HistGradientBoostingRegressor test $R^2$ from $0.538\\pm0.008$ to $0.616\\pm0.014$. Graph refinement increases average precision from $0.943\\pm0.004$ to 0.953\\pm0.004$, while the rule-calibrated configuration has the highest mean test $R^2$ among the evaluated screening configurations. Five repeated MACE subset experiments further show an increase in $R^2$ from $0.590\\pm0.053$ to $0.880\\pm0.027$ after rule-based screening.",
+        "matched_keywords": [
+          "assessment"
+        ]
       },
-      "relevance_score": 0.1623277756834174,
+      "relevance_score": 0.1733007014306789,
       "sources": [
         {
-          "title": "Regularized Score Centering",
+          "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21791"
+          "url": "https://arxiv.org/abs/2611.23342"
         }
       ],
-      "faculty_summary": "arXiv:2611.21791v1 Announce Type: new \nAbstract: Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effec..."
+      "faculty_summary": "arXiv:2611.23342v1 Announce Type: new \nAbstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration. Real-world materials da..."
     },
     {
       "type": "article",
-      "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
-      "description": "arXiv:2611.21701v1 Announce Type: new \nAbstract: Learning-rate choices strongly affect language-model fine-tuning, but the best joint profile across layer groups is generally unknown. This paper studies quantum minimum finding for layer-group learning-rate selection within a hybrid classical-quan...",
-      "url": "https://arxiv.org/abs/2611.21701",
+      "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
+      "description": "arXiv:2611.23248v1 Announce Type: new \nAbstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms a...",
+      "url": "https://arxiv.org/abs/2611.23248",
       "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
+      "date": "2026-11-19T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Wei-Che Hung",
-        "source_excerpt": "arXiv:2611.21701v1 Announce Type: new \nAbstract: Learning-rate choices strongly affect language-model fine-tuning, but the best joint profile across layer groups is generally unknown. This paper studies quantum minimum finding for layer-group learning-rate selection within a hybrid classical-quantum training framework. It combines Durr-Hoyer minimum finding with BBHT search and compares fixed-budget and confidence-based stopping policies using a lookup oracle built from measured profile scores at fixed training checkpoints. The paper then introduces an Interaction-Guided Schedule Oracle that scores and marks joint schedules in superposition without a precomputed score table. Classical one-step loss measurements supply the main, pairwise and three-way interaction effects between layer groups. The circuit adds the effects for each schedule, compares the resulting score with the current baseline score, and marks improving schedules for amplitude amplification. Measured candidates are checked classically before acceptance. Uniform-rate training supplies the initial baseline; using schedules from classical adaptive methods as baselines for joint refinement is left for future work. In closed-loop fine-tuning of a 1.5-billion-parameter language model, each selected schedule drives the next 200 classical training steps. Benchmark accuracies lie within the range observed across five uniform-rate seeds. The results give a working example of how quantum superposition can support adaptive learning-rate selection during training; the remaining quantum limitations are discussed in the paper."
+        "author": "Farhaan Qazi",
+        "source_excerpt": "arXiv:2611.23248v1 Announce Type: new \nAbstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms and PD diagnosis, highlighting their potential applications in various aspects of the disease. ML methods such as support vector machines, decision trees, multilayer perceptron, k-nearest neighbours, logistic regression and random forest (with and without particle swarm optimisation) were applied on a PD dataset obtained from Leeds Teaching Hospitals NHS Trust containing data from 58 people. In terms of accuracy, the Decision Tree and Logistic Regression performed the best with scores of 72-76% while multilayer perceptron was least effective. All the models were remarkable in classifying positive PD cases with sensitivity scores going up to 97.56%, with SVM classifier at the pinnacle. However, ability to classify healthy controls from PD cases was insignificant throughout the board. Although, all the employed models delivered reasonable results in categorising PD patients in the presented dataset; access to more data, further study and advancement of these ML approaches could lead to enhanced diagnostic outcomes, supplementing to an improved understanding of Parkinson's disease."
       },
-      "relevance_score": 0.11779456652777884,
+      "relevance_score": 0.10473700699565419,
       "sources": [
         {
-          "title": "Hybrid Quantum Selection of Learning Rates in Language-Model Training: Termination Criteria and an Interaction-Guided Schedule Oracle",
+          "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
           "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21701"
+          "url": "https://arxiv.org/abs/2611.23248"
         }
       ],
-      "faculty_summary": "arXiv:2611.21701v1 Announce Type: new \nAbstract: Learning-rate choices strongly affect language-model fine-tuning, but the best joint profile across layer groups is generally unknown. This paper studies quantum minimum finding for layer-group learning-rate selection within a hybrid classical-quan..."
-    },
-    {
-      "type": "article",
-      "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
-      "description": "arXiv:2611.21696v1 Announce Type: new \nAbstract: Layerwise learning-rate scaling assigns different learning rates to different parts of a network. Although established in fine-tuning pretrained models, its effects in vision networks trained from scratch are commonly assessed by training each cand...",
-      "url": "https://arxiv.org/abs/2611.21696",
-      "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Chandini Vysyaraju, Raghuvir Duvvuri, Radu Timofte, Dmitry Ignatov",
-        "source_excerpt": "arXiv:2611.21696v1 Announce Type: new \nAbstract: Layerwise learning-rate scaling assigns different learning rates to different parts of a network. Although established in fine-tuning pretrained models, its effects in vision networks trained from scratch are commonly assessed by training each candidate recipe. We show that, in this setting, the rate-related component of a layerwise strategy is well summarized by an effective learning rate computable directly from its multiplier profile. Across matched-control comparisons, changes in test accuracy closely track changes in training loss (r = -0.996), which supports an optimization-progress explanation of the short-budget rate effect. Increasing the untuned base learning rate tenfold shifts the rate-matched contrast upward in all six tested architectures (p = 0.016) and increases the number of architectures in which a published discriminative schedule, excluded from model fitting, outperforms the uniform control from two to five of six (p = 0.031). Within the evaluated strategy space, a parameter-weighted power mean with exponent 0.35 (95% confidence interval [0.20, 0.50]) accounts for 42.6% of within-architecture variance, compared with 36.4% for the arithmetic mean. Ranking candidates by this scalar without training improves the selected candidate's mean percentile rank from the 26th to the 10th and reduces its mean accuracy shortfall relative to the best candidate from 3.70 to 1.12 points. The rate-related effect decays as the training budget increases; relative to tuned baselines, the overall strategy effect falls within the prespecified practical-equivalence margin in two of three architectures. A separate grouping-related contrast can persist at long budgets, although its direction and magnitude depend on the architecture."
-      },
-      "relevance_score": 0.11657666357546136,
-      "sources": [
-        {
-          "title": "Layerwise Learning-Rate Scaling in Vision Networks: Effective-Rate Identification, Power-Mean Aggregation, and Budget Dependence",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21696"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.21696v1 Announce Type: new \nAbstract: Layerwise learning-rate scaling assigns different learning rates to different parts of a network. Although established in fine-tuning pretrained models, its effects in vision networks trained from scratch are commonly assessed by training each cand..."
-    },
-    {
-      "type": "article",
-      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
-      "description": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deter...",
-      "url": "https://arxiv.org/abs/2611.21769",
-      "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Gabriele Accarino, Mohammad M. Amirian, Thea H. Heimdal, Amanda R. Fay, Galen A. McKinley, Viviana Acquaviva",
-        "source_excerpt": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deterministic, giving a single value per grid point, with uncertainty approximated post hoc via residuals, ensembles, or prescribed distributions. We instead learn a conditional predictive distribution for each observation: using Treeffuser, a conditional diffusion model with gradient-boosted-tree score functions, we estimate the full predictive distribution of $\\Delta p$CO$_2$ (the sea-air $p$CO$_2$ difference) from 13 environmental, spatial, and temporal predictors. On a held-out SOCAT test set, Treeffuser attains the lowest continuous ranked probability score among the uncertainty-quantification methods evaluated (8.229 $\\mu$atm) and the coverage closest to the nominal 68% / 95% levels (0.686 / 0.930), while retaining point-prediction skill comparable to a deterministic XGBoost baseline (RMSE 18.4 vs. 17.7 $\\mu$atm; $R^2$ 0.77 vs. 0.79). These results show that conditional diffusion can provide well-calibrated, observation-level uncertainties while largely preserving point-prediction skill. Because Treeffuser is generative, its samples can support probabilistic analyses of $\\Delta p$CO$_2$; extending this to spatially coherent field reconstruction will require modeling dependence across grid cells and evaluation on spatially held-out data."
-      },
-      "relevance_score": 0.08514974541790639,
-      "sources": [
-        {
-          "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean $\\Delta p$CO$_2$ Using Tabular Diffusion Models",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21769"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.21769v1 Announce Type: new \nAbstract: The ocean absorbs almost 30% of anthropogenic CO$_2$ emissions, but quantifying this sink requires estimating surface-ocean CO$_2$ from observations that are sparse in space and time. Most existing machine-learning estimates of this field are deter..."
+      "faculty_summary": "arXiv:2611.23248v1 Announce Type: new \nAbstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms a..."
     },
     {
       "type": "article",
@@ -102,7 +61,7 @@
         "author": "",
         "source_excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
       },
-      "relevance_score": 0.08484991064642218,
+      "relevance_score": 0.07361887473372147,
       "sources": [
         {
           "title": "Research acceleration: The jagged frontier",
@@ -114,17 +73,39 @@
     },
     {
       "type": "article",
+      "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
+      "description": "arXiv:2611.23246v1 Announce Type: new \nAbstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial...",
+      "url": "https://arxiv.org/abs/2611.23246",
+      "source": "arXiv",
+      "date": "2026-11-19T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Peng Xie, Amr Alanwar",
+        "source_excerpt": "arXiv:2611.23246v1 Announce Type: new \nAbstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial must stay accurate across that set, and it reaches only as far as its disc of convergence. The limit binds hardest on the rational terms and sigmoid gates of modern controllers: smooth as these look on the real line, in the complex plane they blow up at points just off the real axis, closer as a gate sharpens, and those points cap the set width a Taylor expansion can cover, most tightly on the switching surface where the controller decides. We prove a dichotomy: no Taylor degree certifies sets wider than that cap, while a Chebyshev abstraction of equal degree, anchored to the whole set in the same polynomial-zonotope pipeline, has no cap and gains width at a geometric rate in degree. Measured walls match the formulas to between 89 and 94 percent. We give closed-form rigorous remainders, among them the first polynomial softmax transformer; existing sound treatments are linear relaxations. On closed loops, certificates survive where the Taylor ones diverge, and specifications flip from unknown to proven; on trained classifiers up to real MNIST digits, the Chebyshev frontier certifies input territory the Taylor basis surrenders. Every certified claim passed large Monte-Carlo harnesses with zero violations, and an applicability map states in advance where the basis provably cannot matter."
+      },
+      "relevance_score": 0.06804190584930857,
+      "sources": [
+        {
+          "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.23246"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.23246v1 Announce Type: new \nAbstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial..."
+    },
+    {
+      "type": "article",
       "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
       "description": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric syste...",
       "url": "https://arxiv.org/abs/2611.21950",
       "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
+      "date": "2026-11-19T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.AI",
         "author": "Owen Queen, Ioana Ciuca, Emma Dann, Jean Somalwar, Carine You, Steven Dillmann, Viraj Manwadkar, Evan Gorrell, Harrison G Zhang, Jonathan K Pritchard, Risa H Wechsler, James Zou",
         "source_excerpt": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select, refine, or replace hypotheses between research rounds, while audit agents interrogate checkpointed records to trace claims, reproduce analyses, and inform subsequent decisions. Across two predictive modeling tasks, DiscoveryAgent produced the best variable-star classifier among evaluated baselines and, with scientist steering, a protein variant-effect predictor surpassed by only one of 106 ProteinGym baselines. We develop a rigorous checkpointing system that enables highly capable audit agents, a scalable form of oversight for agentic research. Audit agents autonomously identify errors at higher rates than previous AI scientist agents, and scientists collaborating with audit agents identify 14x more valid errors versus scientists performing manual review. In three case studies led by domain experts across physical science, social science, and life science, we developed a multimodal photometric-redshift estimator that resolves complementary failures of images and photometry, achieving 0.971 AUROC for low-redshift classification; documented an 83% rise in Florida homeowners-insurance premiums from 2013 to 2023, with a growing, regressive burden; and identified CD4+ T-cell relay genes, which both receive and exert broad transcriptional regulation, enriched for autoimmune disease associations. Together, these results show how autonomous research can expand scientists' empirical reach while centering their authority over research direction and their ability to understand and challenge the evidence."
       },
-      "relevance_score": 0.0711491314967284,
+      "relevance_score": 0.06623332229069671,
       "sources": [
         {
           "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
@@ -140,7 +121,7 @@
       "description": "arXiv:2611.21682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer ...",
       "url": "https://arxiv.org/abs/2611.21682",
       "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
+      "date": "2026-11-19T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.AI",
         "author": "Liyan Wang, Longze Li, Mohamed Hassan, Isshu Lee, Dajie Sun, Ruimin Feng, Aleksandar Vakanski",
@@ -149,7 +130,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.06052802473361507,
+      "relevance_score": 0.05731392800483359,
       "sources": [
         {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -161,61 +142,17 @@
     },
     {
       "type": "article",
-      "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
-      "description": "arXiv:2611.21825v1 Announce Type: new \nAbstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban represen...",
-      "url": "https://arxiv.org/abs/2611.21825",
-      "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Jorge Valverde-Rebaza, Carlos Paez De La Cruz, Pedro P\\'erez-Collado, Daniel S\\'anchez-Cata\\~no, Eashley Mart\\'inez-Vergara",
-        "source_excerpt": "arXiv:2611.21825v1 Announce Type: new \nAbstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban representation learning framework for identifying unusual reporting patterns relative to representation-similar peers using only georeferenced crime records. The method constructs complementary hourly, weekly, and static reporting profiles, learns scale-specific representations under geographic self-supervision, and integrates them into a unified latent space. Neighbor Profile Divergence (NPD) is then used to quantify disagreement between each region's reporting profile and those of its retrieved peers. Experiments on more than 1.8 million crime records from Mexico City, aggregated into 1,058 H3 regions, show that the proposed representation achieves a mean Silhouette score of 0.4052, compared with 0.2863 for Hex2Vec. NPD rankings remain highly stable across neighborhood sizes, with Spearman correlations from 0.9720 to 0.9951, while most high-divergence candidates persist across configurations. The retrieved peers also extend substantially beyond immediate geographic neighborhoods, indicating that the learned representation captures structure beyond local spatial proximity. High-divergence regions exhibit spatially organized patterns and, in several cases, differences in incident volume relative to peer expectations. These results support NPD as an internal auditing and prioritization mechanism for identifying regions that warrant further investigation, rather than as direct evidence of underreporting."
-      },
-      "relevance_score": 0.04888142916606265,
-      "sources": [
-        {
-          "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21825"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.21825v1 Announce Type: new \nAbstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban represen..."
-    },
-    {
-      "type": "article",
-      "title": "Margin Dynamics for Large Language Model Alignment",
-      "description": "arXiv:2611.21766v1 Announce Type: new \nAbstract: Practitioners choose among LLM alignment methods largely by trial and error. We provide a theoretical foundation: each pairwise method defines a vector field on the probability simplex that governs how the model redistributes mass between preferred...",
-      "url": "https://arxiv.org/abs/2611.21766",
-      "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.LG",
-        "author": "Xingzi Xu, Mehmet Saygin Seyfioglu, Karim Bouyarmane",
-        "source_excerpt": "arXiv:2611.21766v1 Announce Type: new \nAbstract: Practitioners choose among LLM alignment methods largely by trial and error. We provide a theoretical foundation: each pairwise method defines a vector field on the probability simplex that governs how the model redistributes mass between preferred and dispreferred completions. Projecting onto a single preferred/dispreferred pair reduces this to a one-dimensional margin ODE with a closed-form solution. These solutions reveal that DPO margins grow without bound (logarithmically as $O(\\log t)$ in the gradient-flow limit) while IPO margins converge to a finite $1/(2\\tau)$; that label noise induces a qualitative phase transition in DPO (unbounded $\\to$ bounded) but affects IPO only quantitatively; and that gradient concentration under asymmetric weighting governs trainability at scale. We confirm all three predictions across five model families spanning four benchmarks. The closed-form solutions also enable principled method design: we prove that adding any label smoothing $\\varepsilon > 0$ to SimPO creates a finite margin attractor at $\\Delta^* = \\beta^{-1}\\log((1-\\varepsilon)/\\varepsilon)$, while $\\varepsilon = 0$ (standard SimPO) has no attractor. We test this across three models (8B-9B) and confirm the prediction: the theory-derived configuration (TPO-S, $\\varepsilon = 0.05$) is competitive with the strongest baselines, attaining the highest mean IFEval score among the compared methods on all three, validating that the predicted finite attractor is a usable operating point rather than proposing a new state-of-the-art loss."
-      },
-      "relevance_score": 0.04481752398624753,
-      "sources": [
-        {
-          "title": "Margin Dynamics for Large Language Model Alignment",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.21766"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.21766v1 Announce Type: new \nAbstract: Practitioners choose among LLM alignment methods largely by trial and error. We provide a theoretical foundation: each pairwise method defines a vector field on the probability simplex that governs how the model redistributes mass between preferred..."
-    },
-    {
-      "type": "article",
       "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
       "description": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety...",
       "url": "https://arxiv.org/abs/2611.21832",
       "source": "arXiv",
-      "date": "2026-11-18T05:00:00",
+      "date": "2026-11-19T05:00:00",
       "metadata": {
         "feed_url": "https://arxiv.org/rss/cs.AI",
         "author": "Keshav Shenoy, Anthony Zang, Eric Gan, Jacqueline Tay, Amy Ngo, Sebastian Prasanna, Julian Stastny, Vivek Hebbar",
         "source_excerpt": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research transcript and the ability to run experiments, human auditors mostly fail to distinguish sabotaged from benign research: they achieve an AUROC of 0.59, not significantly better than chance, and fully identify the specific sabotage in only 17% of cases. Despite not being allowed to run experiments, the best frontier models outperform human auditors (Fable 5.1: AUROC 0.73, 32% full identification) within noise and weaker models perform comparably. When the saboteur chooses which experiments are attacked, rather than being required to sabotage every question given, sabotage identification drops further. Our results suggest that research sabotage by expert-level agents is difficult to detect with current auditing methods and provide a new setting for studying research sabotage."
       },
-      "relevance_score": 0.04126278231637485,
+      "relevance_score": 0.03846866220288725,
       "sources": [
         {
           "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
@@ -224,6 +161,75 @@
         }
       ],
       "faculty_summary": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety..."
+    },
+    {
+      "type": "article",
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "description": "arXiv:2611.21946v1 Announce Type: new \nAbstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a chain: that the answer the model would give if stopped now is correct (its com...",
+      "url": "https://arxiv.org/abs/2611.21946",
+      "source": "arXiv",
+      "date": "2026-11-19T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Jianghong Zhou, Hao Rong, Chen Lin",
+        "source_excerpt": "arXiv:2611.21946v1 Announce Type: new \nAbstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a chain: that the answer the model would give if stopped now is correct (its commitment), and that the answer it will finish with is correct (its verdict). We show that the verdict alone, which is what final-correctness probes estimate, cannot make this comparison. As a forecast of a fixed outcome it has no predictable drift, whether continuing helps or hurts. The commitment-verdict gap equals the expected remaining change in answer quality and the accuracy gained by stopping. A second identity splits any accuracy-versus-budget curve into answer change within chains and change in which chains are still running. We measure both on MATH-500. At all 379 points where DeepSeek-R1-Distill-Qwen-1.5B holds a correct answer, selected without regard to how its chain ends, continuing loses 3.6 points on average (95% CI [2.2, 5.2]), and the loss concentrates in a few problems. In six reasoning models from three families, on MATH-500 and OlympiadBench and with budgets up to 16,384 tokens, declining accuracy curves come from which chains remain, while the chains still reasoning keep or improve their answers. An oracle stopping rule gains at most +1.8 and +2.5 points at 1.5B and 7B. The framework says what to measure before building a stopping rule.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.03055696621933682,
+      "sources": [
+        {
+          "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.21946"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.21946v1 Announce Type: new \nAbstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a chain: that the answer the model would give if stopped now is correct (its com..."
+    },
+    {
+      "type": "article",
+      "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+      "description": "arXiv:2611.23240v1 Announce Type: new \nAbstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and capabilities of P...",
+      "url": "https://arxiv.org/abs/2611.23240",
+      "source": "arXiv",
+      "date": "2026-11-19T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji",
+        "source_excerpt": "arXiv:2611.23240v1 Announce Type: new \nAbstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and capabilities of Prandtl neural networks (PNNs), Preisach neural networks (PreisachNNs), generalized Prandtl neural networks (GPNNs), the neuro-Madelung model (NMM), extended Preisach neural networks (EPNNs), and dynamic plastic continuous neural networks (DPCNNs). Particular attention is given to their mechanisms for representing memory, network architectures, activation functions, training algorithms, treatment of deterioration and rate dependence, and applications to nonlinear structural and material systems. The PNN introduced hysteretic memory directly into neural activation through stop operators and demonstrated accurate nonlinear dynamic analysis of structures. Preisach-NNs subsequently extended this concept through an additional nonlinear hidden layer to represent non-Masing hysteresis. GPNNs introduced deteriorating-stop neurons to capture stiffness and strength degradation and non-congruent hysteresis. A different generalization was provided by the NMM, which combined Madelung's hysteresis rules with multilayer feedforward neural networks to represent diverse rate-independent and rate-dependent behaviors. These developments culminated in the EPNN, which combines deteriorating hysteretic operators, nonlinear neural mappings, and input-rate information to accommodate Masing and nonMasing, symmetric and asymmetric, congruent and noncongruent, and rate-independent and rate-dependent hysteresis."
+      },
+      "relevance_score": 0.02876464496955216,
+      "sources": [
+        {
+          "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.23240"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.23240v1 Announce Type: new \nAbstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and capabilities of P..."
+    },
+    {
+      "type": "article",
+      "title": "Introducing ChatGPT for Sales",
+      "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "date": "2026-11-17T08:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+      },
+      "relevance_score": 0.028147838752630782,
+      "sources": [
+        {
+          "title": "Introducing ChatGPT for Sales",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ],
+      "faculty_summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
     }
   ]
 }
