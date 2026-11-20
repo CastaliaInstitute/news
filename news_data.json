@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:05:09.093871",
+  "generated_at": "2026-11-20T23:04:32.499462",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "Yang Cai, Vineet Gupta, Yanchen Jiang, Christopher Liaw, Aranyak Mehta, Shay Moran, Grigoris Velegkas, Di Wang, Manfred K. Warmuth",
         "source_excerpt": "arXiv:2611.25011v1 Announce Type: new \nAbstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. At its heart is a connection between simplification and generalization: if a predictor consistent with a training sample is defined using only a small part of that sample, then it is likely to generalize. Sample compression schemes formalize this idea, and many natural learning algorithms can be analyzed this way.\n  The sample compression conjecture of Floyd and Warmuth (1995) asserts that every binary concept class of VC dimension $d$ admits a sample compression scheme of size $O(d)$; a weaker conjecture asks only for size polynomial in $d$. Both have remained open: the first bound depending only on $d$, due to Moran and Yehudayoff (2016), is exponential in $d$. We prove the weaker conjecture by constructing a sample compression scheme of size $O(d^2 \\log^2 d)$."
       },
-      "relevance_score": 0.07579631382438012,
+      "relevance_score": 0.0742312249726973,
       "sources": [
         {
           "title": "Near-Quadratic Sample Compression for All VC Classes",
@@ -62,7 +62,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.07253170443171048,
+      "relevance_score": 0.07151597098292291,
       "sources": [
         {
           "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
@@ -84,7 +84,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.06455215214214836,
+      "relevance_score": 0.06588418327653557,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -106,7 +106,7 @@
         "author": "Amin Entezari",
         "source_excerpt": "arXiv:2611.25114v1 Announce Type: new \nAbstract: DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R. This article describes the design of the package and a typical workflow, in which DISCO is used to compare clusterings and to choose the parameters of HDBSCAN without ground truth, followed by the implementation introduced in version 0.2.0. DISCO is defined through density-connectivity distances between all pairs of points, so direct implementations store several n-by-n matrices. We show that every quantity DISCO needs can be read off the single-linkage merge tree of the mutual-reachability minimum spanning tree, so that the index can be computed exactly with memory that grows linearly with the number of points, while the running time remains quadratic as in the original definition. The implementation is tested against the previous version, agrees with the original Python implementation to within $3 \\times 10^{-13}$, and corrects the score of singleton clusters to match the published definition. In benchmarks, discoCVI is 23 to 138 times faster than its previous version for 500 to 4,000 points and 3 to 9 times faster than the Python reference for 500 to 8,000 points, using a fraction of the memory of both, and it scores 100,000 points in about 50 seconds with less than 200 MB of memory."
       },
-      "relevance_score": 0.05717239546535547,
+      "relevance_score": 0.05649169004542337,
       "sources": [
         {
           "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
@@ -150,7 +150,7 @@
         "author": "Lambert Igene, Mohammad Zahir Uddin Chowdhury, Afzal Hossain, Sandip Purnapatra, Peter Johnson, Stephanie Schuckers",
         "source_excerpt": "arXiv:2611.25108v1 Announce Type: new \nAbstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter. No existing benchmark systematically addresses multi-distance capture, diverse environmental conditions, and concurrent spoofing and occlusion-based attacks, leaving deployed models underprepared for real-world scenarios. We introduce a video-based PAD dataset of 374,000+ frames from 261 unique identities collected across five standoff distances (1 m-100 m) under indoor and outdoor conditions using a DSLR camera (C) and a mobile sensor (M), with three-class labels: live, spoof, and props (occlusions); models are trained and evaluated on video clips rather than single frames. We fine-tune and benchmark four CNN architectures: MobileNetV3, MobileNet, EfficientNet, and ResNet-50. The higher-resolution DSLR maintains near-perfect spoof classification rate across all distances, while the lower-resolution mobile sensor degrades sharply beyond 50 m, with props classification rate dropping to 55% at 75 m for MobileNetV3. EfficientNet achieves the best overall performance (98.48% accuracy, ACER 2.01%). Generalization tests on unseen attack datasets yield 89-94% accuracy, validating cross-domain robustness. These results establish capture distance and sensor resolution as critical but underexplored axes of PAD difficulty. The dataset will be publicly released under an End-User License Agreement to support reproducible long-range PAD research."
       },
-      "relevance_score": 0.037559234360725995,
+      "relevance_score": 0.03594138706669834,
       "sources": [
         {
           "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
@@ -216,7 +216,7 @@
         "author": "Carla Teixeira Lopes, Daniel F\\'elix",
         "source_excerpt": "arXiv:2611.23454v1 Announce Type: new \nAbstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are rarely available due to privacy regulations, which particularly limits progress for low-resource languages such as European Portuguese. We present LusoClin, a publicly released dataset of synthetic clinical notes in European Portuguese, created to support privacy-preserving research on clinical text retrieval. LusoClin was generated by pre-processing real clinical data, fine-tuning the open-source Llama 3.2 (3B) instruction-tuned model using Quantized Low-Rank Adaptation, and applying prompt-based clinical note generation. To facilitate semantic indexing and clinical search, the notes are automatically annotated with clinical entities using a BERT-based model. We evaluate LusoClin in terms of utility, fidelity, diversity, and privacy using automatic metrics and human evaluation. Results indicate that the dataset captures clinically relevant language patterns and can support downstream IR applications such as clinical document retrieval and domain-specific model adaptation, although annotators can often distinguish synthetic from real notes and some medical inconsistencies persist."
       },
-      "relevance_score": 0.02207496364085705,
+      "relevance_score": 0.021871159866406115,
       "sources": [
         {
           "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
