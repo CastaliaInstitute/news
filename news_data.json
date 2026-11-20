@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:06:45.690375",
+  "generated_at": "2026-11-20T07:05:29.276599",
   "total_items": 10,
   "items": [
     {
@@ -58,7 +58,7 @@
         "author": "Yang Cai, Vineet Gupta, Yanchen Jiang, Christopher Liaw, Aranyak Mehta, Shay Moran, Grigoris Velegkas, Di Wang, Manfred K. Warmuth",
         "source_excerpt": "arXiv:2611.25011v1 Announce Type: new \nAbstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s. At its heart is a connection between simplification and generalization: if a predictor consistent with a training sample is defined using only a small part of that sample, then it is likely to generalize. Sample compression schemes formalize this idea, and many natural learning algorithms can be analyzed this way.\n  The sample compression conjecture of Floyd and Warmuth (1995) asserts that every binary concept class of VC dimension $d$ admits a sample compression scheme of size $O(d)$; a weaker conjecture asks only for size polynomial in $d$. Both have remained open: the first bound depending only on $d$, due to Moran and Yehudayoff (2016), is exponential in $d$. We prove the weaker conjecture by constructing a sample compression scheme of size $O(d^2 \\log^2 d)$."
       },
-      "relevance_score": 0.07777935396669547,
+      "relevance_score": 0.07450790358153925,
       "sources": [
         {
           "title": "Near-Quadratic Sample Compression for All VC Classes",
@@ -84,7 +84,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.07082892568338177,
+      "relevance_score": 0.0718152616908283,
       "sources": [
         {
           "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
@@ -150,7 +150,7 @@
         "author": "Lambert Igene, Mohammad Zahir Uddin Chowdhury, Afzal Hossain, Sandip Purnapatra, Peter Johnson, Stephanie Schuckers",
         "source_excerpt": "arXiv:2611.25108v1 Announce Type: new \nAbstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter. No existing benchmark systematically addresses multi-distance capture, diverse environmental conditions, and concurrent spoofing and occlusion-based attacks, leaving deployed models underprepared for real-world scenarios. We introduce a video-based PAD dataset of 374,000+ frames from 261 unique identities collected across five standoff distances (1 m-100 m) under indoor and outdoor conditions using a DSLR camera (C) and a mobile sensor (M), with three-class labels: live, spoof, and props (occlusions); models are trained and evaluated on video clips rather than single frames. We fine-tune and benchmark four CNN architectures: MobileNetV3, MobileNet, EfficientNet, and ResNet-50. The higher-resolution DSLR maintains near-perfect spoof classification rate across all distances, while the lower-resolution mobile sensor degrades sharply beyond 50 m, with props classification rate dropping to 55% at 75 m for MobileNetV3. EfficientNet achieves the best overall performance (98.48% accuracy, ACER 2.01%). Generalization tests on unseen attack datasets yield 89-94% accuracy, validating cross-domain robustness. These results establish capture distance and sensor resolution as critical but underexplored axes of PAD difficulty. The dataset will be publicly released under an End-User License Agreement to support reproducible long-range PAD research."
       },
-      "relevance_score": 0.03480314318026792,
+      "relevance_score": 0.035270874583721454,
       "sources": [
         {
           "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
@@ -172,7 +172,7 @@
         "author": "Dongsu Song, Jay Hoon Jung",
         "source_excerpt": "arXiv:2611.25001v1 Announce Type: new \nAbstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation. Their perturbation density, however, is set only indirectly by a fixed sparsity coefficient whose mapping to density is unknown and shifts during training, so reaching a target density requires re-tuning; this fixed pressure also yields little transferability gain once density reduction begins. We propose Density Feedback Control (DFC), which tightens or relaxes this coefficient at the end of each epoch according to the gap between the observed hard-mask density and the target, without changing the generator architecture or loss. At a 10\\% target density, DFC brings the mean density of three base attacks within one percentage point of the target in a single run and improves the transfer attack success rate (ASR) of two of them on CNN and Transformer targets, including under per-image $\\ell_0$ budgets, while perturbing fewer pixels. Tracing GPG's training, we observe that as DFC relaxes the coefficient, the transfer ASR recovers with the density and overtakes the fixed-coefficient baseline with fewer pixels. For EGS-TSSA, which restricts perturbations to source-model feature-importance regions, DFC yields no consistent gain; we analyze how this restriction interacts with density feedback."
       },
-      "relevance_score": 0.0315996431711732,
+      "relevance_score": 0.032579564237739035,
       "sources": [
         {
           "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
@@ -194,7 +194,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.029597911670535552,
+      "relevance_score": 0.02950797399039393,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
