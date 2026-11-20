@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:04:26.168638",
+  "generated_at": "2026-11-20T00:08:26.068252",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.18211140133902393,
+      "relevance_score": 0.17919408026411673,
       "sources": [
         {
           "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
@@ -39,7 +39,7 @@
         "author": "Farhaan Qazi",
         "source_excerpt": "arXiv:2611.23248v1 Announce Type: new \nAbstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms and PD diagnosis, highlighting their potential applications in various aspects of the disease. ML methods such as support vector machines, decision trees, multilayer perceptron, k-nearest neighbours, logistic regression and random forest (with and without particle swarm optimisation) were applied on a PD dataset obtained from Leeds Teaching Hospitals NHS Trust containing data from 58 people. In terms of accuracy, the Decision Tree and Logistic Regression performed the best with scores of 72-76% while multilayer perceptron was least effective. All the models were remarkable in classifying positive PD cases with sensitivity scores going up to 97.56%, with SVM classifier at the pinnacle. However, ability to classify healthy controls from PD cases was insignificant throughout the board. Although, all the employed models delivered reasonable results in categorising PD patients in the presented dataset; access to more data, further study and advancement of these ML approaches could lead to enhanced diagnostic outcomes, supplementing to an improved understanding of Parkinson's disease."
       },
-      "relevance_score": 0.10879520956474431,
+      "relevance_score": 0.11032831659509962,
       "sources": [
         {
           "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
@@ -50,12 +50,34 @@
       "faculty_summary": "arXiv:2611.23248v1 Announce Type: new \nAbstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder. This study explores the integration of ML algorithms a..."
     },
     {
+      "type": "article",
+      "title": "Research acceleration: The jagged frontier",
+      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "date": "2026-11-18T08:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+      },
+      "relevance_score": 0.0881508698961308,
+      "sources": [
+        {
+          "title": "Research acceleration: The jagged frontier",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+        }
+      ],
+      "faculty_summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
       "type": "model_release",
       "title": "\ud83e\udd16 New Model: freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
       "description": "Downloads: 0 | Likes: 0",
       "url": "https://huggingface.co/freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
       "source": "Hugging Face",
-      "date": "2026-11-19T23:03:23.000Z",
+      "date": "2026-11-20T00:06:44.000Z",
       "metadata": {
         "downloads": 0,
         "likes": 0,
@@ -81,7 +103,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.08818226236378447,
+      "relevance_score": 0.08421300796787802,
       "sources": [
         {
           "title": "\ud83e\udd16 New Model: freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
@@ -90,28 +112,6 @@
         }
       ],
       "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
-    {
-      "type": "article",
-      "title": "Research acceleration: The jagged frontier",
-      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "date": "2026-11-18T08:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-      },
-      "relevance_score": 0.0837586487370978,
-      "sources": [
-        {
-          "title": "Research acceleration: The jagged frontier",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier"
-        }
-      ],
-      "faculty_summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
       "type": "article",
@@ -125,7 +125,7 @@
         "author": "Peng Xie, Amr Alanwar",
         "source_excerpt": "arXiv:2611.23246v1 Announce Type: new \nAbstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders. The expansion is pointwise: once its argument is a whole set rather than a point, one polynomial must stay accurate across that set, and it reaches only as far as its disc of convergence. The limit binds hardest on the rational terms and sigmoid gates of modern controllers: smooth as these look on the real line, in the complex plane they blow up at points just off the real axis, closer as a gate sharpens, and those points cap the set width a Taylor expansion can cover, most tightly on the switching surface where the controller decides. We prove a dichotomy: no Taylor degree certifies sets wider than that cap, while a Chebyshev abstraction of equal degree, anchored to the whole set in the same polynomial-zonotope pipeline, has no cap and gains width at a geometric rate in degree. Measured walls match the formulas to between 89 and 94 percent. We give closed-form rigorous remainders, among them the first polynomial softmax transformer; existing sound treatments are linear relaxations. On closed loops, certificates survive where the Taylor ones diverge, and specifications flip from unknown to proven; on trained classifiers up to real MNIST digits, the Chebyshev frontier certifies input territory the Taylor basis surrenders. Every certified claim passed large Monte-Carlo harnesses with zero violations, and an applicability map states in advance where the basis provably cannot matter."
       },
-      "relevance_score": 0.07208224864686515,
+      "relevance_score": 0.07355254180478996,
       "sources": [
         {
           "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
@@ -147,7 +147,7 @@
         "author": "Owen Queen, Ioana Ciuca, Emma Dann, Jean Somalwar, Carine You, Steven Dillmann, Viraj Manwadkar, Evan Gorrell, Harrison G Zhang, Jonathan K Pritchard, Risa H Wechsler, James Zou",
         "source_excerpt": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select, refine, or replace hypotheses between research rounds, while audit agents interrogate checkpointed records to trace claims, reproduce analyses, and inform subsequent decisions. Across two predictive modeling tasks, DiscoveryAgent produced the best variable-star classifier among evaluated baselines and, with scientist steering, a protein variant-effect predictor surpassed by only one of 106 ProteinGym baselines. We develop a rigorous checkpointing system that enables highly capable audit agents, a scalable form of oversight for agentic research. Audit agents autonomously identify errors at higher rates than previous AI scientist agents, and scientists collaborating with audit agents identify 14x more valid errors versus scientists performing manual review. In three case studies led by domain experts across physical science, social science, and life science, we developed a multimodal photometric-redshift estimator that resolves complementary failures of images and photometry, achieving 0.971 AUROC for low-redshift classification; documented an 83% rise in Florida homeowners-insurance premiums from 2013 to 2023, with a growing, regressive burden; and identified CD4+ T-cell relay genes, which both receive and exert broad transcriptional regulation, enriched for autoimmune disease associations. Together, these results show how autonomous research can expand scientists' empirical reach while centering their authority over research direction and their ability to understand and challenge the evidence."
       },
-      "relevance_score": 0.07111054511422812,
+      "relevance_score": 0.06728551489560439,
       "sources": [
         {
           "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
@@ -172,7 +172,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05644972153569065,
+      "relevance_score": 0.05398089168575375,
       "sources": [
         {
           "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -194,7 +194,7 @@
         "author": "Keshav Shenoy, Anthony Zang, Eric Gan, Jacqueline Tay, Amy Ngo, Sebastian Prasanna, Julian Stastny, Vivek Hebbar",
         "source_excerpt": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety research. We conduct a red-team/blue-team game where a human researcher runs AI safety experiments from scratch and auditors try to tell which were sabotaged and how. Given access to the full research transcript and the ability to run experiments, human auditors mostly fail to distinguish sabotaged from benign research: they achieve an AUROC of 0.59, not significantly better than chance, and fully identify the specific sabotage in only 17% of cases. Despite not being allowed to run experiments, the best frontier models outperform human auditors (Fable 5.1: AUROC 0.73, 32% full identification) within noise and weaker models perform comparably. When the saboteur chooses which experiments are attacked, rather than being required to sabotage every question given, sabotage identification drops further. Our results suggest that research sabotage by expert-level agents is difficult to detect with current auditing methods and provide a new setting for studying research sabotage."
       },
-      "relevance_score": 0.04365105435270521,
+      "relevance_score": 0.041799521363571034,
       "sources": [
         {
           "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
@@ -216,7 +216,7 @@
         "author": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji",
         "source_excerpt": "arXiv:2611.23240v1 Announce Type: new \nAbstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence. This review examines the development and capabilities of Prandtl neural networks (PNNs), Preisach neural networks (PreisachNNs), generalized Prandtl neural networks (GPNNs), the neuro-Madelung model (NMM), extended Preisach neural networks (EPNNs), and dynamic plastic continuous neural networks (DPCNNs). Particular attention is given to their mechanisms for representing memory, network architectures, activation functions, training algorithms, treatment of deterioration and rate dependence, and applications to nonlinear structural and material systems. The PNN introduced hysteretic memory directly into neural activation through stop operators and demonstrated accurate nonlinear dynamic analysis of structures. Preisach-NNs subsequently extended this concept through an additional nonlinear hidden layer to represent non-Masing hysteresis. GPNNs introduced deteriorating-stop neurons to capture stiffness and strength degradation and non-congruent hysteresis. A different generalization was provided by the NMM, which combined Madelung's hysteresis rules with multilayer feedforward neural networks to represent diverse rate-independent and rate-dependent behaviors. These developments culminated in the EPNN, which combines deteriorating hysteretic operators, nonlinear neural mappings, and input-rate information to accommodate Masing and nonMasing, symmetric and asymmetric, congruent and noncongruent, and rate-independent and rate-dependent hysteresis."
       },
-      "relevance_score": 0.030994216694957347,
+      "relevance_score": 0.029062972298191322,
       "sources": [
         {
           "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
@@ -241,7 +241,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.028815663157763172,
+      "relevance_score": 0.027394482732085498,
       "sources": [
         {
           "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
