@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:04:54.611350",
+  "generated_at": "2026-11-21T21:04:17.563065",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05054544940462854,
+      "relevance_score": 0.051229630194525644,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -64,6 +64,28 @@
           "title": "Inkling-2-Mini in 5.4 GB Memory",
           "publisher": "Hacker News",
           "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "description": "Comments",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News",
+      "date": "2026-11-20T21:03:12",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "publisher": "Hacker News",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
         }
       ],
       "faculty_summary": "Comments"
@@ -196,28 +218,6 @@
           "title": "Hurried Announcement: Alessandro Masullo GRH",
           "publisher": "Hacker News",
           "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "description": "Comments",
-      "url": "https://math.mit.edu/~drew/grh/",
-      "source": "Hacker News",
-      "date": "2026-11-21T15:54:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-          "publisher": "Hacker News",
-          "url": "https://math.mit.edu/~drew/grh/"
         }
       ],
       "faculty_summary": "Comments"
