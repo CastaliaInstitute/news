@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:05:15.551768",
+  "generated_at": "2026-11-21T17:03:57.904399",
   "total_items": 10,
   "items": [
     {
@@ -48,28 +48,6 @@
     },
     {
       "type": "article",
-      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
-      "description": "Comments",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-21T14:36:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
-          "publisher": "Hacker News",
-          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Derek Lowe: Detonating a Pile of Lead Azide",
       "description": "Comments",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -86,6 +64,28 @@
           "title": "Derek Lowe: Detonating a Pile of Lead Azide",
           "publisher": "Hacker News",
           "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "description": "Comments",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "date": "2026-11-21T14:36:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+          "publisher": "Hacker News",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "description": "Comments",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "source": "Hacker News",
+      "date": "2026-11-21T15:39:09",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Zero C#, Power of C# without any GC",
+          "publisher": "Hacker News",
+          "url": "https://onurgumus.github.io/zero-csharp/index.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "RCE in Gnupg",
       "description": "Comments",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
@@ -196,28 +218,6 @@
           "title": "RCE in Gnupg",
           "publisher": "Hacker News",
           "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "description": "Comments",
-      "url": "https://klauria.tech/klauria-art/",
-      "source": "Hacker News",
-      "date": "2026-11-20T17:03:39",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "I'm quite pleased by the tech architecture of my art website",
-          "publisher": "Hacker News",
-          "url": "https://klauria.tech/klauria-art/"
         }
       ],
       "faculty_summary": "Comments"
