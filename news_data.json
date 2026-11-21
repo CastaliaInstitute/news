@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:03:57.904399",
+  "generated_at": "2026-11-21T18:05:19.157697",
   "total_items": 10,
   "items": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "type": "article",
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "title": "Detonating a pile of lead azide",
       "description": "Comments",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "source": "Hacker News",
@@ -61,7 +61,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+          "title": "Detonating a pile of lead azide",
           "publisher": "Hacker News",
           "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
         }
@@ -70,7 +70,7 @@
     },
     {
       "type": "article",
-      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "title": "Lean verification of the Riemann Hypothesis",
       "description": "Comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "source": "Hacker News",
@@ -83,7 +83,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+          "title": "Lean verification of the Riemann Hypothesis",
           "publisher": "Hacker News",
           "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
         }
@@ -114,7 +114,29 @@
     },
     {
       "type": "article",
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "title": "PostgreSQL Extensions in Go",
+      "description": "Comments",
+      "url": "https://jespino.github.io/gopgext/",
+      "source": "Hacker News",
+      "date": "2026-11-21T17:08:04",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "PostgreSQL Extensions in Go",
+          "publisher": "Hacker News",
+          "url": "https://jespino.github.io/gopgext/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "My monitor was cutting my download speed by 75%",
       "description": "Comments",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "source": "Hacker News",
@@ -127,7 +149,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "My Monitor Was Cutting My Download Speed by 75%",
+          "title": "My monitor was cutting my download speed by 75%",
           "publisher": "Hacker News",
           "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
         }
@@ -158,28 +180,6 @@
     },
     {
       "type": "article",
-      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "description": "Comments",
-      "url": "https://alpo.ge/remark.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-20T14:16:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://alpo.ge/remark.pdf"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Show HN: Zero C#, Power of C# without any GC",
       "description": "Comments",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "RCE in Gnupg",
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "description": "Comments",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "url": "https://alpo.ge/remark.pdf",
       "source": "Hacker News",
-      "date": "2026-11-21T08:32:58",
+      "date": "2026-11-20T14:16:21",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "RCE in Gnupg",
+          "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
           "publisher": "Hacker News",
-          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+          "url": "https://alpo.ge/remark.pdf"
         }
       ],
       "faculty_summary": "Comments"
