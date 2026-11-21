@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:04:15.740267",
+  "generated_at": "2026-11-21T20:04:54.611350",
   "total_items": 10,
   "items": [
     {
@@ -70,28 +70,6 @@
     },
     {
       "type": "article",
-      "title": "Detonating a pile of lead azide",
-      "description": "Comments",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News",
-      "date": "2026-11-21T13:23:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Detonating a pile of lead azide",
-          "publisher": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Lean verification of the Riemann Hypothesis",
       "description": "Comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -114,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "Detonating a pile of lead azide",
+      "description": "Comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:23:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Detonating a pile of lead azide",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "description": "Comments",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
@@ -130,28 +130,6 @@
           "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
           "publisher": "Hacker News",
           "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
-      "description": "Comments",
-      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
-      "source": "Hacker News",
-      "date": "2026-11-21T17:59:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
-          "publisher": "Hacker News",
-          "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
         }
       ],
       "faculty_summary": "Comments"
@@ -218,6 +196,28 @@
           "title": "Hurried Announcement: Alessandro Masullo GRH",
           "publisher": "Hacker News",
           "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "description": "Comments",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "source": "Hacker News",
+      "date": "2026-11-21T15:54:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+          "publisher": "Hacker News",
+          "url": "https://math.mit.edu/~drew/grh/"
         }
       ],
       "faculty_summary": "Comments"
