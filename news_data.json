@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:05:19.157697",
+  "generated_at": "2026-11-21T19:04:15.740267",
   "total_items": 10,
   "items": [
     {
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "type": "article",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "description": "Comments",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News",
+      "date": "2026-11-21T18:02:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "publisher": "Hacker News",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -114,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "description": "Comments",
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "source": "Hacker News",
+      "date": "2026-11-21T17:59:59",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+          "publisher": "Hacker News",
+          "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "PostgreSQL Extensions in Go",
       "description": "Comments",
       "url": "https://jespino.github.io/gopgext/",
@@ -174,50 +218,6 @@
           "title": "Hurried Announcement: Alessandro Masullo GRH",
           "publisher": "Hacker News",
           "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Zero C#, Power of C# without any GC",
-      "description": "Comments",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "source": "Hacker News",
-      "date": "2026-11-21T15:39:09",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Zero C#, Power of C# without any GC",
-          "publisher": "Hacker News",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "description": "Comments",
-      "url": "https://alpo.ge/remark.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-20T14:16:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://alpo.ge/remark.pdf"
         }
       ],
       "faculty_summary": "Comments"
