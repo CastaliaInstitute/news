@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:05:28.783551",
+  "generated_at": "2026-11-21T10:04:43.175036",
   "total_items": 10,
   "items": [
     {
@@ -136,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "description": "Comments",
-      "url": "https://ninlive.com/",
-      "source": "Hacker News",
-      "date": "2026-11-20T22:30:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "NINLIVE: The Nine Inch Nails live archive",
-          "publisher": "Hacker News",
-          "url": "https://ninlive.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "We promoted developers into architects without informing them",
       "description": "Comments",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
@@ -196,6 +174,28 @@
           "title": "Clojure will affect the way you think about programming (2017)",
           "publisher": "Hacker News",
           "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "description": "Comments",
+      "url": "https://ninlive.com/",
+      "source": "Hacker News",
+      "date": "2026-11-20T22:30:47",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "NINLIVE: The Nine Inch Nails live archive",
+          "publisher": "Hacker News",
+          "url": "https://ninlive.com/"
         }
       ],
       "faculty_summary": "Comments"
