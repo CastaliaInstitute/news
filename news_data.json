@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:04:17.563065",
+  "generated_at": "2026-11-21T22:05:09.802236",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.051229630194525644,
+      "relevance_score": 0.05054544940462854,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -48,28 +48,6 @@
     },
     {
       "type": "article",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "description": "Comments",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "source": "Hacker News",
-      "date": "2026-11-21T18:02:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Inkling-2-Mini in 5.4 GB Memory",
-          "publisher": "Hacker News",
-          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
       "description": "Comments",
       "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
@@ -86,6 +64,28 @@
           "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
           "publisher": "Hacker News",
           "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "description": "Comments",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News",
+      "date": "2026-11-21T18:02:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "publisher": "Hacker News",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "Getting the mind to steer the body to steer you",
+      "description": "Comments",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "source": "Hacker News",
+      "date": "2026-11-20T22:11:05",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Getting the mind to steer the body to steer you",
+          "publisher": "Hacker News",
+          "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "description": "Comments",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
@@ -180,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "My monitor was cutting my download speed by 75%",
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
       "description": "Comments",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "url": "https://tasklet.ai/careers",
       "source": "Hacker News",
-      "date": "2026-11-21T10:36:32",
+      "date": "2026-11-21T21:11:08",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "My monitor was cutting my download speed by 75%",
+          "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
           "publisher": "Hacker News",
-          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "description": "Comments",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "source": "Hacker News",
-      "date": "2026-11-20T18:33:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Hurried Announcement: Alessandro Masullo GRH",
-          "publisher": "Hacker News",
-          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+          "url": "https://tasklet.ai/careers"
         }
       ],
       "faculty_summary": "Comments"
