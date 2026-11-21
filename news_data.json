@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:05:40.410857",
+  "generated_at": "2026-11-21T13:04:24.698171",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.051229630194525644,
+      "relevance_score": 0.05054544940462854,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "type": "article",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "description": "Comments",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "Hacker News",
+      "date": "2026-11-17T15:22:57",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+          "publisher": "Hacker News",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -136,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "description": "Comments",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "date": "2026-11-21T10:36:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "My Monitor Was Cutting My Download Speed by 75%",
+          "publisher": "Hacker News",
+          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "ClawDOS \u2013 An AI coding agent for DOS",
       "description": "Comments",
       "url": "http://ricapar.net/ClawDOS/",
@@ -174,50 +218,6 @@
           "title": "We promoted developers into architects without informing them",
           "publisher": "Hacker News",
           "url": "https://manidoraisamy.com/developer-to-architect.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "description": "Comments",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-20T17:21:36",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-          "publisher": "Hacker News",
-          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "description": "Comments",
-      "url": "https://ninlive.com/",
-      "source": "Hacker News",
-      "date": "2026-11-20T22:30:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "NINLIVE: The Nine Inch Nails live archive",
-          "publisher": "Hacker News",
-          "url": "https://ninlive.com/"
         }
       ],
       "faculty_summary": "Comments"
