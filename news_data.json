@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:04:24.698171",
+  "generated_at": "2026-11-21T14:05:12.706038",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05054544940462854,
+      "relevance_score": 0.051229630194525644,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -70,6 +70,50 @@
     },
     {
       "type": "article",
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "description": "Comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:23:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "description": "Comments",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "date": "2026-11-21T10:36:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "My Monitor Was Cutting My Download Speed by 75%",
+          "publisher": "Hacker News",
+          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "description": "Comments",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
@@ -114,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Inkling 2 Mini",
-      "description": "Comments",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "source": "Hacker News",
-      "date": "2026-11-20T20:12:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Inkling 2 Mini",
-          "publisher": "Hacker News",
-          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "RCE in Gnupg",
       "description": "Comments",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
@@ -158,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "title": "Inkling 2 Mini",
       "description": "Comments",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "source": "Hacker News",
-      "date": "2026-11-21T10:36:32",
+      "date": "2026-11-20T20:12:19",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "My Monitor Was Cutting My Download Speed by 75%",
+          "title": "Inkling 2 Mini",
           "publisher": "Hacker News",
-          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
       "description": "Comments",
-      "url": "http://ricapar.net/ClawDOS/",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
       "source": "Hacker News",
-      "date": "2026-11-21T05:38:01",
+      "date": "2026-11-21T12:15:41",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "ClawDOS \u2013 An AI coding agent for DOS",
+          "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
           "publisher": "Hacker News",
-          "url": "http://ricapar.net/ClawDOS/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "We promoted developers into architects without informing them",
-      "description": "Comments",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "source": "Hacker News",
-      "date": "2026-11-20T18:17:51",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "We promoted developers into architects without informing them",
-          "publisher": "Hacker News",
-          "url": "https://manidoraisamy.com/developer-to-architect.html"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic"
         }
       ],
       "faculty_summary": "Comments"
