@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:06:01.935456",
+  "generated_at": "2026-11-21T07:05:07.344124",
   "total_items": 10,
   "items": [
     {
@@ -114,6 +114,28 @@
     },
     {
       "type": "article",
+      "title": "ClawDOS \u2013 An AI coding agent for DOS",
+      "description": "Comments",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News",
+      "date": "2026-11-21T05:38:01",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "ClawDOS \u2013 An AI coding agent for DOS",
+          "publisher": "Hacker News",
+          "url": "http://ricapar.net/ClawDOS/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "description": "Comments",
       "url": "https://ninlive.com/",
@@ -196,28 +218,6 @@
           "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
           "publisher": "Hacker News",
           "url": "https://valkey.io/blog/from-skiplist-to-b+tree/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "description": "Comments",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "source": "Hacker News",
-      "date": "2026-11-21T02:40:39",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Clojure will affect the way you think about programming (2017)",
-          "publisher": "Hacker News",
-          "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
         }
       ],
       "faculty_summary": "Comments"
