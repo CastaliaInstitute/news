@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:05:12.706038",
+  "generated_at": "2026-11-21T15:04:50.175076",
   "total_items": 10,
   "items": [
     {
@@ -48,28 +48,6 @@
     },
     {
       "type": "article",
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "description": "Comments",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "source": "Hacker News",
-      "date": "2026-11-17T15:22:57",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-          "publisher": "Hacker News",
-          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Derek Lowe: Detonating a Pile of Lead Azide",
       "description": "Comments",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -92,6 +70,28 @@
     },
     {
       "type": "article",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "description": "Comments",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "Hacker News",
+      "date": "2026-11-17T15:22:57",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+          "publisher": "Hacker News",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "My Monitor Was Cutting My Download Speed by 75%",
       "description": "Comments",
       "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
@@ -108,6 +108,28 @@
           "title": "My Monitor Was Cutting My Download Speed by 75%",
           "publisher": "Hacker News",
           "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "description": "Comments",
+      "url": "https://simple-bench.com/",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:16:12",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+          "publisher": "Hacker News",
+          "url": "https://simple-bench.com/"
         }
       ],
       "faculty_summary": "Comments"
@@ -196,28 +218,6 @@
           "title": "Inkling 2 Mini",
           "publisher": "Hacker News",
           "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-      "description": "Comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
-      "source": "Hacker News",
-      "date": "2026-11-21T12:15:41",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-          "publisher": "Hacker News",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic"
         }
       ],
       "faculty_summary": "Comments"
