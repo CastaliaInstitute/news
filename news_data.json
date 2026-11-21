@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-21T22:05:09.802236",
+  "generated_at": "2026-11-21T23:04:29.941392",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: mounimzad/BrainHR-Adapter-Research-Access",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/mounimzad/BrainHR-Adapter-Research-Access",
+      "source": "Hugging Face",
+      "date": "2026-11-21T23:01:53.000Z",
+      "metadata": {
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "peft",
+          "safetensors",
+          "brainhr",
+          "adapter",
+          "text-generation",
+          "base_model:meta-llama/Meta-Llama-3-8B-Instruct",
+          "base_model:adapter:meta-llama/Meta-Llama-3-8B-Instruct",
+          "license:llama3",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.07229322825437773,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: mounimzad/BrainHR-Adapter-Research-Access",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/mounimzad/BrainHR-Adapter-Research-Access"
+        }
+      ],
+      "faculty_summary": "Downloads: 0 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -14,7 +46,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05054544940462854,
+      "relevance_score": 0.04384203642108307,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -36,7 +68,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.023439554968165563,
+      "relevance_score": 0.02023361472909621,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
@@ -180,11 +212,11 @@
     },
     {
       "type": "article",
-      "title": "PostgreSQL Extensions in Go",
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
       "description": "Comments",
-      "url": "https://jespino.github.io/gopgext/",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
       "source": "Hacker News",
-      "date": "2026-11-21T17:08:04",
+      "date": "2026-11-21T22:09:58",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +225,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "PostgreSQL Extensions in Go",
+          "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
           "publisher": "Hacker News",
-          "url": "https://jespino.github.io/gopgext/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "description": "Comments",
-      "url": "https://tasklet.ai/careers",
-      "source": "Hacker News",
-      "date": "2026-11-21T21:11:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-          "publisher": "Hacker News",
-          "url": "https://tasklet.ai/careers"
+          "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
         }
       ],
       "faculty_summary": "Comments"
