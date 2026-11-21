@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:04:43.175036",
+  "generated_at": "2026-11-21T11:04:53.809586",
   "total_items": 10,
   "items": [
     {
@@ -158,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "description": "Comments",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "source": "Hacker News",
-      "date": "2026-11-21T02:40:39",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Clojure will affect the way you think about programming (2017)",
-          "publisher": "Hacker News",
-          "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "description": "Comments",
       "url": "https://ninlive.com/",
@@ -202,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "title": "Surprisingly Adorable Insect Portraits",
       "description": "Comments",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
       "source": "Hacker News",
-      "date": "2026-11-20T17:21:36",
+      "date": "2026-11-21T06:44:14",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+          "title": "Surprisingly Adorable Insect Portraits",
           "publisher": "Hacker News",
-          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+          "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "description": "Comments",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "source": "Hacker News",
+      "date": "2026-11-21T02:40:39",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Clojure will affect the way you think about programming (2017)",
+          "publisher": "Hacker News",
+          "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
         }
       ],
       "faculty_summary": "Comments"
