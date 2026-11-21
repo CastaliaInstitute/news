@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:04:53.809586",
+  "generated_at": "2026-11-21T12:05:40.410857",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05054544940462854,
+      "relevance_score": 0.051229630194525644,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -114,6 +114,28 @@
     },
     {
       "type": "article",
+      "title": "RCE in Gnupg",
+      "description": "Comments",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "Hacker News",
+      "date": "2026-11-21T08:32:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "RCE in Gnupg",
+          "publisher": "Hacker News",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "ClawDOS \u2013 An AI coding agent for DOS",
       "description": "Comments",
       "url": "http://ricapar.net/ClawDOS/",
@@ -158,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "description": "Comments",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News",
+      "date": "2026-11-20T17:21:36",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+          "publisher": "Hacker News",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "description": "Comments",
       "url": "https://ninlive.com/",
@@ -174,50 +218,6 @@
           "title": "NINLIVE: The Nine Inch Nails live archive",
           "publisher": "Hacker News",
           "url": "https://ninlive.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Surprisingly Adorable Insect Portraits",
-      "description": "Comments",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "source": "Hacker News",
-      "date": "2026-11-21T06:44:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Surprisingly Adorable Insect Portraits",
-          "publisher": "Hacker News",
-          "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "description": "Comments",
-      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "source": "Hacker News",
-      "date": "2026-11-21T02:40:39",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Clojure will affect the way you think about programming (2017)",
-          "publisher": "Hacker News",
-          "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
         }
       ],
       "faculty_summary": "Comments"
