@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:04:50.175076",
+  "generated_at": "2026-11-21T16:05:15.551768",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.051229630194525644,
+      "relevance_score": 0.05054544940462854,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "type": "article",
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "description": "Comments",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "date": "2026-11-21T14:36:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+          "publisher": "Hacker News",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -108,28 +130,6 @@
           "title": "My Monitor Was Cutting My Download Speed by 75%",
           "publisher": "Hacker News",
           "url": "https://blog.tymscar.com/posts/studiodisplayethernet/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-      "description": "Comments",
-      "url": "https://simple-bench.com/",
-      "source": "Hacker News",
-      "date": "2026-11-21T13:16:12",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-          "publisher": "Hacker News",
-          "url": "https://simple-bench.com/"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Inkling 2 Mini",
+      "title": "I'm quite pleased by the tech architecture of my art website",
       "description": "Comments",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "url": "https://klauria.tech/klauria-art/",
       "source": "Hacker News",
-      "date": "2026-11-20T20:12:19",
+      "date": "2026-11-20T17:03:39",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Inkling 2 Mini",
+          "title": "I'm quite pleased by the tech architecture of my art website",
           "publisher": "Hacker News",
-          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+          "url": "https://klauria.tech/klauria-art/"
         }
       ],
       "faculty_summary": "Comments"
