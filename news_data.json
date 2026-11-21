@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:05:07.344124",
+  "generated_at": "2026-11-21T08:05:58.679091",
   "total_items": 10,
   "items": [
     {
@@ -180,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "description": "Comments",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "source": "Hacker News",
+      "date": "2026-11-21T02:40:39",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Clojure will affect the way you think about programming (2017)",
+          "publisher": "Hacker News",
+          "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "description": "Comments",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
@@ -196,28 +218,6 @@
           "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
           "publisher": "Hacker News",
           "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "description": "Comments",
-      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "source": "Hacker News",
-      "date": "2026-11-17T16:58:30",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-          "publisher": "Hacker News",
-          "url": "https://valkey.io/blog/from-skiplist-to-b+tree/"
         }
       ],
       "faculty_summary": "Comments"
