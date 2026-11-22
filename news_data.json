@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T04:05:29.820789",
+  "generated_at": "2026-11-22T05:04:55.066612",
   "total_items": 10,
   "items": [
     {
@@ -45,6 +45,28 @@
         }
       ],
       "faculty_summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "type": "article",
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "description": "Comments",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
+      "date": "2026-11-22T04:04:56",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+          "publisher": "Hacker News",
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -136,28 +158,6 @@
     },
     {
       "type": "article",
-      "title": "Data Processing Incidents on Inference Providers",
-      "description": "Comments",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "source": "Hacker News",
-      "date": "2026-11-22T02:14:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Data Processing Incidents on Inference Providers",
-          "publisher": "Hacker News",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Detonating a pile of lead azide",
       "description": "Comments",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "title": "Data Processing Incidents on Inference Providers",
       "description": "Comments",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "source": "Hacker News",
-      "date": "2026-11-21T22:09:58",
+      "date": "2026-11-22T02:14:14",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,9 +193,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+          "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
-          "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
         }
       ],
       "faculty_summary": "Comments"
