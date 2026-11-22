@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:09:44.105991",
+  "generated_at": "2026-11-22T01:05:16.046836",
   "total_items": 10,
   "items": [
     {
@@ -114,28 +114,6 @@
     },
     {
       "type": "article",
-      "title": "Detonating a pile of lead azide",
-      "description": "Comments",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News",
-      "date": "2026-11-21T13:23:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Detonating a pile of lead azide",
-          "publisher": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "description": "Comments",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
@@ -152,6 +130,28 @@
           "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
           "publisher": "Hacker News",
           "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Detonating a pile of lead azide",
+      "description": "Comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:23:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Detonating a pile of lead azide",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
         }
       ],
       "faculty_summary": "Comments"
