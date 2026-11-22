@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-22T07:05:15.823100",
+  "generated_at": "2026-11-22T08:05:19.127639",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: lahyk/flexing-v1-based-qwen2.5coder",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/lahyk/flexing-v1-based-qwen2.5coder",
+      "source": "Hugging Face",
+      "date": "2026-11-22T08:03:07.000Z",
+      "metadata": {
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "safetensors",
+          "qwen2",
+          "code",
+          "code-generation",
+          "frontend",
+          "react",
+          "typescript",
+          "tailwindcss",
+          "nextjs",
+          "vue",
+          "web-development",
+          "trl",
+          "sft",
+          "text-generation",
+          "conversational",
+          "en",
+          "ru",
+          "base_model:Qwen/Qwen2.5-Coder-1.5B-Instruct",
+          "base_model:finetune:Qwen/Qwen2.5-Coder-1.5B-Instruct",
+          "license:apache-2.0",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.09211920158702766,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: lahyk/flexing-v1-based-qwen2.5coder",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/lahyk/flexing-v1-based-qwen2.5coder"
+        }
+      ],
+      "faculty_summary": "Downloads: 0 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -14,7 +58,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05054544940462854,
+      "relevance_score": 0.0507737788316468,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -36,7 +80,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.023439554968165563,
+      "relevance_score": 0.023545438687045984,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
@@ -92,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "description": "Comments",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "Hacker News",
+      "date": "2026-11-22T05:11:43",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "AI Supply Chain Security: What Canary Tokens Found",
+          "publisher": "Hacker News",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Lean verification of the Riemann Hypothesis",
       "description": "Comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -108,50 +174,6 @@
           "title": "Lean verification of the Riemann Hypothesis",
           "publisher": "Hacker News",
           "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "description": "Comments",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "source": "Hacker News",
-      "date": "2026-11-21T18:02:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Inkling-2-Mini in 5.4 GB Memory",
-          "publisher": "Hacker News",
-          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Sandwich Simulator",
-      "description": "Comments",
-      "url": "https://stulle.app/",
-      "source": "Hacker News",
-      "date": "2026-11-22T00:07:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Sandwich Simulator",
-          "publisher": "Hacker News",
-          "url": "https://stulle.app/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,6 +202,28 @@
     },
     {
       "type": "article",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "description": "Comments",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News",
+      "date": "2026-11-21T18:02:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "publisher": "Hacker News",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Data Processing Incidents on Inference Providers",
       "description": "Comments",
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
@@ -196,28 +240,6 @@
           "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
           "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Detonating a pile of lead azide",
-      "description": "Comments",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News",
-      "date": "2026-11-21T13:23:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Detonating a pile of lead azide",
-          "publisher": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
         }
       ],
       "faculty_summary": "Comments"
