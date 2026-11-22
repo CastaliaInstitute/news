@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-22T17:04:37.182732",
+  "generated_at": "2026-11-22T18:05:12.118635",
   "total_items": 10,
   "items": [
-    {
-      "type": "article",
-      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-      "description": "Comments",
-      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-      "source": "Hacker News",
-      "date": "2026-11-22T15:42:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.059066785309150834,
-      "sources": [
-        {
-          "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-          "publisher": "Hacker News",
-          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -36,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.0507737788316468,
+      "relevance_score": 0.06002024889606545,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -48,25 +26,47 @@
     },
     {
       "type": "article",
-      "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
-      "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI",
-      "date": "2026-11-18T08:00:00",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "description": "Comments",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "source": "Hacker News",
+      "date": "2026-11-22T15:42:40",
       "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
+        "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
-        "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+        "source_excerpt": "Comments"
       },
-      "relevance_score": 0.023545438687045984,
+      "relevance_score": 0.05889620634444497,
       "sources": [
         {
-          "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/sumitomo-life"
+          "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+          "publisher": "Hacker News",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
         }
       ],
-      "faculty_summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Perplexity and Intelligence",
+      "description": "Comments",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "source": "Hacker News",
+      "date": "2026-11-22T17:06:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Perplexity and Intelligence",
+          "publisher": "Hacker News",
+          "url": "https://openai.com/index/perplexity-and-intelligence/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -158,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "description": "Comments",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "source": "Hacker News",
+      "date": "2026-11-22T15:35:24",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+          "publisher": "Hacker News",
+          "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "A Better Vocabulary for Testing",
       "description": "Comments",
       "url": "https://alperenkeles.com/posts/vocab-for-testing/",
@@ -196,28 +218,6 @@
           "title": "Lean verification of the Riemann Hypothesis",
           "publisher": "Hacker News",
           "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Self-hosted library branch over public web OPDS",
-      "description": "Comments",
-      "url": "https://joinmayberry.com/",
-      "source": "Hacker News",
-      "date": "2026-11-19T21:15:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Self-hosted library branch over public web OPDS",
-          "publisher": "Hacker News",
-          "url": "https://joinmayberry.com/"
         }
       ],
       "faculty_summary": "Comments"
