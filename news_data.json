@@ -1,44 +1,7 @@
 {
-  "generated_at": "2026-11-22T02:05:48.054087",
+  "generated_at": "2026-11-22T03:05:30.916641",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF",
-      "source": "Hugging Face",
-      "date": "2026-11-22T02:02:06.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "gguf",
-          "qwen3_5",
-          "reasoning",
-          "sft",
-          "text-generation",
-          "base_model:unsloth/Qwen3.5-4B",
-          "base_model:finetune:unsloth/Qwen3.5-4B",
-          "license:apache-2.0",
-          "endpoints_compatible",
-          "region:us",
-          "conversational"
-        ],
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.07784042639663052,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -51,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.0507737788316468,
+      "relevance_score": 0.05054544940462854,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -73,7 +36,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.02361289841709845,
+      "relevance_score": 0.023439554968165563,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
@@ -151,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "title": "Data Processing Incidents on Inference Providers",
       "description": "Comments",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "source": "Hacker News",
-      "date": "2026-11-17T15:22:57",
+      "date": "2026-11-22T02:14:14",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -164,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+          "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
-          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria"
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
         }
       ],
       "faculty_summary": "Comments"
@@ -195,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+      "description": "Comments",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "source": "Hacker News",
+      "date": "2026-11-22T00:57:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+          "publisher": "Hacker News",
+          "url": "https://github.com/ItsNotRexed/Leonida"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Detonating a pile of lead azide",
       "description": "Comments",
       "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -217,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Getting the mind to steer the body to steer you",
+      "title": "Sandwich Simulator",
       "description": "Comments",
-      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "url": "https://stulle.app/",
       "source": "Hacker News",
-      "date": "2026-11-20T22:11:05",
+      "date": "2026-11-22T00:07:59",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -230,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Getting the mind to steer the body to steer you",
+          "title": "Sandwich Simulator",
           "publisher": "Hacker News",
-          "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
+          "url": "https://stulle.app/"
         }
       ],
       "faculty_summary": "Comments"
