@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:04:56.590195",
+  "generated_at": "2026-11-22T11:04:07.377231",
   "total_items": 10,
   "items": [
     {
@@ -92,28 +92,6 @@
     },
     {
       "type": "article",
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "description": "Comments",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "source": "Hacker News",
-      "date": "2026-11-22T08:57:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-          "publisher": "Hacker News",
-          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Lean verification of the Riemann Hypothesis",
       "description": "Comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -130,28 +108,6 @@
           "title": "Lean verification of the Riemann Hypothesis",
           "publisher": "Hacker News",
           "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: The Riemann Proof Handbook",
-      "description": "Comments",
-      "url": "https://github.com/tamnd/riemann-handbook",
-      "source": "Hacker News",
-      "date": "2026-11-22T05:46:30",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: The Riemann Proof Handbook",
-          "publisher": "Hacker News",
-          "url": "https://github.com/tamnd/riemann-handbook"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Data Processing Incidents on Inference Providers",
+      "title": "Show HN: The Riemann Proof Handbook",
       "description": "Comments",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "url": "https://github.com/tamnd/riemann-handbook",
       "source": "Hacker News",
-      "date": "2026-11-22T02:14:14",
+      "date": "2026-11-22T05:46:30",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +171,53 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Data Processing Incidents on Inference Providers",
+          "title": "Show HN: The Riemann Proof Handbook",
           "publisher": "Hacker News",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+          "url": "https://github.com/tamnd/riemann-handbook"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "description": "Comments",
+      "url": "https://github.com/pithings/unkernel",
+      "source": "Hacker News",
+      "date": "2026-11-17T16:35:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A real Linux kernel, compiled to WebAssembly",
+          "publisher": "Hacker News",
+          "url": "https://github.com/pithings/unkernel"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Detonating a pile of lead azide",
+      "description": "Comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:23:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Detonating a pile of lead azide",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
         }
       ],
       "faculty_summary": "Comments"
