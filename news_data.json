@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:04:52.084438",
+  "generated_at": "2026-11-22T21:04:38.584629",
   "total_items": 10,
   "items": [
     {
@@ -23,6 +23,50 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "type": "article",
+      "title": "What Happened to Silicon Valley?",
+      "description": "Comments",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "source": "Hacker News",
+      "date": "2026-11-22T19:20:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "What Happened to Silicon Valley?",
+          "publisher": "Hacker News",
+          "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "description": "Comments",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News",
+      "date": "2026-11-22T19:10:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "publisher": "Hacker News",
+          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -92,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "title": "Nyx, the Oldest Internet Service Provider",
       "description": "Comments",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "url": "https://nyx.net/",
       "source": "Hacker News",
-      "date": "2026-11-22T19:10:34",
+      "date": "2026-11-22T20:15:59",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,31 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "title": "Nyx, the Oldest Internet Service Provider",
           "publisher": "Hacker News",
-          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Open Social Web Alliance",
-      "description": "Comments",
-      "url": "https://osw-alliance.net/en/",
-      "source": "Hacker News",
-      "date": "2026-11-22T15:24:32",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Open Social Web Alliance",
-          "publisher": "Hacker News",
-          "url": "https://osw-alliance.net/en/"
+          "url": "https://nyx.net/"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Fascism and Monopoly",
+      "title": "Open Social Web Alliance",
       "description": "Comments",
-      "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+      "url": "https://osw-alliance.net/en/",
       "source": "Hacker News",
-      "date": "2026-11-22T15:25:29",
+      "date": "2026-11-22T15:24:32",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Fascism and Monopoly",
+          "title": "Open Social Web Alliance",
           "publisher": "Hacker News",
-          "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/"
+          "url": "https://osw-alliance.net/en/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "The Transvoxel Algorithm",
+      "title": "Show HN: Deflate X-Ray, See inside a compressed file",
       "description": "Comments",
-      "url": "https://transvoxel.org/",
+      "url": "https://hrih.si/projects/deflate-xray/",
       "source": "Hacker News",
-      "date": "2026-11-19T12:50:25",
+      "date": "2026-11-20T09:47:15",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Transvoxel Algorithm",
+          "title": "Show HN: Deflate X-Ray, See inside a compressed file",
           "publisher": "Hacker News",
-          "url": "https://transvoxel.org/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A Better Vocabulary for Testing",
-      "description": "Comments",
-      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-      "source": "Hacker News",
-      "date": "2026-11-21T22:15:39",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A Better Vocabulary for Testing",
-          "publisher": "Hacker News",
-          "url": "https://alperenkeles.com/posts/vocab-for-testing/"
+          "url": "https://hrih.si/projects/deflate-xray/"
         }
       ],
       "faculty_summary": "Comments"
