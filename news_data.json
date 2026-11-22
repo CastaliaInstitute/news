@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:05:02.324660",
+  "generated_at": "2026-11-22T17:04:37.182732",
   "total_items": 10,
   "items": [
     {
@@ -70,11 +70,11 @@
     },
     {
       "type": "article",
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "title": "Open Social Web Alliance",
       "description": "Comments",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "url": "https://osw-alliance.net/en/",
       "source": "Hacker News",
-      "date": "2026-11-22T04:04:56",
+      "date": "2026-11-22T15:24:32",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -83,9 +83,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "title": "Open Social Web Alliance",
           "publisher": "Hacker News",
-          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+          "url": "https://osw-alliance.net/en/"
         }
       ],
       "faculty_summary": "Comments"
@@ -114,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "A better internet for everyone is possible. Today",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "description": "Comments",
-      "url": "https://osw-alliance.net/en/",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "Hacker News",
-      "date": "2026-11-22T15:24:32",
+      "date": "2026-11-22T04:04:56",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -127,31 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A better internet for everyone is possible. Today",
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
           "publisher": "Hacker News",
-          "url": "https://osw-alliance.net/en/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "description": "Comments",
-      "url": "https://github.com/pithings/unkernel",
-      "source": "Hacker News",
-      "date": "2026-11-17T16:35:46",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A real Linux kernel, compiled to WebAssembly",
-          "publisher": "Hacker News",
-          "url": "https://github.com/pithings/unkernel"
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
         }
       ],
       "faculty_summary": "Comments"
@@ -174,6 +152,28 @@
           "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
           "publisher": "Hacker News",
           "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A Better Vocabulary for Testing",
+      "description": "Comments",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "source": "Hacker News",
+      "date": "2026-11-21T22:15:39",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A Better Vocabulary for Testing",
+          "publisher": "Hacker News",
+          "url": "https://alperenkeles.com/posts/vocab-for-testing/"
         }
       ],
       "faculty_summary": "Comments"
