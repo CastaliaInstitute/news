@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:05:45.926402",
+  "generated_at": "2026-11-22T13:04:47.497270",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.023506711332152628,
+      "relevance_score": 0.023439554968165563,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
@@ -114,28 +114,6 @@
     },
     {
       "type": "article",
-      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-      "description": "Comments",
-      "url": "https://arxiv.org/abs/2606.14068",
-      "source": "Hacker News",
-      "date": "2026-11-22T09:18:36",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-          "publisher": "Hacker News",
-          "url": "https://arxiv.org/abs/2606.14068"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Lean verification of the Riemann Hypothesis",
       "description": "Comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -180,6 +158,28 @@
     },
     {
       "type": "article",
+      "title": "Self-hosted library branch over public web OPDS",
+      "description": "Comments",
+      "url": "https://joinmayberry.com/",
+      "source": "Hacker News",
+      "date": "2026-11-19T21:15:47",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Self-hosted library branch over public web OPDS",
+          "publisher": "Hacker News",
+          "url": "https://joinmayberry.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "description": "Comments",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Self-hosted library branch over public web OPDS",
+      "title": "Show HN: The Riemann Proof Handbook",
       "description": "Comments",
-      "url": "https://joinmayberry.com/",
+      "url": "https://github.com/tamnd/riemann-handbook",
       "source": "Hacker News",
-      "date": "2026-11-19T21:15:47",
+      "date": "2026-11-22T05:46:30",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Self-hosted library branch over public web OPDS",
+          "title": "Show HN: The Riemann Proof Handbook",
           "publisher": "Hacker News",
-          "url": "https://joinmayberry.com/"
+          "url": "https://github.com/tamnd/riemann-handbook"
         }
       ],
       "faculty_summary": "Comments"
