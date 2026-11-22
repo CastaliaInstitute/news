@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:05:30.916641",
+  "generated_at": "2026-11-22T04:05:29.820789",
   "total_items": 10,
   "items": [
     {
@@ -114,6 +114,28 @@
     },
     {
       "type": "article",
+      "title": "Sandwich Simulator",
+      "description": "Comments",
+      "url": "https://stulle.app/",
+      "source": "Hacker News",
+      "date": "2026-11-22T00:07:59",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Sandwich Simulator",
+          "publisher": "Hacker News",
+          "url": "https://stulle.app/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Data Processing Incidents on Inference Providers",
       "description": "Comments",
       "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
@@ -130,50 +152,6 @@
           "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
           "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-      "description": "Comments",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "source": "Hacker News",
-      "date": "2026-11-21T22:09:58",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-          "publisher": "Hacker News",
-          "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
-      "description": "Comments",
-      "url": "https://github.com/ItsNotRexed/Leonida",
-      "source": "Hacker News",
-      "date": "2026-11-22T00:57:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
-          "publisher": "Hacker News",
-          "url": "https://github.com/ItsNotRexed/Leonida"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Sandwich Simulator",
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
       "description": "Comments",
-      "url": "https://stulle.app/",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
       "source": "Hacker News",
-      "date": "2026-11-22T00:07:59",
+      "date": "2026-11-21T22:09:58",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +193,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Sandwich Simulator",
+          "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
           "publisher": "Hacker News",
-          "url": "https://stulle.app/"
+          "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Getting the mind to steer the body to steer you",
+      "description": "Comments",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "source": "Hacker News",
+      "date": "2026-11-20T22:11:05",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Getting the mind to steer the body to steer you",
+          "publisher": "Hacker News",
+          "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
         }
       ],
       "faculty_summary": "Comments"
