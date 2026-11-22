@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:04:38.584629",
+  "generated_at": "2026-11-22T22:04:36.078201",
   "total_items": 10,
   "items": [
     {
@@ -23,28 +23,6 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
-    },
-    {
-      "type": "article",
-      "title": "What Happened to Silicon Valley?",
-      "description": "Comments",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "source": "Hacker News",
-      "date": "2026-11-22T19:20:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "What Happened to Silicon Valley?",
-          "publisher": "Hacker News",
-          "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -92,6 +70,72 @@
     },
     {
       "type": "article",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "description": "Comments",
+      "url": "https://nyx.net/",
+      "source": "Hacker News",
+      "date": "2026-11-22T20:15:59",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Nyx, the Oldest Internet Service Provider",
+          "publisher": "Hacker News",
+          "url": "https://nyx.net/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "description": "Comments",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "date": "2026-11-22T21:01:16",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "publisher": "Hacker News",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "What Happened to Silicon Valley?",
+      "description": "Comments",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "source": "Hacker News",
+      "date": "2026-11-22T19:20:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "What Happened to Silicon Valley?",
+          "publisher": "Hacker News",
+          "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "description": "Comments",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
@@ -108,6 +152,28 @@
           "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
           "publisher": "Hacker News",
           "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "description": "Comments",
+      "url": "https://smallsf.com/",
+      "source": "Hacker News",
+      "date": "2026-11-22T20:33:23",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A miniature San Francisco with live buses, planes and boats",
+          "publisher": "Hacker News",
+          "url": "https://smallsf.com/"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,28 +202,6 @@
     },
     {
       "type": "article",
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "description": "Comments",
-      "url": "https://nyx.net/",
-      "source": "Hacker News",
-      "date": "2026-11-22T20:15:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nyx, the Oldest Internet Service Provider",
-          "publisher": "Hacker News",
-          "url": "https://nyx.net/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
       "description": "Comments",
       "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
@@ -174,50 +218,6 @@
           "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
           "publisher": "Hacker News",
           "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Open Social Web Alliance",
-      "description": "Comments",
-      "url": "https://osw-alliance.net/en/",
-      "source": "Hacker News",
-      "date": "2026-11-22T15:24:32",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Open Social Web Alliance",
-          "publisher": "Hacker News",
-          "url": "https://osw-alliance.net/en/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Deflate X-Ray, See inside a compressed file",
-      "description": "Comments",
-      "url": "https://hrih.si/projects/deflate-xray/",
-      "source": "Hacker News",
-      "date": "2026-11-20T09:47:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Deflate X-Ray, See inside a compressed file",
-          "publisher": "Hacker News",
-          "url": "https://hrih.si/projects/deflate-xray/"
         }
       ],
       "faculty_summary": "Comments"
