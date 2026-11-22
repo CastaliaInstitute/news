@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:04:00.519861",
+  "generated_at": "2026-11-22T20:04:52.084438",
   "total_items": 10,
   "items": [
     {
@@ -92,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "description": "Comments",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News",
+      "date": "2026-11-22T19:10:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "publisher": "Hacker News",
+          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Open Social Web Alliance",
       "description": "Comments",
       "url": "https://osw-alliance.net/en/",
@@ -136,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "title": "Fascism and Monopoly",
       "description": "Comments",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
       "source": "Hacker News",
-      "date": "2026-11-20T21:03:12",
+      "date": "2026-11-22T15:25:29",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +171,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "title": "Fascism and Monopoly",
           "publisher": "Hacker News",
-          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+          "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Transvoxel Algorithm",
+      "description": "Comments",
+      "url": "https://transvoxel.org/",
+      "source": "Hacker News",
+      "date": "2026-11-19T12:50:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Transvoxel Algorithm",
+          "publisher": "Hacker News",
+          "url": "https://transvoxel.org/"
         }
       ],
       "faculty_summary": "Comments"
@@ -174,50 +218,6 @@
           "title": "A Better Vocabulary for Testing",
           "publisher": "Hacker News",
           "url": "https://alperenkeles.com/posts/vocab-for-testing/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50555002",
-      "source": "Hacker News",
-      "date": "2026-11-19T01:37:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-          "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50555002"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "description": "Comments",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-21T14:36:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Lean verification of the Riemann Hypothesis",
-          "publisher": "Hacker News",
-          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
         }
       ],
       "faculty_summary": "Comments"
