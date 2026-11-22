@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:04:36.078201",
+  "generated_at": "2026-11-22T23:04:49.914144",
   "total_items": 10,
   "items": [
     {
@@ -48,11 +48,11 @@
     },
     {
       "type": "article",
-      "title": "Perplexity and Intelligence",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "description": "Comments",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News",
-      "date": "2026-11-22T17:06:27",
+      "date": "2026-11-22T21:01:16",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -61,9 +61,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Perplexity and Intelligence",
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
           "publisher": "Hacker News",
-          "url": "https://openai.com/index/perplexity-and-intelligence/"
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
         }
       ],
       "faculty_summary": "Comments"
@@ -92,72 +92,6 @@
     },
     {
       "type": "article",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "description": "Comments",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News",
-      "date": "2026-11-22T21:01:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "publisher": "Hacker News",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "What Happened to Silicon Valley?",
-      "description": "Comments",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "source": "Hacker News",
-      "date": "2026-11-22T19:20:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "What Happened to Silicon Valley?",
-          "publisher": "Hacker News",
-          "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "description": "Comments",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "source": "Hacker News",
-      "date": "2026-11-22T04:04:56",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-          "publisher": "Hacker News",
-          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "A miniature San Francisco with live buses, planes and boats",
       "description": "Comments",
       "url": "https://smallsf.com/",
@@ -180,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "title": "Perplexity and Intelligence",
       "description": "Comments",
-      "url": "https://github.com/gulivan/worker755",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
       "source": "Hacker News",
-      "date": "2026-11-22T13:56:58",
+      "date": "2026-11-22T17:06:27",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +127,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "title": "Perplexity and Intelligence",
           "publisher": "Hacker News",
-          "url": "https://github.com/gulivan/worker755"
+          "url": "https://openai.com/index/perplexity-and-intelligence/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
       "description": "Comments",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
       "source": "Hacker News",
-      "date": "2026-11-22T15:35:24",
+      "date": "2026-11-18T15:43:29",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +149,75 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+          "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
           "publisher": "Hacker News",
-          "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/"
+          "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Agent swarm trying to solve P vs. NP",
+      "description": "Comments",
+      "url": "https://pequalnp.com/",
+      "source": "Hacker News",
+      "date": "2026-11-22T21:53:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Agent swarm trying to solve P vs. NP",
+          "publisher": "Hacker News",
+          "url": "https://pequalnp.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Usefulness of Useless Knowledge [pdf]",
+      "description": "Comments",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "source": "Hacker News",
+      "date": "2026-11-22T22:10:58",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Usefulness of Useless Knowledge [pdf]",
+          "publisher": "Hacker News",
+          "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "What Happened to Silicon Valley?",
+      "description": "Comments",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "source": "Hacker News",
+      "date": "2026-11-22T19:20:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "What Happened to Silicon Valley?",
+          "publisher": "Hacker News",
+          "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/"
         }
       ],
       "faculty_summary": "Comments"
