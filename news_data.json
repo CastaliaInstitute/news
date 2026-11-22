@@ -1,42 +1,28 @@
 {
-  "generated_at": "2026-11-22T15:04:43.327643",
+  "generated_at": "2026-11-22T16:05:02.324660",
   "total_items": 10,
   "items": [
     {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-luna16k-no-reasoning-fullft-sft-r20-e10-lr5e-6-seed42-20261121",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-luna16k-no-reasoning-fullft-sft-r20-e10-lr5e-6-seed42-20261121",
-      "source": "Hugging Face",
-      "date": "2026-11-22T15:01:07.000Z",
+      "type": "article",
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "description": "Comments",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "source": "Hacker News",
+      "date": "2026-11-22T15:42:40",
       "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "transformers",
-          "safetensors",
-          "exaone",
-          "text-generation",
-          "generated_from_trainer",
-          "sft",
-          "trl",
-          "conversational",
-          "custom_code",
-          "region:us"
-        ],
-        "matched_keywords": [
-          "reasoning"
-        ]
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
       },
-      "relevance_score": 0.0657707977745885,
+      "relevance_score": 0.059066785309150834,
       "sources": [
         {
-          "title": "\ud83e\udd16 New Model: Jongbin-kr/exaone-verireason-luna16k-no-reasoning-fullft-sft-r20-e10-lr5e-6-seed42-20261121",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/Jongbin-kr/exaone-verireason-luna16k-no-reasoning-fullft-sft-r20-e10-lr5e-6-seed42-20261121"
+          "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+          "publisher": "Hacker News",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
         }
       ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -106,28 +92,6 @@
     },
     {
       "type": "article",
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "description": "Comments",
-      "url": "https://github.com/pithings/unkernel",
-      "source": "Hacker News",
-      "date": "2026-11-17T16:35:46",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A real Linux kernel, compiled to WebAssembly",
-          "publisher": "Hacker News",
-          "url": "https://github.com/pithings/unkernel"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "description": "Comments",
       "url": "https://github.com/gulivan/worker755",
@@ -144,6 +108,50 @@
           "title": "Show HN: I built a game where you are an LLM's subagent",
           "publisher": "Hacker News",
           "url": "https://github.com/gulivan/worker755"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A better internet for everyone is possible. Today",
+      "description": "Comments",
+      "url": "https://osw-alliance.net/en/",
+      "source": "Hacker News",
+      "date": "2026-11-22T15:24:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A better internet for everyone is possible. Today",
+          "publisher": "Hacker News",
+          "url": "https://osw-alliance.net/en/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "description": "Comments",
+      "url": "https://github.com/pithings/unkernel",
+      "source": "Hacker News",
+      "date": "2026-11-17T16:35:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A real Linux kernel, compiled to WebAssembly",
+          "publisher": "Hacker News",
+          "url": "https://github.com/pithings/unkernel"
         }
       ],
       "faculty_summary": "Comments"
@@ -210,28 +218,6 @@
           "title": "Self-hosted library branch over public web OPDS",
           "publisher": "Hacker News",
           "url": "https://joinmayberry.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Sandwich Simulator",
-      "description": "Comments",
-      "url": "https://stulle.app/",
-      "source": "Hacker News",
-      "date": "2026-11-22T00:07:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Sandwich Simulator",
-          "publisher": "Hacker News",
-          "url": "https://stulle.app/"
         }
       ],
       "faculty_summary": "Comments"
