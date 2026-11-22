@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:05:19.609436",
+  "generated_at": "2026-11-22T10:04:56.590195",
   "total_items": 10,
   "items": [
     {
@@ -92,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "description": "Comments",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News",
+      "date": "2026-11-22T08:57:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "publisher": "Hacker News",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Lean verification of the Riemann Hypothesis",
       "description": "Comments",
       "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -136,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Notes on the discrete Fourier transform (DFT)",
+      "title": "Sandwich Simulator",
       "description": "Comments",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "url": "https://stulle.app/",
       "source": "Hacker News",
-      "date": "2026-11-22T06:52:25",
+      "date": "2026-11-22T00:07:59",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Notes on the discrete Fourier transform (DFT)",
+          "title": "Sandwich Simulator",
           "publisher": "Hacker News",
-          "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
+          "url": "https://stulle.app/"
         }
       ],
       "faculty_summary": "Comments"
@@ -196,28 +218,6 @@
           "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
           "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Sandwich Simulator",
-      "description": "Comments",
-      "url": "https://stulle.app/",
-      "source": "Hacker News",
-      "date": "2026-11-22T00:07:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Sandwich Simulator",
-          "publisher": "Hacker News",
-          "url": "https://stulle.app/"
         }
       ],
       "faculty_summary": "Comments"
