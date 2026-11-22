@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:04:55.066612",
+  "generated_at": "2026-11-22T06:05:57.143508",
   "total_items": 10,
   "items": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "type": "article",
-      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "description": "Comments",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "Hacker News",
@@ -61,7 +61,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
           "publisher": "Hacker News",
           "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
         }
@@ -114,28 +114,6 @@
     },
     {
       "type": "article",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "description": "Comments",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "source": "Hacker News",
-      "date": "2026-11-21T18:02:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Inkling-2-Mini in 5.4 GB Memory",
-          "publisher": "Hacker News",
-          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Sandwich Simulator",
       "description": "Comments",
       "url": "https://stulle.app/",
@@ -158,11 +136,11 @@
     },
     {
       "type": "article",
-      "title": "Detonating a pile of lead azide",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
       "description": "Comments",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "source": "Hacker News",
-      "date": "2026-11-21T13:23:14",
+      "date": "2026-11-21T18:02:19",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,9 +149,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Detonating a pile of lead azide",
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
           "publisher": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
         }
       ],
       "faculty_summary": "Comments"
@@ -196,6 +174,28 @@
           "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
           "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Detonating a pile of lead azide",
+      "description": "Comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:23:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Detonating a pile of lead azide",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
         }
       ],
       "faculty_summary": "Comments"
