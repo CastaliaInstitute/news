@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:04:47.497270",
+  "generated_at": "2026-11-22T14:05:01.140385",
   "total_items": 10,
   "items": [
     {
@@ -70,28 +70,6 @@
     },
     {
       "type": "article",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "description": "Comments",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "source": "Hacker News",
-      "date": "2026-11-20T21:03:12",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-          "publisher": "Hacker News",
-          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "A real Linux kernel, compiled to WebAssembly",
       "description": "Comments",
       "url": "https://github.com/pithings/unkernel",
@@ -108,6 +86,28 @@
           "title": "A real Linux kernel, compiled to WebAssembly",
           "publisher": "Hacker News",
           "url": "https://github.com/pithings/unkernel"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "description": "Comments",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News",
+      "date": "2026-11-20T21:03:12",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "publisher": "Hacker News",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,28 +136,6 @@
     },
     {
       "type": "article",
-      "title": "Sandwich Simulator",
-      "description": "Comments",
-      "url": "https://stulle.app/",
-      "source": "Hacker News",
-      "date": "2026-11-22T00:07:59",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Sandwich Simulator",
-          "publisher": "Hacker News",
-          "url": "https://stulle.app/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Self-hosted library branch over public web OPDS",
       "description": "Comments",
       "url": "https://joinmayberry.com/",
@@ -174,6 +152,28 @@
           "title": "Self-hosted library branch over public web OPDS",
           "publisher": "Hacker News",
           "url": "https://joinmayberry.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Sandwich Simulator",
+      "description": "Comments",
+      "url": "https://stulle.app/",
+      "source": "Hacker News",
+      "date": "2026-11-22T00:07:59",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Sandwich Simulator",
+          "publisher": "Hacker News",
+          "url": "https://stulle.app/"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: The Riemann Proof Handbook",
+      "title": "Data Processing Incidents on Inference Providers",
       "description": "Comments",
-      "url": "https://github.com/tamnd/riemann-handbook",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "source": "Hacker News",
-      "date": "2026-11-22T05:46:30",
+      "date": "2026-11-22T02:14:14",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: The Riemann Proof Handbook",
+          "title": "Data Processing Incidents on Inference Providers",
           "publisher": "Hacker News",
-          "url": "https://github.com/tamnd/riemann-handbook"
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
         }
       ],
       "faculty_summary": "Comments"
