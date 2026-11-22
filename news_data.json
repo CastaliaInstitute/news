@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:04:07.377231",
+  "generated_at": "2026-11-22T12:05:45.926402",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.023439554968165563,
+      "relevance_score": 0.023506711332152628,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
@@ -86,6 +86,50 @@
           "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
           "publisher": "Hacker News",
           "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "description": "Comments",
+      "url": "https://github.com/pithings/unkernel",
+      "source": "Hacker News",
+      "date": "2026-11-17T16:35:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A real Linux kernel, compiled to WebAssembly",
+          "publisher": "Hacker News",
+          "url": "https://github.com/pithings/unkernel"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "description": "Comments",
+      "url": "https://arxiv.org/abs/2606.14068",
+      "source": "Hacker News",
+      "date": "2026-11-22T09:18:36",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "publisher": "Hacker News",
+          "url": "https://arxiv.org/abs/2606.14068"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: The Riemann Proof Handbook",
+      "title": "Self-hosted library branch over public web OPDS",
       "description": "Comments",
-      "url": "https://github.com/tamnd/riemann-handbook",
+      "url": "https://joinmayberry.com/",
       "source": "Hacker News",
-      "date": "2026-11-22T05:46:30",
+      "date": "2026-11-19T21:15:47",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,53 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: The Riemann Proof Handbook",
+          "title": "Self-hosted library branch over public web OPDS",
           "publisher": "Hacker News",
-          "url": "https://github.com/tamnd/riemann-handbook"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "description": "Comments",
-      "url": "https://github.com/pithings/unkernel",
-      "source": "Hacker News",
-      "date": "2026-11-17T16:35:46",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A real Linux kernel, compiled to WebAssembly",
-          "publisher": "Hacker News",
-          "url": "https://github.com/pithings/unkernel"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Detonating a pile of lead azide",
-      "description": "Comments",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News",
-      "date": "2026-11-21T13:23:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Detonating a pile of lead azide",
-          "publisher": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+          "url": "https://joinmayberry.com/"
         }
       ],
       "faculty_summary": "Comments"
