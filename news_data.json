@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-11-22T01:05:16.046836",
+  "generated_at": "2026-11-22T02:05:48.054087",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF",
+      "source": "Hugging Face",
+      "date": "2026-11-22T02:02:06.000Z",
+      "metadata": {
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "gguf",
+          "qwen3_5",
+          "reasoning",
+          "sft",
+          "text-generation",
+          "base_model:unsloth/Qwen3.5-4B",
+          "base_model:finetune:unsloth/Qwen3.5-4B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us",
+          "conversational"
+        ],
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.07784042639663052,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/Miska25/Qwen3.5-4B-Kimi-Reasoning-Luna-Dense-SFT-GGUF"
+        }
+      ],
+      "faculty_summary": "Downloads: 0 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -14,7 +51,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05054544940462854,
+      "relevance_score": 0.0507737788316468,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -36,7 +73,7 @@
         "author": "",
         "source_excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
       },
-      "relevance_score": 0.023439554968165563,
+      "relevance_score": 0.02361289841709845,
       "sources": [
         {
           "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
@@ -136,28 +173,6 @@
     },
     {
       "type": "article",
-      "title": "Detonating a pile of lead azide",
-      "description": "Comments",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "source": "Hacker News",
-      "date": "2026-11-21T13:23:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Detonating a pile of lead azide",
-          "publisher": "Hacker News",
-          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
       "description": "Comments",
       "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
@@ -180,6 +195,28 @@
     },
     {
       "type": "article",
+      "title": "Detonating a pile of lead azide",
+      "description": "Comments",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "date": "2026-11-21T13:23:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Detonating a pile of lead azide",
+          "publisher": "Hacker News",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Getting the mind to steer the body to steer you",
       "description": "Comments",
       "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
@@ -196,28 +233,6 @@
           "title": "Getting the mind to steer the body to steer you",
           "publisher": "Hacker News",
           "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "description": "Comments",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "source": "Hacker News",
-      "date": "2026-11-20T18:33:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Hurried Announcement: Alessandro Masullo GRH",
-          "publisher": "Hacker News",
-          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
         }
       ],
       "faculty_summary": "Comments"
