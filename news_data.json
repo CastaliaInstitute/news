@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:05:45.487333",
+  "generated_at": "2026-11-23T19:04:04.742668",
   "total_items": 10,
   "items": [
     {
@@ -80,7 +80,7 @@
         "author": "Antoine Lejay (PASTA, IECL), Lionel Lenotre (Universit{\\'e} de Haute-Alsace), Sa{\\\"i}d Toubra (IECL)",
         "source_excerpt": "arXiv:2611.26671v1 Announce Type: new \nAbstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Such a characterization is crucial, particularly as a substantial body of literature indicates that gradient descent circumvents critical points. The present article introduces an intermediate structure, termed the critical thalweg, which encompasses all critical points and exhibits key geometric properties. Beyond providing a geometric proof of Baldi \\& Hornik's results using simpler assumptions than the existing literature, this framework offers a global view of the loss landscape that can be easily visualized in a two-dimensional plane. Empirical observations suggest that gradient descent is attracted toward the critical thalweg, along which the loss continues to decrease to its global minimum."
       },
-      "relevance_score": 0.060737037010432676,
+      "relevance_score": 0.05998054984950505,
       "sources": [
         {
           "title": "On the loss landscape of the linear neural network: beyond critical points",
@@ -152,7 +152,7 @@
         "author": "Bao Pham",
         "source_excerpt": "arXiv:2611.26797v1 Announce Type: new \nAbstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima known as spurious states, long regarded as a failure of memory. We argue that this failure is where creativity begins, and that memorization and generalization can coexist as outcomes of one retrieval process. First, we show that diffusion models behave as AMs. With little data, a diffusion model forms a distinct basin of attraction around each training sample. As the data grows, these basins shrink, and spurious states emerge as attractors that blend stored samples yet match none of them. They are the first signs of generative capability. We characterize this transition by measuring the volume, energy, and curvature of these basins across datasets and architectures, including Stable Diffusion. We then turn to language and move beyond the energy-based view of AM. We show that uniform-state discrete diffusion models are AMs capable of retrieving unseen data, with basins of attraction that arise from conditional likelihood maximization alone. As the training set grows, basins around training examples contract while basins around unseen examples expand, until corrupted test sentences are recovered as reliably as training ones. Conditional entropy exposes this coexistence within a single sequence and cheaply diagnoses where a model lies along the transition. Together, these results suggest that AM is a general principle defined by basins of attraction, and that memorization and generalization can coexist within one model. AM thus offers a framework for asking when a generative model recalls and when it creates."
       },
-      "relevance_score": 0.03462997123545648,
+      "relevance_score": 0.0340722225017028,
       "sources": [
         {
           "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
@@ -174,7 +174,7 @@
         "author": "Erdong Hu, Zhimin Ding, Yuxin Tang, Chris Jermaine",
         "source_excerpt": "arXiv:2611.26805v1 Announce Type: new \nAbstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging is poorly suited: locally trained adapters are not identifiable up to permutation, and averages of adapters trained on dissimilar data can be uninformative or unstable. We propose a simple idea called federated library-based adaptation (LEAN), which replaces averaging altogether. The server maintains a library of rank-1 basis pairs; participants check out random subsets, fine-tune them locally as a LoRA adapter, and check them back in, so that each pair is shuffled across sites and trained on many participants' data. Because no aggregation step is required, LEAN operates fully asynchronously and communicates only low-rank parameters. We prove that, in a synchronous setting, LEAN converges to a neighborhood of a stationary point, with the shuffle canceling data heterogeneity at first order. Across image and text fine-tuning benchmarks, LEAN outperforms averaging-based baselines in most settings with substantially less communication, and remains effective under heavy data heterogeneity, where averaging-based methods fail to reach nontrivial accuracy, and under heavy asynchrony, where they degrade substantially."
       },
-      "relevance_score": 0.03202832100227945,
+      "relevance_score": 0.03211064582268205,
       "sources": [
         {
           "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
