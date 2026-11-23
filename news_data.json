@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:05:59.632971",
+  "generated_at": "2026-11-23T09:06:12.460361",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "Miguel Silva, Eva Maia, Jo\\~ao Vitorino, Isabel Pra\\c{c}a",
         "source_excerpt": "arXiv:2611.26818v1 Announce Type: new \nAbstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image and text domains, the study of such examples in tabular data remains comparatively limited, despite its widespread use in real-world systems. This work introduces AURORA, a modular, open-source tool for evaluating the robustness of ML models on tabular data classification. It integrates multiple adversarial perturbation methods and evaluation metrics within a unified framework to systematically assess model behavior under adversarial conditions. Central to AURORA is its evaluation report, which focuses on robustness analysis by quantifying performance degradation, comparing the impact of different perturbation strategies, and identifying model vulnerabilities across features and input regions. The report is complemented by visual artifacts that facilitate the interpretability of robustness patterns. Additionally, AURORA incorporates a distance adjustment mechanism that penalizes implausible adversarial samples based on feature-level constraints, ensuring that the robustness assessment remains grounded in realistic perturbations and is therefore more reliable."
       },
-      "relevance_score": 0.15547573398429224,
+      "relevance_score": 0.14961653051691032,
       "sources": [
         {
           "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
@@ -36,7 +36,7 @@
         "author": "Eyhab Al-Masri",
         "source_excerpt": "arXiv:2611.26731v1 Announce Type: new \nAbstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive averaging (FedAvg) collapses under high-magnitude attacks, whereas distance- and statistics-based defenses (Krum, median, trimmed mean) sacrifice accuracy on non-IID data and remain vulnerable to stealthy attacks. We present FedTether, which reweights client updates by their deviation from a coordinatewise median through a robust, dead-zoned score applied as a server-side optimizer step. Across three datasets, three attack types, and Byzantine fractions up to 40%, FedTether is the only method top-tier in every regime: it matches FedAvg under stealthy attacks with no robustness tax, exceeds robust baselines by up to 42 accuracy points, and stays accurate where high-magnitude attacks reduce FedAvg to near-random. These properties persist at 50 clients under partial participation, with no shared data or validation set."
       },
-      "relevance_score": 0.14553258302853844,
+      "relevance_score": 0.13774366976378272,
       "sources": [
         {
           "title": "Cross-Attack Robust Aggregation for Federated Learning",
@@ -58,7 +58,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.08013122509967795,
+      "relevance_score": 0.07873905075111304,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -80,7 +80,7 @@
         "author": "Antoine Lejay (PASTA, IECL), Lionel Lenotre (Universit{\\'e} de Haute-Alsace), Sa{\\\"i}d Toubra (IECL)",
         "source_excerpt": "arXiv:2611.26671v1 Announce Type: new \nAbstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Such a characterization is crucial, particularly as a substantial body of literature indicates that gradient descent circumvents critical points. The present article introduces an intermediate structure, termed the critical thalweg, which encompasses all critical points and exhibits key geometric properties. Beyond providing a geometric proof of Baldi \\& Hornik's results using simpler assumptions than the existing literature, this framework offers a global view of the loss landscape that can be easily visualized in a two-dimensional plane. Empirical observations suggest that gradient descent is attracted toward the critical thalweg, along which the loss continues to decrease to its global minimum."
       },
-      "relevance_score": 0.06233485437921704,
+      "relevance_score": 0.061528473488549125,
       "sources": [
         {
           "title": "On the loss landscape of the linear neural network: beyond critical points",
@@ -105,7 +105,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.061659806691123996,
+      "relevance_score": 0.05933611704577244,
       "sources": [
         {
           "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
@@ -130,7 +130,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.04007295716320481,
+      "relevance_score": 0.03757965810113867,
       "sources": [
         {
           "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
@@ -152,7 +152,7 @@
         "author": "Bao Pham",
         "source_excerpt": "arXiv:2611.26797v1 Announce Type: new \nAbstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima known as spurious states, long regarded as a failure of memory. We argue that this failure is where creativity begins, and that memorization and generalization can coexist as outcomes of one retrieval process. First, we show that diffusion models behave as AMs. With little data, a diffusion model forms a distinct basin of attraction around each training sample. As the data grows, these basins shrink, and spurious states emerge as attractors that blend stored samples yet match none of them. They are the first signs of generative capability. We characterize this transition by measuring the volume, energy, and curvature of these basins across datasets and architectures, including Stable Diffusion. We then turn to language and move beyond the energy-based view of AM. We show that uniform-state discrete diffusion models are AMs capable of retrieving unseen data, with basins of attraction that arise from conditional likelihood maximization alone. As the training set grows, basins around training examples contract while basins around unseen examples expand, until corrupted test sentences are recovered as reliably as training ones. Conditional entropy exposes this coexistence within a single sequence and cheaply diagnoses where a model lies along the transition. Together, these results suggest that AM is a general principle defined by basins of attraction, and that memorization and generalization can coexist within one model. AM thus offers a framework for asking when a generative model recalls and when it creates."
       },
-      "relevance_score": 0.0359902720513121,
+      "relevance_score": 0.03522022869982663,
       "sources": [
         {
           "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
@@ -174,7 +174,7 @@
         "author": "Erdong Hu, Zhimin Ding, Yuxin Tang, Chris Jermaine",
         "source_excerpt": "arXiv:2611.26805v1 Announce Type: new \nAbstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging is poorly suited: locally trained adapters are not identifiable up to permutation, and averages of adapters trained on dissimilar data can be uninformative or unstable. We propose a simple idea called federated library-based adaptation (LEAN), which replaces averaging altogether. The server maintains a library of rank-1 basis pairs; participants check out random subsets, fine-tune them locally as a LoRA adapter, and check them back in, so that each pair is shuffled across sites and trained on many participants' data. Because no aggregation step is required, LEAN operates fully asynchronously and communicates only low-rank parameters. We prove that, in a synchronous setting, LEAN converges to a neighborhood of a stationary point, with the shuffle canceling data heterogeneity at first order. Across image and text fine-tuning benchmarks, LEAN outperforms averaging-based baselines in most settings with substantially less communication, and remains effective under heavy data heterogeneity, where averaging-based methods fail to reach nontrivial accuracy, and under heavy asynchrony, where they degrade substantially."
       },
-      "relevance_score": 0.033371446616229226,
+      "relevance_score": 0.031667526507413064,
       "sources": [
         {
           "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
@@ -199,7 +199,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02836261199632798,
+      "relevance_score": 0.027293748641936726,
       "sources": [
         {
           "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
@@ -211,11 +211,11 @@
     },
     {
       "type": "article",
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
       "description": "Comments",
-      "url": "https://spelunkr.tv",
+      "url": "https://github.com/AFK-surf/xnulinux",
       "source": "Hacker News",
-      "date": "2026-11-23T01:13:51",
+      "date": "2026-11-23T03:49:24",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -224,9 +224,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "title": "XNU Linux: Full OS X GUI Userspace on Linux",
           "publisher": "Hacker News",
-          "url": "https://spelunkr.tv"
+          "url": "https://github.com/AFK-surf/xnulinux"
         }
       ],
       "faculty_summary": "Comments"
