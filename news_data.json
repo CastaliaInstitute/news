@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-23T04:05:25.431097",
+  "generated_at": "2026-11-23T05:05:50.499462",
   "total_items": 10,
   "items": [
+    {
+      "type": "article",
+      "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+      "description": "arXiv:2611.26818v1 Announce Type: new \nAbstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image...",
+      "url": "https://arxiv.org/abs/2611.26818",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Miguel Silva, Eva Maia, Jo\\~ao Vitorino, Isabel Pra\\c{c}a",
+        "source_excerpt": "arXiv:2611.26818v1 Announce Type: new \nAbstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image and text domains, the study of such examples in tabular data remains comparatively limited, despite its widespread use in real-world systems. This work introduces AURORA, a modular, open-source tool for evaluating the robustness of ML models on tabular data classification. It integrates multiple adversarial perturbation methods and evaluation metrics within a unified framework to systematically assess model behavior under adversarial conditions. Central to AURORA is its evaluation report, which focuses on robustness analysis by quantifying performance degradation, comparing the impact of different perturbation strategies, and identifying model vulnerabilities across features and input regions. The report is complemented by visual artifacts that facilitate the interpretability of robustness patterns. Additionally, AURORA incorporates a distance adjustment mechanism that penalizes implausible adversarial samples based on feature-level constraints, ensuring that the robustness assessment remains grounded in realistic perturbations and is therefore more reliable."
+      },
+      "relevance_score": 0.1526032250503242,
+      "sources": [
+        {
+          "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26818"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26818v1 Announce Type: new \nAbstract: The increasing adoption of Machine Learning (ML) models in high-stakes applications has raised critical concerns regarding their robustness against adversarial attacks. While extensive research has focused on adversarial example generation in image..."
+    },
+    {
+      "type": "article",
+      "title": "Cross-Attack Robust Aggregation for Federated Learning",
+      "description": "arXiv:2611.26731v1 Announce Type: new \nAbstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive aver...",
+      "url": "https://arxiv.org/abs/2611.26731",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Eyhab Al-Masri",
+        "source_excerpt": "arXiv:2611.26731v1 Announce Type: new \nAbstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive averaging (FedAvg) collapses under high-magnitude attacks, whereas distance- and statistics-based defenses (Krum, median, trimmed mean) sacrifice accuracy on non-IID data and remain vulnerable to stealthy attacks. We present FedTether, which reweights client updates by their deviation from a coordinatewise median through a robust, dead-zoned score applied as a server-side optimizer step. Across three datasets, three attack types, and Byzantine fractions up to 40%, FedTether is the only method top-tier in every regime: it matches FedAvg under stealthy attacks with no robustness tax, exceeds robust baselines by up to 42 accuracy points, and stays accurate where high-magnitude attacks reduce FedAvg to near-random. These properties persist at 50 clients under partial participation, with no shared data or validation set."
+      },
+      "relevance_score": 0.14006361320289404,
+      "sources": [
+        {
+          "title": "Cross-Attack Robust Aggregation for Federated Learning",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26731"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26731v1 Announce Type: new \nAbstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive aver..."
+    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -14,7 +58,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05975188441437373,
+      "relevance_score": 0.07711142811967445,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -23,6 +67,147 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "type": "article",
+      "title": "On the loss landscape of the linear neural network: beyond critical points",
+      "description": "arXiv:2611.26671v1 Announce Type: new \nAbstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking...",
+      "url": "https://arxiv.org/abs/2611.26671",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Antoine Lejay (PASTA, IECL), Lionel Lenotre (Universit{\\'e} de Haute-Alsace), Sa{\\\"i}d Toubra (IECL)",
+        "source_excerpt": "arXiv:2611.26671v1 Announce Type: new \nAbstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Such a characterization is crucial, particularly as a substantial body of literature indicates that gradient descent circumvents critical points. The present article introduces an intermediate structure, termed the critical thalweg, which encompasses all critical points and exhibits key geometric properties. Beyond providing a geometric proof of Baldi \\& Hornik's results using simpler assumptions than the existing literature, this framework offers a global view of the loss landscape that can be easily visualized in a two-dimensional plane. Empirical observations suggest that gradient descent is attracted toward the critical thalweg, along which the loss continues to decrease to its global minimum."
+      },
+      "relevance_score": 0.059990603023927155,
+      "sources": [
+        {
+          "title": "On the loss landscape of the linear neural network: beyond critical points",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26671"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26671v1 Announce Type: new \nAbstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking..."
+    },
+    {
+      "type": "article",
+      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+      "description": "arXiv:2611.26870v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks e...",
+      "url": "https://arxiv.org/abs/2611.26870",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Radhika Bhargava, Shinibali Bhattacharyya, George Mihaila, Jay Prajapati, Anwesan Pal, Yue Zhang",
+        "source_excerpt": "arXiv:2611.26870v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks evaluate demographic discrimination under a single reasoning objective, and none we know of tests whether a model treats the same item differently when asked to describe an outcome versus decide one. We introduce normative--descriptive calibration, the extent to which a model's differentiation between matched candidates depends on whether it is asked to predict or to decide, and measure it with the Normative--Descriptive Calibration Benchmark (NDCB): 697 matched-pair scenarios across six domains, each posed under both framings, and three metrics, Normative Engagement Rate (NER), Normative Leakage Rate (NLR), and Normative--Descriptive Separation (NDS). Across six LLMs, NDS separates 13 of 15 model pairs, against 7 for BBQ accuracy and none for BOLD, although these counts also reflect each benchmark's sample size. Claude Sonnet 4.6 and Claude Opus 4.6 separate the framings most strongly (average NDS $= +0.55$ and $+0.52$, with overlapping confidence intervals), whereas GPT-5.5's average NDS is negative ($-0.14$) under the single-pick instruction and near zero ($+0.02$) without it. In a simplified prompt template, removing single trigger words never changes the sign of a model's average NDS but can shift it by up to 0.46 and reorder models. Reversing candidate order reveals a further effect: when forced to choose between identical candidates, all six models favor whichever is listed first, and once order is averaged out their demographic-aligned lean is toward the marginalized candidate. Describing disparities and prescribing them are separable behaviors that differ across models.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.059342231379517246,
+      "sources": [
+        {
+          "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26870"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26870v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and descriptive reasoning (what is likely to happen). Most fairness benchmarks e..."
+    },
+    {
+      "type": "article",
+      "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+      "description": "arXiv:2611.26752v1 Announce Type: new \nAbstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable s...",
+      "url": "https://arxiv.org/abs/2611.26752",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Jiangfan Zhang, Wentao Bao, Xian Wu, Xiangjun Fan, Jianpeng Cheng, Jun Xiao",
+        "source_excerpt": "arXiv:2611.26752v1 Announce Type: new \nAbstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable special tokens (such as the register tokens in Vision Transformer) enable efficient single-pass inference, but often suffer from the absence of sequential refinement and exhibit redundant representations across tokens. To address these challenges, we introduce Depth-Linked Residual Tokens (DepThink), an efficient framework designed for multimodal retrieval and generation. Operating within a single pre-filling forward pass, DepThink appends a sequence of K learnable residual tokens whose hidden states are coupled through a lightweight, learnable residual recurrence. This mechanism enables each residual token to progressively capture complementary information missed by preceding tokens. Theoretically, we prove that DepThink provides strictly expanded geometric directional reachability over standard learnable tokens and guarantees a provable one-step descent advantage. We evaluate DepThink across multimodal retrieval and generation tasks. DepThink consistently outperforms learnable-token baselines and matches or exceeds looped architectures across dense (2B, 8B) and sparse mixture-of-experts (30B-A3B) backbones under both LoRA and full-parameter fine-tuning, while accelerating training by up to 11.9 and inference by 4.3 over looped architectures.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.037585871808804225,
+      "sources": [
+        {
+          "title": "Depth-Linked Residual Tokens for Multimodal Retrieval and Generation",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26752"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26752v1 Announce Type: new \nAbstract: Iterative architectures such as looped language models improve parameter efficiency and reasoning capacity of transformers, yet their sequential backbone iterations introduce substantial computational latency. Conversely, parallelizable learnable s..."
+    },
+    {
+      "type": "article",
+      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+      "description": "arXiv:2611.26797v1 Announce Type: new \nAbstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which ...",
+      "url": "https://arxiv.org/abs/2611.26797",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Bao Pham",
+        "source_excerpt": "arXiv:2611.26797v1 Announce Type: new \nAbstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through attractor dynamics. Beyond their capacity, AMs form new minima known as spurious states, long regarded as a failure of memory. We argue that this failure is where creativity begins, and that memorization and generalization can coexist as outcomes of one retrieval process. First, we show that diffusion models behave as AMs. With little data, a diffusion model forms a distinct basin of attraction around each training sample. As the data grows, these basins shrink, and spurious states emerge as attractors that blend stored samples yet match none of them. They are the first signs of generative capability. We characterize this transition by measuring the volume, energy, and curvature of these basins across datasets and architectures, including Stable Diffusion. We then turn to language and move beyond the energy-based view of AM. We show that uniform-state discrete diffusion models are AMs capable of retrieving unseen data, with basins of attraction that arise from conditional likelihood maximization alone. As the training set grows, basins around training examples contract while basins around unseen examples expand, until corrupted test sentences are recovered as reliably as training ones. Conditional entropy exposes this coexistence within a single sequence and cheaply diagnoses where a model lies along the transition. Together, these results suggest that AM is a general principle defined by basins of attraction, and that memorization and generalization can coexist within one model. AM thus offers a framework for asking when a generative model recalls and when it creates."
+      },
+      "relevance_score": 0.0364139624137124,
+      "sources": [
+        {
+          "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26797"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26797v1 Announce Type: new \nAbstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which ..."
+    },
+    {
+      "type": "article",
+      "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+      "description": "arXiv:2611.26805v1 Announce Type: new \nAbstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging...",
+      "url": "https://arxiv.org/abs/2611.26805",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.LG",
+        "author": "Erdong Hu, Zhimin Ding, Yuxin Tang, Chris Jermaine",
+        "source_excerpt": "arXiv:2611.26805v1 Announce Type: new \nAbstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging is poorly suited: locally trained adapters are not identifiable up to permutation, and averages of adapters trained on dissimilar data can be uninformative or unstable. We propose a simple idea called federated library-based adaptation (LEAN), which replaces averaging altogether. The server maintains a library of rank-1 basis pairs; participants check out random subsets, fine-tune them locally as a LoRA adapter, and check them back in, so that each pair is shuffled across sites and trained on many participants' data. Because no aggregation step is required, LEAN operates fully asynchronously and communicates only low-rank parameters. We prove that, in a synchronous setting, LEAN converges to a neighborhood of a stationary point, with the shuffle canceling data heterogeneity at first order. Across image and text fine-tuning benchmarks, LEAN outperforms averaging-based baselines in most settings with substantially less communication, and remains effective under heavy data heterogeneity, where averaging-based methods fail to reach nontrivial accuracy, and under heavy asynchrony, where they degrade substantially."
+      },
+      "relevance_score": 0.032582660816289626,
+      "sources": [
+        {
+          "title": "LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26805"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26805v1 Announce Type: new \nAbstract: Federated fine-tuning of foundation models with low-rank adapters (LoRA) is typically reconciled by averaging locally trained adapters. In cross-device settings, where participants hold heterogeneous data and join or leave asynchronously, averaging..."
+    },
+    {
+      "type": "article",
+      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+      "description": "arXiv:2611.26794v1 Announce Type: new \nAbstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large...",
+      "url": "https://arxiv.org/abs/2611.26794",
+      "source": "arXiv",
+      "date": "2026-11-23T05:00:00",
+      "metadata": {
+        "feed_url": "https://arxiv.org/rss/cs.AI",
+        "author": "Yixuan Duan, Kexin Geng, Hanwen Xu, Wei Qiu",
+        "source_excerpt": "arXiv:2611.26794v1 Announce Type: new \nAbstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an explanation, but two gaps remain. Pathology MLLMs read H&E alone, while these readouts need the cell phenotypes that mIF measures. And their reasoning has no step-level truth to be checked against, so R1-style reinforcement learning rewards only the final answer and leaves the reasoning unverified. Same-section H&E and mIF provide what both gaps lack: mIF measures every cell without manual annotation, which gives cell-level ground truth for each step that clinical guidelines prescribe, from delineating a tissue compartment to counting and normalizing the marker-positive cells within it. We therefore present HERMES (H&E-mIF Reasoning with Multimodal Evidence Supervision), an R1-style MLLM that reasons jointly over paired H&E and mIF in guideline steps and is trained with a process reward that checks every stated quantity against this truth. Across four field-level TIME tasks in colorectal cancer, HERMES (4B) reaches an average accuracy of 84.5%, compared with 74.7% for the strongest of twelve proprietary, general, medical and pathology MLLMs, and a higher share of its intermediate quantities is correct than for the strongest open-weight baseline. Without the process reward, reinforcement learning barely improves on supervised fine-tuning (80.0% vs. 78.8%) and fewer stated quantities are correct; editing a decisive stated quantity changes the answer as implied in all 885 test questions. Without retraining, it keeps the highest average accuracy on an external cohort imaged with CODEX (76.4% vs. 67.3%) and on head and neck cancer, a cancer type absent from training (76.7% vs. 72.5%).",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.027665977056518933,
+      "sources": [
+        {
+          "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+          "publisher": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26794"
+        }
+      ],
+      "faculty_summary": "arXiv:2611.26794v1 Announce Type: new \nAbstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large..."
     },
     {
       "type": "article",
@@ -42,182 +227,6 @@
           "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
           "publisher": "Hacker News",
           "url": "https://spelunkr.tv"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "description": "Comments",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News",
-      "date": "2026-11-22T21:01:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "publisher": "Hacker News",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Masullo on the Riemann Hypothesis",
-      "description": "Comments",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-22T10:59:56",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Masullo on the Riemann Hypothesis",
-          "publisher": "Hacker News",
-          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "description": "Comments",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "source": "Hacker News",
-      "date": "2026-11-22T19:10:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-          "publisher": "Hacker News",
-          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "description": "Comments",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "source": "Hacker News",
-      "date": "2026-11-18T15:43:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-          "publisher": "Hacker News",
-          "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "description": "Comments",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "source": "Hacker News",
-      "date": "2026-11-22T23:06:37",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GL.iNet Security Notice 2026-11-20",
-          "publisher": "Hacker News",
-          "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "description": "Comments",
-      "url": "https://smallsf.com/",
-      "source": "Hacker News",
-      "date": "2026-11-22T20:33:23",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A miniature San Francisco with live buses, planes and boats",
-          "publisher": "Hacker News",
-          "url": "https://smallsf.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-      "description": "Comments",
-      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-22T22:10:58",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-          "publisher": "Hacker News",
-          "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "description": "Comments",
-      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "source": "Hacker News",
-      "date": "2026-11-22T21:33:12",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-          "publisher": "Hacker News",
-          "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"
         }
       ],
       "faculty_summary": "Comments"
