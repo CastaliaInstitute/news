@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:05:11.890928",
+  "generated_at": "2026-11-23T02:06:03.544098",
   "total_items": 10,
   "items": [
     {
@@ -26,28 +26,6 @@
     },
     {
       "type": "article",
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "description": "Comments",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "source": "Hacker News",
-      "date": "2026-11-22T23:12:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-          "publisher": "Hacker News",
-          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "description": "Comments",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
@@ -64,6 +42,28 @@
           "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
           "publisher": "Hacker News",
           "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "description": "Comments",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "date": "2026-11-23T01:13:51",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "publisher": "Hacker News",
+          "url": "https://spelunkr.tv"
         }
       ],
       "faculty_summary": "Comments"
@@ -92,28 +92,6 @@
     },
     {
       "type": "article",
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "description": "Comments",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "source": "Hacker News",
-      "date": "2026-11-22T23:06:37",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GL.iNet Security Notice 2026-11-20",
-          "publisher": "Hacker News",
-          "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
       "description": "Comments",
       "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
@@ -130,6 +108,28 @@
           "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
           "publisher": "Hacker News",
           "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "description": "Comments",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "source": "Hacker News",
+      "date": "2026-11-22T23:06:37",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "GL.iNet Security Notice 2026-11-20",
+          "publisher": "Hacker News",
+          "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "Nyx, the Oldest Internet Service Provider",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
       "description": "Comments",
-      "url": "https://nyx.net/",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
       "source": "Hacker News",
-      "date": "2026-11-22T20:15:59",
+      "date": "2026-11-22T23:12:10",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Nyx, the Oldest Internet Service Provider",
+          "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
           "publisher": "Hacker News",
-          "url": "https://nyx.net/"
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "title": "Masullo on the Riemann Hypothesis",
       "description": "Comments",
-      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
       "source": "Hacker News",
-      "date": "2026-11-22T21:33:12",
+      "date": "2026-11-22T10:59:56",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+          "title": "Masullo on the Riemann Hypothesis",
           "publisher": "Hacker News",
-          "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"
+          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
         }
       ],
       "faculty_summary": "Comments"
