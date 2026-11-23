@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:06:03.544098",
+  "generated_at": "2026-11-23T03:05:40.431089",
   "total_items": 10,
   "items": [
     {
@@ -26,28 +26,6 @@
     },
     {
       "type": "article",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "description": "Comments",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News",
-      "date": "2026-11-22T21:01:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "publisher": "Hacker News",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
       "description": "Comments",
       "url": "https://spelunkr.tv",
@@ -64,6 +42,50 @@
           "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
           "publisher": "Hacker News",
           "url": "https://spelunkr.tv"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Masullo on the Riemann Hypothesis",
+      "description": "Comments",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "source": "Hacker News",
+      "date": "2026-11-22T10:59:56",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Masullo on the Riemann Hypothesis",
+          "publisher": "Hacker News",
+          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "description": "Comments",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "date": "2026-11-22T21:01:16",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "publisher": "Hacker News",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
       "description": "Comments",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
       "source": "Hacker News",
-      "date": "2026-11-22T23:12:10",
+      "date": "2026-11-22T21:33:12",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,31 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "title": "The struggle for freedom: How BSD escaped AT&T licensing",
           "publisher": "Hacker News",
-          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Masullo on the Riemann Hypothesis",
-      "description": "Comments",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-22T10:59:56",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Masullo on the Riemann Hypothesis",
-          "publisher": "Hacker News",
-          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
+          "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"
         }
       ],
       "faculty_summary": "Comments"
