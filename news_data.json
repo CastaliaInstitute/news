@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:05:40.431089",
+  "generated_at": "2026-11-23T04:05:25.431097",
   "total_items": 10,
   "items": [
     {
@@ -48,28 +48,6 @@
     },
     {
       "type": "article",
-      "title": "Masullo on the Riemann Hypothesis",
-      "description": "Comments",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "source": "Hacker News",
-      "date": "2026-11-22T10:59:56",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Masullo on the Riemann Hypothesis",
-          "publisher": "Hacker News",
-          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "description": "Comments",
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
@@ -86,6 +64,28 @@
           "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
           "publisher": "Hacker News",
           "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Masullo on the Riemann Hypothesis",
+      "description": "Comments",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "source": "Hacker News",
+      "date": "2026-11-22T10:59:56",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Masullo on the Riemann Hypothesis",
+          "publisher": "Hacker News",
+          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/"
         }
       ],
       "faculty_summary": "Comments"
