@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:06:32.865702",
+  "generated_at": "2026-11-24T07:05:30.838419",
   "total_items": 10,
   "items": [
     {
@@ -48,11 +48,11 @@
     },
     {
       "type": "article",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
       "description": "Comments",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
       "source": "Hacker News",
-      "date": "2026-11-23T22:32:29",
+      "date": "2026-11-24T06:28:04",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -61,9 +61,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
           "publisher": "Hacker News",
-          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+          "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"
         }
       ],
       "faculty_summary": "Comments"
@@ -86,6 +86,28 @@
           "title": "Ladybird is now in alpha",
           "publisher": "Hacker News",
           "url": "https://ladybird.org/posts/alpha/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "description": "Comments",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "source": "Hacker News",
+      "date": "2026-11-23T22:32:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "publisher": "Hacker News",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +158,50 @@
     },
     {
       "type": "article",
+      "title": "Lowering Perplexity Without Scaling",
+      "description": "Comments",
+      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+      "source": "Hacker News",
+      "date": "2026-11-23T04:33:50",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Lowering Perplexity Without Scaling",
+          "publisher": "Hacker News",
+          "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "description": "Comments",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "source": "Hacker News",
+      "date": "2026-11-24T02:27:02",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+          "publisher": "Hacker News",
+          "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "GPUI is getting its own repository",
       "description": "Comments",
       "url": "https://github.com/zed-industries/gpui",
@@ -152,72 +218,6 @@
           "title": "GPUI is getting its own repository",
           "publisher": "Hacker News",
           "url": "https://github.com/zed-industries/gpui"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Making a dumb TV just smart enough",
-      "description": "Comments",
-      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-      "source": "Hacker News",
-      "date": "2026-11-24T02:46:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Making a dumb TV just smart enough",
-          "publisher": "Hacker News",
-          "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-      "description": "Comments",
-      "url": "https://www.bored.com/",
-      "source": "Hacker News",
-      "date": "2026-11-23T21:01:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-          "publisher": "Hacker News",
-          "url": "https://www.bored.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "description": "Comments",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090",
-      "source": "Hacker News",
-      "date": "2026-11-23T17:07:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-          "publisher": "Hacker News",
-          "url": "https://twitter.com/ylecun/status/2124550037912920090"
         }
       ],
       "faculty_summary": "Comments"
