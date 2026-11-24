@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:05:21.809486",
+  "generated_at": "2026-11-24T16:05:31.852204",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.061586767109514697,
+      "relevance_score": 0.061683521054605214,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -23,6 +23,28 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "type": "article",
+      "title": "2035 came early",
+      "description": "Comments",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "source": "Hacker News",
+      "date": "2026-11-24T06:30:33",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "2035 came early",
+          "publisher": "Hacker News",
+          "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -48,51 +70,7 @@
     },
     {
       "type": "article",
-      "title": "Who in Washington owns and trades Nvidia stock",
-      "description": "Comments",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "source": "Hacker News",
-      "date": "2026-11-24T11:51:05",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Who in Washington owns and trades Nvidia stock",
-          "publisher": "Hacker News",
-          "url": "https://www.kadoa.com/congress/insights/trump-nvidia"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "2035 Came Early",
-      "description": "Comments",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "Hacker News",
-      "date": "2026-11-24T06:30:33",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "2035 Came Early",
-          "publisher": "Hacker News",
-          "url": "https://fzakaria.com/2026/11/23/2035-came-early"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Worshipping at the Altar of Brendan Gregg",
+      "title": "Worshipping at the altar of Brendan Gregg",
       "description": "Comments",
       "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
       "source": "Hacker News",
@@ -105,53 +83,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Worshipping at the Altar of Brendan Gregg",
+          "title": "Worshipping at the altar of Brendan Gregg",
           "publisher": "Hacker News",
           "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The new set of problems for engineers to solve",
-      "description": "Comments",
-      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
-      "source": "Hacker News",
-      "date": "2026-11-22T23:42:53",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The new set of problems for engineers to solve",
-          "publisher": "Hacker News",
-          "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Ladybird is now in alpha",
-      "description": "Comments",
-      "url": "https://ladybird.org/posts/alpha/",
-      "source": "Hacker News",
-      "date": "2026-11-23T16:13:12",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Ladybird is now in alpha",
-          "publisher": "Hacker News",
-          "url": "https://ladybird.org/posts/alpha/"
         }
       ],
       "faculty_summary": "Comments"
@@ -174,6 +108,28 @@
           "title": "Quad9 pulled their DNS service from France",
           "publisher": "Hacker News",
           "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Ladybird is now in alpha",
+      "description": "Comments",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "Hacker News",
+      "date": "2026-11-23T16:13:12",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Ladybird is now in alpha",
+          "publisher": "Hacker News",
+          "url": "https://ladybird.org/posts/alpha/"
         }
       ],
       "faculty_summary": "Comments"
@@ -218,6 +174,50 @@
           "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
           "publisher": "Hacker News",
           "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+      "description": "Comments",
+      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+      "source": "Hacker News",
+      "date": "2026-11-23T06:54:08",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+          "publisher": "Hacker News",
+          "url": "https://dl.acm.org/doi/10.1145/3828523.3857112"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "An anti-slavery sugar bowl (2024)",
+      "description": "Comments",
+      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+      "source": "Hacker News",
+      "date": "2026-11-22T10:12:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "An anti-slavery sugar bowl (2024)",
+          "publisher": "Hacker News",
+          "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl"
         }
       ],
       "faculty_summary": "Comments"
