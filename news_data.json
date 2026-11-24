@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:05:29.196002",
+  "generated_at": "2026-11-24T15:05:21.809486",
   "total_items": 10,
   "items": [
     {
@@ -42,28 +42,6 @@
           "title": "LLM agents work for their parent companies, not for you",
           "publisher": "Hacker News",
           "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "description": "Comments",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-      "source": "Hacker News",
-      "date": "2026-11-24T11:13:55",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-          "publisher": "Hacker News",
-          "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+      "title": "The new set of problems for engineers to solve",
       "description": "Comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
       "source": "Hacker News",
-      "date": "2026-11-24T13:23:47",
+      "date": "2026-11-22T23:42:53",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +127,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+          "title": "The new set of problems for engineers to solve",
           "publisher": "Hacker News",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+          "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "An anti-slavery sugar bowl (2024)",
+      "title": "Quad9 pulled their DNS service from France",
       "description": "Comments",
-      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
       "source": "Hacker News",
-      "date": "2026-11-22T10:12:22",
+      "date": "2026-11-24T08:33:14",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,9 +171,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "An anti-slavery sugar bowl (2024)",
+          "title": "Quad9 pulled their DNS service from France",
           "publisher": "Hacker News",
-          "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl"
+          "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "description": "Comments",
+      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "source": "Hacker News",
+      "date": "2026-11-22T13:21:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+          "publisher": "Hacker News",
+          "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/"
         }
       ],
       "faculty_summary": "Comments"
