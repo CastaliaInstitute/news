@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:05:20.947184",
+  "generated_at": "2026-11-24T22:05:01.605310",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.05260284970046928,
+      "relevance_score": 0.0533336643145373,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -23,6 +23,31 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "type": "article",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "date": "2026-11-24T13:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.0326841033182847,
+      "sources": [
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+        }
+      ],
+      "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     },
     {
       "type": "article",
@@ -36,7 +61,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03216976223195125,
+      "relevance_score": 0.032315082997010317,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -70,6 +95,28 @@
     },
     {
       "type": "article",
+      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "description": "Comments",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "source": "Hacker News",
+      "date": "2026-11-24T20:44:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+          "publisher": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50634426"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Active intrusion campaign against Check Point security management servers",
       "description": "Comments",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
@@ -92,11 +139,11 @@
     },
     {
       "type": "article",
-      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "title": "Working with AI",
       "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50634426",
+      "url": "https://www.anthropic.com/research/working-with-ai",
       "source": "Hacker News",
-      "date": "2026-11-24T20:44:15",
+      "date": "2026-11-24T21:07:38",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,9 +152,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+          "title": "Working with AI",
           "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50634426"
+          "url": "https://www.anthropic.com/research/working-with-ai"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +183,28 @@
     },
     {
       "type": "article",
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "description": "Comments",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "source": "Hacker News",
+      "date": "2026-11-24T19:40:43",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+          "publisher": "Hacker News",
+          "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Jetty Pro",
       "description": "Comments",
       "url": "http://hypercritical.co/2026/11/23/jetty-pro",
@@ -152,72 +221,6 @@
           "title": "Jetty Pro",
           "publisher": "Hacker News",
           "url": "http://hypercritical.co/2026/11/23/jetty-pro"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "description": "Comments",
-      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "source": "Hacker News",
-      "date": "2026-11-23T12:40:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "An Italian folding bicycle design that fits into a suitcase",
-          "publisher": "Hacker News",
-          "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "2035 came early",
-      "description": "Comments",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "Hacker News",
-      "date": "2026-11-24T06:30:33",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "2035 came early",
-          "publisher": "Hacker News",
-          "url": "https://fzakaria.com/2026/11/23/2035-came-early"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Compiling web applications into verified operations for AI agents",
-      "description": "Comments",
-      "url": "https://protocolis.co/paper/",
-      "source": "Hacker News",
-      "date": "2026-11-24T19:12:02",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Compiling web applications into verified operations for AI agents",
-          "publisher": "Hacker News",
-          "url": "https://protocolis.co/paper/"
         }
       ],
       "faculty_summary": "Comments"
