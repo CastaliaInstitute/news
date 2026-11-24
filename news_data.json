@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:05:21.303876",
+  "generated_at": "2026-11-24T18:05:43.044981",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.06214090392754444,
+      "relevance_score": 0.061586767109514697,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -26,7 +26,7 @@
     },
     {
       "type": "article",
-      "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
       "description": "Comments",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
@@ -39,7 +39,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+          "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
           "publisher": "Hacker News",
           "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
         }
@@ -70,11 +70,11 @@
     },
     {
       "type": "article",
-      "title": "2035 came early",
+      "title": "Mechanical Pencil: Spray Bottle",
       "description": "Comments",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
       "source": "Hacker News",
-      "date": "2026-11-24T06:30:33",
+      "date": "2026-11-22T11:16:30",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -83,31 +83,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "2035 came early",
+          "title": "Mechanical Pencil: Spray Bottle",
           "publisher": "Hacker News",
-          "url": "https://fzakaria.com/2026/11/23/2035-came-early"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Tidal Bans AI-Generated Music",
-      "description": "Comments",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:12:38",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Tidal Bans AI-Generated Music",
-          "publisher": "Hacker News",
-          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+          "url": "https://mechanical-pencil.com/products/spray-bottle"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,11 +114,11 @@
     },
     {
       "type": "article",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "title": "How to Make a Lovable City",
       "description": "Comments",
-      "url": "https://jobs.ashbyhq.com/weave-os",
+      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
       "source": "Hacker News",
-      "date": "2026-11-24T17:00:55",
+      "date": "2026-11-24T16:19:55",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -149,9 +127,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "title": "How to Make a Lovable City",
           "publisher": "Hacker News",
-          "url": "https://jobs.ashbyhq.com/weave-os"
+          "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "2035 came early",
+      "description": "Comments",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "source": "Hacker News",
+      "date": "2026-11-24T06:30:33",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "2035 came early",
+          "publisher": "Hacker News",
+          "url": "https://fzakaria.com/2026/11/23/2035-came-early"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,11 +180,11 @@
     },
     {
       "type": "article",
-      "title": "LLM agents work for their parent companies, not for you",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
       "description": "Comments",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "url": "https://jobs.ashbyhq.com/weave-os",
       "source": "Hacker News",
-      "date": "2026-11-24T12:40:15",
+      "date": "2026-11-24T17:00:55",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -193,20 +193,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "LLM agents work for their parent companies, not for you",
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
           "publisher": "Hacker News",
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+          "url": "https://jobs.ashbyhq.com/weave-os"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Mechanical Pencil: Spray Bottle",
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
       "description": "Comments",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "url": "https://arxiv.org/abs/2611.30835",
       "source": "Hacker News",
-      "date": "2026-11-22T11:16:30",
+      "date": "2026-11-24T15:50:22",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Mechanical Pencil: Spray Bottle",
+          "title": "The KL Divergence Is Never Negative, Except in PyTorch",
           "publisher": "Hacker News",
-          "url": "https://mechanical-pencil.com/products/spray-bottle"
+          "url": "https://arxiv.org/abs/2611.30835"
         }
       ],
       "faculty_summary": "Comments"
