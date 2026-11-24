@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:05:18.368620",
+  "generated_at": "2026-11-24T14:05:29.196002",
   "total_items": 10,
   "items": [
     {
@@ -26,28 +26,6 @@
     },
     {
       "type": "article",
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "description": "Comments",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
-      "source": "Hacker News",
-      "date": "2026-11-24T11:13:55",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-          "publisher": "Hacker News",
-          "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "LLM agents work for their parent companies, not for you",
       "description": "Comments",
       "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
@@ -64,6 +42,28 @@
           "title": "LLM agents work for their parent companies, not for you",
           "publisher": "Hacker News",
           "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "description": "Comments",
+      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "source": "Hacker News",
+      "date": "2026-11-24T11:13:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+          "publisher": "Hacker News",
+          "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +136,28 @@
     },
     {
       "type": "article",
+      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+      "description": "Comments",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "Hacker News",
+      "date": "2026-11-24T13:23:47",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+          "publisher": "Hacker News",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Ladybird is now in alpha",
       "description": "Comments",
       "url": "https://ladybird.org/posts/alpha/",
@@ -152,28 +174,6 @@
           "title": "Ladybird is now in alpha",
           "publisher": "Hacker News",
           "url": "https://ladybird.org/posts/alpha/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "description": "Comments",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "source": "Hacker News",
-      "date": "2026-11-23T22:32:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-          "publisher": "Hacker News",
-          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "description": "Comments",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "source": "Hacker News",
-      "date": "2026-11-24T05:15:22",
+      "date": "2026-11-23T22:32:29",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
           "publisher": "Hacker News",
-          "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
         }
       ],
       "faculty_summary": "Comments"
