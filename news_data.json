@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-11-24T20:05:21.377128",
+  "generated_at": "2026-11-24T21:05:20.947184",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: Laplace-AI-Research/Signet-9B",
-      "description": "Downloads: 2 | Likes: 0",
-      "url": "https://huggingface.co/Laplace-AI-Research/Signet-9B",
-      "source": "Hugging Face",
-      "date": "2026-11-24T20:03:46.000Z",
-      "metadata": {
-        "downloads": 2,
-        "likes": 0,
-        "tags": [
-          "transformers",
-          "safetensors",
-          "qwen3_5_text",
-          "text-generation",
-          "grpo",
-          "lora",
-          "sycophancy",
-          "belief-revision",
-          "provenance",
-          "convictionbench",
-          "signet",
-          "conversational",
-          "en",
-          "dataset:Laplace-AI-Research/ConvictionBench",
-          "base_model:Qwen/Qwen3.5-9B",
-          "base_model:adapter:Qwen/Qwen3.5-9B",
-          "license:apache-2.0",
-          "endpoints_compatible",
-          "region:us"
-        ]
-      },
-      "relevance_score": 0.07595495911352759,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: Laplace-AI-Research/Signet-9B",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/Laplace-AI-Research/Signet-9B"
-        }
-      ],
-      "faculty_summary": "Downloads: 2 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -56,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.04608172018615515,
+      "relevance_score": 0.05260284970046928,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -78,7 +36,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.027801918465308897,
+      "relevance_score": 0.03216976223195125,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -90,11 +48,11 @@
     },
     {
       "type": "article",
-      "title": "What Cloudflare Doesn't Tell You",
+      "title": "Ternary Bonsai 2.5 27B",
       "description": "Comments",
-      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
       "source": "Hacker News",
-      "date": "2026-11-24T19:03:55",
+      "date": "2026-11-24T20:08:03",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -103,16 +61,16 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "What Cloudflare Doesn't Tell You",
+          "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
-          "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
+          "url": "https://prismml.com/news/bonsai-2-5-27b"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "title": "Active intrusion campaign against Check Point security management servers",
       "description": "Comments",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
@@ -125,7 +83,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+          "title": "Active intrusion campaign against Check Point security management servers",
           "publisher": "Hacker News",
           "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
         }
@@ -134,11 +92,11 @@
     },
     {
       "type": "article",
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
       "description": "Comments",
-      "url": "https://grafana.com/grafana/download",
+      "url": "https://news.ycombinator.com/item?id=50634426",
       "source": "Hacker News",
-      "date": "2026-11-24T19:23:44",
+      "date": "2026-11-24T20:44:15",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -147,9 +105,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+          "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
           "publisher": "Hacker News",
-          "url": "https://grafana.com/grafana/download"
+          "url": "https://news.ycombinator.com/item?id=50634426"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The Spray Bottle",
+      "description": "Comments",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "source": "Hacker News",
+      "date": "2026-11-22T11:16:30",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Spray Bottle",
+          "publisher": "Hacker News",
+          "url": "https://mechanical-pencil.com/products/spray-bottle"
         }
       ],
       "faculty_summary": "Comments"
@@ -178,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "Mechanical Pencil: Spray Bottle",
+      "title": "An Italian folding bicycle design that fits into a suitcase",
       "description": "Comments",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
       "source": "Hacker News",
-      "date": "2026-11-22T11:16:30",
+      "date": "2026-11-23T12:40:08",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -191,31 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Mechanical Pencil: Spray Bottle",
+          "title": "An Italian folding bicycle design that fits into a suitcase",
           "publisher": "Hacker News",
-          "url": "https://mechanical-pencil.com/products/spray-bottle"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:45:44",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-          "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50630809"
+          "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"
         }
       ],
       "faculty_summary": "Comments"
@@ -238,6 +196,28 @@
           "title": "2035 came early",
           "publisher": "Hacker News",
           "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Compiling web applications into verified operations for AI agents",
+      "description": "Comments",
+      "url": "https://protocolis.co/paper/",
+      "source": "Hacker News",
+      "date": "2026-11-24T19:12:02",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Compiling web applications into verified operations for AI agents",
+          "publisher": "Hacker News",
+          "url": "https://protocolis.co/paper/"
         }
       ],
       "faculty_summary": "Comments"
