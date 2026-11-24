@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:05:43.044981",
+  "generated_at": "2026-11-24T19:04:52.387206",
   "total_items": 10,
   "items": [
     {
@@ -92,11 +92,11 @@
     },
     {
       "type": "article",
-      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+      "title": "A training engine for your local model, using your idle compute",
       "description": "Comments",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "url": "https://github.com/sous-labs/songe",
       "source": "Hacker News",
-      "date": "2026-11-24T14:54:10",
+      "date": "2026-11-24T15:03:40",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,31 +105,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+          "title": "A training engine for your local model, using your idle compute",
           "publisher": "Hacker News",
-          "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "How to Make a Lovable City",
-      "description": "Comments",
-      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:19:55",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "How to Make a Lovable City",
-          "publisher": "Hacker News",
-          "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city"
+          "url": "https://github.com/sous-labs/songe"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,50 +136,6 @@
     },
     {
       "type": "article",
-      "title": "A training engine for your local model, using your idle compute",
-      "description": "Comments",
-      "url": "https://github.com/sous-labs/songe",
-      "source": "Hacker News",
-      "date": "2026-11-24T15:03:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "A training engine for your local model, using your idle compute",
-          "publisher": "Hacker News",
-          "url": "https://github.com/sous-labs/songe"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "description": "Comments",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "source": "Hacker News",
-      "date": "2026-11-24T17:00:55",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "publisher": "Hacker News",
-          "url": "https://jobs.ashbyhq.com/weave-os"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "The KL Divergence Is Never Negative, Except in PyTorch",
       "description": "Comments",
       "url": "https://arxiv.org/abs/2611.30835",
@@ -218,6 +152,72 @@
           "title": "The KL Divergence Is Never Negative, Except in PyTorch",
           "publisher": "Hacker News",
           "url": "https://arxiv.org/abs/2611.30835"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "How to Make a Lovable City",
+      "description": "Comments",
+      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "source": "Hacker News",
+      "date": "2026-11-24T16:19:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "How to Make a Lovable City",
+          "publisher": "Hacker News",
+          "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
+      "description": "Comments",
+      "url": "https://masondata.ai/",
+      "source": "Hacker News",
+      "date": "2026-11-24T16:11:52",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
+          "publisher": "Hacker News",
+          "url": "https://masondata.ai/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "LLM agents work for their parent companies, not for you",
+      "description": "Comments",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "date": "2026-11-24T12:40:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "LLM agents work for their parent companies, not for you",
+          "publisher": "Hacker News",
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
         }
       ],
       "faculty_summary": "Comments"
