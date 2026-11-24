@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:05:31.852204",
+  "generated_at": "2026-11-24T17:05:21.303876",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.061683521054605214,
+      "relevance_score": 0.06214090392754444,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -23,6 +23,50 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "type": "article",
+      "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "description": "Comments",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "source": "Hacker News",
+      "date": "2026-11-24T16:32:17",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+          "publisher": "Hacker News",
+          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Jetty Pro",
+      "description": "Comments",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "source": "Hacker News",
+      "date": "2026-11-24T16:23:02",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Jetty Pro",
+          "publisher": "Hacker News",
+          "url": "http://hypercritical.co/2026/11/23/jetty-pro"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -42,6 +86,94 @@
           "title": "2035 came early",
           "publisher": "Hacker News",
           "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Tidal Bans AI-Generated Music",
+      "description": "Comments",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "source": "Hacker News",
+      "date": "2026-11-24T16:12:38",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Tidal Bans AI-Generated Music",
+          "publisher": "Hacker News",
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+      "description": "Comments",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "source": "Hacker News",
+      "date": "2026-11-24T14:54:10",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+          "publisher": "Hacker News",
+          "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "description": "Comments",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News",
+      "date": "2026-11-24T17:00:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "publisher": "Hacker News",
+          "url": "https://jobs.ashbyhq.com/weave-os"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A training engine for your local model, using your idle compute",
+      "description": "Comments",
+      "url": "https://github.com/sous-labs/songe",
+      "source": "Hacker News",
+      "date": "2026-11-24T15:03:40",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A training engine for your local model, using your idle compute",
+          "publisher": "Hacker News",
+          "url": "https://github.com/sous-labs/songe"
         }
       ],
       "faculty_summary": "Comments"
@@ -70,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Worshipping at the altar of Brendan Gregg",
+      "title": "Mechanical Pencil: Spray Bottle",
       "description": "Comments",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
       "source": "Hacker News",
-      "date": "2026-11-24T10:50:14",
+      "date": "2026-11-22T11:16:30",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -83,141 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Worshipping at the altar of Brendan Gregg",
+          "title": "Mechanical Pencil: Spray Bottle",
           "publisher": "Hacker News",
-          "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Quad9 pulled their DNS service from France",
-      "description": "Comments",
-      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-      "source": "Hacker News",
-      "date": "2026-11-24T08:33:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Quad9 pulled their DNS service from France",
-          "publisher": "Hacker News",
-          "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Ladybird is now in alpha",
-      "description": "Comments",
-      "url": "https://ladybird.org/posts/alpha/",
-      "source": "Hacker News",
-      "date": "2026-11-23T16:13:12",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Ladybird is now in alpha",
-          "publisher": "Hacker News",
-          "url": "https://ladybird.org/posts/alpha/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
-      "description": "Comments",
-      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-      "source": "Hacker News",
-      "date": "2026-11-22T13:21:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
-          "publisher": "Hacker News",
-          "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "description": "Comments",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "source": "Hacker News",
-      "date": "2026-11-23T22:32:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-          "publisher": "Hacker News",
-          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "description": "Comments",
-      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
-      "source": "Hacker News",
-      "date": "2026-11-23T06:54:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-          "publisher": "Hacker News",
-          "url": "https://dl.acm.org/doi/10.1145/3828523.3857112"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "An anti-slavery sugar bowl (2024)",
-      "description": "Comments",
-      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
-      "source": "Hacker News",
-      "date": "2026-11-22T10:12:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "An anti-slavery sugar bowl (2024)",
-          "publisher": "Hacker News",
-          "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl"
+          "url": "https://mechanical-pencil.com/products/spray-bottle"
         }
       ],
       "faculty_summary": "Comments"
