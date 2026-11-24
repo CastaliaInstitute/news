@@ -1,28 +1,53 @@
 {
-  "generated_at": "2026-11-24T22:05:01.605310",
+  "generated_at": "2026-11-24T23:04:20.290128",
   "total_items": 10,
   "items": [
     {
       "type": "article",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "url": "https://openai.com/business/customer-stories/hebbia",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "description": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "source": "OpenAI",
-      "date": "2026-11-20T00:00:00",
+      "date": "2026-11-24T00:00:00",
       "metadata": {
         "feed_url": "https://openai.com/blog/rss.xml",
         "author": "",
-        "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+        "source_excerpt": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+        "matched_keywords": [
+          "reasoning"
+        ]
       },
-      "relevance_score": 0.0533336643145373,
+      "relevance_score": 0.055986548327212775,
       "sources": [
         {
-          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
           "publisher": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/hebbia"
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
         }
       ],
-      "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+      "faculty_summary": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
+    },
+    {
+      "type": "article",
+      "title": "How Intentful uses dots to make more time for growth",
+      "description": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "date": "2026-11-24T00:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+      },
+      "relevance_score": 0.03248919927039626,
+      "sources": [
+        {
+          "title": "How Intentful uses dots to make more time for growth",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/intentful-dots"
+        }
+      ],
+      "faculty_summary": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
     },
     {
       "type": "article",
@@ -39,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0326841033182847,
+      "relevance_score": 0.029473096925260126,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -48,28 +73,6 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "type": "article",
-      "title": "How Intentful uses dots to make more time for growth",
-      "description": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI",
-      "date": "2026-11-24T00:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
-      },
-      "relevance_score": 0.032315082997010317,
-      "sources": [
-        {
-          "title": "How Intentful uses dots to make more time for growth",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/intentful-dots"
-        }
-      ],
-      "faculty_summary": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
     },
     {
       "type": "article",
@@ -89,6 +92,28 @@
           "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
           "url": "https://prismml.com/news/bonsai-2-5-27b"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "description": "Comments",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "source": "Hacker News",
+      "date": "2026-11-24T21:02:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "publisher": "Hacker News",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
         }
       ],
       "faculty_summary": "Comments"
@@ -139,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "Working with AI",
+      "title": "G\u00f6del Enigma",
       "description": "Comments",
-      "url": "https://www.anthropic.com/research/working-with-ai",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
       "source": "Hacker News",
-      "date": "2026-11-24T21:07:38",
+      "date": "2026-11-24T08:16:02",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -152,9 +177,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Working with AI",
+          "title": "G\u00f6del Enigma",
           "publisher": "Hacker News",
-          "url": "https://www.anthropic.com/research/working-with-ai"
+          "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
         }
       ],
       "faculty_summary": "Comments"
@@ -183,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "title": "Calculate how many mesh radio nodes your city needs",
       "description": "Comments",
-      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
       "source": "Hacker News",
-      "date": "2026-11-24T19:40:43",
+      "date": "2026-11-23T09:46:57",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,31 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+          "title": "Calculate how many mesh radio nodes your city needs",
           "publisher": "Hacker News",
-          "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Jetty Pro",
-      "description": "Comments",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:23:02",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Jetty Pro",
-          "publisher": "Hacker News",
-          "url": "http://hypercritical.co/2026/11/23/jetty-pro"
+          "url": "https://meshcoveragecalculator.lalala.ing/"
         }
       ],
       "faculty_summary": "Comments"
