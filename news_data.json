@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:06:15.314699",
+  "generated_at": "2026-11-24T13:05:18.368620",
   "total_items": 10,
   "items": [
     {
@@ -42,6 +42,50 @@
           "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
           "publisher": "Hacker News",
           "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "LLM agents work for their parent companies, not for you",
+      "description": "Comments",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "date": "2026-11-24T12:40:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "LLM agents work for their parent companies, not for you",
+          "publisher": "Hacker News",
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "description": "Comments",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "source": "Hacker News",
+      "date": "2026-11-24T11:51:05",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Who in Washington owns and trades Nvidia stock",
+          "publisher": "Hacker News",
+          "url": "https://www.kadoa.com/congress/insights/trump-nvidia"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +180,28 @@
     },
     {
       "type": "article",
+      "title": "An anti-slavery sugar bowl (2024)",
+      "description": "Comments",
+      "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
+      "source": "Hacker News",
+      "date": "2026-11-22T10:12:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "An anti-slavery sugar bowl (2024)",
+          "publisher": "Hacker News",
+          "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
       "description": "Comments",
       "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
@@ -152,72 +218,6 @@
           "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
           "publisher": "Hacker News",
           "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "description": "Comments",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "source": "Hacker News",
-      "date": "2026-11-23T14:00:18",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nvidia Reinstates Jensen Huang as CEO",
-          "publisher": "Hacker News",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Drone Maps of Salvage Yards",
-      "description": "Comments",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "source": "Hacker News",
-      "date": "2026-11-24T04:00:28",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Drone Maps of Salvage Yards",
-          "publisher": "Hacker News",
-          "url": "https://salvageyarddrone.wordpress.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-      "description": "Comments",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
-      "source": "Hacker News",
-      "date": "2026-11-21T18:49:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
-          "publisher": "Hacker News",
-          "url": "https://www.usenix.org/conference/osdi26/presentation/ni"
         }
       ],
       "faculty_summary": "Comments"
