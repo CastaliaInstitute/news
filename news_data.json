@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:05:30.838419",
+  "generated_at": "2026-11-24T08:06:10.205237",
   "total_items": 10,
   "items": [
     {
@@ -26,28 +26,6 @@
     },
     {
       "type": "article",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "description": "Comments",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "source": "Hacker News",
-      "date": "2026-11-23T14:00:18",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nvidia Reinstates Jensen Huang as CEO",
-          "publisher": "Hacker News",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
       "description": "Comments",
       "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
@@ -64,6 +42,28 @@
           "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
           "publisher": "Hacker News",
           "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "VP \u2260 VNP over Every Field [pdf]",
+      "description": "Comments",
+      "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
+      "source": "Hacker News",
+      "date": "2026-11-24T07:38:50",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "VP \u2260 VNP over Every Field [pdf]",
+          "publisher": "Hacker News",
+          "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +136,50 @@
     },
     {
       "type": "article",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "description": "Comments",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "Hacker News",
+      "date": "2026-11-23T14:00:18",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "publisher": "Hacker News",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "description": "Comments",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "source": "Hacker News",
+      "date": "2026-11-24T05:15:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "publisher": "Hacker News",
+          "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Modernizing iperf/iperf3 and introducing fireperf",
       "description": "Comments",
       "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
@@ -174,50 +218,6 @@
           "title": "Lowering Perplexity Without Scaling",
           "publisher": "Hacker News",
           "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "description": "Comments",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "source": "Hacker News",
-      "date": "2026-11-24T02:27:02",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-          "publisher": "Hacker News",
-          "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "GPUI is getting its own repository",
-      "description": "Comments",
-      "url": "https://github.com/zed-industries/gpui",
-      "source": "Hacker News",
-      "date": "2026-11-23T20:52:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GPUI is getting its own repository",
-          "publisher": "Hacker News",
-          "url": "https://github.com/zed-industries/gpui"
         }
       ],
       "faculty_summary": "Comments"
