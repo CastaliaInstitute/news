@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:05:02.089511",
+  "generated_at": "2026-11-24T11:05:29.636440",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.061586767109514697,
+      "relevance_score": 0.06214090392754444,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "title": "GPUI is getting its own repository",
       "description": "Comments",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "url": "https://github.com/zed-industries/gpui",
       "source": "Hacker News",
-      "date": "2026-11-24T02:27:02",
+      "date": "2026-11-23T20:52:54",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+          "title": "GPUI is getting its own repository",
           "publisher": "Hacker News",
-          "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription"
+          "url": "https://github.com/zed-industries/gpui"
         }
       ],
       "faculty_summary": "Comments"
