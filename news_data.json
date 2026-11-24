@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:05:29.636440",
+  "generated_at": "2026-11-24T12:06:15.314699",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.06214090392754444,
+      "relevance_score": 0.061586767109514697,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -23,6 +23,28 @@
         }
       ],
       "faculty_summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "type": "article",
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "description": "Comments",
+      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "source": "Hacker News",
+      "date": "2026-11-24T11:13:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+          "publisher": "Hacker News",
+          "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -42,6 +64,28 @@
           "title": "2035 Came Early",
           "publisher": "Hacker News",
           "url": "https://fzakaria.com/2026/11/23/2035-came-early"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Worshipping at the Altar of Brendan Gregg",
+      "description": "Comments",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "source": "Hacker News",
+      "date": "2026-11-24T10:50:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Worshipping at the Altar of Brendan Gregg",
+          "publisher": "Hacker News",
+          "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg"
         }
       ],
       "faculty_summary": "Comments"
@@ -158,28 +202,6 @@
     },
     {
       "type": "article",
-      "title": "Modernizing iperf/iperf3 and introducing fireperf",
-      "description": "Comments",
-      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
-      "source": "Hacker News",
-      "date": "2026-11-22T22:37:51",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Modernizing iperf/iperf3 and introducing fireperf",
-          "publisher": "Hacker News",
-          "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
       "description": "Comments",
       "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
@@ -196,28 +218,6 @@
           "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
           "publisher": "Hacker News",
           "url": "https://www.usenix.org/conference/osdi26/presentation/ni"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "GPUI is getting its own repository",
-      "description": "Comments",
-      "url": "https://github.com/zed-industries/gpui",
-      "source": "Hacker News",
-      "date": "2026-11-23T20:52:54",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GPUI is getting its own repository",
-          "publisher": "Hacker News",
-          "url": "https://github.com/zed-industries/gpui"
         }
       ],
       "faculty_summary": "Comments"
