@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:05:50.976961",
+  "generated_at": "2026-11-24T03:05:25.693890",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "Eyhab Al-Masri",
         "source_excerpt": "arXiv:2611.26731v1 Announce Type: new \nAbstract: Federated learning (FL) lets resource-constrained IoT and edge devices train a shared model without exchanging raw data, but compromised or faulty devices can poison the global model. Existing robust aggregators each fail in some regime: naive averaging (FedAvg) collapses under high-magnitude attacks, whereas distance- and statistics-based defenses (Krum, median, trimmed mean) sacrifice accuracy on non-IID data and remain vulnerable to stealthy attacks. We present FedTether, which reweights client updates by their deviation from a coordinatewise median through a robust, dead-zoned score applied as a server-side optimizer step. Across three datasets, three attack types, and Byzantine fractions up to 40%, FedTether is the only method top-tier in every regime: it matches FedAvg under stealthy attacks with no robustness tax, exceeds robust baselines by up to 42 accuracy points, and stays accurate where high-magnitude attacks reduce FedAvg to near-random. These properties persist at 50 clients under partial participation, with no shared data or validation set."
       },
-      "relevance_score": 0.14245485100347083,
+      "relevance_score": 0.14003162941316497,
       "sources": [
         {
           "title": "Cross-Attack Robust Aggregation for Federated Learning",
@@ -80,7 +80,7 @@
         "author": "Antoine Lejay (PASTA, IECL), Lionel Lenotre (Universit{\\'e} de Haute-Alsace), Sa{\\\"i}d Toubra (IECL)",
         "source_excerpt": "arXiv:2611.26671v1 Announce Type: new \nAbstract: While the critical points of the loss landscape in linear neural networks have been extensively studied since the seminal work of Baldi \\& Hornik in the late 1980s, a description of this landscape at an intermediate or global scale is still lacking. Such a characterization is crucial, particularly as a substantial body of literature indicates that gradient descent circumvents critical points. The present article introduces an intermediate structure, termed the critical thalweg, which encompasses all critical points and exhibits key geometric properties. Beyond providing a geometric proof of Baldi \\& Hornik's results using simpler assumptions than the existing literature, this framework offers a global view of the loss landscape that can be easily visualized in a two-dimensional plane. Empirical observations suggest that gradient descent is attracted toward the critical thalweg, along which the loss continues to decrease to its global minimum."
       },
-      "relevance_score": 0.06224218789381139,
+      "relevance_score": 0.06142881423532711,
       "sources": [
         {
           "title": "On the loss landscape of the linear neural network: beyond critical points",
@@ -105,7 +105,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05844476927455722,
+      "relevance_score": 0.06004281883580116,
       "sources": [
         {
           "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
@@ -199,7 +199,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027225752278197134,
+      "relevance_score": 0.02759270848488366,
       "sources": [
         {
           "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
