@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:06:10.205237",
+  "generated_at": "2026-11-24T09:05:46.231270",
   "total_items": 10,
   "items": [
     {
@@ -26,11 +26,11 @@
     },
     {
       "type": "article",
-      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "title": "2035 Came Early",
       "description": "Comments",
-      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
       "source": "Hacker News",
-      "date": "2026-11-24T06:28:04",
+      "date": "2026-11-24T06:30:33",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -39,31 +39,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+          "title": "2035 Came Early",
           "publisher": "Hacker News",
-          "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "VP \u2260 VNP over Every Field [pdf]",
-      "description": "Comments",
-      "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-24T07:38:50",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "VP \u2260 VNP over Every Field [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf"
+          "url": "https://fzakaria.com/2026/11/23/2035-came-early"
         }
       ],
       "faculty_summary": "Comments"
@@ -114,6 +92,28 @@
     },
     {
       "type": "article",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "description": "Comments",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "source": "Hacker News",
+      "date": "2026-11-24T05:15:22",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "publisher": "Hacker News",
+          "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Drone Maps of Salvage Yards",
       "description": "Comments",
       "url": "https://salvageyarddrone.wordpress.com/",
@@ -158,11 +158,11 @@
     },
     {
       "type": "article",
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "title": "Ride the SQL curve from basics to mastery",
       "description": "Comments",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "url": "https://sqlride.com/",
       "source": "Hacker News",
-      "date": "2026-11-24T05:15:22",
+      "date": "2026-11-21T19:56:36",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -171,9 +171,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "title": "Ride the SQL curve from basics to mastery",
           "publisher": "Hacker News",
-          "url": "https://www.phoronix.com/review/amd-epyc-9006-7601"
+          "url": "https://sqlride.com/"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,11 +202,11 @@
     },
     {
       "type": "article",
-      "title": "Lowering Perplexity Without Scaling",
+      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
       "description": "Comments",
-      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
       "source": "Hacker News",
-      "date": "2026-11-23T04:33:50",
+      "date": "2026-11-21T18:49:45",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -215,9 +215,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Lowering Perplexity Without Scaling",
+          "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
           "publisher": "Hacker News",
-          "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/"
+          "url": "https://www.usenix.org/conference/osdi26/presentation/ni"
         }
       ],
       "faculty_summary": "Comments"
