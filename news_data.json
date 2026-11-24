@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-24T19:04:52.387206",
+  "generated_at": "2026-11-24T20:05:21.377128",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: Laplace-AI-Research/Signet-9B",
+      "description": "Downloads: 2 | Likes: 0",
+      "url": "https://huggingface.co/Laplace-AI-Research/Signet-9B",
+      "source": "Hugging Face",
+      "date": "2026-11-24T20:03:46.000Z",
+      "metadata": {
+        "downloads": 2,
+        "likes": 0,
+        "tags": [
+          "transformers",
+          "safetensors",
+          "qwen3_5_text",
+          "text-generation",
+          "grpo",
+          "lora",
+          "sycophancy",
+          "belief-revision",
+          "provenance",
+          "convictionbench",
+          "signet",
+          "conversational",
+          "en",
+          "dataset:Laplace-AI-Research/ConvictionBench",
+          "base_model:Qwen/Qwen3.5-9B",
+          "base_model:adapter:Qwen/Qwen3.5-9B",
+          "license:apache-2.0",
+          "endpoints_compatible",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.07595495911352759,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: Laplace-AI-Research/Signet-9B",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/Laplace-AI-Research/Signet-9B"
+        }
+      ],
+      "faculty_summary": "Downloads: 2 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -14,7 +56,7 @@
         "author": "",
         "source_excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       },
-      "relevance_score": 0.061586767109514697,
+      "relevance_score": 0.04608172018615515,
       "sources": [
         {
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -26,7 +68,51 @@
     },
     {
       "type": "article",
-      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "title": "How Intentful uses dots to make more time for growth",
+      "description": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "date": "2026-11-24T00:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+      },
+      "relevance_score": 0.027801918465308897,
+      "sources": [
+        {
+          "title": "How Intentful uses dots to make more time for growth",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/intentful-dots"
+        }
+      ],
+      "faculty_summary": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+    },
+    {
+      "type": "article",
+      "title": "What Cloudflare Doesn't Tell You",
+      "description": "Comments",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "source": "Hacker News",
+      "date": "2026-11-24T19:03:55",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "What Cloudflare Doesn't Tell You",
+          "publisher": "Hacker News",
+          "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
       "description": "Comments",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
@@ -39,9 +125,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+          "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
           "publisher": "Hacker News",
           "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "description": "Comments",
+      "url": "https://grafana.com/grafana/download",
+      "source": "Hacker News",
+      "date": "2026-11-24T19:23:44",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+          "publisher": "Hacker News",
+          "url": "https://grafana.com/grafana/download"
         }
       ],
       "faculty_summary": "Comments"
@@ -92,11 +200,11 @@
     },
     {
       "type": "article",
-      "title": "A training engine for your local model, using your idle compute",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "description": "Comments",
-      "url": "https://github.com/sous-labs/songe",
+      "url": "https://news.ycombinator.com/item?id=50630809",
       "source": "Hacker News",
-      "date": "2026-11-24T15:03:40",
+      "date": "2026-11-24T16:45:44",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -105,9 +213,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A training engine for your local model, using your idle compute",
+          "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
           "publisher": "Hacker News",
-          "url": "https://github.com/sous-labs/songe"
+          "url": "https://news.ycombinator.com/item?id=50630809"
         }
       ],
       "faculty_summary": "Comments"
@@ -130,94 +238,6 @@
           "title": "2035 came early",
           "publisher": "Hacker News",
           "url": "https://fzakaria.com/2026/11/23/2035-came-early"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
-      "description": "Comments",
-      "url": "https://arxiv.org/abs/2611.30835",
-      "source": "Hacker News",
-      "date": "2026-11-24T15:50:22",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The KL Divergence Is Never Negative, Except in PyTorch",
-          "publisher": "Hacker News",
-          "url": "https://arxiv.org/abs/2611.30835"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "How to Make a Lovable City",
-      "description": "Comments",
-      "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:19:55",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "How to Make a Lovable City",
-          "publisher": "Hacker News",
-          "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
-      "description": "Comments",
-      "url": "https://masondata.ai/",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:11:52",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Mason \u2013 a lightweight Postgres read-replica, built on columnar storage",
-          "publisher": "Hacker News",
-          "url": "https://masondata.ai/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "LLM agents work for their parent companies, not for you",
-      "description": "Comments",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "source": "Hacker News",
-      "date": "2026-11-24T12:40:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "LLM agents work for their parent companies, not for you",
-          "publisher": "Hacker News",
-          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
         }
       ],
       "faculty_summary": "Comments"
