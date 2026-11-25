@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:04:24.681842",
+  "generated_at": "2026-11-25T20:05:15.662839",
   "total_items": 10,
   "items": [
     {
@@ -98,6 +98,28 @@
     },
     {
       "type": "article",
+      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+      "description": "Comments",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "date": "2026-11-25T19:11:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+          "publisher": "Hacker News",
+          "url": "https://scottaaronson.blog/?p=10379"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "description": "Comments",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
@@ -114,6 +136,28 @@
           "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
           "publisher": "Hacker News",
           "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Britain's ghost stations",
+      "description": "Comments",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "source": "Hacker News",
+      "date": "2026-11-25T17:43:46",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Britain's ghost stations",
+          "publisher": "Hacker News",
+          "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/"
         }
       ],
       "faculty_summary": "Comments"
@@ -164,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
       "description": "Comments",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
       "source": "Hacker News",
-      "date": "2026-11-25T14:56:52",
+      "date": "2026-11-25T17:34:34",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,53 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "I checked Clojure's core with Lean and found unreported bugs",
+          "title": "The polynomial Hirsch conjecture is false [pdf]",
           "publisher": "Hacker News",
-          "url": "https://s.conao3.com/blog/2026/e4f733"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Predicting LoRA size for any dataset",
-      "description": "Comments",
-      "url": "https://engram.com/blog/lora-size",
-      "source": "Hacker News",
-      "date": "2026-11-24T22:34:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Predicting LoRA size for any dataset",
-          "publisher": "Hacker News",
-          "url": "https://engram.com/blog/lora-size"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Deriving Black-Scholes",
-      "description": "Comments",
-      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
-      "source": "Hacker News",
-      "date": "2026-11-25T17:18:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Deriving Black-Scholes",
-          "publisher": "Hacker News",
-          "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/"
+          "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
         }
       ],
       "faculty_summary": "Comments"
