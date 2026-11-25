@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:06:20.913723",
+  "generated_at": "2026-11-25T17:04:13.716096",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05588413477920871,
+      "relevance_score": 0.05560454205385103,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03248919927039626,
+      "relevance_score": 0.03255431449822918,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027964005988222896,
+      "relevance_score": 0.027671818586724833,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -92,6 +92,28 @@
           "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
           "publisher": "Hacker News",
           "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Investigating degraded experiences across GitHub products",
+      "description": "Comments",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "source": "Hacker News",
+      "date": "2026-11-25T15:59:23",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Investigating degraded experiences across GitHub products",
+          "publisher": "Hacker News",
+          "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx"
         }
       ],
       "faculty_summary": "Comments"
@@ -142,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "In C++, = default and {} are not the same constructor",
+      "title": "Anthropic migrated Messages API to Rust with no Rust developers",
       "description": "Comments",
-      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
       "source": "Hacker News",
-      "date": "2026-11-25T15:20:15",
+      "date": "2026-11-25T16:28:28",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -155,9 +177,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "In C++, = default and {} are not the same constructor",
+          "title": "Anthropic migrated Messages API to Rust with no Rust developers",
           "publisher": "Hacker News",
-          "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/"
+          "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Predicting LoRA size for any dataset",
+      "description": "Comments",
+      "url": "https://engram.com/blog/lora-size",
+      "source": "Hacker News",
+      "date": "2026-11-24T22:34:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Predicting LoRA size for any dataset",
+          "publisher": "Hacker News",
+          "url": "https://engram.com/blog/lora-size"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,50 +224,6 @@
           "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
           "publisher": "Hacker News",
           "url": "https://buttons.joshwcomeau.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-      "description": "Comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-25T01:19:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The short age of dragon riders",
-      "description": "Comments",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "source": "Hacker News",
-      "date": "2026-11-23T05:33:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The short age of dragon riders",
-          "publisher": "Hacker News",
-          "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
         }
       ],
       "faculty_summary": "Comments"
