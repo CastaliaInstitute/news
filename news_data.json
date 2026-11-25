@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:05:17.847934",
+  "generated_at": "2026-11-25T04:05:36.890133",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.055986548327212775,
+      "relevance_score": 0.05606488888629105,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03248919927039626,
+      "relevance_score": 0.03260218384200324,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.029473096925260126,
+      "relevance_score": 0.02965729223318083,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -92,6 +92,28 @@
           "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
           "publisher": "Hacker News",
           "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "description": "Comments",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "Hacker News",
+      "date": "2026-11-25T02:34:21",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+          "publisher": "Hacker News",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
         }
       ],
       "faculty_summary": "Comments"
@@ -142,6 +164,28 @@
     },
     {
       "type": "article",
+      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+      "description": "Comments",
+      "url": "https://buttons.joshwcomeau.com/",
+      "source": "Hacker News",
+      "date": "2026-11-25T03:23:07",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+          "publisher": "Hacker News",
+          "url": "https://buttons.joshwcomeau.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "description": "Comments",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
@@ -164,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
       "description": "Comments",
-      "url": "https://news.ycombinator.com/item?id=50634426",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
       "source": "Hacker News",
-      "date": "2026-11-24T20:44:15",
+      "date": "2026-11-25T03:47:42",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,53 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
           "publisher": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=50634426"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
-      "description": "Comments",
-      "url": "https://literaryreview.co.uk/here-in-the-world",
-      "source": "Hacker News",
-      "date": "2026-11-25T00:36:43",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
-          "publisher": "Hacker News",
-          "url": "https://literaryreview.co.uk/here-in-the-world"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "description": "Comments",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:32:17",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Active intrusion campaign against Check Point security management servers",
-          "publisher": "Hacker News",
-          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+          "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
         }
       ],
       "faculty_summary": "Comments"
