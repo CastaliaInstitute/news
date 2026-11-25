@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:05:29.500046",
+  "generated_at": "2026-11-25T12:06:19.164218",
   "total_items": 10,
   "items": [
     {
@@ -120,6 +120,28 @@
     },
     {
       "type": "article",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "description": "Comments",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "Hacker News",
+      "date": "2026-11-25T11:34:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+          "publisher": "Hacker News",
+          "url": "https://github.com/xoxorwr/pw-loudness-eq"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "description": "Comments",
       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -164,11 +186,11 @@
     },
     {
       "type": "article",
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
       "description": "Comments",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
       "source": "Hacker News",
-      "date": "2026-11-25T03:04:37",
+      "date": "2026-11-25T12:00:34",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,31 +199,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+          "title": "Hazel (YC W24) Is Hiring a Product Designer",
           "publisher": "Hacker News",
-          "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Ternary Bonsai 2.5 27B",
-      "description": "Comments",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "source": "Hacker News",
-      "date": "2026-11-24T20:08:03",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Ternary Bonsai 2.5 27B",
-          "publisher": "Hacker News",
-          "url": "https://prismml.com/news/bonsai-2-5-27b"
+          "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract"
         }
       ],
       "faculty_summary": "Comments"
