@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:05:40.448492",
+  "generated_at": "2026-11-25T03:05:17.847934",
   "total_items": 10,
   "items": [
     {
@@ -76,6 +76,28 @@
     },
     {
       "type": "article",
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "description": "Comments",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "date": "2026-11-25T01:19:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+          "publisher": "Hacker News",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Ternary Bonsai 2.5 27B",
       "description": "Comments",
       "url": "https://prismml.com/news/bonsai-2-5-27b",
@@ -92,28 +114,6 @@
           "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
           "url": "https://prismml.com/news/bonsai-2-5-27b"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-      "description": "Comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-25T01:19:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
         }
       ],
       "faculty_summary": "Comments"
