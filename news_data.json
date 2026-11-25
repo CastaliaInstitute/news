@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:04:59.301939",
+  "generated_at": "2026-11-25T23:04:58.264744",
   "total_items": 10,
   "items": [
     {
@@ -98,11 +98,11 @@
     },
     {
       "type": "article",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
       "description": "Comments",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News",
-      "date": "2026-11-25T19:11:27",
+      "date": "2026-11-25T21:48:10",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -111,9 +111,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
           "publisher": "Hacker News",
-          "url": "https://scottaaronson.blog/?p=10379"
+          "url": "https://github.com/lsernau/grh-lean"
         }
       ],
       "faculty_summary": "Comments"
@@ -142,6 +142,50 @@
     },
     {
       "type": "article",
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "description": "Comments",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "source": "Hacker News",
+      "date": "2026-11-25T21:18:02",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The New York Times tells photographers not to use the latest Photoshop",
+          "publisher": "Hacker News",
+          "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "description": "Comments",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "date": "2026-11-25T19:11:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+          "publisher": "Hacker News",
+          "url": "https://scottaaronson.blog/?p=10379"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "description": "Comments",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
@@ -164,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "SSH is a GUI framework",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
       "description": "Comments",
-      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
       "source": "Hacker News",
-      "date": "2026-11-21T14:52:41",
+      "date": "2026-11-25T20:35:50",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,53 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "SSH is a GUI framework",
+          "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
           "publisher": "Hacker News",
-          "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Defang Security Incident",
-      "description": "Comments",
-      "url": "https://defang.io/blog/post/security-incident-november-2026/",
-      "source": "Hacker News",
-      "date": "2026-11-25T21:47:16",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Defang Security Incident",
-          "publisher": "Hacker News",
-          "url": "https://defang.io/blog/post/security-incident-november-2026/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "description": "Comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "source": "Hacker News",
-      "date": "2026-11-25T17:34:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The polynomial Hirsch conjecture is false [pdf]",
-          "publisher": "Hacker News",
-          "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
+          "url": "https://opensec.in/blog/nfs2root-cve-2026-99362"
         }
       ],
       "faculty_summary": "Comments"
