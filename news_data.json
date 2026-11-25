@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:06:08.704315",
+  "generated_at": "2026-11-25T09:05:51.250184",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05606488888629105,
+      "relevance_score": 0.05588413477920871,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02965729223318083,
+      "relevance_score": 0.027964005988222896,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
