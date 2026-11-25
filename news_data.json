@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:09:10.853534",
+  "generated_at": "2026-11-25T01:05:34.178559",
   "total_items": 10,
   "items": [
     {
@@ -142,50 +142,6 @@
     },
     {
       "type": "article",
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "description": "Comments",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "source": "Hacker News",
-      "date": "2026-11-24T16:32:17",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Active intrusion campaign against Check Point security management servers",
-          "publisher": "Hacker News",
-          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "G\u00f6del Enigma",
-      "description": "Comments",
-      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-      "source": "Hacker News",
-      "date": "2026-11-24T08:16:02",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "G\u00f6del Enigma",
-          "publisher": "Hacker News",
-          "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Get in, friends, the Atmosphere is happening",
       "description": "Comments",
       "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
@@ -208,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "The Spray Bottle",
+      "title": "Active intrusion campaign against Check Point security management servers",
       "description": "Comments",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
-      "date": "2026-11-22T11:16:30",
+      "date": "2026-11-24T16:32:17",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +177,53 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Spray Bottle",
+          "title": "Active intrusion campaign against Check Point security management servers",
           "publisher": "Hacker News",
-          "url": "https://mechanical-pencil.com/products/spray-bottle"
+          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+      "description": "Comments",
+      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "source": "Hacker News",
+      "date": "2026-11-24T22:26:41",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+          "publisher": "Hacker News",
+          "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "G\u00f6del Enigma",
+      "description": "Comments",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "source": "Hacker News",
+      "date": "2026-11-24T08:16:02",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "G\u00f6del Enigma",
+          "publisher": "Hacker News",
+          "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
         }
       ],
       "faculty_summary": "Comments"
