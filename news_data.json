@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:05:42.567549",
+  "generated_at": "2026-11-25T11:05:29.500046",
   "total_items": 10,
   "items": [
     {
@@ -164,28 +164,6 @@
     },
     {
       "type": "article",
-      "title": "Why Automated Proof-Solving Is the Same Old Dead End",
-      "description": "Comments",
-      "url": "https://arxiv.org/abs/2611.31286",
-      "source": "Hacker News",
-      "date": "2026-11-25T08:23:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Why Automated Proof-Solving Is the Same Old Dead End",
-          "publisher": "Hacker News",
-          "url": "https://arxiv.org/abs/2611.31286"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
       "description": "Comments",
       "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
@@ -224,6 +202,28 @@
           "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
           "url": "https://prismml.com/news/bonsai-2-5-27b"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Getting old Java phones online again",
+      "description": "Comments",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "source": "Hacker News",
+      "date": "2026-11-24T13:14:37",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Getting old Java phones online again",
+          "publisher": "Hacker News",
+          "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
         }
       ],
       "faculty_summary": "Comments"
