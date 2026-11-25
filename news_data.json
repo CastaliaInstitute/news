@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:04:20.290128",
+  "generated_at": "2026-11-25T00:09:10.853534",
   "total_items": 10,
   "items": [
     {
@@ -186,6 +186,28 @@
     },
     {
       "type": "article",
+      "title": "Get in, friends, the Atmosphere is happening",
+      "description": "Comments",
+      "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+      "source": "Hacker News",
+      "date": "2026-11-24T23:23:35",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Get in, friends, the Atmosphere is happening",
+          "publisher": "Hacker News",
+          "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "The Spray Bottle",
       "description": "Comments",
       "url": "https://mechanical-pencil.com/products/spray-bottle",
@@ -202,28 +224,6 @@
           "title": "The Spray Bottle",
           "publisher": "Hacker News",
           "url": "https://mechanical-pencil.com/products/spray-bottle"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Calculate how many mesh radio nodes your city needs",
-      "description": "Comments",
-      "url": "https://meshcoveragecalculator.lalala.ing/",
-      "source": "Hacker News",
-      "date": "2026-11-23T09:46:57",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Calculate how many mesh radio nodes your city needs",
-          "publisher": "Hacker News",
-          "url": "https://meshcoveragecalculator.lalala.ing/"
         }
       ],
       "faculty_summary": "Comments"
