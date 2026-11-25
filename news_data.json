@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:04:57.364517",
+  "generated_at": "2026-11-25T06:06:54.152985",
   "total_items": 10,
   "items": [
     {
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03248919927039626,
+      "relevance_score": 0.03260218384200324,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -120,28 +120,6 @@
     },
     {
       "type": "article",
-      "title": "I've been drinking wine in my kitchen",
-      "description": "Comments",
-      "url": "https://scottaaronson.blog/?p=10362",
-      "source": "Hacker News",
-      "date": "2026-11-25T03:02:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "I've been drinking wine in my kitchen",
-          "publisher": "Hacker News",
-          "url": "https://scottaaronson.blog/?p=10362"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "description": "Comments",
       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -186,28 +164,6 @@
     },
     {
       "type": "article",
-      "title": "Show HN: U.S. Interstate Weather",
-      "description": "Comments",
-      "url": "https://www.interstateweather.com/",
-      "source": "Hacker News",
-      "date": "2026-11-25T04:35:32",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: U.S. Interstate Weather",
-          "publisher": "Hacker News",
-          "url": "https://www.interstateweather.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Ternary Bonsai 2.5 27B",
       "description": "Comments",
       "url": "https://prismml.com/news/bonsai-2-5-27b",
@@ -224,6 +180,50 @@
           "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
           "url": "https://prismml.com/news/bonsai-2-5-27b"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "description": "Comments",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "date": "2026-11-25T00:54:49",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "publisher": "Hacker News",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "I've been drinking wine in my kitchen",
+      "description": "Comments",
+      "url": "https://scottaaronson.blog/?p=10362",
+      "source": "Hacker News",
+      "date": "2026-11-25T03:02:10",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "I've been drinking wine in my kitchen",
+          "publisher": "Hacker News",
+          "url": "https://scottaaronson.blog/?p=10362"
         }
       ],
       "faculty_summary": "Comments"
