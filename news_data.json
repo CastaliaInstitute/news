@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:05:36.890133",
+  "generated_at": "2026-11-25T05:04:57.364517",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05606488888629105,
+      "relevance_score": 0.05588413477920871,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03260218384200324,
+      "relevance_score": 0.03248919927039626,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02965729223318083,
+      "relevance_score": 0.027964005988222896,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -98,72 +98,6 @@
     },
     {
       "type": "article",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "description": "Comments",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "source": "Hacker News",
-      "date": "2026-11-25T02:34:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-          "publisher": "Hacker News",
-          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Ternary Bonsai 2.5 27B",
-      "description": "Comments",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "source": "Hacker News",
-      "date": "2026-11-24T20:08:03",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Ternary Bonsai 2.5 27B",
-          "publisher": "Hacker News",
-          "url": "https://prismml.com/news/bonsai-2-5-27b"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "description": "Comments",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "source": "Hacker News",
-      "date": "2026-11-25T00:54:49",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-          "publisher": "Hacker News",
-          "url": "https://greydanus.github.io/2026/11/12/pengpt/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
       "description": "Comments",
       "url": "https://buttons.joshwcomeau.com/",
@@ -186,11 +120,11 @@
     },
     {
       "type": "article",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "title": "I've been drinking wine in my kitchen",
       "description": "Comments",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "url": "https://scottaaronson.blog/?p=10362",
       "source": "Hacker News",
-      "date": "2026-11-24T21:02:22",
+      "date": "2026-11-25T03:02:10",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -199,20 +133,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title": "I've been drinking wine in my kitchen",
           "publisher": "Hacker News",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+          "url": "https://scottaaronson.blog/?p=10362"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "description": "Comments",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "source": "Hacker News",
-      "date": "2026-11-25T03:47:42",
+      "date": "2026-11-25T02:34:21",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +155,75 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
           "publisher": "Hacker News",
-          "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "description": "Comments",
+      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "source": "Hacker News",
+      "date": "2026-11-25T04:03:33",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+          "publisher": "Hacker News",
+          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: U.S. Interstate Weather",
+      "description": "Comments",
+      "url": "https://www.interstateweather.com/",
+      "source": "Hacker News",
+      "date": "2026-11-25T04:35:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: U.S. Interstate Weather",
+          "publisher": "Hacker News",
+          "url": "https://www.interstateweather.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Ternary Bonsai 2.5 27B",
+      "description": "Comments",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "date": "2026-11-24T20:08:03",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "publisher": "Hacker News",
+          "url": "https://prismml.com/news/bonsai-2-5-27b"
         }
       ],
       "faculty_summary": "Comments"
