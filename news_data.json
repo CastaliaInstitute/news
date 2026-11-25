@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:05:34.178559",
+  "generated_at": "2026-11-25T02:05:40.448492",
   "total_items": 10,
   "items": [
     {
@@ -98,6 +98,50 @@
     },
     {
       "type": "article",
+      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+      "description": "Comments",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "date": "2026-11-25T01:19:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+          "publisher": "Hacker News",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "description": "Comments",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "date": "2026-11-25T00:54:49",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "publisher": "Hacker News",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "description": "Comments",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
@@ -142,11 +186,11 @@
     },
     {
       "type": "article",
-      "title": "Get in, friends, the Atmosphere is happening",
+      "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
       "description": "Comments",
-      "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+      "url": "https://literaryreview.co.uk/here-in-the-world",
       "source": "Hacker News",
-      "date": "2026-11-24T23:23:35",
+      "date": "2026-11-25T00:36:43",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -155,9 +199,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Get in, friends, the Atmosphere is happening",
+          "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
           "publisher": "Hacker News",
-          "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9"
+          "url": "https://literaryreview.co.uk/here-in-the-world"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,50 +224,6 @@
           "title": "Active intrusion campaign against Check Point security management servers",
           "publisher": "Hacker News",
           "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
-      "description": "Comments",
-      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
-      "source": "Hacker News",
-      "date": "2026-11-24T22:26:41",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
-          "publisher": "Hacker News",
-          "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "G\u00f6del Enigma",
-      "description": "Comments",
-      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-      "source": "Hacker News",
-      "date": "2026-11-24T08:16:02",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "G\u00f6del Enigma",
-          "publisher": "Hacker News",
-          "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description"
         }
       ],
       "faculty_summary": "Comments"
