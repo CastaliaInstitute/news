@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:05:58.072790",
+  "generated_at": "2026-11-25T08:06:08.704315",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05588413477920871,
+      "relevance_score": 0.05606488888629105,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027964005988222896,
+      "relevance_score": 0.02965729223318083,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -120,28 +120,6 @@
     },
     {
       "type": "article",
-      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-      "description": "Comments",
-      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-      "source": "Hacker News",
-      "date": "2026-11-25T04:03:33",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "publisher": "Hacker News",
-          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "description": "Comments",
       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -186,28 +164,6 @@
     },
     {
       "type": "article",
-      "title": "I've been drinking wine in my kitchen",
-      "description": "Comments",
-      "url": "https://scottaaronson.blog/?p=10362",
-      "source": "Hacker News",
-      "date": "2026-11-25T03:02:10",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "I've been drinking wine in my kitchen",
-          "publisher": "Hacker News",
-          "url": "https://scottaaronson.blog/?p=10362"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Ternary Bonsai 2.5 27B",
       "description": "Comments",
       "url": "https://prismml.com/news/bonsai-2-5-27b",
@@ -224,6 +180,50 @@
           "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
           "url": "https://prismml.com/news/bonsai-2-5-27b"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "description": "Comments",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "source": "Hacker News",
+      "date": "2026-11-25T03:04:37",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+          "publisher": "Hacker News",
+          "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "description": "Comments",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "date": "2026-11-25T00:54:49",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "publisher": "Hacker News",
+          "url": "https://greydanus.github.io/2026/11/12/pengpt/"
         }
       ],
       "faculty_summary": "Comments"
