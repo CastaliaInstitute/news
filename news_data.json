@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:06:54.152985",
+  "generated_at": "2026-11-25T07:05:58.072790",
   "total_items": 10,
   "items": [
     {
@@ -120,28 +120,6 @@
     },
     {
       "type": "article",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "description": "Comments",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "source": "Hacker News",
-      "date": "2026-11-25T02:34:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-          "publisher": "Hacker News",
-          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
       "description": "Comments",
       "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
@@ -164,11 +142,11 @@
     },
     {
       "type": "article",
-      "title": "Ternary Bonsai 2.5 27B",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "description": "Comments",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "source": "Hacker News",
-      "date": "2026-11-24T20:08:03",
+      "date": "2026-11-25T02:34:21",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,20 +155,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Ternary Bonsai 2.5 27B",
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
           "publisher": "Hacker News",
-          "url": "https://prismml.com/news/bonsai-2-5-27b"
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
       "description": "Comments",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "url": "https://gpu-demo-gallery.pages.dev/",
       "source": "Hacker News",
-      "date": "2026-11-25T00:54:49",
+      "date": "2026-11-25T04:31:48",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -199,9 +177,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
           "publisher": "Hacker News",
-          "url": "https://greydanus.github.io/2026/11/12/pengpt/"
+          "url": "https://gpu-demo-gallery.pages.dev/"
         }
       ],
       "faculty_summary": "Comments"
@@ -224,6 +202,28 @@
           "title": "I've been drinking wine in my kitchen",
           "publisher": "Hacker News",
           "url": "https://scottaaronson.blog/?p=10362"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Ternary Bonsai 2.5 27B",
+      "description": "Comments",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "date": "2026-11-24T20:08:03",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "publisher": "Hacker News",
+          "url": "https://prismml.com/news/bonsai-2-5-27b"
         }
       ],
       "faculty_summary": "Comments"
