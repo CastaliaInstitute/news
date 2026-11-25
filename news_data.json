@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:06:19.164218",
+  "generated_at": "2026-11-25T13:05:17.469200",
   "total_items": 10,
   "items": [
     {
@@ -76,6 +76,28 @@
     },
     {
       "type": "article",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "description": "Comments",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "Hacker News",
+      "date": "2026-11-25T11:34:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+          "publisher": "Hacker News",
+          "url": "https://github.com/xoxorwr/pw-loudness-eq"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
       "description": "Comments",
       "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
@@ -120,28 +142,6 @@
     },
     {
       "type": "article",
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "description": "Comments",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "source": "Hacker News",
-      "date": "2026-11-25T11:34:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-          "publisher": "Hacker News",
-          "url": "https://github.com/xoxorwr/pw-loudness-eq"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "description": "Comments",
       "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
@@ -164,50 +164,6 @@
     },
     {
       "type": "article",
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "description": "Comments",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "source": "Hacker News",
-      "date": "2026-11-25T04:31:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-          "publisher": "Hacker News",
-          "url": "https://gpu-demo-gallery.pages.dev/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Hazel (YC W24) Is Hiring a Product Designer",
-      "description": "Comments",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-      "source": "Hacker News",
-      "date": "2026-11-25T12:00:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Hazel (YC W24) Is Hiring a Product Designer",
-          "publisher": "Hacker News",
-          "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Getting old Java phones online again",
       "description": "Comments",
       "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
@@ -224,6 +180,50 @@
           "title": "Getting old Java phones online again",
           "publisher": "Hacker News",
           "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The short age of dragon riders",
+      "description": "Comments",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "source": "Hacker News",
+      "date": "2026-11-23T05:33:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The short age of dragon riders",
+          "publisher": "Hacker News",
+          "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "description": "Comments",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "source": "Hacker News",
+      "date": "2026-11-25T04:31:48",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+          "publisher": "Hacker News",
+          "url": "https://gpu-demo-gallery.pages.dev/"
         }
       ],
       "faculty_summary": "Comments"
