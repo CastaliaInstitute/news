@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:05:17.469200",
+  "generated_at": "2026-11-25T14:05:53.425450",
   "total_items": 10,
   "items": [
     {
@@ -98,11 +98,11 @@
     },
     {
       "type": "article",
-      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
       "description": "Comments",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "source": "Hacker News",
-      "date": "2026-11-25T01:19:26",
+      "date": "2026-11-25T13:33:07",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -111,9 +111,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+          "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
           "publisher": "Hacker News",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
         }
       ],
       "faculty_summary": "Comments"
@@ -136,6 +136,50 @@
           "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
           "publisher": "Hacker News",
           "url": "https://buttons.joshwcomeau.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "description": "Comments",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "date": "2026-11-25T01:19:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+          "publisher": "Hacker News",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The short age of dragon riders",
+      "description": "Comments",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "source": "Hacker News",
+      "date": "2026-11-23T05:33:34",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The short age of dragon riders",
+          "publisher": "Hacker News",
+          "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,50 +224,6 @@
           "title": "Getting old Java phones online again",
           "publisher": "Hacker News",
           "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The short age of dragon riders",
-      "description": "Comments",
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "source": "Hacker News",
-      "date": "2026-11-23T05:33:34",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The short age of dragon riders",
-          "publisher": "Hacker News",
-          "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "description": "Comments",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "source": "Hacker News",
-      "date": "2026-11-25T04:31:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-          "publisher": "Hacker News",
-          "url": "https://gpu-demo-gallery.pages.dev/"
         }
       ],
       "faculty_summary": "Comments"
