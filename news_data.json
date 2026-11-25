@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:05:53.425450",
+  "generated_at": "2026-11-25T15:05:27.595653",
   "total_items": 10,
   "items": [
     {
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027964005988222896,
+      "relevance_score": 0.028149378240176305,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -73,28 +73,6 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "type": "article",
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "description": "Comments",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "source": "Hacker News",
-      "date": "2026-11-25T11:34:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-          "publisher": "Hacker News",
-          "url": "https://github.com/xoxorwr/pw-loudness-eq"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -114,6 +92,28 @@
           "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
           "publisher": "Hacker News",
           "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "description": "Comments",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "source": "Hacker News",
+      "date": "2026-11-25T11:34:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+          "publisher": "Hacker News",
+          "url": "https://github.com/xoxorwr/pw-loudness-eq"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Getting old Java phones online again",
+      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
       "description": "Comments",
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
       "source": "Hacker News",
-      "date": "2026-11-24T13:14:37",
+      "date": "2026-11-25T14:12:29",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Getting old Java phones online again",
+          "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
           "publisher": "Hacker News",
-          "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html"
+          "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/"
         }
       ],
       "faculty_summary": "Comments"
