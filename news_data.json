@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:05:51.250184",
+  "generated_at": "2026-11-25T10:05:42.567549",
   "total_items": 10,
   "items": [
     {
@@ -164,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "Ternary Bonsai 2.5 27B",
+      "title": "Why Automated Proof-Solving Is the Same Old Dead End",
       "description": "Comments",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "url": "https://arxiv.org/abs/2611.31286",
       "source": "Hacker News",
-      "date": "2026-11-24T20:08:03",
+      "date": "2026-11-25T08:23:34",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,9 +177,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Ternary Bonsai 2.5 27B",
+          "title": "Why Automated Proof-Solving Is the Same Old Dead End",
           "publisher": "Hacker News",
-          "url": "https://prismml.com/news/bonsai-2-5-27b"
+          "url": "https://arxiv.org/abs/2611.31286"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "title": "Ternary Bonsai 2.5 27B",
       "description": "Comments",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
       "source": "Hacker News",
-      "date": "2026-11-25T00:54:49",
+      "date": "2026-11-24T20:08:03",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+          "title": "Ternary Bonsai 2.5 27B",
           "publisher": "Hacker News",
-          "url": "https://greydanus.github.io/2026/11/12/pengpt/"
+          "url": "https://prismml.com/news/bonsai-2-5-27b"
         }
       ],
       "faculty_summary": "Comments"
