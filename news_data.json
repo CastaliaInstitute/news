@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:05:15.662839",
+  "generated_at": "2026-11-25T21:05:22.779455",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05560454205385103,
+      "relevance_score": 0.05570680527579298,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027671818586724833,
+      "relevance_score": 0.027988360090083063,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -98,7 +98,7 @@
     },
     {
       "type": "article",
-      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
       "description": "Comments",
       "url": "https://scottaaronson.blog/?p=10379",
       "source": "Hacker News",
@@ -111,7 +111,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
           "publisher": "Hacker News",
           "url": "https://scottaaronson.blog/?p=10379"
         }
@@ -142,11 +142,11 @@
     },
     {
       "type": "article",
-      "title": "Britain's ghost stations",
+      "title": "SSH is a GUI framework",
       "description": "Comments",
-      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
       "source": "Hacker News",
-      "date": "2026-11-25T17:43:46",
+      "date": "2026-11-21T14:52:41",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -155,53 +155,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Britain's ghost stations",
+          "title": "SSH is a GUI framework",
           "publisher": "Hacker News",
-          "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "description": "Comments",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "source": "Hacker News",
-      "date": "2026-11-25T13:33:07",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-          "publisher": "Hacker News",
-          "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "description": "Comments",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "source": "Hacker News",
-      "date": "2026-11-25T11:34:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-          "publisher": "Hacker News",
-          "url": "https://github.com/xoxorwr/pw-loudness-eq"
+          "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/"
         }
       ],
       "faculty_summary": "Comments"
@@ -224,6 +180,50 @@
           "title": "The polynomial Hirsch conjecture is false [pdf]",
           "publisher": "Hacker News",
           "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "description": "Comments",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "source": "Hacker News",
+      "date": "2026-11-22T16:44:48",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+          "publisher": "Hacker News",
+          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+      "description": "Comments",
+      "url": "https://danprice.ai/blog/opus-symphony",
+      "source": "Hacker News",
+      "date": "2026-11-25T19:57:08",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+          "publisher": "Hacker News",
+          "url": "https://danprice.ai/blog/opus-symphony"
         }
       ],
       "faculty_summary": "Comments"
