@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:05:27.595653",
+  "generated_at": "2026-11-25T16:06:20.913723",
   "total_items": 10,
   "items": [
     {
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03260218384200324,
+      "relevance_score": 0.03248919927039626,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.028149378240176305,
+      "relevance_score": 0.027964005988222896,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -73,6 +73,28 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "type": "article",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "description": "Comments",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "Hacker News",
+      "date": "2026-11-25T15:14:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "publisher": "Hacker News",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -114,6 +136,28 @@
           "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
           "publisher": "Hacker News",
           "url": "https://github.com/xoxorwr/pw-loudness-eq"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "In C++, = default and {} are not the same constructor",
+      "description": "Comments",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "source": "Hacker News",
+      "date": "2026-11-25T15:20:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "In C++, = default and {} are not the same constructor",
+          "publisher": "Hacker News",
+          "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/"
         }
       ],
       "faculty_summary": "Comments"
@@ -180,50 +224,6 @@
           "title": "The short age of dragon riders",
           "publisher": "Hacker News",
           "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "description": "Comments",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "source": "Hacker News",
-      "date": "2026-11-25T02:34:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-          "publisher": "Hacker News",
-          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "description": "Comments",
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-      "source": "Hacker News",
-      "date": "2026-11-25T14:12:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-          "publisher": "Hacker News",
-          "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/"
         }
       ],
       "faculty_summary": "Comments"
