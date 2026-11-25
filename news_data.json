@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:05:41.184981",
+  "generated_at": "2026-11-25T19:04:24.681842",
   "total_items": 10,
   "items": [
     {
@@ -76,6 +76,28 @@
     },
     {
       "type": "article",
+      "title": "1Password Security Incident",
+      "description": "Comments",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "date": "2026-11-25T17:18:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "1Password Security Incident",
+          "publisher": "Hacker News",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "description": "Comments",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
@@ -92,28 +114,6 @@
           "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
           "publisher": "Hacker News",
           "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Investigating degraded experiences across GitHub products",
-      "description": "Comments",
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "source": "Hacker News",
-      "date": "2026-11-25T15:59:23",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Investigating degraded experiences across GitHub products",
-          "publisher": "Hacker News",
-          "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx"
         }
       ],
       "faculty_summary": "Comments"
@@ -164,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "1Password Security Incident",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
       "description": "Comments",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
       "source": "Hacker News",
-      "date": "2026-11-25T17:18:26",
+      "date": "2026-11-25T14:56:52",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,9 +177,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "1Password Security Incident",
+          "title": "I checked Clojure's core with Lean and found unreported bugs",
           "publisher": "Hacker News",
-          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+          "url": "https://s.conao3.com/blog/2026/e4f733"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "title": "Deriving Black-Scholes",
       "description": "Comments",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
       "source": "Hacker News",
-      "date": "2026-11-25T14:56:52",
+      "date": "2026-11-25T17:18:15",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "I checked Clojure's core with Lean and found unreported bugs",
+          "title": "Deriving Black-Scholes",
           "publisher": "Hacker News",
-          "url": "https://s.conao3.com/blog/2026/e4f733"
+          "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/"
         }
       ],
       "faculty_summary": "Comments"
