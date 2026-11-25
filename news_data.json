@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:04:13.716096",
+  "generated_at": "2026-11-25T18:05:41.184981",
   "total_items": 10,
   "items": [
     {
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03255431449822918,
+      "relevance_score": 0.032376537780133496,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -120,7 +120,7 @@
     },
     {
       "type": "article",
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "description": "Comments",
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "source": "Hacker News",
@@ -133,7 +133,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
           "publisher": "Hacker News",
           "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
         }
@@ -164,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "Anthropic migrated Messages API to Rust with no Rust developers",
+      "title": "1Password Security Incident",
       "description": "Comments",
-      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "source": "Hacker News",
-      "date": "2026-11-25T16:28:28",
+      "date": "2026-11-25T17:18:26",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,9 +177,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Anthropic migrated Messages API to Rust with no Rust developers",
+          "title": "1Password Security Incident",
           "publisher": "Hacker News",
-          "url": "https://www.anthropic.com/research/migrating-api-to-rust"
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
       "description": "Comments",
-      "url": "https://buttons.joshwcomeau.com/",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
       "source": "Hacker News",
-      "date": "2026-11-25T03:23:07",
+      "date": "2026-11-25T14:56:52",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+          "title": "I checked Clojure's core with Lean and found unreported bugs",
           "publisher": "Hacker News",
-          "url": "https://buttons.joshwcomeau.com/"
+          "url": "https://s.conao3.com/blog/2026/e4f733"
         }
       ],
       "faculty_summary": "Comments"
