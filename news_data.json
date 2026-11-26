@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-25T23:04:58.264744",
+  "generated_at": "2026-11-26T00:08:50.955949",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: FastFlowLM/LFM2.5-1.2B-Thinking-NPU2",
+      "description": "Downloads: 215 | Likes: 0",
+      "url": "https://huggingface.co/FastFlowLM/LFM2.5-1.2B-Thinking-NPU2",
+      "source": "Hugging Face",
+      "date": "2026-11-26T00:07:41.000Z",
+      "metadata": {
+        "downloads": 215,
+        "likes": 0,
+        "tags": [
+          "transformers",
+          "lfm2",
+          "text-generation",
+          "liquid",
+          "lfm2.5",
+          "edge",
+          "conversational",
+          "en",
+          "ar",
+          "zh",
+          "fr",
+          "de",
+          "ja",
+          "ko",
+          "es",
+          "arxiv:2511.23404",
+          "base_model:LiquidAI/LFM2.5-1.2B-Base",
+          "base_model:finetune:LiquidAI/LFM2.5-1.2B-Base",
+          "license:other",
+          "endpoints_compatible",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.1011180338437046,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: FastFlowLM/LFM2.5-1.2B-Thinking-NPU2",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/FastFlowLM/LFM2.5-1.2B-Thinking-NPU2"
+        }
+      ],
+      "faculty_summary": "Downloads: 215 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -17,7 +61,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05570680527579298,
+      "relevance_score": 0.05596435323595792,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +83,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.032376537780133496,
+      "relevance_score": 0.032526223464336604,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +108,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027988360090083063,
+      "relevance_score": 0.02811775801577411,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -73,6 +117,28 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "type": "article",
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "description": "Comments",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "source": "Hacker News",
+      "date": "2026-11-25T22:57:04",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Jev is (probably) Qwen3.5-35B-A3B",
+          "publisher": "Hacker News",
+          "url": "https://modaic.dev/blog/latency-doesnt-lie"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -120,28 +186,6 @@
     },
     {
       "type": "article",
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "description": "Comments",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "source": "Hacker News",
-      "date": "2026-11-22T16:44:48",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-          "publisher": "Hacker News",
-          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "The New York Times tells photographers not to use the latest Photoshop",
       "description": "Comments",
       "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
@@ -164,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "description": "Comments",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "source": "Hacker News",
-      "date": "2026-11-25T19:11:27",
+      "date": "2026-11-22T16:44:48",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,20 +221,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
           "publisher": "Hacker News",
-          "url": "https://scottaaronson.blog/?p=10379"
+          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
       "description": "Comments",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
       "source": "Hacker News",
-      "date": "2026-11-25T15:14:32",
+      "date": "2026-11-25T20:35:39",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -199,31 +243,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
           "publisher": "Hacker News",
-          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "description": "Comments",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "source": "Hacker News",
-      "date": "2026-11-25T20:35:50",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-          "publisher": "Hacker News",
-          "url": "https://opensec.in/blog/nfs2root-cve-2026-99362"
+          "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/"
         }
       ],
       "faculty_summary": "Comments"
