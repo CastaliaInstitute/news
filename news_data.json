@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-26T03:05:19.489401",
+  "generated_at": "2026-11-26T04:05:21.265297",
   "total_items": 10,
   "items": [
-    {
-      "type": "article",
-      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "description": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. Thi...",
-      "url": "https://arxiv.org/abs/2611.31427",
-      "source": "arXiv",
-      "date": "2026-11-25T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Chaeeun Lee, Hossein A. Rahmani, Aryo Pradipta Gema, Kexin Xu, Emine Yilmaz, Pasquale Minervini, T. Ian Simpson, Chen Jin, Amrutha Saseendran",
-        "source_excerpt": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to operate the interface? We distinguish two components of agentic competence: task competence, the knowledge and reasoning needed to solve a task, and interface competence, the ability to act on that knowledge through a given harness. Across four reasoning and agentic benchmarks, we show that harness-conditioned training yields vastly different outcomes depending on how these interact. Multi-harness distillation aggregates task knowledge from trajectories collected through different harnesses into a shared policy, but this knowledge is realised only when training preserves or improves competence on the inference-time interface. Otherwise, single-harness training can induce interference in interface competence, sometimes catastrophically collapsing performance on a held-out harness despite improvements in underlying task knowledge. To disentangle task and interface supervision, we introduce harness rehearsal: distillation on traces that carry minimal task knowledge while exercising the target interface. Cross-harness task supervision or rehearsal alone yields little gain, but their combination yields gains far larger than either: on BFCL V3 multi-turn with Qwen3-4B, they achieve 8.5% and 32.5% respectively, versus 58.8% together. Finally, on-policy reinforcement learning (RL) is more robust than distillation to single-harness training: it does not substantially degrade performance on other harnesses, and interface competence acquired through multi-harness distillation persists through subsequent RL."
-      },
-      "relevance_score": 0.12115753845617215,
-      "sources": [
-        {
-          "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.31427"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. Thi..."
-    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.059138772231558605,
+      "relevance_score": 0.05570680527579298,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -48,31 +26,6 @@
         }
       ],
       "faculty_summary": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
-    },
-    {
-      "type": "article",
-      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
-      "description": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, howev...",
-      "url": "https://arxiv.org/abs/2611.31475",
-      "source": "arXiv",
-      "date": "2026-11-25T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Xiwei Liu, Yulong Li, Xuhui Li, Zhixiang Lu, Haolin Yang, Jianxu Chen, Yifan Lu, Di Fan, Yutong Xie",
-        "source_excerpt": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, however, shifts the bottleneck to orchestration: the agent must decide which tools to call, in what order, and how to interpret their outputs, yet a stateless agent repeats the same mistakes across tasks. We ask whether a frozen tool-using agent can improve its orchestration from its own interaction history, without parameter updates. We present SpatialCraft, a self-evolving framework that maintains two forms of external knowledge: Experiences, condition-action tactics distilled by contrasting rollouts of the same task, and Skills, multi-step procedures with explicit activation and termination conditions. Three designs couple the two streams. Experiences can be anchored to a Skill, appearing only while it is active rather than once per task. A Contrastive Utility Score estimates each Experience's effect by randomly withholding it across rollouts of the same task, separating its contribution from task difficulty, and Experiences with consistently positive utility are consolidated into the Skills they support. Across five spatial benchmarks and four backbones, SpatialCraft achieves the best accuracy in all 20 settings, showing that a frozen agent can learn to orchestrate spatial tools from its own experience.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.04542859654174909,
-      "sources": [
-        {
-          "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.31475"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation, to answer questions that a multimodal large language model (MLLM) cannot resolve from pixels alone. Tool access, howev..."
     },
     {
       "type": "article",
@@ -86,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03771669490945044,
+      "relevance_score": 0.032376537780133496,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -111,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027443730530626136,
+      "relevance_score": 0.027988360090083063,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -120,28 +73,6 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "type": "article",
-      "title": "1Password Security Incident",
-      "description": "Comments",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "source": "Hacker News",
-      "date": "2026-11-25T17:18:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "1Password Security Incident",
-          "publisher": "Hacker News",
-          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -161,6 +92,28 @@
           "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
           "publisher": "Hacker News",
           "url": "https://scottaaronson.blog/?p=10379"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "1Password Security Incident",
+      "description": "Comments",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "date": "2026-11-25T17:18:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "1Password Security Incident",
+          "publisher": "Hacker News",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
         }
       ],
       "faculty_summary": "Comments"
@@ -227,6 +180,50 @@
           "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
           "publisher": "Hacker News",
           "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Slow Ubuntu security response times",
+      "description": "Comments",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Hacker News",
+      "date": "2026-11-25T20:38:00",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Slow Ubuntu security response times",
+          "publisher": "Hacker News",
+          "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "description": "Comments",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "Hacker News",
+      "date": "2026-11-25T15:14:32",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "publisher": "Hacker News",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts"
         }
       ],
       "faculty_summary": "Comments"
