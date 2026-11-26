@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:06:55.097268",
+  "generated_at": "2026-11-26T07:05:23.031909",
   "total_items": 10,
   "items": [
     {
@@ -36,7 +36,7 @@
         "author": "Chaeeun Lee, Hossein A. Rahmani, Aryo Pradipta Gema, Kexin Xu, Emine Yilmaz, Pasquale Minervini, T. Ian Simpson, Chen Jin, Amrutha Saseendran",
         "source_excerpt": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to operate the interface? We distinguish two components of agentic competence: task competence, the knowledge and reasoning needed to solve a task, and interface competence, the ability to act on that knowledge through a given harness. Across four reasoning and agentic benchmarks, we show that harness-conditioned training yields vastly different outcomes depending on how these interact. Multi-harness distillation aggregates task knowledge from trajectories collected through different harnesses into a shared policy, but this knowledge is realised only when training preserves or improves competence on the inference-time interface. Otherwise, single-harness training can induce interference in interface competence, sometimes catastrophically collapsing performance on a held-out harness despite improvements in underlying task knowledge. To disentangle task and interface supervision, we introduce harness rehearsal: distillation on traces that carry minimal task knowledge while exercising the target interface. Cross-harness task supervision or rehearsal alone yields little gain, but their combination yields gains far larger than either: on BFCL V3 multi-turn with Qwen3-4B, they achieve 8.5% and 32.5% respectively, versus 58.8% together. Finally, on-policy reinforcement learning (RL) is more robust than distillation to single-harness training: it does not substantially degrade performance on other harnesses, and interface competence acquired through multi-harness distillation persists through subsequent RL."
       },
-      "relevance_score": 0.09814711407238738,
+      "relevance_score": 0.09811311662853604,
       "sources": [
         {
           "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
@@ -83,7 +83,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.07099483683416616,
+      "relevance_score": 0.07085084798558297,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -108,7 +108,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05972107278471783,
+      "relevance_score": 0.059696025323277134,
       "sources": [
         {
           "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
@@ -186,31 +186,6 @@
     },
     {
       "type": "article",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI",
-      "date": "2026-11-24T13:00:00",
-      "metadata": {
-        "feed_url": "https://openai.com/blog/rss.xml",
-        "author": "",
-        "source_excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.03295943585999548,
-      "sources": [
-        {
-          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "publisher": "OpenAI",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
-        }
-      ],
-      "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "type": "article",
       "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
       "description": "arXiv:2611.33178v1 Announce Type: new \nAbstract: Geophysical inverse problems are inherently ill-posed because of sparse observations and measurement noise. Classical sampling-based Bayesian inference methods, such as Markov chain Monte Carlo (MCMC), are computationally prohibitive because they r...",
       "url": "https://arxiv.org/abs/2611.33178",
@@ -230,6 +205,31 @@
         }
       ],
       "faculty_summary": "arXiv:2611.33178v1 Announce Type: new \nAbstract: Geophysical inverse problems are inherently ill-posed because of sparse observations and measurement noise. Classical sampling-based Bayesian inference methods, such as Markov chain Monte Carlo (MCMC), are computationally prohibitive because they r..."
+    },
+    {
+      "type": "article",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "date": "2026-11-24T13:00:00",
+      "metadata": {
+        "feed_url": "https://openai.com/blog/rss.xml",
+        "author": "",
+        "source_excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+        "matched_keywords": [
+          "reasoning"
+        ]
+      },
+      "relevance_score": 0.032591730522877616,
+      "sources": [
+        {
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "publisher": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+        }
+      ],
+      "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     }
   ]
 }
