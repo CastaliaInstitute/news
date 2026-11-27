@@ -1,28 +1,40 @@
 {
-  "generated_at": "2026-11-27T05:05:14.722107",
+  "generated_at": "2026-11-27T06:07:15.582346",
   "total_items": 10,
   "items": [
     {
-      "type": "article",
-      "title": "An introduction to uncertainty in machine learning",
-      "description": "Comments",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "source": "Hacker News",
-      "date": "2026-11-26T19:04:50",
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "source": "Hugging Face",
+      "date": "2026-11-27T06:05:59.000Z",
       "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "pytorch",
+          "gpt2",
+          "curriculum-learning",
+          "data-ordering",
+          "fineweb-edu",
+          "pretraining",
+          "text-generation",
+          "en",
+          "dataset:HuggingFaceFW/fineweb-edu",
+          "license:mit",
+          "region:us"
+        ]
       },
-      "relevance_score": 0.17631811405375758,
+      "relevance_score": 0.1925065873925657,
       "sources": [
         {
-          "title": "An introduction to uncertainty in machine learning",
-          "publisher": "Hacker News",
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/"
+          "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning"
         }
       ],
-      "faculty_summary": "Comments"
+      "faculty_summary": "Downloads: 0 | Likes: 0"
     },
     {
       "type": "article",
@@ -39,7 +51,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05259363635292841,
+      "relevance_score": 0.052498475242082024,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -65,7 +77,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.045313627733198164,
+      "relevance_score": 0.04534421367347101,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -90,7 +102,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03598811508165916,
+      "relevance_score": 0.03601284735000799,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -137,7 +149,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.023426152047697817,
+      "relevance_score": 0.023249388217065018,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -146,28 +158,6 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "type": "article",
-      "title": "Hard Drive pricing has gotten bad",
-      "description": "Comments",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "source": "Hacker News",
-      "date": "2026-11-27T01:13:49",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Hard Drive pricing has gotten bad",
-          "publisher": "Hacker News",
-          "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -193,6 +183,50 @@
     },
     {
       "type": "article",
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "description": "Comments",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "source": "Hacker News",
+      "date": "2026-11-27T04:56:18",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "\"What's Claude's Fursona?\" and Other Questions",
+          "publisher": "Hacker News",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Hard Drive pricing has gotten bad",
+      "description": "Comments",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "source": "Hacker News",
+      "date": "2026-11-27T01:13:49",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Hard Drive pricing has gotten bad",
+          "publisher": "Hacker News",
+          "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "description": "Comments",
       "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
@@ -209,28 +243,6 @@
           "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
           "publisher": "Hacker News",
           "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "description": "Comments",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News",
-      "date": "2026-11-26T17:36:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-          "publisher": "Hacker News",
-          "url": "https://github.com/antonpictures/youtube-punisher"
         }
       ],
       "faculty_summary": "Comments"
