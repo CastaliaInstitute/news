@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-11-27T20:05:15.041212",
+  "generated_at": "2026-11-27T21:05:05.320896",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
-      "description": "Downloads: 30 | Likes: 0",
-      "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
-      "source": "Hugging Face",
-      "date": "2026-11-27T20:02:49.000Z",
-      "metadata": {
-        "downloads": 30,
-        "likes": 0,
-        "tags": [
-          "pytorch",
-          "gpt2",
-          "curriculum-learning",
-          "data-ordering",
-          "fineweb-edu",
-          "pretraining",
-          "text-generation",
-          "en",
-          "dataset:HuggingFaceFW/fineweb-edu",
-          "license:mit",
-          "region:us"
-        ]
-      },
-      "relevance_score": 0.18241602989009448,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning"
-        }
-      ],
-      "faculty_summary": "Downloads: 30 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -51,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.052435011354874855,
+      "relevance_score": 0.051497200636301255,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -77,7 +43,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.045220689679999135,
+      "relevance_score": 0.044411908554804404,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -102,7 +68,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03583470730369696,
+      "relevance_score": 0.03519379636007359,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -124,7 +90,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.034118301132359884,
+      "relevance_score": 0.03350808845814304,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -149,7 +115,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.023426142936069184,
+      "relevance_score": 0.023007161660531794,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -205,11 +171,11 @@
     },
     {
       "type": "article",
-      "title": "Michael Nielsen took down his book on neural nets",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "description": "Comments",
-      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News",
-      "date": "2026-11-27T19:31:01",
+      "date": "2026-11-25T15:16:53",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -218,9 +184,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Michael Nielsen took down his book on neural nets",
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
           "publisher": "Hacker News",
-          "url": "https://twitter.com/michael_nielsen/status/2126359767362748777"
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Citro\u00ebn Hydraulic System",
+      "description": "Comments",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "source": "Hacker News",
+      "date": "2026-11-27T03:10:19",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Citro\u00ebn Hydraulic System",
+          "publisher": "Hacker News",
+          "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html"
         }
       ],
       "faculty_summary": "Comments"
