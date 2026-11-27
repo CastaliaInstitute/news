@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:05:01.324090",
+  "generated_at": "2026-11-27T23:05:02.990085",
   "total_items": 10,
   "items": [
     {
@@ -193,6 +193,28 @@
     },
     {
       "type": "article",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "description": "Comments",
+      "url": "https://progrium.github.io/9ux/",
+      "source": "Hacker News",
+      "date": "2026-11-27T21:48:14",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "9/UX: a Macintosh-inspired desktop for 9front",
+          "publisher": "Hacker News",
+          "url": "https://progrium.github.io/9ux/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Citro\u00ebn Hydraulic System",
       "description": "Comments",
       "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
@@ -209,28 +231,6 @@
           "title": "Citro\u00ebn Hydraulic System",
           "publisher": "Hacker News",
           "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Michael Nielsen took down his book on neural nets",
-      "description": "Comments",
-      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
-      "source": "Hacker News",
-      "date": "2026-11-27T19:31:01",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Michael Nielsen took down his book on neural nets",
-          "publisher": "Hacker News",
-          "url": "https://twitter.com/michael_nielsen/status/2126359767362748777"
         }
       ],
       "faculty_summary": "Comments"
