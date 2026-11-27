@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-27T17:05:09.445012",
+  "generated_at": "2026-11-27T18:05:11.461337",
   "total_items": 10,
   "items": [
-    {
-      "type": "article",
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "description": "Comments",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "Hacker News",
-      "date": "2026-11-27T12:03:11",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.15592297420294485,
-      "sources": [
-        {
-          "title": "Kimi for Science: More scientific ideas, made possible",
-          "publisher": "Hacker News",
-          "url": "https://www.kimi.ai/news/kimi-for-science-program"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05195975969188825,
+      "relevance_score": 0.051403474985745684,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -65,7 +43,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.04481082597602526,
+      "relevance_score": 0.044480942655980266,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -90,7 +68,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0355973129723601,
+      "relevance_score": 0.03528041659778929,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -112,7 +90,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03392323865492698,
+      "relevance_score": 0.033621245317626676,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -137,7 +115,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0232138169901019,
+      "relevance_score": 0.02283105637676542,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -165,6 +143,28 @@
           "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
           "publisher": "Hacker News",
           "url": "https://bouncemarket.minhanhday.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "I'm Scared of AI",
+      "description": "Comments",
+      "url": "https://thesoapbox.email/archive/3",
+      "source": "Hacker News",
+      "date": "2026-11-27T17:45:31",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "I'm Scared of AI",
+          "publisher": "Hacker News",
+          "url": "https://thesoapbox.email/archive/3"
         }
       ],
       "faculty_summary": "Comments"
@@ -215,7 +215,7 @@
     },
     {
       "type": "article",
-      "title": "False Computer-Checked Proofs",
+      "title": "False computer-checked proofs",
       "description": "Comments",
       "url": "https://cr.yp.to/proofs/falseccp.html",
       "source": "Hacker News",
@@ -228,7 +228,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "False Computer-Checked Proofs",
+          "title": "False computer-checked proofs",
           "publisher": "Hacker News",
           "url": "https://cr.yp.to/proofs/falseccp.html"
         }
