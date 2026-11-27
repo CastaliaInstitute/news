@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-27T19:04:33.492006",
+  "generated_at": "2026-11-27T20:05:15.041212",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "description": "Downloads: 30 | Likes: 0",
+      "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "source": "Hugging Face",
+      "date": "2026-11-27T20:02:49.000Z",
+      "metadata": {
+        "downloads": 30,
+        "likes": 0,
+        "tags": [
+          "pytorch",
+          "gpt2",
+          "curriculum-learning",
+          "data-ordering",
+          "fineweb-edu",
+          "pretraining",
+          "text-generation",
+          "en",
+          "dataset:HuggingFaceFW/fineweb-edu",
+          "license:mit",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.18241602989009448,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning"
+        }
+      ],
+      "faculty_summary": "Downloads: 30 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -17,7 +51,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.051403474985745684,
+      "relevance_score": 0.052435011354874855,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -43,7 +77,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.044411908554804404,
+      "relevance_score": 0.045220689679999135,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -68,7 +102,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03528041659778929,
+      "relevance_score": 0.03583470730369696,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -90,7 +124,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.033621245317626676,
+      "relevance_score": 0.034118301132359884,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -115,7 +149,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02283105637676542,
+      "relevance_score": 0.023426142936069184,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -149,28 +183,6 @@
     },
     {
       "type": "article",
-      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-      "description": "Comments",
-      "url": "https://bouncemarket.minhanhday.com/",
-      "source": "Hacker News",
-      "date": "2026-11-27T15:01:50",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-          "publisher": "Hacker News",
-          "url": "https://bouncemarket.minhanhday.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Convex skills send the user's app idea to a remote server without telling them",
       "description": "Comments",
       "url": "https://github.com/convex/convex-backend-skill/issues/64",
@@ -193,11 +205,11 @@
     },
     {
       "type": "article",
-      "title": "False computer-checked proofs",
+      "title": "Michael Nielsen took down his book on neural nets",
       "description": "Comments",
-      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
       "source": "Hacker News",
-      "date": "2026-11-27T15:26:09",
+      "date": "2026-11-27T19:31:01",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -206,20 +218,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "False computer-checked proofs",
+          "title": "Michael Nielsen took down his book on neural nets",
           "publisher": "Hacker News",
-          "url": "https://cr.yp.to/proofs/falseccp.html"
+          "url": "https://twitter.com/michael_nielsen/status/2126359767362748777"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "First images of the impact of DART asteroid deflection experiment",
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
       "description": "Comments",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "url": "https://bouncemarket.minhanhday.com/",
       "source": "Hacker News",
-      "date": "2026-11-26T17:24:37",
+      "date": "2026-11-27T15:01:50",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -228,9 +240,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "First images of the impact of DART asteroid deflection experiment",
+          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
           "publisher": "Hacker News",
-          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+          "url": "https://bouncemarket.minhanhday.com/"
         }
       ],
       "faculty_summary": "Comments"
