@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:05:35.136454",
+  "generated_at": "2026-11-27T17:05:09.445012",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.15624882710304197,
+      "relevance_score": 0.15592297420294485,
       "sources": [
         {
           "title": "Kimi for Science: More scientific ideas, made possible",
@@ -23,39 +23,6 @@
         }
       ],
       "faculty_summary": "Comments"
-    },
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: MK4-Research/Alkus-3.4-27B-Abliterated-GGUF",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/MK4-Research/Alkus-3.4-27B-Abliterated-GGUF",
-      "source": "Hugging Face",
-      "date": "2026-11-27T16:04:18.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "gguf",
-          "qwen3",
-          "reasoning",
-          "lora",
-          "quantized",
-          "text-generation",
-          "base_model:Qwen/Qwen3.8-27B",
-          "base_model:adapter:Qwen/Qwen3.8-27B",
-          "license:other",
-          "region:us"
-        ]
-      },
-      "relevance_score": 0.07187979703070826,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: MK4-Research/Alkus-3.4-27B-Abliterated-GGUF",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/MK4-Research/Alkus-3.4-27B-Abliterated-GGUF"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
     },
     {
       "type": "article",
@@ -72,7 +39,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.048160447391259284,
+      "relevance_score": 0.05195975969188825,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -98,7 +65,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.04580407003885297,
+      "relevance_score": 0.04481082597602526,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -123,7 +90,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03567815178077363,
+      "relevance_score": 0.0355973129723601,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -145,7 +112,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.02955988137754235,
+      "relevance_score": 0.03392323865492698,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -170,7 +137,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.022989567359940177,
+      "relevance_score": 0.0232138169901019,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -204,6 +171,28 @@
     },
     {
       "type": "article",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "description": "Comments",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News",
+      "date": "2026-11-27T15:40:31",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "publisher": "Hacker News",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "First images of the impact of DART asteroid deflection experiment",
       "description": "Comments",
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
@@ -226,11 +215,11 @@
     },
     {
       "type": "article",
-      "title": "The group chat where your AI talks behind your back",
+      "title": "False Computer-Checked Proofs",
       "description": "Comments",
-      "url": "https://construct22.com/",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
       "source": "Hacker News",
-      "date": "2026-11-27T06:44:34",
+      "date": "2026-11-27T15:26:09",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -239,9 +228,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The group chat where your AI talks behind your back",
+          "title": "False Computer-Checked Proofs",
           "publisher": "Hacker News",
-          "url": "https://construct22.com/"
+          "url": "https://cr.yp.to/proofs/falseccp.html"
         }
       ],
       "faculty_summary": "Comments"
