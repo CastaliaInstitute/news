@@ -1,37 +1,47 @@
 {
-  "generated_at": "2026-11-27T06:07:15.582346",
+  "generated_at": "2026-11-27T07:05:33.900546",
   "total_items": 10,
   "items": [
     {
       "type": "model_release",
-      "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "title": "\ud83e\udd16 New Model: wesjos/Llama-3.2-3B-Thinking-SFT",
       "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "url": "https://huggingface.co/wesjos/Llama-3.2-3B-Thinking-SFT",
       "source": "Hugging Face",
-      "date": "2026-11-27T06:05:59.000Z",
+      "date": "2026-11-27T07:04:48.000Z",
       "metadata": {
         "downloads": 0,
         "likes": 0,
         "tags": [
-          "pytorch",
-          "gpt2",
-          "curriculum-learning",
-          "data-ordering",
-          "fineweb-edu",
-          "pretraining",
+          "transformers",
+          "safetensors",
+          "llama",
           "text-generation",
+          "sft",
+          "thinking",
+          "reasoning",
+          "chain-of-thought",
+          "distillation",
+          "full-finetune",
+          "conversational",
+          "unsloth",
           "en",
-          "dataset:HuggingFaceFW/fineweb-edu",
-          "license:mit",
+          "zh",
+          "dataset:saidutta69/qwen-glm-kimi-distillation-clean",
+          "base_model:meta-llama/Llama-3.2-3B",
+          "base_model:finetune:meta-llama/Llama-3.2-3B",
+          "license:llama3.2",
+          "text-generation-inference",
+          "endpoints_compatible",
           "region:us"
         ]
       },
-      "relevance_score": 0.1925065873925657,
+      "relevance_score": 0.10364976314738045,
       "sources": [
         {
-          "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+          "title": "\ud83e\udd16 New Model: wesjos/Llama-3.2-3B-Thinking-SFT",
           "publisher": "Hugging Face",
-          "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning"
+          "url": "https://huggingface.co/wesjos/Llama-3.2-3B-Thinking-SFT"
         }
       ],
       "faculty_summary": "Downloads: 0 | Likes: 0"
@@ -51,7 +61,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.052498475242082024,
+      "relevance_score": 0.05179417997656471,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -77,7 +87,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.04534421367347101,
+      "relevance_score": 0.04473589667261396,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -102,7 +112,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03601284735000799,
+      "relevance_score": 0.03552971564438319,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -124,7 +134,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03419784155069175,
+      "relevance_score": 0.03373905912350694,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -149,7 +159,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.023249388217065018,
+      "relevance_score": 0.022937485176606282,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -158,6 +168,28 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "type": "article",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "description": "Comments",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "source": "Hacker News",
+      "date": "2026-11-27T05:22:06",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The need for a formally verifiable mainstream programming language",
+          "publisher": "Hacker News",
+          "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -183,11 +215,11 @@
     },
     {
       "type": "article",
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "title": "The group chat where your AI talks behind your back",
       "description": "Comments",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "url": "https://construct22.com/",
       "source": "Hacker News",
-      "date": "2026-11-27T04:56:18",
+      "date": "2026-11-27T06:44:34",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -196,9 +228,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "\"What's Claude's Fursona?\" and Other Questions",
+          "title": "The group chat where your AI talks behind your back",
           "publisher": "Hacker News",
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/"
+          "url": "https://construct22.com/"
         }
       ],
       "faculty_summary": "Comments"
@@ -221,28 +253,6 @@
           "title": "Hard Drive pricing has gotten bad",
           "publisher": "Hacker News",
           "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "description": "Comments",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "source": "Hacker News",
-      "date": "2026-11-26T21:08:05",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-          "publisher": "Hacker News",
-          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
         }
       ],
       "faculty_summary": "Comments"
