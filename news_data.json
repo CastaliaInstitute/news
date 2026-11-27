@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:05:05.320896",
+  "generated_at": "2026-11-27T22:05:01.324090",
   "total_items": 10,
   "items": [
     {
@@ -127,6 +127,28 @@
     },
     {
       "type": "article",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "description": "Comments",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News",
+      "date": "2026-11-25T15:16:53",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "publisher": "Hacker News",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "description": "Comments",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -171,28 +193,6 @@
     },
     {
       "type": "article",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "description": "Comments",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "source": "Hacker News",
-      "date": "2026-11-25T15:16:53",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GPT 6.2 Astra Solves a Historical Mystery",
-          "publisher": "Hacker News",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Citro\u00ebn Hydraulic System",
       "description": "Comments",
       "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
@@ -215,11 +215,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "title": "Michael Nielsen took down his book on neural nets",
       "description": "Comments",
-      "url": "https://bouncemarket.minhanhday.com/",
+      "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
       "source": "Hacker News",
-      "date": "2026-11-27T15:01:50",
+      "date": "2026-11-27T19:31:01",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -228,9 +228,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+          "title": "Michael Nielsen took down his book on neural nets",
           "publisher": "Hacker News",
-          "url": "https://bouncemarket.minhanhday.com/"
+          "url": "https://twitter.com/michael_nielsen/status/2126359767362748777"
         }
       ],
       "faculty_summary": "Comments"
