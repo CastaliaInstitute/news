@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-11-27T10:05:16.430242",
+  "generated_at": "2026-11-27T11:04:36.895125",
   "total_items": 10,
   "items": [
-    {
-      "type": "article",
-      "title": "Claude sabotaging SOTA ML research tasks",
-      "description": "Comments",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "source": "Hacker News",
-      "date": "2026-11-27T08:28:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.05265500733661025,
-      "sources": [
-        {
-          "title": "Claude sabotaging SOTA ML research tasks",
-          "publisher": "Hacker News",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.04872757311060266,
+      "relevance_score": 0.051403474985745684,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -65,7 +43,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.04453326047187087,
+      "relevance_score": 0.044442035392571314,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -90,7 +68,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.035290391494355394,
+      "relevance_score": 0.03556920329783333,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -112,7 +90,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.030014848506418848,
+      "relevance_score": 0.03350808845814304,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -137,7 +115,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0227840635055332,
+      "relevance_score": 0.022737391018990895,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -231,6 +209,28 @@
           "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
           "publisher": "Hacker News",
           "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "AMD-specific fork of llama.cpp",
+      "description": "Comments",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "source": "Hacker News",
+      "date": "2026-11-26T17:11:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "AMD-specific fork of llama.cpp",
+          "publisher": "Hacker News",
+          "url": "https://devnull.land/amd-specific-llama-cpp"
         }
       ],
       "faculty_summary": "Comments"
