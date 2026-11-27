@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-27T13:05:10.203156",
+  "generated_at": "2026-11-27T14:05:26.025179",
   "total_items": 10,
   "items": [
+    {
+      "type": "article",
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "description": "Comments",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "source": "Hacker News",
+      "date": "2026-11-27T12:03:11",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.15592297420294485,
+      "sources": [
+        {
+          "title": "Kimi for Science: More scientific ideas, made possible",
+          "publisher": "Hacker News",
+          "url": "https://www.kimi.ai/news/kimi-for-science-program"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -17,7 +39,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.051403474985745684,
+      "relevance_score": 0.0518651921771562,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -43,7 +65,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.044411908554804404,
+      "relevance_score": 0.0448187417170445,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -68,7 +90,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03528041659778929,
+      "relevance_score": 0.035603745915184615,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -90,7 +112,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.033621245317626676,
+      "relevance_score": 0.03392323865492698,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -115,7 +137,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.022737391018990895,
+      "relevance_score": 0.022941623209989697,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -193,11 +215,11 @@
     },
     {
       "type": "article",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
       "description": "Comments",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
       "source": "Hacker News",
-      "date": "2026-11-26T21:08:05",
+      "date": "2026-11-27T12:43:40",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -206,31 +228,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+          "title": "New York and California Age Gating Rules Go into Effect in the New Year",
           "publisher": "Hacker News",
-          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "description": "Comments",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News",
-      "date": "2026-11-26T17:36:47",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-          "publisher": "Hacker News",
-          "url": "https://github.com/antonpictures/youtube-punisher"
+          "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year"
         }
       ],
       "faculty_summary": "Comments"
