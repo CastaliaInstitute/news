@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:05:26.025179",
+  "generated_at": "2026-11-27T15:05:20.240013",
   "total_items": 10,
   "items": [
     {
@@ -171,6 +171,28 @@
     },
     {
       "type": "article",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "description": "Comments",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "Hacker News",
+      "date": "2026-11-26T17:24:37",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+          "publisher": "Hacker News",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "The group chat where your AI talks behind your back",
       "description": "Comments",
       "url": "https://construct22.com/",
@@ -209,28 +231,6 @@
           "title": "AI made self-hosting fun again",
           "publisher": "Hacker News",
           "url": "https://janlukas.blog/posts/ai-self-hosting"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
-      "description": "Comments",
-      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-      "source": "Hacker News",
-      "date": "2026-11-27T12:43:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "New York and California Age Gating Rules Go into Effect in the New Year",
-          "publisher": "Hacker News",
-          "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year"
         }
       ],
       "faculty_summary": "Comments"
