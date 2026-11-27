@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:05:29.719749",
+  "generated_at": "2026-11-27T09:05:28.506338",
   "total_items": 10,
   "items": [
     {
@@ -149,28 +149,6 @@
     },
     {
       "type": "article",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "description": "Comments",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "source": "Hacker News",
-      "date": "2026-11-27T05:22:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The need for a formally verifiable mainstream programming language",
-          "publisher": "Hacker News",
-          "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "AI made self-hosting fun again",
       "description": "Comments",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
@@ -187,6 +165,28 @@
           "title": "AI made self-hosting fun again",
           "publisher": "Hacker News",
           "url": "https://janlukas.blog/posts/ai-self-hosting"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "description": "Comments",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "source": "Hacker News",
+      "date": "2026-11-27T05:22:06",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The need for a formally verifiable mainstream programming language",
+          "publisher": "Hacker News",
+          "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
         }
       ],
       "faculty_summary": "Comments"
@@ -215,11 +215,11 @@
     },
     {
       "type": "article",
-      "title": "Hard Drive pricing has gotten bad",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "description": "Comments",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "Hacker News",
-      "date": "2026-11-27T01:13:49",
+      "date": "2026-11-26T21:08:05",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -228,9 +228,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Hard Drive pricing has gotten bad",
+          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
           "publisher": "Hacker News",
-          "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/"
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
         }
       ],
       "faculty_summary": "Comments"
