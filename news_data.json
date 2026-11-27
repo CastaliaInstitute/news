@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:04:36.895125",
+  "generated_at": "2026-11-27T12:06:50.521687",
   "total_items": 10,
   "items": [
     {
@@ -43,7 +43,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.044442035392571314,
+      "relevance_score": 0.044411908554804404,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -68,7 +68,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03556920329783333,
+      "relevance_score": 0.03519379636007359,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -171,6 +171,28 @@
     },
     {
       "type": "article",
+      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "description": "Comments",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "Hacker News",
+      "date": "2026-11-27T11:09:04",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "publisher": "Hacker News",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
       "description": "Comments",
       "url": "https://github.com/antonpictures/youtube-punisher",
@@ -209,28 +231,6 @@
           "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
           "publisher": "Hacker News",
           "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "AMD-specific fork of llama.cpp",
-      "description": "Comments",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "source": "Hacker News",
-      "date": "2026-11-26T17:11:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "AMD-specific fork of llama.cpp",
-          "publisher": "Hacker News",
-          "url": "https://devnull.land/amd-specific-llama-cpp"
         }
       ],
       "faculty_summary": "Comments"
