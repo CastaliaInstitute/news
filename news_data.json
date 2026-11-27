@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-27T09:05:28.506338",
+  "generated_at": "2026-11-27T10:05:16.430242",
   "total_items": 10,
   "items": [
+    {
+      "type": "article",
+      "title": "Claude sabotaging SOTA ML research tasks",
+      "description": "Comments",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "Hacker News",
+      "date": "2026-11-27T08:28:08",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.05265500733661025,
+      "sources": [
+        {
+          "title": "Claude sabotaging SOTA ML research tasks",
+          "publisher": "Hacker News",
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -17,7 +39,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05156563960243423,
+      "relevance_score": 0.04872757311060266,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -43,7 +65,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.04453850077664172,
+      "relevance_score": 0.04453326047187087,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -68,7 +90,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.035372941765352946,
+      "relevance_score": 0.035290391494355394,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -90,7 +112,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.033590186466417184,
+      "relevance_score": 0.030014848506418848,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -115,7 +137,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.022836274163201963,
+      "relevance_score": 0.0227840635055332,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -165,28 +187,6 @@
           "title": "AI made self-hosting fun again",
           "publisher": "Hacker News",
           "url": "https://janlukas.blog/posts/ai-self-hosting"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "description": "Comments",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "source": "Hacker News",
-      "date": "2026-11-27T05:22:06",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The need for a formally verifiable mainstream programming language",
-          "publisher": "Hacker News",
-          "url": "https://blainehansen.me/post/mainstream-verifiable-language/"
         }
       ],
       "faculty_summary": "Comments"
