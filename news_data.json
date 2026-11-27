@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:05:20.240013",
+  "generated_at": "2026-11-27T16:05:35.136454",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "",
         "source_excerpt": "Comments"
       },
-      "relevance_score": 0.15592297420294485,
+      "relevance_score": 0.15624882710304197,
       "sources": [
         {
           "title": "Kimi for Science: More scientific ideas, made possible",
@@ -23,6 +23,39 @@
         }
       ],
       "faculty_summary": "Comments"
+    },
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: MK4-Research/Alkus-3.4-27B-Abliterated-GGUF",
+      "description": "Downloads: 0 | Likes: 0",
+      "url": "https://huggingface.co/MK4-Research/Alkus-3.4-27B-Abliterated-GGUF",
+      "source": "Hugging Face",
+      "date": "2026-11-27T16:04:18.000Z",
+      "metadata": {
+        "downloads": 0,
+        "likes": 0,
+        "tags": [
+          "gguf",
+          "qwen3",
+          "reasoning",
+          "lora",
+          "quantized",
+          "text-generation",
+          "base_model:Qwen/Qwen3.8-27B",
+          "base_model:adapter:Qwen/Qwen3.8-27B",
+          "license:other",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.07187979703070826,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: MK4-Research/Alkus-3.4-27B-Abliterated-GGUF",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/MK4-Research/Alkus-3.4-27B-Abliterated-GGUF"
+        }
+      ],
+      "faculty_summary": "Downloads: 0 | Likes: 0"
     },
     {
       "type": "article",
@@ -39,7 +72,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0518651921771562,
+      "relevance_score": 0.048160447391259284,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -65,7 +98,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.0448187417170445,
+      "relevance_score": 0.04580407003885297,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -90,7 +123,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.035603745915184615,
+      "relevance_score": 0.03567815178077363,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -112,7 +145,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03392323865492698,
+      "relevance_score": 0.02955988137754235,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -137,7 +170,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.022941623209989697,
+      "relevance_score": 0.022989567359940177,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -149,11 +182,11 @@
     },
     {
       "type": "article",
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
       "description": "Comments",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "url": "https://bouncemarket.minhanhday.com/",
       "source": "Hacker News",
-      "date": "2026-11-27T12:08:51",
+      "date": "2026-11-27T15:01:50",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -162,16 +195,16 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
           "publisher": "Hacker News",
-          "url": "https://eprint.iacr.org/2026/3020.pdf"
+          "url": "https://bouncemarket.minhanhday.com/"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "title": "First images of the impact of DART asteroid deflection experiment",
       "description": "Comments",
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "source": "Hacker News",
@@ -184,7 +217,7 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+          "title": "First images of the impact of DART asteroid deflection experiment",
           "publisher": "Hacker News",
           "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
         }
@@ -209,28 +242,6 @@
           "title": "The group chat where your AI talks behind your back",
           "publisher": "Hacker News",
           "url": "https://construct22.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "AI made self-hosting fun again",
-      "description": "Comments",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "Hacker News",
-      "date": "2026-11-26T21:47:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "AI made self-hosting fun again",
-          "publisher": "Hacker News",
-          "url": "https://janlukas.blog/posts/ai-self-hosting"
         }
       ],
       "faculty_summary": "Comments"
