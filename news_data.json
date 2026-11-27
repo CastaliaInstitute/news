@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:05:11.461337",
+  "generated_at": "2026-11-27T19:04:33.492006",
   "total_items": 10,
   "items": [
     {
@@ -43,7 +43,7 @@
           "assessment"
         ]
       },
-      "relevance_score": 0.044480942655980266,
+      "relevance_score": 0.044411908554804404,
       "sources": [
         {
           "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
@@ -127,50 +127,6 @@
     },
     {
       "type": "article",
-      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-      "description": "Comments",
-      "url": "https://bouncemarket.minhanhday.com/",
-      "source": "Hacker News",
-      "date": "2026-11-27T15:01:50",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-          "publisher": "Hacker News",
-          "url": "https://bouncemarket.minhanhday.com/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "I'm Scared of AI",
-      "description": "Comments",
-      "url": "https://thesoapbox.email/archive/3",
-      "source": "Hacker News",
-      "date": "2026-11-27T17:45:31",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "I'm Scared of AI",
-          "publisher": "Hacker News",
-          "url": "https://thesoapbox.email/archive/3"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "description": "Comments",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -193,11 +149,11 @@
     },
     {
       "type": "article",
-      "title": "First images of the impact of DART asteroid deflection experiment",
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
       "description": "Comments",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "url": "https://bouncemarket.minhanhday.com/",
       "source": "Hacker News",
-      "date": "2026-11-26T17:24:37",
+      "date": "2026-11-27T15:01:50",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -206,9 +162,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "First images of the impact of DART asteroid deflection experiment",
+          "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
           "publisher": "Hacker News",
-          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+          "url": "https://bouncemarket.minhanhday.com/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "description": "Comments",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "source": "Hacker News",
+      "date": "2026-11-27T18:02:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Convex skills send the user's app idea to a remote server without telling them",
+          "publisher": "Hacker News",
+          "url": "https://github.com/convex/convex-backend-skill/issues/64"
         }
       ],
       "faculty_summary": "Comments"
@@ -231,6 +209,28 @@
           "title": "False computer-checked proofs",
           "publisher": "Hacker News",
           "url": "https://cr.yp.to/proofs/falseccp.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "description": "Comments",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "Hacker News",
+      "date": "2026-11-26T17:24:37",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "First images of the impact of DART asteroid deflection experiment",
+          "publisher": "Hacker News",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
         }
       ],
       "faculty_summary": "Comments"
