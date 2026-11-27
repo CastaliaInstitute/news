@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:05:31.936596",
+  "generated_at": "2026-11-27T02:05:53.215045",
   "total_items": 10,
   "items": [
     {
@@ -14,7 +14,7 @@
         "author": "Muyu Zou, Xiang Feng, Yufei Xu, Shanshan Ye, Zulong Chen, Lingyu Mu, Jinxin Hu, Jing Zhang",
         "source_excerpt": "arXiv:2611.33183v1 Announce Type: new \nAbstract: As AI systems become increasingly capable of executing and evaluating experiments, ideation is emerging as a bottleneck in automated scientific and engineering iteration. In many real-world domains, useful ideas are sparse and their validation is costly, making direct online exploration inefficient. We observe that repository evolution provides a scalable source of reusable technical experience: code changes record concrete technical hypotheses, while subsequent revisions, adoption, and reuse provide signals about their utility. Based on this observation, we propose REI, a Repository Evolution-driven Ideation framework that learns reusable ideation policies from repository evolution, injecting domain-specific technical experience into model parameters and reducing reliance on costly trial-and-error. We further identify a hidden failure mode in quality-driven ideation optimization: semantic diversity collapse. Although generated ideas can remain lexically diverse, they increasingly concentrate in a small number of dominant method families, limiting cross-task generalization and long-tail exploration. To address this problem, we introduce Semantic Prior Optimization and Debiasing (SPOD), a diversity-preserving alignment mechanism that makes method identity explicit, corrects category-level reward bias, and limits redundant accumulation within the same method family while retaining strong representatives. Experiments on public benchmarks and a real-world industrial setting demonstrate improvements in ideation quality, method diversity, cross-task generalization, and long-tail exploration."
       },
-      "relevance_score": 0.10122366297916305,
+      "relevance_score": 0.10249638942393482,
       "sources": [
         {
           "title": "REI: Learning Ideation from Repository Evolution",
@@ -36,7 +36,7 @@
         "author": "Chaeeun Lee, Hossein A. Rahmani, Aryo Pradipta Gema, Kexin Xu, Emine Yilmaz, Pasquale Minervini, T. Ian Simpson, Chen Jin, Amrutha Saseendran",
         "source_excerpt": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or the competence to operate the interface? We distinguish two components of agentic competence: task competence, the knowledge and reasoning needed to solve a task, and interface competence, the ability to act on that knowledge through a given harness. Across four reasoning and agentic benchmarks, we show that harness-conditioned training yields vastly different outcomes depending on how these interact. Multi-harness distillation aggregates task knowledge from trajectories collected through different harnesses into a shared policy, but this knowledge is realised only when training preserves or improves competence on the inference-time interface. Otherwise, single-harness training can induce interference in interface competence, sometimes catastrophically collapsing performance on a held-out harness despite improvements in underlying task knowledge. To disentangle task and interface supervision, we introduce harness rehearsal: distillation on traces that carry minimal task knowledge while exercising the target interface. Cross-harness task supervision or rehearsal alone yields little gain, but their combination yields gains far larger than either: on BFCL V3 multi-turn with Qwen3-4B, they achieve 8.5% and 32.5% respectively, versus 58.8% together. Finally, on-policy reinforcement learning (RL) is more robust than distillation to single-harness training: it does not substantially degrade performance on other harnesses, and interface competence acquired through multi-harness distillation persists through subsequent RL."
       },
-      "relevance_score": 0.09757017032568284,
+      "relevance_score": 0.09582711523979097,
       "sources": [
         {
           "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
@@ -58,7 +58,7 @@
         "author": "Abdelkader Dib, Milos Balac, Antonio Sciarretta",
         "source_excerpt": "arXiv:2611.33179v1 Announce Type: new \nAbstract: Traffic-related emissions are a major contributor to urban air pollution. However, existing emission models face a fundamental trade-off: macroscopic models are computationally efficient but rely on average speeds, leading to systematic errors, while microscopic models achieve high accuracy but are computationally prohibitive for large scale simulations. To bridge this gap, this study introduces Direct Emission Prediction (DEP), a Gated Recurrent Unit (GRU)-based deep learning model. DEP was trained on over one million synthetic trips generated by coupling real-world GNSS speed profiles with the microscopic emission model MOBSim. By processing sequential link-level inputs, including vehicle characteristics, road attributes, and ambient temperature, DEP predicts CO$_2$ and NOx emissions. We integrated DEP into a MATSim-based workflow and applied it to the Ile-de-France region. DEP matches the accuracy of SPG-M, a hybrid mesoscopic-microscopic reference model, within 0.35% for CO$_2$ and 1.87% for NOx across both hot and cold-start scenarios, while reducing computational runtime to just 2.2%. Furthermore, validation against empirical remote sensing data confirms that DEP accurately reproduces real-world NOx emission levels across Euro 2-6 diesel vehicles, whereas traditional macroscopic tools like COPERT and HBEFA systematically underestimate them. Finally, DEP effectively captures the spatial distribution of cold-start emissions, identifying key hotspots in dense urban areas. This work demonstrates that deep learning-based mesoscopic frameworks can achieve microscopic accuracy at a fraction of the computational cost, enabling scalable, high-resolution urban emission modeling without relying on pre-computed emission factor databases."
       },
-      "relevance_score": 0.09546732772886661,
+      "relevance_score": 0.09019538014040406,
       "sources": [
         {
           "title": "Deep Learning-Based Mesoscopic Emission Modeling",
@@ -83,7 +83,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.07176174449452159,
+      "relevance_score": 0.06774799026950522,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -105,7 +105,7 @@
         "author": "Nabila, Md Farhan Shahriyar, Nowshin Tabassum Puspa",
         "source_excerpt": "arXiv:2611.33163v1 Announce Type: new \nAbstract: Offline handwritten signatures remain a primary behavioural biometric in legal and financial documents. Detecting skilled forgeries from a static raster image is hard because pen pressure, timing and stroke order are missing. This work studies a family of quantum machine learning pipelines for offline signature forgery detection on a public Kaggle corpus of images split into two classes. We pair a ZZ feature map quantum kernel with three classical learners: K-Nearest Neighbours, Support Vector Machine and Random Forest. We then propose a deeper hybrid that uses EfficientNetB0 as a frozen feature extractor, reduces the resulting 1280 dimensional representation to a qubit register sized subspace through a quantum compatible principal component projection and decides class membership with a nearest neighbour rule. On a single held out test fold the proposed hybrid reaches 92.62 percent accuracy. On stratified five fold cross validation the same pipeline yields a mean accuracy of 91.26 percent with a standard deviation of 1.13 percent. The pipeline keeps a quantum embedding step that is portable to NISQ hardware. We report a controlled ablation across six quantum variants, confusion matrices, a t SNE projection and per class precision, recall and F1 score."
       },
-      "relevance_score": 0.06177416419539926,
+      "relevance_score": 0.059345678818993386,
       "sources": [
         {
           "title": "Quantum Machine Learning for Signature Forgery Detection",
@@ -130,7 +130,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.060053749110435393,
+      "relevance_score": 0.059224775256006224,
       "sources": [
         {
           "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
@@ -152,7 +152,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.05230636932886433,
+      "relevance_score": 0.048654071235301646,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -174,7 +174,7 @@
         "author": "Sasa Maric Robert Abbas",
         "source_excerpt": "arXiv:2611.33168v1 Announce Type: new \nAbstract: In this paper, we study the effect of participation variability on per-round Byzantine vulnerability. We formalise Dynamic Participation Exposure (DPE), a phenomenon in which the global Byzantine fraction remains below an aggregation rule's tolerance threshold, while a participating client set violates, or approaches violation of, the assumptions required for robust aggregation. Under stochastic participation, we derive the probability of per round exposure and analyse how active-set size affects the variability of the observed Byzantine fraction. We further examine the accumulation of exposure over multiple rounds and consider adversaries that selectively participate during favourable rounds. Our analysis shows that intermittent participation does not automatically imply aggregation failure. Rather, it transforms Byzantine robustness from a static population-level property into a stochastic and temporal property. To mitigate this risk, we outline actionable design recommendations based on minimum active-set constraints, temporal monitoring, participation history, and adaptive aggregation."
       },
-      "relevance_score": 0.04344079184193617,
+      "relevance_score": 0.041939751939314616,
       "sources": [
         {
           "title": "Temporal Exposure to Byzantine Vulnerability Under Intermittent Participation in Federated Learning",
@@ -196,7 +196,7 @@
         "author": "Yangwen Zhang, Xintong Wang, Xiaofei Guan, Peng Yu",
         "source_excerpt": "arXiv:2611.33178v1 Announce Type: new \nAbstract: Geophysical inverse problems are inherently ill-posed because of sparse observations and measurement noise. Classical sampling-based Bayesian inference methods, such as Markov chain Monte Carlo (MCMC), are computationally prohibitive because they require many forward simulations. Data-driven machine-learning methods often struggle to produce physically consistent solutions when training data are limited. To address these issues, we propose a geophysics-informed invertible operator network (GI-ION) that integrates an invertible neural network (INN) within a deep operator-learning framework for efficient Bayesian geophysical inversion. The INN serves as the branch network and transforms the model parameters into branch coefficients that represent the forward solution and a latent variable that captures uncertainty in the inverse problem. By learning the forward operator and enforcing statistical independence between the branch coefficients and the latent variable, GI-ION enables efficient sampling from a learned conditional approximation, even with sparse boundary observations. We validated GI-ION on three representative cases: 1D surface-wave dispersion and travel-time tomography for a 2D synthetic random-field model and a seismic-slice model. Numerical experiments demonstrate robust performance across diverse problem settings and efficient conditional sampling."
       },
-      "relevance_score": 0.03378035017126532,
+      "relevance_score": 0.03261311423053717,
       "sources": [
         {
           "title": "Geophysics-informed invertible operator network for Bayesian geophysical inversion",
@@ -221,7 +221,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.0329039464325853,
+      "relevance_score": 0.031766993479960856,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
