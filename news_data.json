@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:06:50.521687",
+  "generated_at": "2026-11-27T13:05:10.203156",
   "total_items": 10,
   "items": [
     {
@@ -68,7 +68,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.03519379636007359,
+      "relevance_score": 0.03528041659778929,
       "sources": [
         {
           "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
@@ -90,7 +90,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03350808845814304,
+      "relevance_score": 0.033621245317626676,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -124,6 +124,28 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "type": "article",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "description": "Comments",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "source": "Hacker News",
+      "date": "2026-11-27T12:08:51",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+          "publisher": "Hacker News",
+          "url": "https://eprint.iacr.org/2026/3020.pdf"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -171,11 +193,11 @@
     },
     {
       "type": "article",
-      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "description": "Comments",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "Hacker News",
-      "date": "2026-11-27T11:09:04",
+      "date": "2026-11-26T21:08:05",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -184,9 +206,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
           "publisher": "Hacker News",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
         }
       ],
       "faculty_summary": "Comments"
@@ -209,28 +231,6 @@
           "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
           "publisher": "Hacker News",
           "url": "https://github.com/antonpictures/youtube-punisher"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "description": "Comments",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "source": "Hacker News",
-      "date": "2026-11-26T21:08:05",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-          "publisher": "Hacker News",
-          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
         }
       ],
       "faculty_summary": "Comments"
