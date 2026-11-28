@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:05:00.501512",
+  "generated_at": "2026-11-28T08:05:28.622476",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05511833056772677,
+      "relevance_score": 0.05519729505613583,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02769560455747404,
+      "relevance_score": 0.02785694596422384,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -92,6 +92,28 @@
           "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
           "publisher": "Hacker News",
           "url": "https://unkernel.dev"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "description": "Comments",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "source": "Hacker News",
+      "date": "2026-11-24T18:10:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Loom seamlessly combines weaving, knitting and braiding",
+          "publisher": "Hacker News",
+          "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
         }
       ],
       "faculty_summary": "Comments"
@@ -164,11 +186,11 @@
     },
     {
       "type": "article",
-      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
       "description": "Comments",
-      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
       "source": "Hacker News",
-      "date": "2026-11-24T18:10:45",
+      "date": "2026-11-27T13:30:20",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,9 +199,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Loom seamlessly combines weaving, knitting and braiding",
+          "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
           "publisher": "Hacker News",
-          "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
+          "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona"
         }
       ],
       "faculty_summary": "Comments"
@@ -202,28 +224,6 @@
           "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
           "publisher": "Hacker News",
           "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
-      "description": "Comments",
-      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
-      "source": "Hacker News",
-      "date": "2026-11-27T13:30:20",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
-          "publisher": "Hacker News",
-          "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona"
         }
       ],
       "faculty_summary": "Comments"
