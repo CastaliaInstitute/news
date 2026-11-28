@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:08:25.830926",
+  "generated_at": "2026-11-28T01:05:02.472747",
   "total_items": 10,
   "items": [
     {
@@ -149,6 +149,28 @@
     },
     {
       "type": "article",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "description": "Comments",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Hacker News",
+      "date": "2026-11-27T23:06:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "publisher": "Hacker News",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "description": "Comments",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -209,28 +231,6 @@
           "title": "Source Control from Hell",
           "publisher": "Hacker News",
           "url": "https://frantic.im/git/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "9/UX: a Macintosh-inspired desktop for 9front",
-      "description": "Comments",
-      "url": "https://progrium.github.io/9ux/",
-      "source": "Hacker News",
-      "date": "2026-11-27T21:48:14",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "9/UX: a Macintosh-inspired desktop for 9front",
-          "publisher": "Hacker News",
-          "url": "https://progrium.github.io/9ux/"
         }
       ],
       "faculty_summary": "Comments"
