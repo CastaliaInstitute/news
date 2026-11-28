@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:05:05.340607",
+  "generated_at": "2026-11-28T17:04:32.066149",
   "total_items": 10,
   "items": [
     {
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02769560455747404,
+      "relevance_score": 0.02776997970284436,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "title": "Essential Reading in the Age of Math 2.0",
       "description": "Comments",
-      "url": "https://unkernel.dev",
+      "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/",
       "source": "Hacker News",
-      "date": "2026-11-28T03:19:20",
+      "date": "2026-11-25T13:56:50",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "title": "Essential Reading in the Age of Math 2.0",
           "publisher": "Hacker News",
-          "url": "https://unkernel.dev"
+          "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/"
         }
       ],
       "faculty_summary": "Comments"
