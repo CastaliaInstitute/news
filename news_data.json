@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-28T17:04:32.066149",
+  "generated_at": "2026-11-28T18:05:21.764085",
   "total_items": 10,
   "items": [
+    {
+      "type": "model_release",
+      "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "description": "Downloads: 34 | Likes: 0",
+      "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+      "source": "Hugging Face",
+      "date": "2026-11-28T18:05:07.000Z",
+      "metadata": {
+        "downloads": 34,
+        "likes": 0,
+        "tags": [
+          "pytorch",
+          "gpt2",
+          "curriculum-learning",
+          "data-ordering",
+          "fineweb-edu",
+          "pretraining",
+          "text-generation",
+          "en",
+          "dataset:HuggingFaceFW/fineweb-edu",
+          "license:mit",
+          "region:us"
+        ]
+      },
+      "relevance_score": 0.17705353938622323,
+      "sources": [
+        {
+          "title": "\ud83e\udd16 New Model: NoeFlandre/gpt2-fineweb-edu-curriculum-learning",
+          "publisher": "Hugging Face",
+          "url": "https://huggingface.co/NoeFlandre/gpt2-fineweb-edu-curriculum-learning"
+        }
+      ],
+      "faculty_summary": "Downloads: 34 | Likes: 0"
+    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -17,7 +51,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05511833056772677,
+      "relevance_score": 0.05618841862512873,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +73,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03200309397319252,
+      "relevance_score": 0.032624414109486306,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +98,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02776997970284436,
+      "relevance_score": 0.028309116562183642,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -73,28 +107,6 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "type": "article",
-      "title": "Farewell",
-      "description": "Comments",
-      "url": "https://github.com/p-e-w/heretic/issues/601",
-      "source": "Hacker News",
-      "date": "2026-11-28T11:42:26",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Farewell",
-          "publisher": "Hacker News",
-          "url": "https://github.com/p-e-w/heretic/issues/601"
-        }
-      ],
-      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -142,6 +154,72 @@
     },
     {
       "type": "article",
+      "title": "Computer Disease",
+      "description": "Comments",
+      "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+      "source": "Hacker News",
+      "date": "2026-11-28T17:12:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Computer Disease",
+          "publisher": "Hacker News",
+          "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "description": "Comments",
+      "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "source": "Hacker News",
+      "date": "2026-11-28T17:53:02",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+          "publisher": "Hacker News",
+          "url": "https://cs.stanford.edu/~knuth/moratorium.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "description": "Comments",
+      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "source": "Hacker News",
+      "date": "2026-11-28T15:55:54",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Silently degrading the model's capabilities IS sabotage",
+          "publisher": "Hacker News",
+          "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Physics Breakthrough Simulator",
       "description": "Comments",
       "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
@@ -158,72 +236,6 @@
           "title": "Physics Breakthrough Simulator",
           "publisher": "Hacker News",
           "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-      "description": "Comments",
-      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
-      "source": "Hacker News",
-      "date": "2026-11-28T11:57:04",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-          "publisher": "Hacker News",
-          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
-      "description": "Comments",
-      "url": "https://scriptor-pro.github.io/luciole-mono/",
-      "source": "Hacker News",
-      "date": "2026-11-28T12:50:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
-          "publisher": "Hacker News",
-          "url": "https://scriptor-pro.github.io/luciole-mono/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Essential Reading in the Age of Math 2.0",
-      "description": "Comments",
-      "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/",
-      "source": "Hacker News",
-      "date": "2026-11-25T13:56:50",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Essential Reading in the Age of Math 2.0",
-          "publisher": "Hacker News",
-          "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/"
         }
       ],
       "faculty_summary": "Comments"
