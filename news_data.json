@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:04:40.090253",
+  "generated_at": "2026-11-28T14:05:03.587471",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05522249182858024,
+      "relevance_score": 0.05511833056772677,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027908877100359317,
+      "relevance_score": 0.02769560455747404,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -98,6 +98,72 @@
     },
     {
       "type": "article",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "description": "Comments",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "source": "Hacker News",
+      "date": "2026-11-28T10:37:40",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Claude Code sabotage: preliminary benchmarking",
+          "publisher": "Hacker News",
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+      "description": "Comments",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "source": "Hacker News",
+      "date": "2026-11-28T12:50:15",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+          "publisher": "Hacker News",
+          "url": "https://scriptor-pro.github.io/luciole-mono/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Audible removes download option for purchased audiobooks",
+      "description": "Comments",
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "source": "Hacker News",
+      "date": "2026-11-28T11:51:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Audible removes download option for purchased audiobooks",
+          "publisher": "Hacker News",
+          "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "description": "Comments",
       "url": "https://unkernel.dev",
@@ -114,72 +180,6 @@
           "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
           "publisher": "Hacker News",
           "url": "https://unkernel.dev"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Loom seamlessly combines weaving, knitting and braiding",
-      "description": "Comments",
-      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-      "source": "Hacker News",
-      "date": "2026-11-24T18:10:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Loom seamlessly combines weaving, knitting and braiding",
-          "publisher": "Hacker News",
-          "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Knuth: Moratorium on Error Reports",
-      "description": "Comments",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-      "source": "Hacker News",
-      "date": "2026-11-28T03:49:21",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Knuth: Moratorium on Error Reports",
-          "publisher": "Hacker News",
-          "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "description": "Comments",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "source": "Hacker News",
-      "date": "2026-11-27T23:06:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-          "publisher": "Hacker News",
-          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "The Balatro Timeline",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
       "description": "Comments",
-      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
       "source": "Hacker News",
-      "date": "2026-11-26T17:20:27",
+      "date": "2026-11-24T18:10:45",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The Balatro Timeline",
+          "title": "Loom seamlessly combines weaving, knitting and braiding",
           "publisher": "Hacker News",
-          "url": "https://localthunk.com/blog/balatro-timeline-3aarh"
+          "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
         }
       ],
       "faculty_summary": "Comments"
