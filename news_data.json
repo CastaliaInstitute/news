@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:05:52.412889",
+  "generated_at": "2026-11-28T03:05:23.374819",
   "total_items": 10,
   "items": [
     {
@@ -90,7 +90,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.033621245317626676,
+      "relevance_score": 0.03350808845814304,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -124,6 +124,28 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "type": "article",
+      "title": "Atari Homebrew Awards Cancelled",
+      "description": "Comments",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "source": "Hacker News",
+      "date": "2026-11-28T02:03:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Atari Homebrew Awards Cancelled",
+          "publisher": "Hacker News",
+          "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -209,28 +231,6 @@
           "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
           "publisher": "Hacker News",
           "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "description": "Comments",
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-      "source": "Hacker News",
-      "date": "2026-11-27T18:02:45",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Convex skills send the user's app idea to a remote server without telling them",
-          "publisher": "Hacker News",
-          "url": "https://github.com/convex/convex-backend-skill/issues/64"
         }
       ],
       "faculty_summary": "Comments"
