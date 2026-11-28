@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T19:03:54.166939",
+  "generated_at": "2026-11-28T20:05:01.568147",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05522249182858024,
+      "relevance_score": 0.05511833056772677,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027984988453018316,
+      "relevance_score": 0.02776997970284436,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -164,11 +164,11 @@
     },
     {
       "type": "article",
-      "title": "The race is not inevitable",
+      "title": "5.0 Earthquake West of LA",
       "description": "Comments",
-      "url": "https://ryo.lu/journal/the-race-is-not-inevitable",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive",
       "source": "Hacker News",
-      "date": "2026-11-28T17:45:23",
+      "date": "2026-11-28T17:53:53",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,9 +177,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "The race is not inevitable",
+          "title": "5.0 Earthquake West of LA",
           "publisher": "Hacker News",
-          "url": "https://ryo.lu/journal/the-race-is-not-inevitable"
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Silently degrading the model's capabilities IS sabotage",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
       "description": "Comments",
-      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
       "source": "Hacker News",
-      "date": "2026-11-28T15:55:54",
+      "date": "2026-11-28T11:57:04",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Silently degrading the model's capabilities IS sabotage",
+          "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
           "publisher": "Hacker News",
-          "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063"
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
         }
       ],
       "faculty_summary": "Comments"
