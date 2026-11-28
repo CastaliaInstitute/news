@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T15:05:12.017322",
+  "generated_at": "2026-11-28T16:05:05.340607",
   "total_items": 10,
   "items": [
     {
@@ -98,28 +98,6 @@
     },
     {
       "type": "article",
-      "title": "Claude Code sabotage: preliminary benchmarking",
-      "description": "Comments",
-      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
-      "source": "Hacker News",
-      "date": "2026-11-28T10:37:40",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Claude Code sabotage: preliminary benchmarking",
-          "publisher": "Hacker News",
-          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Audible removes download option for purchased audiobooks",
       "description": "Comments",
       "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
@@ -142,11 +120,11 @@
     },
     {
       "type": "article",
-      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+      "title": "Claude Code sabotage: preliminary benchmarking",
       "description": "Comments",
-      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
       "source": "Hacker News",
-      "date": "2026-11-28T12:50:15",
+      "date": "2026-11-28T10:37:40",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -155,9 +133,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+          "title": "Claude Code sabotage: preliminary benchmarking",
           "publisher": "Hacker News",
-          "url": "https://scriptor-pro.github.io/luciole-mono/"
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Physics Breakthrough Simulator",
+      "description": "Comments",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "source": "Hacker News",
+      "date": "2026-11-28T14:52:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Physics Breakthrough Simulator",
+          "publisher": "Hacker News",
+          "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough"
         }
       ],
       "faculty_summary": "Comments"
@@ -186,11 +186,11 @@
     },
     {
       "type": "article",
-      "title": "Physics Breakthrough Simulator",
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
       "description": "Comments",
-      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
       "source": "Hacker News",
-      "date": "2026-11-28T14:52:45",
+      "date": "2026-11-28T12:50:15",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -199,9 +199,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Physics Breakthrough Simulator",
+          "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
           "publisher": "Hacker News",
-          "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough"
+          "url": "https://scriptor-pro.github.io/luciole-mono/"
         }
       ],
       "faculty_summary": "Comments"
