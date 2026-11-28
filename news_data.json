@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:04:36.661113",
+  "generated_at": "2026-11-28T12:05:49.208176",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05511833056772677,
+      "relevance_score": 0.05519729505613583,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02769560455747404,
+      "relevance_score": 0.02785694596422384,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -73,6 +73,28 @@
         }
       ],
       "faculty_summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+    },
+    {
+      "type": "article",
+      "title": "Farewell",
+      "description": "Comments",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "source": "Hacker News",
+      "date": "2026-11-28T11:42:26",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Farewell",
+          "publisher": "Hacker News",
+          "url": "https://github.com/p-e-w/heretic/issues/601"
+        }
+      ],
+      "faculty_summary": "Comments"
     },
     {
       "type": "article",
@@ -142,28 +164,6 @@
     },
     {
       "type": "article",
-      "title": "The Balatro Timeline",
-      "description": "Comments",
-      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-      "source": "Hacker News",
-      "date": "2026-11-26T17:20:27",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "The Balatro Timeline",
-          "publisher": "Hacker News",
-          "url": "https://localthunk.com/blog/balatro-timeline-3aarh"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Knuth: Moratorium on Error Reports",
       "description": "Comments",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
@@ -186,6 +186,28 @@
     },
     {
       "type": "article",
+      "title": "The Balatro Timeline",
+      "description": "Comments",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "source": "Hacker News",
+      "date": "2026-11-26T17:20:27",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "The Balatro Timeline",
+          "publisher": "Hacker News",
+          "url": "https://localthunk.com/blog/balatro-timeline-3aarh"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "description": "Comments",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
@@ -202,28 +224,6 @@
           "title": "GPT 6.2 Astra Solves a Historical Mystery",
           "publisher": "Hacker News",
           "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Coherent Energy Transformations: What elements can you make?",
-      "description": "Comments",
-      "url": "https://starfire.tech/shock/",
-      "source": "Hacker News",
-      "date": "2026-11-25T22:51:08",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Coherent Energy Transformations: What elements can you make?",
-          "publisher": "Hacker News",
-          "url": "https://starfire.tech/shock/"
         }
       ],
       "faculty_summary": "Comments"
