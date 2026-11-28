@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:05:23.374819",
+  "generated_at": "2026-11-28T04:05:01.692789",
   "total_items": 10,
   "items": [
     {
@@ -127,28 +127,6 @@
     },
     {
       "type": "article",
-      "title": "Atari Homebrew Awards Cancelled",
-      "description": "Comments",
-      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
-      "source": "Hacker News",
-      "date": "2026-11-28T02:03:25",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Atari Homebrew Awards Cancelled",
-          "publisher": "Hacker News",
-          "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "description": "Comments",
       "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
@@ -215,11 +193,11 @@
     },
     {
       "type": "article",
-      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "title": "Cyberpunk Television Shows",
       "description": "Comments",
-      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "url": "https://shellzine.net/cyberpunk-television/",
       "source": "Hacker News",
-      "date": "2026-11-27T15:40:31",
+      "date": "2026-11-25T16:32:28",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -228,9 +206,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+          "title": "Cyberpunk Television Shows",
           "publisher": "Hacker News",
-          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+          "url": "https://shellzine.net/cyberpunk-television/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "description": "Comments",
+      "url": "https://unkernel.dev",
+      "source": "Hacker News",
+      "date": "2026-11-28T03:19:20",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "publisher": "Hacker News",
+          "url": "https://unkernel.dev"
         }
       ],
       "faculty_summary": "Comments"
