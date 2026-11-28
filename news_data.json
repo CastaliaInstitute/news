@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:05:02.990085",
+  "generated_at": "2026-11-28T00:08:25.830926",
   "total_items": 10,
   "items": [
     {
@@ -90,7 +90,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03350808845814304,
+      "relevance_score": 0.033621245317626676,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -193,6 +193,28 @@
     },
     {
       "type": "article",
+      "title": "Source Control from Hell",
+      "description": "Comments",
+      "url": "https://frantic.im/git/",
+      "source": "Hacker News",
+      "date": "2026-11-27T22:06:44",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Source Control from Hell",
+          "publisher": "Hacker News",
+          "url": "https://frantic.im/git/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "9/UX: a Macintosh-inspired desktop for 9front",
       "description": "Comments",
       "url": "https://progrium.github.io/9ux/",
@@ -209,28 +231,6 @@
           "title": "9/UX: a Macintosh-inspired desktop for 9front",
           "publisher": "Hacker News",
           "url": "https://progrium.github.io/9ux/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "Citro\u00ebn Hydraulic System",
-      "description": "Comments",
-      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "source": "Hacker News",
-      "date": "2026-11-27T03:10:19",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Citro\u00ebn Hydraulic System",
-          "publisher": "Hacker News",
-          "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html"
         }
       ],
       "faculty_summary": "Comments"
