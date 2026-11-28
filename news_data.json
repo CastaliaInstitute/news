@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:05:01.692789",
+  "generated_at": "2026-11-28T05:05:18.382154",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05129488562100041,
+      "relevance_score": 0.05511833056772677,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -26,57 +26,6 @@
         }
       ],
       "faculty_summary": "ChatGPT and Codex integrations help Clay\u2019s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
-    },
-    {
-      "type": "article",
-      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
-      "description": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate res...",
-      "url": "https://arxiv.org/abs/2611.33263",
-      "source": "arXiv",
-      "date": "2026-11-27T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Catarina Botelho, Ant\\'onio Farinhas, John Mendon\\c{c}a, Areti Vassilopoulos, In\\^es Gon\\c{c}alves, Maya D'Eon, Hugo Pitorro, Laura Cabello, Carrie Spadine, Nuno M. Guerreiro, Ricardo Rei",
-        "source_excerpt": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate response. We introduce a clinically grounded taxonomy that characterizes harm along three dimensions: what the harm is, who is involved, and when it occurs. It further separates harm characterization from intervention decisions, thus enabling safety policies to be specified outside the model weights through explicit, clinician-curated instructions that can be updated and audited. We validate the taxonomy with expert clinicians and validate a panel of LLM judges to scale annotation. Relabeling public benchmarks in this taxonomy shows that they rarely contain harm directed at the user, which accounts for nearly half of the harm in real conversations. We then train MindGuard2, a 35B-A3B reasoning-based guard model using supervised fine-tuning on short reasoning traces followed by reinforcement learning with a reasoning-length penalty, to minimize inference overhead while preserving the benefits of reasoning. On two public benchmarks and real-world conversations, MindGuard2 achieves balanced accuracy comparable to the substantially larger GLM-5.3 at approximately 10x lower median latency, advancing the accuracy-latency Pareto frontier. Furthermore, it achieves low false-positive rates at high recall, helping balance the need to detect unsafe situations against the risk of unnecessary interventions that may disrupt support and undermine user trust. We release a safety guardrail model with SOTA performance trained on synthetic data, together with synthetic conversations and annotations of public benchmarks in our taxonomy.",
-        "matched_keywords": [
-          "reasoning",
-          "assessment"
-        ]
-      },
-      "relevance_score": 0.044411908554804404,
-      "sources": [
-        {
-          "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.33263"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate res..."
-    },
-    {
-      "type": "article",
-      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
-      "description": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. ...",
-      "url": "https://arxiv.org/abs/2611.33303",
-      "source": "arXiv",
-      "date": "2026-11-27T05:00:00",
-      "metadata": {
-        "feed_url": "https://arxiv.org/rss/cs.AI",
-        "author": "Baptiste Juran, Dimitri Kachler, Damien Sileo",
-        "source_excerpt": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. However, a planted proof is only one possible proof. A problem can also have shorter proofs, or several unrelated ones, and its stated depth then overstates what solving it requires. We measure what a problem actually requires, relative to a stated set of inference rules. For each problem, we compute the steps every proof must make, the shortest proof, the number of minimal proofs and the indispensable premises, and export certificates that an independent checker verifies. Audits of eight datasets find depth that is forced (ProofWriter, Blocksworld), problems labelled depth 5 that require about two specific rule applications (FLDx2), and answers that need no particular step (ZebraLogic). We then construct problems whose every proof has a requested structure, using a catalog of shortcuts proved once per rule set. Every constructed problem is checked in full and comes with its own certificate. In training, the best data mixes depths and problem types. At equal size, such mixtures of certified problem types, including model-checking problems that forward generation does not produce, transfer better than FLDx2-style derivation data for Qwen3 models from 0.6B to 8B.",
-        "matched_keywords": [
-          "reasoning"
-        ]
-      },
-      "relevance_score": 0.03519379636007359,
-      "sources": [
-        {
-          "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
-          "publisher": "arXiv",
-          "url": "https://arxiv.org/abs/2611.33303"
-        }
-      ],
-      "faculty_summary": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. ..."
     },
     {
       "type": "article",
@@ -90,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03350808845814304,
+      "relevance_score": 0.03200309397319252,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -115,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.023007161660531794,
+      "relevance_score": 0.02769560455747404,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -149,11 +98,11 @@
     },
     {
       "type": "article",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "description": "Comments",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "url": "https://unkernel.dev",
       "source": "Hacker News",
-      "date": "2026-11-25T15:16:53",
+      "date": "2026-11-28T03:19:20",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -162,9 +111,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
           "publisher": "Hacker News",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+          "url": "https://unkernel.dev"
         }
       ],
       "faculty_summary": "Comments"
@@ -193,11 +142,11 @@
     },
     {
       "type": "article",
-      "title": "Cyberpunk Television Shows",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "description": "Comments",
-      "url": "https://shellzine.net/cyberpunk-television/",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News",
-      "date": "2026-11-25T16:32:28",
+      "date": "2026-11-25T15:16:53",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -206,20 +155,20 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Cyberpunk Television Shows",
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
           "publisher": "Hacker News",
-          "url": "https://shellzine.net/cyberpunk-television/"
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
         }
       ],
       "faculty_summary": "Comments"
     },
     {
       "type": "article",
-      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "description": "Comments",
-      "url": "https://unkernel.dev",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "Hacker News",
-      "date": "2026-11-28T03:19:20",
+      "date": "2026-11-27T15:40:31",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -228,9 +177,53 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
           "publisher": "Hacker News",
-          "url": "https://unkernel.dev"
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "description": "Comments",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "source": "Hacker News",
+      "date": "2026-11-27T18:02:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Convex skills send the user's app idea to a remote server without telling them",
+          "publisher": "Hacker News",
+          "url": "https://github.com/convex/convex-backend-skill/issues/64"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Atari Homebrew Awards Cancelled",
+      "description": "Comments",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "source": "Hacker News",
+      "date": "2026-11-28T02:03:25",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Atari Homebrew Awards Cancelled",
+          "publisher": "Hacker News",
+          "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/"
         }
       ],
       "faculty_summary": "Comments"
