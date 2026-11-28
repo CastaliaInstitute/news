@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:05:49.208176",
+  "generated_at": "2026-11-28T13:04:40.090253",
   "total_items": 10,
   "items": [
     {
@@ -17,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.05519729505613583,
+      "relevance_score": 0.05522249182858024,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -39,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.03218377044326441,
+      "relevance_score": 0.03200309397319252,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -64,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.02785694596422384,
+      "relevance_score": 0.027908877100359317,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -142,28 +142,6 @@
     },
     {
       "type": "article",
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "description": "Comments",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "source": "Hacker News",
-      "date": "2026-11-27T23:06:29",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-          "publisher": "Hacker News",
-          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Knuth: Moratorium on Error Reports",
       "description": "Comments",
       "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
@@ -186,6 +164,50 @@
     },
     {
       "type": "article",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "description": "Comments",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Hacker News",
+      "date": "2026-11-27T23:06:29",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+          "publisher": "Hacker News",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "description": "Comments",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "source": "Hacker News",
+      "date": "2026-11-28T11:57:04",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "publisher": "Hacker News",
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "The Balatro Timeline",
       "description": "Comments",
       "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
@@ -202,28 +224,6 @@
           "title": "The Balatro Timeline",
           "publisher": "Hacker News",
           "url": "https://localthunk.com/blog/balatro-timeline-3aarh"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "description": "Comments",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "source": "Hacker News",
-      "date": "2026-11-25T15:16:53",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "GPT 6.2 Astra Solves a Historical Mystery",
-          "publisher": "Hacker News",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
         }
       ],
       "faculty_summary": "Comments"
