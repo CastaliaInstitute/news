@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:05:03.587471",
+  "generated_at": "2026-11-28T15:05:12.017322",
   "total_items": 10,
   "items": [
     {
@@ -120,28 +120,6 @@
     },
     {
       "type": "article",
-      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
-      "description": "Comments",
-      "url": "https://scriptor-pro.github.io/luciole-mono/",
-      "source": "Hacker News",
-      "date": "2026-11-28T12:50:15",
-      "metadata": {
-        "feed_url": "https://news.ycombinator.com/rss",
-        "author": "",
-        "source_excerpt": "Comments"
-      },
-      "relevance_score": 0.0,
-      "sources": [
-        {
-          "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
-          "publisher": "Hacker News",
-          "url": "https://scriptor-pro.github.io/luciole-mono/"
-        }
-      ],
-      "faculty_summary": "Comments"
-    },
-    {
-      "type": "article",
       "title": "Audible removes download option for purchased audiobooks",
       "description": "Comments",
       "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
@@ -164,11 +142,11 @@
     },
     {
       "type": "article",
-      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
       "description": "Comments",
-      "url": "https://unkernel.dev",
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
       "source": "Hacker News",
-      "date": "2026-11-28T03:19:20",
+      "date": "2026-11-28T12:50:15",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -177,9 +155,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
           "publisher": "Hacker News",
-          "url": "https://unkernel.dev"
+          "url": "https://scriptor-pro.github.io/luciole-mono/"
         }
       ],
       "faculty_summary": "Comments"
@@ -208,11 +186,11 @@
     },
     {
       "type": "article",
-      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "title": "Physics Breakthrough Simulator",
       "description": "Comments",
-      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
       "source": "Hacker News",
-      "date": "2026-11-24T18:10:45",
+      "date": "2026-11-28T14:52:45",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -221,9 +199,31 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Loom seamlessly combines weaving, knitting and braiding",
+          "title": "Physics Breakthrough Simulator",
           "publisher": "Hacker News",
-          "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
+          "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "description": "Comments",
+      "url": "https://unkernel.dev",
+      "source": "Hacker News",
+      "date": "2026-11-28T03:19:20",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "publisher": "Hacker News",
+          "url": "https://unkernel.dev"
         }
       ],
       "faculty_summary": "Comments"
