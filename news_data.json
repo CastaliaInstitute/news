@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-11-28T06:06:02.596243",
+  "generated_at": "2026-11-28T07:05:00.501512",
   "total_items": 10,
   "items": [
-    {
-      "type": "model_release",
-      "title": "\ud83e\udd16 New Model: aman2321/Inkling-2-Mini-Opus-Short-Thinking-GGUF",
-      "description": "Downloads: 0 | Likes: 0",
-      "url": "https://huggingface.co/aman2321/Inkling-2-Mini-Opus-Short-Thinking-GGUF",
-      "source": "Hugging Face",
-      "date": "2026-11-28T06:04:54.000Z",
-      "metadata": {
-        "downloads": 0,
-        "likes": 0,
-        "tags": [
-          "gguf",
-          "inkling2",
-          "inkling2_loop",
-          "mixture-of-experts",
-          "uncensored",
-          "short-thinking",
-          "speculative-decoding",
-          "text-generation",
-          "base_model:thinkingmachines/Inkling-2-Mini",
-          "base_model:quantized:thinkingmachines/Inkling-2-Mini",
-          "license:apache-2.0",
-          "endpoints_compatible",
-          "region:us",
-          "imatrix",
-          "conversational"
-        ]
-      },
-      "relevance_score": 0.08550369911078586,
-      "sources": [
-        {
-          "title": "\ud83e\udd16 New Model: aman2321/Inkling-2-Mini-Opus-Short-Thinking-GGUF",
-          "publisher": "Hugging Face",
-          "url": "https://huggingface.co/aman2321/Inkling-2-Mini-Opus-Short-Thinking-GGUF"
-        }
-      ],
-      "faculty_summary": "Downloads: 0 | Likes: 0"
-    },
     {
       "type": "article",
       "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -55,7 +17,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.055380112041947496,
+      "relevance_score": 0.05511833056772677,
       "sources": [
         {
           "title": "Clay helps sales teams win with Codex and ChatGPT",
@@ -77,7 +39,7 @@
         "author": "",
         "source_excerpt": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
       },
-      "relevance_score": 0.032155090904769264,
+      "relevance_score": 0.03200309397319252,
       "sources": [
         {
           "title": "How Intentful uses dots to make more time for growth",
@@ -102,7 +64,7 @@
           "reasoning"
         ]
       },
-      "relevance_score": 0.027827143305397137,
+      "relevance_score": 0.02769560455747404,
       "sources": [
         {
           "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -202,6 +164,28 @@
     },
     {
       "type": "article",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "description": "Comments",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "source": "Hacker News",
+      "date": "2026-11-24T18:10:45",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "author": "",
+        "source_excerpt": "Comments"
+      },
+      "relevance_score": 0.0,
+      "sources": [
+        {
+          "title": "Loom seamlessly combines weaving, knitting and braiding",
+          "publisher": "Hacker News",
+          "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding"
+        }
+      ],
+      "faculty_summary": "Comments"
+    },
+    {
+      "type": "article",
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "description": "Comments",
       "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -224,11 +208,11 @@
     },
     {
       "type": "article",
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
       "description": "Comments",
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
       "source": "Hacker News",
-      "date": "2026-11-27T18:02:45",
+      "date": "2026-11-27T13:30:20",
       "metadata": {
         "feed_url": "https://news.ycombinator.com/rss",
         "author": "",
@@ -237,9 +221,9 @@
       "relevance_score": 0.0,
       "sources": [
         {
-          "title": "Convex skills send the user's app idea to a remote server without telling them",
+          "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
           "publisher": "Hacker News",
-          "url": "https://github.com/convex/convex-backend-skill/issues/64"
+          "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona"
         }
       ],
       "faculty_summary": "Comments"
